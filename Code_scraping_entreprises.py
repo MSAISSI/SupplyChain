@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 
-# Entrer la catégorie souhaitée parmi les choix dispo
 companies=[]
 categories = ['bank','business_services','construction_manufactoring','banking_money','restaurants_bars','animals_pets','legal_services_government','utilities','events_entertainment','home_garden','home_services','beauty_wellbeing','vehicles_transportation','food_beverages_tobacco','shopping_fashion','sports','electronics_technology','education_training','health_medical','media_publishing','travel_vacation','hobbies_crafts']
 for category in categories:
