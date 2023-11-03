@@ -188,3 +188,4 @@ def recup_all () :
         recup_all.to_csv('export_'+col+'.csv', index=False)
     return recup_all
 
+recup_all()
