@@ -1,5 +1,5 @@
 ## SupplyChain
-Projet file rouge, cas pratique dans le cadre de la formation Data Engineer de l'organisme DataScientest.
+Projet file rouge, cas pratique dans le cadre de la formation Data Engineer de l'organisme DataScientest.\n
 Ce projet concerne la préparation de données dans le cadre d'une étude de satisfaction client.
 Pour ce faire, nous utilisons de l'open source, plus précisément le site truspilot pour scrapper les données de commentaires des entreprises.
 Au départ nous nous sommes partis sur le scrapping de toute catégorie d'entreprises, mais vu le nombre énorme des commentaires par entreprise et le nombre des entreprises par catégorie, nous nous sommes retrouvés avec des heures voire des jours du code qui tourne, plus les blocages et les limitations du nombre de requêtes par minute... Nous avons décidé de se limiter sur une seule catégorie 'electronics_technology' et plus particulièrement sur les 30 premières pages des entreprises de cette catégorie.
