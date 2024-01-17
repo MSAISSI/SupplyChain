@@ -1,0 +1,384 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "bangertinc.com",
+      "Review": [
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Anon",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-24T17:11:30.000Z",
+          "Titre": "Sometimes unprofessional",
+          "Contenu": "The tech on our account makes changes sometimes without considering the consequences-Just had an issue we fixed where it had effects that caused payroll issues and other problems with our replicators where we had subsequent calls that needed setup because of the fallout of changes. He also sometimes has side personal conversations with his wife (working from home) while we're on the phone/zoom call."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 2,
+          "Date": "2023-10-17T15:04:29.000Z",
+          "Titre": "My Assistant issue",
+          "Contenu": "Kevin knew the issue right away and it was a quick fix."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Theresa",
+          "Nb_Reviews": 2,
+          "Date": "2023-12-12T02:46:24.000Z",
+          "Titre": "Bangert always makes our job easier...",
+          "Contenu": "Bangert employees are always extremely knowledgeable about their areas of expertise. Depending on them to know all the ins and outs of Sage makes our job 100x easier."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jackie N",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-08T16:23:37.000Z",
+          "Titre": "These Guys are Awesome",
+          "Contenu": "Mike B responded to my ticket very quickly and resolved my issue right away. Great people to work with!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jeff Ryan",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-21T14:10:44.000Z",
+          "Titre": "Kevin was great to work with",
+          "Contenu": "Kevin was great to work with, like every year!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jill",
+          "Nb_Reviews": 2,
+          "Date": "2023-11-29T19:16:22.000Z",
+          "Titre": "Bangert makes it easy.",
+          "Contenu": "Bangert makes it easy.Needed to migrate from our old system to a new one and Christopher made the transition smooth and quick."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dawn Bracic",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-20T19:25:30.000Z",
+          "Titre": "From my first day at work",
+          "Contenu": "From my first day at work, Mike Baio has been there \u2013 above and beyond \u2013 through my journey in re-training me how to navigate through the software! He's always got right back to me and guided me through countess questions and helped me understand how the software works. I can always count on quick replies and easy fixes."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Lori",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-19T17:32:33.000Z",
+          "Titre": "Sage Upgrade",
+          "Contenu": "Our Sage upgrade experience went very smoothly!  Chris let us know what to expect in the process, the time considerations, who we should involve, and was there to walk us through the process.  The whole experience went as he described and we appreciated his guidance on what to watch for and what to review afterwards to confirm the upgrades completed successfully without issues.  Thank you Chris!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jane German",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-25T23:51:54.000Z",
+          "Titre": "Very experienced professionals helping\u2026",
+          "Contenu": "Very experienced professionals helping work through issues.  He tested the product several times to make sure there were no issues and made sure I was comfortable with the process.  Very thorough and efficient."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mick Portell",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-06T15:51:05.000Z",
+          "Titre": "The Helpdesk has been easy to use and\u2026",
+          "Contenu": "The Helpdesk has been easy to use and service is always timely.  We appreciate the expertise we receive from the Helpdesk."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jill",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-12T22:28:42.000Z",
+          "Titre": "Easy and Done Right",
+          "Contenu": "Bojan walked me right through what I needed to get done professionally, quickly and with great patience as I am still learning Sage 300."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Denise Odenthal",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-22T14:50:32.000Z",
+          "Titre": "Kevin is always extremely helpful",
+          "Contenu": "Kevin is always extremely helpful.  Knows his stuff.  I have never had an issue that he couldn't help me with."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jamie Shultz",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-09T00:32:30.000Z",
+          "Titre": "Top Notch customer service",
+          "Contenu": "Top Notch customer service, everyone I have worked with are always willing to go the extra step to take care of whatever is needed."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Nick Gardner",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-31T15:29:37.000Z",
+          "Titre": "Our company used Bangert to implement Sage 100 Contractor, and Sage Paperless.",
+          "Contenu": "Our company used Bangert to implement Sage software about 8 years ago before I took over my current position in the company. One of the responsibilities I have now is to manage our software, and I am not an IT professional at all. We were recently having an issue with Sage Paperless working correctly. I had contacted Sage about this, and we figured out that our license had expired. This had happened before I had taken over. I fortunately remembered that Bangert had helped us implement Sage software and reached out to them. Hillary and Brett in the support department got involved and figured out what was needed, and who I needed to contact to get everything working correctly. They spent time and effort on this even though ultimately there was no fee involved in it for Bangert. They did this because it seems that they are dedicated to making sure customers (even ones from years ago) have a good experience with the software that they purchase through them. Without them we would still be having issues with our software, and no idea how to fix it. I could not recommend Bangert more highly for this, and will continue to recommend them to anyone who is looking to implement new software for their company."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Terri Hamann",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-08T17:07:07.000Z",
+          "Titre": "Jim is extremely knowledgeable",
+          "Contenu": "Jim is extremely knowledgeable, able to assist with everyday work flows as well as designing reports required for our business."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Penny Chaney",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-03T19:05:08.000Z",
+          "Titre": "I had the pleasure to work with\u2026",
+          "Contenu": "I had the pleasure to work with Christopher, he was very knowledgeable and very helpful.  He was able to update our report in a very timely manner."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Hannah",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-28T17:25:45.000Z",
+          "Titre": "Kevin made the experience great",
+          "Contenu": "Kevin made the experience great. He listened to the problem, laid out the steps to resolve the problem, and answered all questions."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Erica",
+          "Nb_Reviews": 2,
+          "Date": "2023-06-23T16:48:50.000Z",
+          "Titre": "Jim C",
+          "Contenu": "Jim C. is always so helpful! There hasn't been any question he hasn't been able to answer and he's very quick to respond to a call or an email."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ashley Kassel",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-24T18:18:03.000Z",
+          "Titre": "Kevin did a great job fixing the report\u2026",
+          "Contenu": "Kevin did a great job fixing the report and making sure that it would work for future exports."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kelley",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-17T17:01:29.000Z",
+          "Titre": "Efficient, flexible scheduling",
+          "Contenu": "Kevin was able to complete all of the tasks I had requested, and was flexible with the schedule.  It made the process much easier for us.  Thanks again! Kelley"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Nancy",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-22T15:26:36.000Z",
+          "Titre": "Lisa was very helpful getting our issue\u2026",
+          "Contenu": "Lisa was very helpful getting our issue resolved.Very pleasant to work with."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Darryl",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-17T16:52:27.000Z",
+          "Titre": "Kevin is always great to work with.",
+          "Contenu": "Kevin is always great to work with.He knows his stuff, and the work is done efficiently.He answers any questions or concerns we have"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Carol",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-12T15:50:25.000Z",
+          "Titre": "Kevin is Awesome!",
+          "Contenu": "It was easy to relate my issue to Kevin and he was able to resolve right away."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Josh Smyser",
+          "Nb_Reviews": 2,
+          "Date": "2023-06-19T20:37:54.000Z",
+          "Titre": "Very timely and experienced customer\u2026",
+          "Contenu": "Very timely and experienced customer service professionals.  I appreciate their product knowledge by improving our experience with the Sage Intaact software.  Bangert and Sage make a good team!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kristie Locke",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-23T18:31:50.000Z",
+          "Titre": "Kevin Edgington determined to find solution.",
+          "Contenu": "Kevin Edgington was very helpful and continued to work on different solutions until he could figure out the override that was happening.  Appreciated his diligence to get my issue resolved."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ashley Dexter",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-22T22:32:52.000Z",
+          "Titre": "Bojan is great",
+          "Contenu": "Bojan is great! So helpful, so fast, so understanding, just great all around."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Virginia Foster",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-18T20:40:56.000Z",
+          "Titre": "Problem solved",
+          "Contenu": "I always get the results I am looking for from Bangert."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jen",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-07T15:27:03.000Z",
+          "Titre": "Kevin is always helpful and a pleasure\u2026",
+          "Contenu": "Kevin is always helpful and a pleasure to work with!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Aribey Sanders",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-03T15:46:17.000Z",
+          "Titre": "Quick response and easy to work with",
+          "Contenu": "Quick response and easy to work with. Their training is excellent!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Williams",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-08T21:16:24.000Z",
+          "Titre": "They respond and address your needs\u2026",
+          "Contenu": "They respond and address your needs promptly and with great knowledge."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ann",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-27T17:12:53.000Z",
+          "Titre": "Staff at Bangert responds quickly",
+          "Contenu": "Staff at Bangert responds quickly. It's always a pleasure to work with Kevin."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Hi",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-21T19:42:01.000Z",
+          "Titre": "He was GREAT and deserves a raise!",
+          "Contenu": "He was GREAT and deserves a raise!!  Always helpful!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dee Luttrell",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-12T20:52:24.000Z",
+          "Titre": "Team is great",
+          "Contenu": "Team is great to work with and respond quickly and get our questions answered fast."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dave McNeal",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-12T18:48:37.000Z",
+          "Titre": "Quick Response",
+          "Contenu": "Answered my questions very timely and thoroughly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dee",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-24T18:14:58.000Z",
+          "Titre": "Bangert is fantastic",
+          "Contenu": "Bangert is fantastic!  We love everyone there.  They really care about us!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jeanette",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-07T14:39:27.000Z",
+          "Titre": "Quick Service",
+          "Contenu": "Helped us and a professional and quick manner."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Michelle",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-22T20:32:20.000Z",
+          "Titre": "Great resource",
+          "Contenu": "Hillary was very helpful and responsive, as always."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dee",
+          "Nb_Reviews": 2,
+          "Date": "2023-11-12T22:20:29.000Z",
+          "Titre": "Incredible service from Bangert"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Lisa Lustig",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-28T18:37:09.000Z",
+          "Titre": "it was a quick response"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Devyn",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-17T16:38:59.000Z",
+          "Titre": "help with Crystal reports",
+          "Contenu": "Very Helpful"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mark Thompson",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-30T21:14:48.000Z",
+          "Titre": "Helpful as always!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Aribey Sanders",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-15T17:59:38.000Z",
+          "Titre": "Prompt replies"
+        }
+      ]
+    }
+  ]
+}

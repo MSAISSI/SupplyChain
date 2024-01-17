@@ -1,0 +1,2151 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "asap-utilities.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Shelly Price-King",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-03T22:17:08.000Z",
+          "Titre": "I never received my email with my\u2026",
+          "Contenu": "I never received my email with my license information, and have sent 2 emails to the support team trying to obtain the license so I can start utilizing the product that I paid for, and have yet to get a response. It's unfortunate they are so quick to pull the money from my account, but can't provide customer support when they don't deliver the product they paid for."
+        },
+        {
+          "Note": 1,
+          "Lieu": "ES",
+          "Pseudo": "Oscar Mauricio Melendez",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-24T20:40:51.000Z",
+          "Titre": "The option to remove spaces",
+          "Contenu": "The option to remove spaces at the beginning and end of the cell does not work, it also takes a long time to consult the cells"
+        },
+        {
+          "Note": 1,
+          "Lieu": "BD",
+          "Pseudo": "Apurbo Chakraborty",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-02T08:28:04.000Z",
+          "Titre": "Technology",
+          "Contenu": "I ama a student. My family is so poor.Please give me any work for earn money."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Gary",
+          "Nb_Reviews": 3,
+          "Date": "2020-09-21T08:08:23.000Z",
+          "Titre": "Chocolate Teapot?",
+          "Contenu": "Program crashes excel. When disabling ASAP utilities Add-In, Excel has no issuesHowever ASAP Support suggest, and i quote:\"Unfortunately this is an indication that there is something wrong with your Excel installation.Because ASAP Utilities should never make Excel crash, we're very careful. In case something in ASAP Utilities should go wrong, you will get a polite error message.\"Must be Microsoft's carelessness that's causing ASAP's app to not work of course. Really!"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Gina",
+          "Nb_Reviews": 1,
+          "Date": "2018-12-05T20:19:59.000Z",
+          "Titre": "I purchased the software several months\u2026",
+          "Contenu": "I purchased the software several months ago and have yet to get it to work.  I received an Object Library Message.  After researching it appears that is related to the fact that my Excel is 64-bit, even though ASAP claims it is compatible with this.  I have reached out to support on several occasions with zero response"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Virgil",
+          "Nb_Reviews": 1,
+          "Date": "2019-09-18T17:19:01.000Z",
+          "Titre": "This was once a great utility",
+          "Contenu": "This was once a great utility; it is now a glitchy failure. It's rather unfortunate, really. The time I once saved *with* ASAP is now wasted *by* ASAP. For the benefit of those reading these reviews, and the developer's responses, when a Microsoft certified support specialist advises there's nothing wrong the Excel installation, who are we to believe? The MCSE or the developer of the add-in? You feel free to answer that question for yourselves, but the MCSE certainly has no vested interest in a review of the Excel installation... For the record, the version of the add-in currently installed is the most recent."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Yves bourgeois",
+          "Nb_Reviews": 1,
+          "Date": "2019-11-05T15:36:01.000Z",
+          "Titre": "The app does not appear in Excel after\u2026",
+          "Contenu": "The app does not appear in Excel after multiple installation and re-installation and playing with the add-in features of Excel and the menu of Windows. Nothing worked! I am using an alternative add-in that has similar functionality."
+        },
+        {
+          "Note": 1,
+          "Lieu": "CA",
+          "Pseudo": "Brad Nikkari",
+          "Nb_Reviews": 1,
+          "Date": "2019-07-28T22:56:37.000Z",
+          "Titre": "Keeps crashing excel so gets disabled\u2026",
+          "Contenu": "Keeps crashing excel so gets disabled as add in.Running Office Standard 2010, v14.0.7214.5000 (32b)"
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Leslie Isernio",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-08T23:03:58.000Z",
+          "Titre": "ASAP stopped working and has been\u2026",
+          "Contenu": "ASAP stopped working and has been incredibly difficult to work with our IT team to get it working again.  Not a great interface with Microsoft security, need to get it accepted by Microsoft and included in their AP store so Add-in works seemlessly."
+        },
+        {
+          "Note": 2,
+          "Lieu": "AU",
+          "Pseudo": "Mitch Ockendon",
+          "Nb_Reviews": 1,
+          "Date": "2021-05-11T02:32:02.000Z",
+          "Titre": "Very disappointed",
+          "Contenu": "Very disappointed. Obviously I have purchased the program and have entered the activation details but I am being asked regularly to enter the details again when I open the program. When I do I generally get a message my computer could not connect to the online activation service."
+        },
+        {
+          "Note": 2,
+          "Lieu": "CA",
+          "Pseudo": "Neil",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-19T22:18:25.000Z",
+          "Titre": "The plug-in is unreliable in terms of \u2026",
+          "Contenu": "The plug-in is unreliable in terms of it getting to load with Excel. The license also seems unreliable, and I can't seem to retrieve/activate my valid version. I have actually paid for it twice now. I won't be going for a third time. It is definitely useful when it is working, but sadly, I've given up."
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Chinwe Egonu",
+          "Nb_Reviews": 1,
+          "Date": "2018-01-11T19:52:09.000Z",
+          "Titre": "ASAP Utilities has caused my \u2026",
+          "Contenu": "ASAP Utilities has caused my fundraising software (Raiser's Edge) to crash and disappear from my desktop multiple times in the past 4 months. I had to uninstall it and will reinstall on a new monitor that does not have my Raiser's Edge software just to manipulate data in Excel."
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Elma Loreto",
+          "Nb_Reviews": 1,
+          "Date": "2019-04-29T12:29:06.000Z",
+          "Titre": "Almost great",
+          "Contenu": "Downloading the application was easy and painless. However, every time I close Excel, the application is removed. I have to keep installing it every time. Please fix. This is very counterproductive."
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "James Poulson",
+          "Nb_Reviews": 1,
+          "Date": "2020-04-14T03:20:50.000Z",
+          "Titre": "Having problems with copying excel\u2026",
+          "Contenu": "Having problems with copying excel formulas.  50% of the time when I try to copy formula it locks up, shuts down or reverts back and all information entered is lost."
+        },
+        {
+          "Note": 2,
+          "Lieu": "GB",
+          "Pseudo": "Mrs Audrey Holford",
+          "Nb_Reviews": 6,
+          "Date": "2017-12-27T14:32:53.000Z",
+          "Titre": "Continually conflicts with different \u2026",
+          "Contenu": "Continually conflicts with different versions of Excel to the point of having to disable it until required then when finished disable again"
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Janet Carriger",
+          "Nb_Reviews": 1,
+          "Date": "2021-10-20T13:05:34.000Z",
+          "Titre": "could be better",
+          "Contenu": "Crashes.  Large spreadsheet - it crashes"
+        },
+        {
+          "Note": 3,
+          "Lieu": "CH",
+          "Pseudo": "Sergiu Nastasi",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-20T17:16:55.000Z",
+          "Titre": "Performance issues",
+          "Contenu": "When I have multiple Excels opened and I to some transformations using ASAP, Excel freezes."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Richard Parish",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-13T19:31:14.000Z",
+          "Titre": "I have not received the license and my\u2026",
+          "Contenu": "I have not received the license and my trial expires in a couple of weeks. my credit card was also billed"
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Ben",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-20T09:17:41.000Z",
+          "Titre": "I've used ASAP Utilities for years",
+          "Contenu": "I've used ASAP Utilities for years. I find it useful, there are a few commands which I use occasionally. I recently bought it for a new work computer and got stuck with an unsolvable compatibility issue with some unknown other add-in. Customer support was responsive but could not fix the problem. Too bad. I can live without it though. There are other (slower) ways to accomplish the same tasks."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Cynthia",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-26T23:30:32.000Z",
+          "Titre": "This would be a 5-star rating if there \u2026Mac version",
+          "Contenu": "This would be a 5-star rating if there were an ASAP Utilities for the MAC but alas, there is not.  Creating a Windows partition on my Mac is not a viable option:  I switched to the Mac for a reason.  If and when ASAP gets a MAC version, I would gladly up the rating as the software was an excellent tool that saved me many hours of frustration and work."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Sunil Suhag",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-16T17:11:40.000Z",
+          "Titre": "Very difficult to use",
+          "Contenu": "Very difficult to use. Help is not helpful at all. Menu's are not intuitive to the average user. Suggestion: Make Menu follow the Excel Menu Setup.                    Setup Help queries to search by simple English or Type of Task such as\" I want to copy and paste non contiguous cells\", \"Color rows based on column value\"."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Brian T",
+          "Nb_Reviews": 1,
+          "Date": "2018-12-12T14:43:01.000Z",
+          "Titre": "Excellent until Excel 2016 - Doesn't Always Load",
+          "Contenu": "I've always loved ASAP Utilities. It's been a tremendous time-saver. However, I recently switched to Office 365 which currently includes Excel 2016, I believe. ASAP Utilities very often doesn't load, and I constantly have to go into options > Excel Add-Ins and un-check ASAP. Then I have to go back in and check it again to get it to load. It's quite frustrating and slows me down. So far, I haven't been able to fix the issue or even figure out what causes it to happen, as it is sporadic."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Candy",
+          "Nb_Reviews": 1,
+          "Date": "2018-01-25T16:33:20.000Z",
+          "Titre": "I love ASAP until Windows 2016",
+          "Contenu": "I love ASAP; I purchased a copy for my work computer and another one for my home laptop. I've used it for several years. However, a few months ago my work computer was upgraded to Windows 2016 and things have really SLOWWWED down. One of the applications I use most is FILL - Copy values to empty cells below filled cells in selection. With Windows 2016, I sometimes wait 20 minutes for this to complete on a spreadsheet with less than 10,000 rows. In the past this would be done in less than a minute."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Prabu Narayanan",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-19T14:04:22.000Z",
+          "Titre": "Thanks for looking feedback from end \u2026",
+          "Contenu": "Thanks for looking feedback from end user like me.I didn`t observed much and usage of ASAP utility in my day to day operation is very limited.but what I have observed with my limited usage here is \"UNDO\" action responsible is too slow, this can be improved."
+        },
+        {
+          "Note": 3,
+          "Lieu": "ML",
+          "Pseudo": "JT Potgieter",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-27T14:20:48.000Z",
+          "Titre": "I really enjoy ASAP Utilities.",
+          "Contenu": "I really enjoy ASAP Utilities.It is my go to MS Excel Add-on.Had some issues with Utilities not starting with Excel 2016 and Windows 10Fixed the issue by re installing ASAP Utilities. Moved to Mac OSx and ASAP Utilities not available for Mac OSx."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Danny",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-27T15:11:24.000Z",
+          "Titre": "I used the software actively until I \u2026",
+          "Contenu": "I used the software actively until I went to Office 365 several years back. The software was not compatible and would not work. After lots of frustration trying to get it to work I gave up and do not use the software now."
+        },
+        {
+          "Note": 3,
+          "Lieu": "IN",
+          "Pseudo": "sachin chugh",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-26T09:26:46.000Z",
+          "Titre": "Does help you a lot for on the go \u2026",
+          "Contenu": "Does help you a lot for on the go formulas but could be a little bit more user friendly and also has not grown on the value chain so may be a three or else could have deserved a 4 star rating"
+        },
+        {
+          "Note": 3,
+          "Lieu": "ZA",
+          "Pseudo": "MIKE",
+          "Nb_Reviews": 3,
+          "Date": "2017-12-27T14:36:50.000Z",
+          "Titre": "In days of yore.",
+          "Contenu": "In days of yore, this was an excellent app. But in recent years, Excel has become so flexible, and information so easily available and plentiful on the web that the app i now somewhat dated."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "MICHAEL BURO",
+          "Nb_Reviews": 3,
+          "Date": "2020-11-17T15:18:13.000Z",
+          "Titre": "Feedback",
+          "Contenu": "Utilities come with a long laundry list of choices which could be laid out in a more pleasing manner instead of a numbering system which seems to make choices confusing."
+        },
+        {
+          "Note": 3,
+          "Lieu": "AU",
+          "Pseudo": "Hutin Schild",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-19T00:01:31.000Z",
+          "Titre": "Has some short comings but overall excellent......",
+          "Contenu": "Has some short comings but overall functionality excellant. Unfortunately have upgraded to 2016 and cannot load the version which I purchased. Is this compatible with 2016?"
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Karla",
+          "Nb_Reviews": 2,
+          "Date": "2021-03-25T19:39:13.000Z",
+          "Titre": "Worked great in trial phase and a few\u2026",
+          "Contenu": "Worked great in trial phase and a few weeks after purchase. Now after uninstalling and reinstalling it does not perform and makes excel not respond."
+        },
+        {
+          "Note": 3,
+          "Lieu": "AU",
+          "Pseudo": "Thomas Hadley",
+          "Nb_Reviews": 2,
+          "Date": "2019-11-23T22:35:24.000Z",
+          "Titre": "I came to ASAP utilities on the\u2026",
+          "Contenu": "I came to ASAP utilities on the recommendation from an Oracle Primavera site I have only used a few of the functions but they seem to work seamlessly."
+        },
+        {
+          "Note": 3,
+          "Lieu": "CA",
+          "Pseudo": "Tom",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-26T23:11:32.000Z",
+          "Titre": "It was a good app but now that we \u2026",
+          "Contenu": "It was a good app but now that we upgraded MS Excel to the latest version we need to purchase the app again."
+        },
+        {
+          "Note": 3,
+          "Lieu": "KR",
+          "Pseudo": "Sunghak Chung",
+          "Nb_Reviews": 1,
+          "Date": "2019-11-04T02:36:05.000Z",
+          "Titre": "Need for collected english only (other\u2026",
+          "Contenu": "Need for collected english only (other language) , korea language, for delete other mixed language"
+        },
+        {
+          "Note": 3,
+          "Lieu": "HK",
+          "Pseudo": "Vijay Kumar",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-26T08:56:19.000Z",
+          "Titre": "Not able to use in 2016 MS office",
+          "Contenu": "Hi,I am not able to use this after upgrading my MS office to 2016 version."
+        },
+        {
+          "Note": 3,
+          "Lieu": "SN",
+          "Pseudo": "Abdoul Ahad",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-20T16:44:32.000Z",
+          "Titre": "it would be the best support tool if \u2026",
+          "Contenu": "it would be the best support tool if crashes could be traced and corrected"
+        },
+        {
+          "Note": 3,
+          "Lieu": "AE",
+          "Pseudo": "Yahya",
+          "Nb_Reviews": 1,
+          "Date": "2018-12-08T07:11:42.000Z",
+          "Titre": "3 star bcoz slowing the excel speed",
+          "Contenu": "3 star bcoz slowing the excel speedotherwise, i would give 5 star"
+        },
+        {
+          "Note": 3,
+          "Lieu": "AE",
+          "Pseudo": "Daryl",
+          "Nb_Reviews": 1,
+          "Date": "2018-12-13T05:06:25.000Z",
+          "Titre": "Its very helpful but...",
+          "Contenu": "Its very helpful but always crash my excel."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "K. Ashok",
+          "Nb_Reviews": 2,
+          "Date": "2023-11-10T02:45:39.000Z",
+          "Titre": "Good product. Great service.",
+          "Contenu": "This is a good product; it has saved me many hours of work. There are periodic issues when Microsoft pushes out updates. But this is a problem faced by several third party, Office-related, desktop application developers."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Victor Solano",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-25T15:24:19.000Z",
+          "Titre": "This tools helps accomplish complicated\u2026",
+          "Contenu": "This tools helps accomplish complicated task in a short period of time"
+        },
+        {
+          "Note": 4,
+          "Lieu": "AT",
+          "Pseudo": "Raoul",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-29T14:37:23.000Z",
+          "Titre": "ASAP fills the gap in between Analytics-Tools and Excel",
+          "Contenu": "ASAP fills the gap in between powerful data analytics and the \"normal\" Excel365.And there are regular update and you can give input, ask questions and get an answer."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "PaulK",
+          "Nb_Reviews": 6,
+          "Date": "2022-10-19T17:51:34.000Z",
+          "Titre": "ASAP Utilities saves me hours of time\u2026",
+          "Contenu": "ASAP Utilities saves me hours of time every year.  I collect customer data in an Excel spreadsheets and combine the various sheets.  Then using ASAP with simple clicks I clean up zip codes, eliminate duplicated customer names, and keep/delete addresses.  There are many other uses and options for those who do much more.  If I need help, the responses are always within hours and specific.  Notices let me know of updates.  All for one price.  When major changes are made, the current version still works but the new version is available for purchase and trouble-free installation.  A must for data users."
+        },
+        {
+          "Note": 4,
+          "Lieu": "AU",
+          "Pseudo": "Russell W",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-21T00:02:03.000Z",
+          "Titre": "Does what it says",
+          "Contenu": "The current version (I've been using it for 20 years) is better integrated than some of the earlier ones and contains enough features to keep anyone happy.On the down-side, some of the key functions I use aren't on any of the menus and thus have to searched for although I'm gradually saving them as favourites."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "MARTIN B",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-09T19:04:21.000Z",
+          "Titre": "Time-saving and very useful",
+          "Contenu": "ASAP Utilities are especially helpful for data maintenance tasks of large codesets we extract from databases.  I don't use all of the functions, but the fast mover functions save a lot of time and are intuitive with a well-designed GUI.  The only thing I don't love about the program is I seem to have to run it regularly from the Win Start menu to add it back to my Excel instance...it doesn't seem to persist.  Not knowing enough about the backend, this might be an Excel problem vs. an ASAP Utilities problem.  In any case, incredibly useful and time-saving tool if you need any of the functions included."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Joe D'Agostino",
+          "Nb_Reviews": 1,
+          "Date": "2022-06-16T17:35:37.000Z",
+          "Titre": "The tool itself is good so far. Sometimes finding the right function can be challenging though.",
+          "Contenu": "The tool itself is very good so far. Sometimes it can be difficult to find the function you need.  However, if it's got it and you find it, it works very well! The only issue I had was trying to get a question answered which I was directed through a series of online screens which unfortunately didn't really solve my particular question."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "James Francis",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-26T16:58:59.000Z",
+          "Titre": "Great add in",
+          "Contenu": "This add on has help save time with parsing data and general formatting issues.  Helped with hidden lines viewing as well."
+        },
+        {
+          "Note": 4,
+          "Lieu": "DE",
+          "Pseudo": "Michael Lippke",
+          "Nb_Reviews": 3,
+          "Date": "2022-08-12T17:01:44.000Z",
+          "Titre": "The software ist great and helpful.",
+          "Contenu": "The software ist great and helpful.Only starting Excel with the utilities included is very slow(opening the ASAP Utilities.xlam"
+        },
+        {
+          "Note": 4,
+          "Lieu": "KR",
+          "Pseudo": "KYS",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-04T07:32:35.000Z",
+          "Titre": "It has many features and is fast.",
+          "Contenu": "It has many features and is fast.Sometimes an error occurs in Excel."
+        },
+        {
+          "Note": 4,
+          "Lieu": "ZA",
+          "Pseudo": "Irene Grassow",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-06T10:36:05.000Z",
+          "Titre": "Acquiring ASAP licenses",
+          "Contenu": "Very professional and kept informed at all times"
+        },
+        {
+          "Note": 4,
+          "Lieu": "DK",
+          "Pseudo": "Samuel Logan",
+          "Nb_Reviews": 3,
+          "Date": "2023-01-27T23:16:27.000Z",
+          "Titre": "ASAP is really response organization as\u2026",
+          "Contenu": "ASAP is really response organization as I know and their utility facilities are simply amazing."
+        },
+        {
+          "Note": 4,
+          "Lieu": "MX",
+          "Pseudo": "Jesus C",
+          "Nb_Reviews": 1,
+          "Date": "2020-10-31T07:11:55.000Z",
+          "Titre": "Invoice problem",
+          "Contenu": "I try several times to buy a license from your platform but I can't do it. I have 4 charges in my credit card but just one was successful this was done by PayPal, so I'm waiting for the refund, beside from this experience, I believe that this tool is awesome and works as expected. Just improve the invoice platform."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Shawn Miller",
+          "Nb_Reviews": 1,
+          "Date": "2020-10-01T02:41:24.000Z",
+          "Titre": "This utility is great and a must have\u2026",
+          "Contenu": "This utility is great and a must have for analysts or employees that need to be efficient and strong with data management.  I have purchased licensing for every job I have had.  Only improvement I would say is there does not appears to be new features or developments (perhaps have a process for submitting suggestions?)"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Bryan Goldsworth",
+          "Nb_Reviews": 1,
+          "Date": "2019-06-27T19:28:02.000Z",
+          "Titre": "I use ASAP daily",
+          "Contenu": "I use ASAP daily. Little things like being able to remove leading or trailing spaces, or setting bottom of the document just makes my life easier. Gave it 4 stars because there is always room for growth. Highly recommend for anyone that receives spreadsheets from multiple sources or just want to be consistent on how they format there documents."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Michael Carson",
+          "Nb_Reviews": 2,
+          "Date": "2020-04-27T13:50:30.000Z",
+          "Titre": "The ASAP utilities have proven very\u2026",
+          "Contenu": "The ASAP utilities have proven very useful.  The tools are comprehensive and very time saving.  I would have given it five stars if not for the relatively weak user interface which lacks intuitive, clear icons and often requires either a search or hunting and pecking to find a capability you have not yet used."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Current Customer",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-26T18:35:43.000Z",
+          "Titre": "Love the app",
+          "Contenu": "Love the app.  Some issues with using an old version that I bought on a new pc and system tells me basically I have to purchase a new version, which I am fine with the old one...  IT has us locked down so it isn't as easy just to buy software to load on the computers anymore even though your price is reasonable.  Can't even download the free version anymore without IT getting involved."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Randy",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-27T16:14:06.000Z",
+          "Titre": "Great plug-in for Excel",
+          "Contenu": "Great plug-in for Excel. It adds several valuable time-saving shortcuts that perform useful functions. Finding some functions that you need in the menu can take some effort. It would be nice to have some visual examples or animated gifs associated with the menu so that you could see what the item does. Everything works as advertised. If you manipulate data and format tables it will save time and money."
+        },
+        {
+          "Note": 4,
+          "Lieu": "GB",
+          "Pseudo": "Ellie2506",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-20T14:58:43.000Z",
+          "Titre": "Regularly saves me time.",
+          "Contenu": "I've used this product for about 6 years, and I can't really compare it to anything else, as I haven't used them.  I am an experienced excel user, but I needed a tool that would do some of the things that would take me time to write the macros for.  It doesn't have everything I need, and some things have been in the pipeline for too long, but what I have used works well, and they are responsive when asking for help."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "PaulK",
+          "Nb_Reviews": 6,
+          "Date": "2017-12-20T19:54:56.000Z",
+          "Titre": "Well Worth the Effort",
+          "Contenu": "I am not very good at Excel details but ASAP has helped me create my annual mailing list to customers.  ASAP has automated some time consuming steps making them done in seconds instead of hours and with zero errors.  If I had better Excel skills, I suspect ASAP could save me even more so I'm working on that!  Well worth the effort.  If you manipulate data in Excel, ASAP will likely save you time and reduce errors in those items to zero."
+        },
+        {
+          "Note": 4,
+          "Lieu": "AU",
+          "Pseudo": "Chris Egan",
+          "Nb_Reviews": 2,
+          "Date": "2017-12-27T03:21:28.000Z",
+          "Titre": "I use only a tiny number of functions",
+          "Contenu": "The functions I use most are  Change formulas to their calculated values regularly so I can send a spreadsheet without formulas. Detect data changes is very useful in making a complicated sheet easier to read, with a blank line between groups. Trimming a sheet and resetting the last cell helps to tidy up a sheet. These, and others I use, are only a small fraction of what ASAP utilities can do, but those functions I use make such a difference."
+        },
+        {
+          "Note": 4,
+          "Lieu": "AE",
+          "Pseudo": "GSVargas",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-26T08:58:54.000Z",
+          "Titre": "Useful for tedious tasks",
+          "Contenu": "I don't use ASAP Utilities on a daily basis but when I do, I find it very useful especially for tedious tasks. The only thing I find annoying is that it is not turned on every time I open XLS. I have to open it as an .exe file when I need to use it and this sometimes cause my XLS to crash especially if I have several windows up at the same time."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "George",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-20T04:50:19.000Z",
+          "Titre": "I use ASAP Utilities every day",
+          "Contenu": "I use ASAP Utilities every day.  They have so many tools that anyone should be able to benefit from them.  The one I use the most is the \"Remove all unused styles on every sheet.\"  Excel has a bunch of useless styles that they default into every worksheet. It makes it difficult to find the ones you really want.  I have inherited spreadsheets that had 30,000 styles.  This utility reduced the 30,000 down to less than 10 that were actually in use."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Clint Rees",
+          "Nb_Reviews": 1,
+          "Date": "2019-08-15T14:12:42.000Z",
+          "Titre": "I have been using this product for\u2026",
+          "Contenu": "I have been using this product for several years and whenever I start at a new company I am advocating for the use of the product.  This is very helpful for individuals who need some dynamic tools to manipulate data so that it can be used properly but do not have the technical savvy to do it on their own."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Earl",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-20T00:57:05.000Z",
+          "Titre": "Helpful Commands Not Bundled in Excel",
+          "Contenu": "The commands found in ASAP Utilities augment those packaged in Excel and provide shortcuts to completing tasks that speed up my work and add to analyses that I otherwise wouldn't undertake.  The vendor is generous about allowing a single license to be moved from one PC to another in succession as I have upgraded my hardware."
+        },
+        {
+          "Note": 4,
+          "Lieu": "BE",
+          "Pseudo": "Frank",
+          "Nb_Reviews": 5,
+          "Date": "2017-12-20T16:24:47.000Z",
+          "Titre": "Simply good toolset for Excel",
+          "Contenu": "Simple: ASAP Utilities help me to save time and effort when working in Excel. I recommend it regularly when i see other struggling to get things done.  It takes some time to discover all functions but it is worthwhile to do this. Help functions are to the point and explain very well what to expect when using a specific tool."
+        },
+        {
+          "Note": 4,
+          "Lieu": "GR",
+          "Pseudo": "Christos-Andreas",
+          "Nb_Reviews": 1,
+          "Date": "2018-01-03T09:06:17.000Z",
+          "Titre": "Valuable tool",
+          "Contenu": "Valuable tool, for heavy & seasoned spreadsheet users.Suggested improvement: adding the ability to map many to many advanced replacements (currently only many to one) would be great, in a similar to \" replace Accented characters\" and STORING the mapping for subsequent use. This would be an excellent addition."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Neil",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-19T20:48:56.000Z",
+          "Titre": "Can\u2019t do without",
+          "Contenu": "ASAP has saved me countless hours when building excel work books for our many projects . I tried it out on a personal level and quickly began spreading the word to my coworkers that use excel extensively Fantastic program. I can\u2019t rate the support because the program has never caused any issues. That alone speaks volumes."
+        },
+        {
+          "Note": 4,
+          "Lieu": "ZA",
+          "Pseudo": "Phil",
+          "Nb_Reviews": 1,
+          "Date": "2018-01-08T08:30:22.000Z",
+          "Titre": "Very satisfied customer with ASAP Utilities",
+          "Contenu": "Our company has been using this product for afew years now. Really saves on time consuming tasks, especially the repetitive ones. There are functions that excel has not thought to implement in large spreadsheets and this is where ASAP comes in as a big win for us. As with all man made developed programs, there are times when Microsoft does not play with with the add-ins. but it is relatively simple to disable the product, fix the issue and re-enable. Overall, I am very happy with the product!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Charles",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-27T18:17:57.000Z",
+          "Titre": "ASAP Utilities",
+          "Contenu": "I have been using the product for a few years now both in both personal and professional environments.  I would and have recommended it to those who will run across challenges in data management especially large spreadsheets.  It has been a great tool and most definitely has helped me  save time by making available, transactions that are not normally found which you would otherwise have to create many separate steps to achieve the same result.  I could actually rate 5 stars but no one is perfect."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "npmuri",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-27T22:28:50.000Z",
+          "Titre": "ASAP Utilities is extremely useful \u2026",
+          "Contenu": "ASAP Utilities has been extremely helpful at accomplishing tedious or otherwise impossible tasks with other tools. The most commonly used functions have leading filler, auto-numbering a series of rows, and mass upper/lower casing, to name a few. The only function missing is ability to add trailing filler."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Peter",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-20T01:09:35.000Z",
+          "Titre": "Have used ASAP for years, and been happy with it.",
+          "Contenu": "ASAP utilities has a plethora of tools for use within Excel.  I use very few of the tools it offers, but the ones I do use, I use a almost every time I work with Excel.  I have used ASAP for years.  It has never caused any problems with Excel, and seems to co-exist well with other add-ins."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Jeff",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-19T22:58:11.000Z",
+          "Titre": "This product has so many little \u2026",
+          "Contenu": "This product has so many little features to make Excel tasks easier.I'd give it 5 stars except that I've had some trouble with the Paper Save (split columns) - it's slower and often fails in the 64 bit version.  I'll need to check to see if they have a fix for that yet."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Stephen",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-19T20:48:59.000Z",
+          "Titre": "So many great features that I use all \u2026",
+          "Contenu": "So many great features that I use all the time.  I have trouble finding some of the functions I don't use as often though.  Maybe they could be sorted in the long drop-down lists to make it easier.  Also, to find a function in the drop-down list I use my mouse to hover over each item as I am reading but this opens up a comment explaining the function that covers the next item so that I can't see what it is unless I move my mouse off of the list.  It would be better if the comment box was more off to the side so as not to cover this list."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Juan Doh",
+          "Nb_Reviews": 1,
+          "Date": "2019-03-15T14:15:52.000Z",
+          "Titre": "Excellent program",
+          "Contenu": "Excellent program.  Zero problems.  My comments should be taken purely as recommendations; not critiques.  1) Interface could be more intuitive / more flexibility in customizing the ribbon; and 2) Selfishly, I wish the author would publish coded tutorials similar to what KoolTools does.  As he already offers a free version for personal use, it's unlikely it would harm his market share to publicly share some of the code used in his program. As someone who learns best by reverse engineering; I would love the opportunity to see how such a fine product was put together."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Curtis",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-27T00:01:30.000Z",
+          "Titre": "Excellent tools",
+          "Contenu": "There are so many utilities in this add-on for excel. I don't use all of them, however, I am glad they are there if I do need them. Everything has worked perfect for me for over two years. I contacted ASAP one time with a suggestion and received a reply within a few hours. I took away one star for one feature I wish they had and that is the ability to make QR codes. Without any luck on getting that suggestion through, I modified existing code from the internet that used a Google API to do the task I needed. Otherwise, this is an excellent set of tools."
+        },
+        {
+          "Note": 4,
+          "Lieu": "AU",
+          "Pseudo": "Harry",
+          "Nb_Reviews": 5,
+          "Date": "2020-09-20T00:33:28.000Z",
+          "Titre": "Have been using ASAP for many many\u2026",
+          "Contenu": "Have been using ASAP for many many years both professionally and at home. I wouldn't be without it.I use it almost every time that I use excel. I loved it so much I bought copies for many of my direct reports in the workplace."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Mark",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-20T15:47:32.000Z",
+          "Titre": "Great for the non-Power user - BUT",
+          "Contenu": "The drop down menus are easy to use and make some commands easier to find.  However there is not a lot of benefit to the power user who uses keyboard short cuts.  I do like the fact that you can modify the toolbars and add your favorite or most used commands"
+        },
+        {
+          "Note": 4,
+          "Lieu": "SI",
+          "Pseudo": "Robert \u0160mid",
+          "Nb_Reviews": 3,
+          "Date": "2020-06-11T11:41:46.000Z",
+          "Titre": "I am using AU already for 10 or more\u2026",
+          "Contenu": "I am using AU already for 10 or more years. Few years ago I would give them 5 stars. I am experiencing some troubles with some functions in last time, so it is 4 stars. Otherwise I recommend for all people using a lot of Excell."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "MFSG",
+          "Nb_Reviews": 2,
+          "Date": "2019-08-12T20:10:45.000Z",
+          "Titre": "Great overall add-in",
+          "Contenu": "Great overall add-in, but I am a bit diasppointed with features not being updated with new version of Excel (e.g., comment tools - Office 365 now uses comments and notes - yet ASAP does not recognize what Mircosoft now calls comments)."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Douglas",
+          "Nb_Reviews": 2,
+          "Date": "2017-12-19T21:30:03.000Z",
+          "Titre": "ASAP utilities paid for itself in about \u2026",
+          "Contenu": "ASAP utilities paid for itself in about a week. It made so many things better. Only reason for only 4 stars is that I didn't see additional enhancements. I'd be open to new features particularly if they involved conditional formatting."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Robert Ferguson",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-12T22:01:24.000Z",
+          "Titre": "Excellent Productivity Tool for Excel Power User",
+          "Contenu": "ASAP Utilities is an excellent Excel add-in that definitely increases my productivity. One of its best features is its Search feature which reduces the amount of time it takes me to find the feature I need. I highly recommend!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Paul Dew",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-19T01:57:48.000Z",
+          "Titre": "Incredibly useful utilities many things \u2026",
+          "Contenu": "Incredibly useful utilities many things are automated that you can do in Excel only with great difficulty. This collection saves so much time and allows you to produce excellent results that will impress everyone."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Dary",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-19T21:32:34.000Z",
+          "Titre": "ASAP is a great tool",
+          "Contenu": "ASAP is a great tool. I use it everyday and it makes things a lot easier. Sometimes Excel has a tendency to freeze when filling in multiple lines but that doesn't seem to happen when I use the ASAP shortcuts."
+        },
+        {
+          "Note": 4,
+          "Lieu": "ZA",
+          "Pseudo": "Gerrit Snyman",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-21T09:45:46.000Z",
+          "Titre": "Excellent value",
+          "Contenu": "Excellent value. I use mine everyday. Still a few tools that we need and it sometimes just disappear from your menues. Other than that, a great tool to have.I will definately struggle without mine."
+        },
+        {
+          "Note": 4,
+          "Lieu": "NL",
+          "Pseudo": "Hans Boomert",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-13T11:20:26.000Z",
+          "Titre": "I use ASAP-pilot on a daily basis and \u2026",
+          "Contenu": "I use ASAP-pilot on a daily basis and since I discovered it, many years ago, it has saved me hundreds of hours of work. This should be a mandatory add-in for every novice and experienced Excel user."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Sue Rivera",
+          "Nb_Reviews": 1,
+          "Date": "2019-06-05T13:45:12.000Z",
+          "Titre": "ASAP Utilities is a great add on to\u2026",
+          "Contenu": "ASAP Utilities is a great add on to Excel. We use it in our office and have found the functionality is perfect for our needs. What a time saver! User friendly too! I highly recommend it!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Nina Van Wagenen",
+          "Nb_Reviews": 2,
+          "Date": "2020-10-21T00:24:33.000Z",
+          "Titre": "The only thing we found is that the app\u2026",
+          "Contenu": "The only thing we found is that the app only loads in a new excel worksheet,  but does not appear in older excel worksheets when opened.  Otherwise great app.  Thank you"
+        },
+        {
+          "Note": 4,
+          "Lieu": "AU",
+          "Pseudo": "Not for publication",
+          "Nb_Reviews": 1,
+          "Date": "2020-09-14T05:15:13.000Z",
+          "Titre": "Long term customer",
+          "Contenu": "I have been using ASAP utilities for nearly twenty years. Much easier using menus (now ribbon) than trying to remember the multitude of shortcut keystrokes in Excel."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Michael",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-26T22:58:13.000Z",
+          "Titre": "Huge time saver with a number of the \u2026",
+          "Contenu": "Huge time saver with a number of the shortcuts built in.  I have been using it for several years and have yet to scratch the surface for using all of what the system delivers."
+        },
+        {
+          "Note": 4,
+          "Lieu": "ID",
+          "Pseudo": "Wayne Turner",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-20T06:54:20.000Z",
+          "Titre": "Future graphing capability",
+          "Contenu": "ASAP Utilities range of utilities saves a lot of time however I would like to see ASAP Utilities also extend into graphing of data in some way similar to Grapher or SigmaPlot."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Brian Jensen",
+          "Nb_Reviews": 2,
+          "Date": "2021-10-09T13:39:06.000Z",
+          "Titre": "Great software",
+          "Contenu": "Great software.  Lots of very useful tools.  So many that sometimes it can take a little work to find them, but still very happy with this addin."
+        },
+        {
+          "Note": 4,
+          "Lieu": "AE",
+          "Pseudo": "Ali Janjua",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-12T04:05:06.000Z",
+          "Titre": "Because of ASAP Utilities"
+        },
+        {
+          "Note": 4,
+          "Lieu": "IT",
+          "Pseudo": "Belli Ludovico",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-20T11:37:02.000Z",
+          "Titre": "Absolutely to have it",
+          "Contenu": "I think Asap Utilities is a special & effective tool which help us to do better all the activities in excel. I would say absolutely a must.Thanks Ludovico"
+        },
+        {
+          "Note": 4,
+          "Lieu": "IN",
+          "Pseudo": "Basavaraj B",
+          "Nb_Reviews": 1,
+          "Date": "2019-06-25T09:53:39.000Z",
+          "Titre": "Awesome ASAP Utilities",
+          "Contenu": "ASAP Utilities is a great innovation where it reduced the holistic work to the people who working on excel on daily basis.Super Tool.Thanks,Basavaraj"
+        },
+        {
+          "Note": 4,
+          "Lieu": "ZA",
+          "Pseudo": "LUCIO CARROZZO",
+          "Nb_Reviews": 1,
+          "Date": "2020-01-17T04:07:52.000Z",
+          "Titre": "very handy features with loads of short\u2026",
+          "Contenu": "very handy features with loads of short cuts to save time, New menu layout will take some getting used to as it's all over the place in new format,"
+        },
+        {
+          "Note": 4,
+          "Lieu": "GR",
+          "Pseudo": "Evangelos",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-20T11:30:00.000Z",
+          "Titre": "I think that should have a more updated \u2026",
+          "Contenu": "I think that should have a more updated interface towards user.Other than that superb tool. I would find it nearly impossible to use excel without it."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Dennis Hubbard",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-19T22:07:56.000Z",
+          "Titre": "useful for editing text in spreadsheets",
+          "Contenu": "most useful in editing text, use frequently to easily remove leading and trailing space, also use to fix capitaliization errors of Names and Addresses"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Mike",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-20T15:21:35.000Z",
+          "Titre": "I loved ASAP Utilities until I switched \u2026",
+          "Contenu": "I loved ASAP Utilities until I switched to a 64 bit machine, which ASAP would not run on. Very disappointed, especially since I had the paid version."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Michael",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-25T02:01:55.000Z",
+          "Titre": "I could not have finished an important \u2026",
+          "Contenu": "I could not have finished an important project if I did not have ASAP Utilities to help me convert printed documents into Excel spreadsheets!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Galliano",
+          "Nb_Reviews": 2,
+          "Date": "2017-12-27T00:26:04.000Z",
+          "Titre": "The best add in",
+          "Contenu": "The best add in of all add in for excel. Only issue I have is that there are so many short cut I have trouble locating them when needed.."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Christopher Freeman",
+          "Nb_Reviews": 2,
+          "Date": "2021-09-08T04:50:54.000Z",
+          "Titre": "This is one of the best add-ons for\u2026",
+          "Contenu": "This is one of the best add-ons for Excel I've used. I promote the use to everyone I know. Keep adding features!!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "ID",
+          "Pseudo": "Budana",
+          "Nb_Reviews": 2,
+          "Date": "2020-03-11T05:13:08.000Z",
+          "Titre": "close to 5 stars! Keep it up!",
+          "Contenu": "It is close to a 5 star review if only it had the same functionality as a US$ 79 excel utility add-in, it will be an easy 5 star."
+        },
+        {
+          "Note": 4,
+          "Lieu": "AU",
+          "Pseudo": "Daniel Slinn",
+          "Nb_Reviews": 2,
+          "Date": "2017-12-19T00:24:44.000Z",
+          "Titre": "Great add in for excel allows you to \u2026",
+          "Contenu": "Great add in for excel allows you to perform a lot of tasks very quickly and is very helpful when manipulating large amounts of data."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "JOHN F. REINECK",
+          "Nb_Reviews": 1,
+          "Date": "2021-05-20T13:55:41.000Z",
+          "Titre": "This is one of the best add-ons for\u2026",
+          "Contenu": "This is one of the best add-ons for Excel I've used. I promote the use to everyone I know. Keep adding features!!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "ZA",
+          "Pseudo": "Nicoll",
+          "Nb_Reviews": 1,
+          "Date": "2018-12-12T17:50:08.000Z",
+          "Titre": "Clean data",
+          "Contenu": "I'm doing exports from ERP systems and in almost all of them I need to use asap utilities to clean data and make it readable."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Stephen",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-20T13:48:50.000Z",
+          "Titre": "Great product that I use daily",
+          "Contenu": "Great product that I use pretty much every time i use Excel.  So many shortcuts and time savers.  Definitely worth the investment."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Sue",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-20T15:55:20.000Z",
+          "Titre": "Love the tool",
+          "Contenu": "Love the tool.  Great resource for getting content the way you want it.  Have never had an issue in the 8 years I've used it."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Diana GB",
+          "Nb_Reviews": 1,
+          "Date": "2019-08-02T16:45:42.000Z",
+          "Titre": "ASAP Utilities helps those of us who\u2026",
+          "Contenu": "ASAP Utilities helps those of us who haven't yet learned the nuances of Excel. The tool helps me execute in 1 or 2 steps."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Bruce",
+          "Nb_Reviews": 2,
+          "Date": "2017-12-20T13:18:54.000Z",
+          "Titre": "very strong set of utilities",
+          "Contenu": "very strong set of utilities and is reasonably priced.  I have recommended ASAP to many Excel power users over the years."
+        },
+        {
+          "Note": 4,
+          "Lieu": "SA",
+          "Pseudo": "Andrew",
+          "Nb_Reviews": 7,
+          "Date": "2017-12-21T04:14:43.000Z",
+          "Titre": "Convenient access",
+          "Contenu": "Whilst a lot of the functions are available in excel this tool brings them together and is really easy to use"
+        },
+        {
+          "Note": 4,
+          "Lieu": "MY",
+          "Pseudo": "Liza Jaafar",
+          "Nb_Reviews": 1,
+          "Date": "2019-04-22T06:13:09.000Z",
+          "Titre": "Good app but improvement maybe require",
+          "Contenu": "Overall, it is a good app which can speed up our tasks. But, it would be better if the scripts also help user to sort while using Sheets > #8 tool. One of another famous tools is not required to do sorting step.Apart from this, the app is easily hang these days when the app is running on specific worksheet which contains screenshots on OTHER worksheets. If user click ESC to cancel the job, it took a while to resume and screenshots on other worksheets might crashed (became \"see through\" screenshot). Please look into this.Thanks.22 Apr 19: Thanks for the reply. I read through but I don't use camera tool that found in customize ribbon. We only have normal screenshots (not linked picture) pasted from SnagIt tool (external tool). :)22 Apr 19: Thanks for the prompt feedback. I may send the sample file after it is ready (but not now or this week due to I have to remove lot of confidential data). The picture tool (external tool) we using to get the screenshots were purchased from  https://'www'.'techsmith.com'/download/oldversions > SnagIt 12.0.0 (remove the '' to get the full link).Once again, thanks for follow up."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Anne Wold",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-19T22:57:39.000Z",
+          "Titre": "These utilities save me time in my busy \u2026",
+          "Contenu": "These utilities save me time in my busy workday. They make the formatting and cleanup of exported data easy."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Lisa",
+          "Nb_Reviews": 1,
+          "Date": "2018-12-05T17:28:52.000Z",
+          "Titre": "Great- easy to use and has a lot of\u2026",
+          "Contenu": "Great- easy to use and has a lot of useful features. I wish it had a little better search feature though."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Andre",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-20T03:26:39.000Z",
+          "Titre": "ASAP Utilities provide a lot of built \u2026",
+          "Contenu": "ASAP Utilities provide a lot of built in action that help reduce time to format or modify excel data."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Donald",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-19T22:04:06.000Z",
+          "Titre": "Like all the additional functionality",
+          "Contenu": "Like all the additional functionality.  Occasionally crashes Excel when ASAP utilities is accessed."
+        },
+        {
+          "Note": 4,
+          "Lieu": "NL",
+          "Pseudo": "Frederick",
+          "Nb_Reviews": 1,
+          "Date": "2022-01-03T07:21:56.000Z",
+          "Titre": "Timesaver",
+          "Contenu": "Handy tool and easy to use.Prevents mistakes and ensures everything is equal"
+        },
+        {
+          "Note": 4,
+          "Lieu": "LU",
+          "Pseudo": "Herr Walter B",
+          "Nb_Reviews": 3,
+          "Date": "2017-12-20T12:30:11.000Z",
+          "Titre": "Wally's experience",
+          "Contenu": "Very large choice of functionalities, it helps in most corners.Every update makes it better!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Sharon Collins",
+          "Nb_Reviews": 2,
+          "Date": "2023-06-29T03:29:38.000Z",
+          "Titre": "Light bill so high",
+          "Contenu": "My bill high thank you"
+        },
+        {
+          "Note": 4,
+          "Lieu": "BE",
+          "Pseudo": "Jan Deschepper",
+          "Nb_Reviews": 4,
+          "Date": "2017-12-20T13:20:23.000Z",
+          "Titre": "Excellent functions without complicated \u2026",
+          "Contenu": "Excellent functions without complicated scripting under a key. A beauty for non techies."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "ms",
+          "Nb_Reviews": 1,
+          "Date": "2019-04-08T20:46:36.000Z",
+          "Titre": "Great excel product that saves so much\u2026",
+          "Contenu": "Great excel product that saves so much time, no need for keyboard shortcuts for these."
+        },
+        {
+          "Note": 4,
+          "Lieu": "IL",
+          "Pseudo": "Matan",
+          "Nb_Reviews": 1,
+          "Date": "2018-09-23T16:43:37.000Z",
+          "Titre": "Very good (mostly)",
+          "Contenu": "In some situations, it can be difficult to search and find the functionality you need."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Mike Nolan",
+          "Nb_Reviews": 1,
+          "Date": "2019-03-27T18:51:10.000Z",
+          "Titre": "Must have utility for Excel",
+          "Contenu": "Very useful utility for Excel. make you look and feel like an Excell power user!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Larry",
+          "Nb_Reviews": 1,
+          "Date": "2018-01-02T15:47:53.000Z",
+          "Titre": "Several great tools",
+          "Contenu": "Several great tools, but it would be better if I could add them to a vba script."
+        },
+        {
+          "Note": 4,
+          "Lieu": "BE",
+          "Pseudo": "Ian",
+          "Nb_Reviews": 1,
+          "Date": "2018-01-02T14:13:54.000Z",
+          "Titre": "Invaluable excel tools",
+          "Contenu": "Some invaluable tools... particularly for repetitive & time consuming tasks"
+        },
+        {
+          "Note": 4,
+          "Lieu": "CH",
+          "Pseudo": "Christian Ofria",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-21T10:20:08.000Z",
+          "Titre": "Really useful tool for people who needs \u2026",
+          "Contenu": "Really useful tool for people who needs to elaborate lot of data through Excel."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Terri",
+          "Nb_Reviews": 1,
+          "Date": "2018-12-06T12:44:25.000Z",
+          "Titre": "Makes functions that were part of\u2026",
+          "Contenu": "Makes functions that were part of previous versions of excel possible again."
+        },
+        {
+          "Note": 4,
+          "Lieu": "SE",
+          "Pseudo": "Hans Thoors",
+          "Nb_Reviews": 2,
+          "Date": "2020-02-23T11:50:58.000Z",
+          "Titre": "Easy to use and great functions that\u2026",
+          "Contenu": "Easy to use and great functions that are missing in excel general setup."
+        },
+        {
+          "Note": 4,
+          "Lieu": "ZA",
+          "Pseudo": "David Blitenthall",
+          "Nb_Reviews": 1,
+          "Date": "2019-11-08T18:29:14.000Z",
+          "Titre": "Great addition to Excel",
+          "Contenu": "Great addition to Excel. Saves time - gets the job done with no hassles."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Kendra",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-19T22:51:20.000Z",
+          "Titre": "ASAP Utilities has saved me tons of \u2026",
+          "Contenu": "ASAP Utilities has saved me tons of time with repetitive excel functions"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Cyndi",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-27T04:14:30.000Z",
+          "Titre": "Efficiency",
+          "Contenu": "ASAP really helps us be more efficient when working with spreadsheets."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Michael",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-19T21:58:34.000Z",
+          "Titre": "I use the product daily and find it to \u2026",
+          "Contenu": "I use the product daily and find it to be very stable and easy to use."
+        },
+        {
+          "Note": 4,
+          "Lieu": "GB",
+          "Pseudo": "Anthony",
+          "Nb_Reviews": 2,
+          "Date": "2017-12-27T18:17:46.000Z",
+          "Titre": "more functions than i need but the ones \u2026",
+          "Contenu": "more functions than i need but the ones i use work easily and well"
+        },
+        {
+          "Note": 4,
+          "Lieu": "SA",
+          "Pseudo": "Omar Ahmed",
+          "Nb_Reviews": 2,
+          "Date": "2022-01-21T16:06:14.000Z",
+          "Titre": "Very good and helps me to do my work\u2026",
+          "Contenu": "Very good and helps me to do my work within no time"
+        },
+        {
+          "Note": 4,
+          "Lieu": "DK",
+          "Pseudo": "Michael Tornhoj",
+          "Nb_Reviews": 1,
+          "Date": "2019-05-08T20:52:38.000Z",
+          "Titre": "Very good value for the price",
+          "Contenu": "Very good value for the price, no hazel just works, save time."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Rene",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-27T15:16:57.000Z",
+          "Titre": "My spreadsheets are better than ever in \u2026",
+          "Contenu": "My spreadsheets are better than ever in half the time! Thanks"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Dave",
+          "Nb_Reviews": 2,
+          "Date": "2017-12-19T21:04:42.000Z",
+          "Titre": "I would rate a 5 star if this is now \u2026",
+          "Contenu": "I would rate a 5 star if this is now working with Excel 2016"
+        },
+        {
+          "Note": 4,
+          "Lieu": "ZA",
+          "Pseudo": "Juan",
+          "Nb_Reviews": 1,
+          "Date": "2018-01-03T09:14:34.000Z",
+          "Titre": "submission",
+          "Contenu": "why can I not submit this? one more try and I am giving up"
+        },
+        {
+          "Note": 4,
+          "Lieu": "AU",
+          "Pseudo": "grant jones",
+          "Nb_Reviews": 1,
+          "Date": "2018-01-01T21:42:03.000Z",
+          "Titre": "Makes my day easier when I can quickly \u2026",
+          "Contenu": "Makes my day easier when I can quickly amend Excel records"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Kevin M.",
+          "Nb_Reviews": 1,
+          "Date": "2017-12-27T01:13:12.000Z",
+          "Titre": "Great tool",
+          "Contenu": "Great tool. Makes data importing and editing much easier"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Melissa Green",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-19T18:33:43.000Z",
+          "Titre": "Affordable Time Saver",
+          "Contenu": "ASAP Utilities is a really affordable tool to make life a little easier without having to be an Excel wizard. The lifetime license is amazing for the price. I've used it at every place of employment for about five years now."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ben Young",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-18T22:12:46.000Z",
+          "Titre": "Can't work without it!",
+          "Contenu": "I've been using ASAP Utilities for almost 20 years now.  When I switch computers, it's one of the first programs to get installed on my new machine.  It has so many helpful tools for Excel, once you get used to them, you'll wonder why they aren't baked into the app by Microsoft.  Worth every penny!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Debra",
+          "Nb_Reviews": 3,
+          "Date": "2023-12-08T18:45:04.000Z",
+          "Titre": "This tool is a total lifesaver",
+          "Contenu": "I've been using ASAP Utilities since it came out in 1999, and let me tell you, it's a game-changer for dealing with big, complex spreadsheets. I honestly can't imagine working in Excel without it. It's not just about saving time - it's about the confidence to make big changes without sweating it. This tool is a total lifesaver."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Michael Kline",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-16T16:28:32.000Z",
+          "Titre": "ASAP is a really useful Excel add-on",
+          "Contenu": "ASAP is a really useful Excel add-on.  Helps save time formatting data for NASA and Air Force databases."
+        },
+        {
+          "Note": 5,
+          "Lieu": "SE",
+          "Pseudo": "Nick Mendola",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-17T11:44:55.000Z",
+          "Titre": "Product is very helpful",
+          "Contenu": "Product is very helpful. The add-ons are practical and save time"
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Sharon Prasad",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-07T08:38:16.000Z",
+          "Titre": "helpful, effective",
+          "Contenu": "I discovered ASAP Utilities more than 10 years ago and have really appreciated how effective it is with assisting you on a daily basis."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ZA",
+          "Pseudo": "Nino Trolese",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-25T10:34:41.000Z",
+          "Titre": "Awesome",
+          "Contenu": "Just the time saving, the functions save so much time when doing data analytics, you don't even need pivot tables or power query."
+        },
+        {
+          "Note": 5,
+          "Lieu": "SA",
+          "Pseudo": "bandar al ahmadi",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-06T08:59:21.000Z",
+          "Titre": "The tool is very cood.",
+          "Contenu": "The tool is very cood.It made work a lot easier for me.Instead of looking for shortcuts or making a new micro.I advise anyone who works on Excel to add it and benefit from completing work faster and more efficiently."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mark Cheshier (MT_Militia)",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-27T23:22:05.000Z",
+          "Titre": "I've been using ASAP utilities for 10 years",
+          "Contenu": "I've been using ASAP utilities for almost 10 years. I've purchased it at every job / position I've ever had. It's a MUST have if you work in excel all day and you want to speed up repetitive operations without having to write formulas over and over again."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Paige Ryan",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-03T21:07:54.000Z",
+          "Titre": "ASAP utilities is so helpful",
+          "Contenu": "ASAP utilities is so helpful! I use it mostly for trimming and moving everything to lowercase. Much quicker and easier than running the formulas each time."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NG",
+          "Pseudo": "Orshio john",
+          "Nb_Reviews": 2,
+          "Date": "2023-11-18T22:16:40.000Z",
+          "Titre": "I have used your your products and\u2026",
+          "Contenu": "I have used your your products and services and all I can say is \" I'm satisfied\" good job ASAP utilities"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "VICKI HRIVNAK",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-31T19:28:01.000Z",
+          "Titre": "Everything about this is TOP NOTCH!",
+          "Contenu": "Great customer service and my team and I LOVE this tool!  When I had issues getting the latest license keys, Bastien himself called me from Norway to help me figure out that my company was blocking the emails because it was out of the states.  He sent the licenses to my personal address to bypass this and I really appreciated the personal attention to resolve this!!  ASAP add-on is the most robust tool for Excel and has added so many great \"tools\" to my team's toolkit!!  HIGHLY RECOMMEND THIS!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Riaz Tagar",
+          "Nb_Reviews": 3,
+          "Date": "2023-07-26T20:46:39.000Z",
+          "Titre": "I have been using ASAP Utilities for 15\u2026",
+          "Contenu": "I have been using ASAP Utilities for 15 years in my professional environment. I have suggested it to two employers in that time frame and both ended up purchasing multiple licenses! This utility is an incredible time saver and just plain old neat add in to use! It has so many features from spelling out numbers to detect and visualize color every other row!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Peter Stern",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-04T18:02:38.000Z",
+          "Titre": "Never be without it!",
+          "Contenu": "I used the free version for a number of years and was so impressed I amazed myself by purchasing a license.  Great product and excellent support."
+        },
+        {
+          "Note": 5,
+          "Lieu": "DE",
+          "Pseudo": "Jim Holdahl",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-03T13:58:05.000Z",
+          "Titre": "Empowering tools almost too good to be true...",
+          "Contenu": "Countless tools you always wished for and many more you haven't thought of yet.  It is really about being empowered and fluid in your daily work and ASAP Utilities has done exactly this for me.  As such, it has quickly become an indispensable tool for data cleanup, mass changes, evaluation and so much more.  It is a rare day indeed where my big data doesn't get tamed by the seductive ease of this wonderful tool."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rich J.",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-15T00:21:41.000Z",
+          "Titre": "Hands down best Excel Add-in EVER!",
+          "Contenu": "I have been using ASAP Utilities for 15 years in my professional environment.  I have suggested it to two employers in that time frame and both ended up purchasing multiple licenses! This utility is an incredible time saver and just plain old neat add in to use! It has so many features from spelling out numbers to detect and visualize color every other row!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Nancy",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-20T02:17:33.000Z",
+          "Titre": "I have used ASAP Utilities for about 20\u2026",
+          "Contenu": "I have used ASAP Utilities for about 20 years and have been able to save hours of work formatting spreadsheets to make processing faster and more accurate.  Other functions greatly improve readability of  reports, search actions, and summarization.  I strongly recommend this software and have shared it with every Excel user that I know."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Karen",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-17T22:02:23.000Z",
+          "Titre": "Using ASAP Utilities 4 Decades-recommend it!",
+          "Contenu": "I have been using ASAP Utilities for decades now and have to buy it so others in my firm can benefit from this utility that has saved me thousands of hours over the years!  There are so many things that I do without even thinking about them, that I would be lost without ASAP Utilities!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Laura",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-24T17:57:08.000Z",
+          "Titre": "Absolutely love ASAP Utilities",
+          "Contenu": "I absolutely love ASAP Utilities. I've been using the Excel Add-in for many years now. I work with very large Excel workbooks on a daily basis and rely on ASAP Utilities to help me get the data into usable formats with only the data I need. It is such a huge time saver. I honestly, can't imagine being without it now. Laura BuxtonCarrefour Associates & Crossroads Hospice"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ZA",
+          "Pseudo": "Denise Downing",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-17T19:46:36.000Z",
+          "Titre": "I highly recommend ASAP Utilities to\u2026",
+          "Contenu": "I highly recommend ASAP Utilities to save hours with many tedious tasks that now take seconds with one click action through the macros Bastien has written into the tool. Both free and paid versions supply the same functionality. I have no hesitation in supporting the project with the paid app. I have been using both paid and free versions since early MS 2013 and have just loaded the paid version on MS 2021. Works seamlessly, payment process simple and easy. Immediate response via email with your license and simple process to register the software. Thanks Bastien, look forward to using your tool with all it future enhancements."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Richard Lewis",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-11T16:49:02.000Z",
+          "Titre": "I love ASAP Utilities",
+          "Contenu": "I love ASAP Utilities. HardKnocks Sports Grills is a very small company with everyone wearing multiple hats. I came across ASAP some years ago. ASAP has become as indispensable to me as EXCEL. I can't even calculate the hours that ASAP as saved me.  It is a superb product."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "T McGee",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-19T20:02:24.000Z",
+          "Titre": "Simply the best Excel add-on EVER",
+          "Contenu": "By far, the most useful and time-saving application I have ever used. Nothing turns complex macros and formulae into a click of a button like ASAP Utilities. I've been a faithful user for 15 years and I've never had a problem with the software, upgrades etc. The time-savings alone is enough of a reason to buy a license. What used to take me hours to accomplish (when dealing with complicated spreadsheets) now takes minutes....perhaps even less. Honestly, I cannot say enough good things about this product. Thank you for keeping it current and always innovating."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Forrest Wilson",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-30T06:11:56.000Z",
+          "Titre": "Solve special data handling problems",
+          "Contenu": "This package of Excel add-ons quickly solves special data handling activities. You could reproduce some of ASAPs functionality if you are adept at programming. I am good, but the package is inexpensive, everything is done for me (time saver), and as Excel changes ASAP manages the program updates... not me. Perfect. (I've been using ASAP for >7 years.)"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Eric Grundy",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-15T18:59:05.000Z",
+          "Titre": "I love this plug in/add-on",
+          "Contenu": "I love this plug in/add-on. Reduces my Excel time by at least 40 percent. I have a few suggestions for new enhancements, but I'll send those when I have more time."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Yusuf",
+          "Nb_Reviews": 6,
+          "Date": "2023-04-17T06:08:02.000Z",
+          "Titre": "Recommended",
+          "Contenu": "I have the add-in for nearly ten years. It is a good to have tool. It saves me a lot of time of coding VBA myself. The pricing and upgrade structure are also worth-the-money. No mandatory. Additional pay for additional new functions / fixes that come in with a major upgrade. A well-balanced thought between commercial-needs and old techie-norms."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Darri Hovious",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-20T14:52:13.000Z",
+          "Titre": "I have been using ASAP Utilities since\u2026",
+          "Contenu": "I have been using ASAP Utilities since approximately 2010 and cannot live without it! The combining and separating of files saves the most time for me; however I use multiple functions weekly. Anything you want Excel to do but in mass production, ASAP gets it done in a fraction of the time. Best purchase ever!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Robert Sass",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-11T19:07:44.000Z",
+          "Titre": "Awesome Product",
+          "Contenu": "I've been a user for many years and this has been one of my favorite add-ons for Excel. My productivity has been increased because of this product alone. I come to a screeching halt when I use another computer that doesn't have this add-on."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Frances",
+          "Nb_Reviews": 3,
+          "Date": "2023-01-27T02:39:46.000Z",
+          "Titre": "Big time saver and easy to use",
+          "Contenu": "ASAP utilities is something I cannot imagine living without as an avid Excel user. The tool makes it easy to do repetitive tasks or data transformation at the click of a button. It is very easy to use and would benefit a beginner excel user equally as well as an experienced person. I\u2019ve introduced this tool to so many people and everyone loves it!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "Tjeerd Huisman",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-10T15:12:29.000Z",
+          "Titre": "More than worth the money",
+          "Contenu": "More than worth the money. I've used this add-in for more than 15 years already (always managed to get it at the different companies I worked for). Now I finally bought a license for myself. I just love it. Couldn't imagine working without it.The buying process was easy and the license was quickly delivered."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jessica",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-23T19:01:39.000Z",
+          "Titre": "ASAP utilities makes my job easier",
+          "Contenu": "ASAP utilities makes my job easier. There are so many tasks that I have to do to parse through and cleanup data for reporting and ASAP utilities makes these tasks a breeze rather than tasks that would otherwise take hours. I rely on it heavily."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Brigitte Probert",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-02T17:17:10.000Z",
+          "Titre": "Wonderful Timesaver!",
+          "Contenu": "I was recently introduced to ASAP Utilities by a co-worker and my new job and now, four months later, I don't know how I ever lived without it. It's saved me so much time and it quickly completes functions that I didn't even know were possible. I highly recommend this product to anyone who uses Excel!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "S Harris",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-14T02:00:36.000Z",
+          "Titre": "Highly recommend",
+          "Contenu": "I've used ASAP Utiltiies for years - as an advanced Excel user for my business, I cannot imagine having to do my work without the shortcuts provided through this add-on. Intuitive to use too!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Monica Van Marter",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-24T17:36:26.000Z",
+          "Titre": "I used ASAP utilities every single day\u2026",
+          "Contenu": "I used ASAP utilities every single day I have to work.  Its an amazing tool and saves a tremendous amount of time and frustration.To top it off the customer support you receive from them is amazing.  I had to move to a new PC and couldnt find my license information.  I emailed them and they had my information back to me in just a few hours.  Amazing tool and support, highly recommend if you are a pro or beginner in excel."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "MD",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-06T04:45:52.000Z",
+          "Titre": "Incredible tool",
+          "Contenu": "Incredible tool.  Not only will it save you time but the delivered functionality will open up all kinds of other things you were not aware of."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Patrick Dowden ASW",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-12T23:46:38.000Z",
+          "Titre": "I\u2019ve used ASAP-Utilities for years",
+          "Contenu": "I\u2019ve used ASAP-Utilities for years. I work in engineering, so I use the tools in ASAP that focus on data visualization, cleanup, and sorting. They work great. The time savings I\u2019ve experienced using this Excel add-in has paid for its cost many times over.  I recommend it to friends and colleagues who use Excel all the time!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Mark Naftel, Bow Valley Basics",
+          "Nb_Reviews": 3,
+          "Date": "2023-04-05T20:46:10.000Z",
+          "Titre": "If you aren't using ASAP utilities, are you even using Excel?",
+          "Contenu": "ASAP Utilities is a MUST have for every Excel user. Have you ever wished Excel could do something but you can't figure out how to make it work? ASAP Utilities know how, & has simplified those chores and combined them into single click tools. It's saved me over 100 hrs by doing all those nit-picky little tasks for me. I don't know where I'd be without it."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Holly Hankinson",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-03T19:30:59.000Z",
+          "Titre": "I have been using ASAP utilities for\u2026data mining for business analysis",
+          "Contenu": "I have been using ASAP utilities for years. Having these commands easily accessible has saved me hundreds, if not thousands of hours. I continue to learn new commands as needed and could not be happier with the product. On a couple occasions, when I moved PC's, support was quick to assist with getting my license details and transition easily."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "P.B.",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-14T14:34:39.000Z",
+          "Titre": "ASAP Utilities is the best",
+          "Contenu": "ASAP Utilities has to be the best Excel add-on out there. It can do so many things (my favorites are removing excess spaces and removing excess blank rows/columns)."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ron Shubert",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-19T18:20:14.000Z",
+          "Titre": "Long-time ASAP Utilities User",
+          "Contenu": "I've used ASAP Utilities for the past 15 years, both personally and for business.  This is the best Excel add-in you can purchase.  Everything is easily accessible and intuitive. I'll be an ASAP customer for life."
+        },
+        {
+          "Note": 5,
+          "Lieu": "DE",
+          "Pseudo": "Alexander F.",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-28T17:55:31.000Z",
+          "Titre": "Fantastic toolset, great services",
+          "Contenu": "Fantastic toolset. Website provides great information. Fast processing of order, I got my new licence key within minutes. Have been using the tools for many many years and don't want to miss them any more."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Peter Haley",
+          "Nb_Reviews": 2,
+          "Date": "2022-11-16T17:11:37.000Z",
+          "Titre": "I have been using ASAPUtilities for more years than I care to admit.",
+          "Contenu": "I have been using ASAPUtilities for more years than I can remember and it is the best tool in my Excel tool belt. Ive recommended it to so many people that, last year, a woman I work with told me about this incredible function called ASAPUtilities. I was like, whaaaat? I'M the one that told YOU about it! I wish there was a newsletter or something that would send a feature a day because I am sure there are untapped resources I haven't gotten around to learning about. I have my Favorites bookmarked and, if I'm ever stuck on something in Excel, I go to ASAP before Google to see if there is a solution."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "David Gibson",
+          "Nb_Reviews": 3,
+          "Date": "2023-07-26T21:11:31.000Z",
+          "Titre": "Used for many years",
+          "Contenu": "Used for many years. Changed my laptop so to set up on new machine the latest version was easy and reasonably priced. Software essential for any regular Excel user."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Joe Rowan",
+          "Nb_Reviews": 3,
+          "Date": "2023-01-11T19:22:15.000Z",
+          "Titre": "Have been using ASAP for 10+ years.",
+          "Contenu": "I have been using ASAP Utilities for a decade. I cannot imagine approaching any Excel task without it. While I have other utilities that I use as well, it is always ASAP that I return to when I need that 'one particular solution' that is not found elsewhere."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "R. Basta",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-08T16:59:37.000Z",
+          "Titre": "I'm so dependent on ASAP!",
+          "Contenu": "I don't know how to use Excel without ASAP Utilities! Microsoft should by it up and incorporate it. Love it and use it daily for work. Makes data so much easier to manipulate. Thank you Bastien and Team. So grateful for your product!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Heather",
+          "Nb_Reviews": 2,
+          "Date": "2023-03-01T16:19:38.000Z",
+          "Titre": "We're fanatical about ASAP-Utilities",
+          "Contenu": "We're fanatical about ASAP-Utilities. If your daily grind includes using Excel to clean up data from external sources, making data from multiple sources play nice, or providing data to other parties quickly and cleanly, you need these tools. Large-scale edits can be done fast and efficiently. My most used time-savers: remove leading, trailing, and excessive spaces, fill empty cells below, convert formulas in selection to their calculated value, divide data to a new worksheet at every change of a given cell, provide a list of all formulas used in the workbook along with cell reference, clear all (or just a specified) type of formatting/object/hyperlink. Then there's the file folder listing. I never thought about how useful a worksheet breaking down the files included in a given Windows file folder could be!I've tried a lot of Excel add-ons in my 25 years in this job and this is the only of these tools I include in my annual budget, just in case a new version comes out. It's a steal, too! We've been using it for at least a decade and it just keeps getting better."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ZA",
+          "Pseudo": "Peter Thompson",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-18T17:30:55.000Z",
+          "Titre": "I wouldn't use Excel without ASAP Utilities!",
+          "Contenu": "I have used ASAP Utilities since 2013 because it saves me so much time. It has wide range of functions that are easy to find and to use. The program is very stable - I have never had a problem with it not working or letting me down. I would recommend this plug in to anyone who uses Excel - it is so useful that I wouldn't use Excel without it."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "PHILIP SHARKEY",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-09T22:13:04.000Z",
+          "Titre": "Top 3 Utility for over 4 yers now...",
+          "Contenu": "I've used ASAP for several years now.  From the beginning, it has remained solidly in my Top 3 utilities. Checks off for all areas of usefulness, time-savings, and way-way over the top for price value!!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ZA",
+          "Pseudo": "HUGO MARCUS",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-10T14:10:30.000Z",
+          "Titre": "I needed create a CSV file from a bank\u2026",
+          "Contenu": "I needed create a CSV file from a bank statement which I could then import into an accounting system. There was a lot of adjustments that needed to be done such as converting the date into a long format date, converting number as text into a number, moving the - sign of a number to the front of the number and a lot more. I was able to find the methods/steps to do this on ASAP. I could then import the final CSV file directly into the accounting system, which overall if you are working with a lot of bank transactions save an incredible amount of time."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Robert de Graaf",
+          "Nb_Reviews": 6,
+          "Date": "2022-12-24T02:57:19.000Z",
+          "Titre": "A fantastic tool!",
+          "Contenu": "A fantastic tool that I have been using for many years and can no longer work without. It provides an invaluable set of Excel tools that vastly improve Excel's power and flexibility. Thumbs up from me!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "D Couris",
+          "Nb_Reviews": 2,
+          "Date": "2022-11-27T13:22:59.000Z",
+          "Titre": "Can't Live Without ASAP Utilities",
+          "Contenu": "I am a a data analyst and Excel power user.  I simply can't do my job without ASAP Utilities.  I started a new job recently and it took a few weeks to get the purchase approved, I felt like I was working with one had tied behind my back until I had ASAP installed.  I recommend to everyone."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Paul Mayner",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-28T00:17:38.000Z",
+          "Titre": "Consistency",
+          "Contenu": "Been using asap for better part of 15 years and only issue I've ever had is working with files on OneDrive. Seemed to slow down some of the utilities. Absolutely no complaints otherwise!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Phillip",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-29T17:55:16.000Z",
+          "Titre": "I love ASAP Utilities",
+          "Contenu": "I love ASAP Utilities.  There is something for any challenging/time consuming task in Excel.  Top notch customer service, innovation and high quality product shines year over year. Everyone should have ASAP Utilities."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Dianna",
+          "Nb_Reviews": 2,
+          "Date": "2023-03-27T17:05:14.000Z",
+          "Titre": "Invaluable",
+          "Contenu": "I have used ASAP Utilities for over 10 years to manage, clean, manipulate, and synthesize both large and small datasets in Excel. When I have reached out for help, support has always been fast and useful. ASAP Utilities is invaluable in my work conducting and managing large systematic reviews and scoping reviews."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Christopher Wilcox",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-24T20:33:09.000Z",
+          "Titre": "Incredible Customer Service",
+          "Contenu": "Bastien was incredibly helpful at every step. I made a mistake on my order when processing and Bastien was able to help me promptly and without issue. Highly recommend their software and greatly appreciate their customer service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Melly H.",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-05T20:04:40.000Z",
+          "Titre": "Best Excel toolkit I've tried",
+          "Contenu": "This toolkit has been a lifesaver. It has all the functions I need to combine, split, lock, freeze, format across multiple tabs. The Information tools are a huge help when dealing with workbooks with hundreds of tabs. I liked ASAP so much I bought copies for our whole company."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Richard",
+          "Nb_Reviews": 3,
+          "Date": "2022-12-25T11:02:14.000Z",
+          "Titre": "Hours Saved",
+          "Contenu": "Too many tools to mention. ASAP Utilities exists to cover the shortcomings in Excel, and to enhance Excel's functionality. The best review I can leave is to say, try the free trial. You decide."
+        },
+        {
+          "Note": 5,
+          "Lieu": "MX",
+          "Pseudo": "Larry",
+          "Nb_Reviews": 2,
+          "Date": "2023-06-28T14:26:02.000Z",
+          "Titre": "I've used ASAP Utilities since 2012 and\u2026",
+          "Contenu": "I've used ASAP Utilities since 2012 and they've never failed me. I am retired now and still upgraded to the latest version. These are an Excel essential."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Judy W",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-11T17:46:17.000Z",
+          "Titre": "Easily clean data",
+          "Contenu": "Easily clean data, merge specific cells in rows or columns, add leading zeros, remove certain characters, and the list goes on. Love this add-on."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Holly Armitage",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-08T15:43:57.000Z",
+          "Titre": "I save time weekly using this tool",
+          "Contenu": "I save time weekly using this tool. My favorite functions are clean data and formatting, adding an apostrophe to turn numbers into text, and removing leading, trailing and excessive spaces."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Janie Pendergraft",
+          "Nb_Reviews": 4,
+          "Date": "2023-05-20T20:57:16.000Z",
+          "Titre": "ASAP Utilities saved me a lot of time",
+          "Contenu": "ASAP Utilities was easy to purchase and I used the utility to delete unused empty columns and it saved me a lot of time. There are many more utilities I am going to try later on when I have more time."
+        },
+        {
+          "Note": 5,
+          "Lieu": "BR",
+          "Pseudo": "Selma",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-29T14:49:51.000Z",
+          "Titre": "correct massive list of\u2026",
+          "Contenu": "It helps me correct massive list of emails with error."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NO",
+          "Pseudo": "Morten Skute",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-09T11:06:17.000Z",
+          "Titre": "I have used Asap utilities since early\u2026",
+          "Contenu": "I have used Asap utilities since early 2000, it has been the most helpful tool to handle import/export sheets and files, to do changes to multiple files among many other things. Worth every cent!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 2,
+          "Date": "2023-01-23T15:24:27.000Z",
+          "Titre": "The added Excel functionality from ASAP\u2026",
+          "Contenu": "The added Excel functionality from ASAP has made me much more efficient for more than ten years. I have shown it to former accountants from Big 4 firms and they have purchased without hesitation."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Cameron Colbert-Olivas",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-24T18:42:59.000Z",
+          "Titre": "Never Looking Back!!",
+          "Contenu": "This tool has saved me so much time! AND frustration! I haven't even begun to dig in to all the capabilities but I can tell you, I won't ever use excel without this add-on in the future."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "A. Capaldo",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-08T13:42:08.000Z",
+          "Titre": "ASAP Utilities ordering",
+          "Contenu": "Order and download process are both easy.  We use ASAP Utilities every day and I'm sure we haven't even gotten close to using all of the great features it offers."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Bruce",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-12T17:26:58.000Z",
+          "Titre": "I've used ASAP Utilities for over ten years.",
+          "Contenu": "I've used ASAP Utilities for over ten years. It does those things you wish Excel could. It's easy to install and use. I don't need it every day but when I do, it's well worth having."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jon",
+          "Nb_Reviews": 3,
+          "Date": "2023-03-09T23:05:15.000Z",
+          "Titre": "Tool is amazing",
+          "Contenu": "Tool is amazing, couldn't do my job without it.Customer service is incredibly helpful and responsive.is there one more star somewhere that I can give this?"
+        },
+        {
+          "Note": 5,
+          "Lieu": "SE",
+          "Pseudo": "Samir Bjelanovic",
+          "Nb_Reviews": 6,
+          "Date": "2023-01-17T19:09:58.000Z",
+          "Titre": "Very useful and effective",
+          "Contenu": "Well, with those practical tools I became more effective and a lot of new analytical ideas came from the possibilities which I founded in ASAP. Very helpful solutions, and almost everyday using it. Thanks a lot."
+        },
+        {
+          "Note": 5,
+          "Lieu": "DE",
+          "Pseudo": "Guido",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T12:34:01.000Z",
+          "Titre": "A MUST in every office!",
+          "Contenu": "This little tool is just great. I offers a ton of useful tools that will save you hours of your valuable time. Recommended to everyone us uses Excel on a regular basis."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mitchell Hymowitz",
+          "Nb_Reviews": 2,
+          "Date": "2022-11-23T00:30:25.000Z",
+          "Titre": "Been using this for over 15 years",
+          "Contenu": "Been using this for over 15 years.  Quality software.Continuous improvement.  Upgrades included.  Overall, very well worth the few dollars he charges."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Alex",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-12T05:26:24.000Z",
+          "Titre": "Using It For Over Twenty Years and Still Impressed",
+          "Contenu": "I have been using ASAP for more than twenty years.  Bastien has always responded quickly.  ASAP Utilities is a great product and his quick responses to questions make it that much better."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Vishwanath Holla",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-01T14:29:01.000Z",
+          "Titre": "It is an amazing product I have used",
+          "Contenu": "It is an amazing product I have used.  What I admire most is the product saved many valuable hours.  Also very intuitive.Over the years, it has been updated promptly.He creator of this product is a good human.  He kept it free for personal use and for Non profit.  I admire such a noble intension."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NZ",
+          "Pseudo": "Deanna Lee",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-28T02:54:41.000Z",
+          "Titre": "Great app and fantastic customer service",
+          "Contenu": "I love ASAP Utilities and have used it for many years. Something went wrong with my installation recently and Bastien went above and beyond to help get it sorted."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "gary Loffredo",
+          "Nb_Reviews": 2,
+          "Date": "2022-11-10T20:17:35.000Z",
+          "Titre": "huge time saver on everything we do",
+          "Contenu": "huge time saver on everything we do. I have been using ASAP Utilities for many years and this was an additional license purchased for another team member."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "William Erosh",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-30T21:00:10.000Z",
+          "Titre": "Great product and customer service",
+          "Contenu": "Great product, extremely resporesponse time when questions arise.  Have used this add-on for quite a while and highly recommend it to everyone who will listen.nsive"
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "Jef Heyse",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-07T05:53:15.000Z",
+          "Titre": "Saves me lots of hours",
+          "Contenu": "Saves me lots of hours which I would need to manually do the tricks in Excel.Easy to integrate and update.It should also be offered as part of any Excel training!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "James Jackson",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-25T22:24:38.000Z",
+          "Titre": "ASAP Utilities has been an important\u2026",
+          "Contenu": "ASAP Utilities has been an important part of our production workflow for years. It is a huge time saver!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "mark anzelc",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-29T22:01:52.000Z",
+          "Titre": "I've been using ASAP utilities for\u2026",
+          "Contenu": "I've been using ASAP utilities for years.  It has become an essential tool.  And I have found that customer service has been responsive and helpful."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "WJP",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-03T09:31:37.000Z",
+          "Titre": "Long Time ASAP Utilities User",
+          "Contenu": "I've been using ASAP Utilities for years and cannot imagine not having it. Thank you for a wonderful, time-saving set of utilities."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "T McGee",
+          "Nb_Reviews": 2,
+          "Date": "2023-02-18T20:45:25.000Z",
+          "Titre": "#1 tool/utility for over 10 years. Can\u2019t live without it!",
+          "Contenu": "I have used ASAP utilities at home and in the office for over 10 years. It is my number one utility for ANY office applications. If I could only choose one, I would choose ASAP Utilities because of the value it adds. Speed, efficiency, accuracy. I really can\u2019t live without it.The amount of time that I save by using this utility is measured in hours not minutes. What would normally take me a couple of hours to organize data JUST so I can start working with it, now takes me 5 minutes. It\u2019s kind of my secret weapon. Colleagues come to me and ask me to help them with large spreadsheets because of the speed and efficiency afforded me by ASAP utilities. It\u2019s worth every penny and so much more. I don\u2019t write software reviews so I realize this is probably not technical enough and doesn\u2019t cover everything that I appreciate about this application. I guess the bottom line for me is the outstanding value it adds. Regardless, I am more than happy to write this review, especially considering the level of service I receive when I have a question. They\u2019re all over it and I am never left waiting for a response. Thank you!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ZA",
+          "Pseudo": "Carla dos Santos",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-20T07:58:11.000Z",
+          "Titre": "Received a quick response on my\u2026",
+          "Contenu": "Received a quick response on my request. I am very happy with the program as it assists me on my excell files. Thank you for the friendly service!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "JULIE SASSER-BURNES",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-17T04:50:09.000Z",
+          "Titre": "USED ASAP UTILITIES FOR OVER 10 YEARS",
+          "Contenu": "USED ASAP UTILITIES FOR OVER 10 YEARS - SHOCKED THAT I HAD TO REUP MY LICENSE BUT WILLING TO DO THAT AS ITS SUCH A TIME SAVER AND I COULD NOT BE PRODUCTIVE WITHOUT IT!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Jeff G",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-03T18:03:41.000Z",
+          "Titre": "Easy and secure online purchase.",
+          "Contenu": "Easy and secure online purchase.Digital key received extremely fast.The addins are a must have on all my computers.You will get more done. You will thank yourself and wonder why you waited so long to purchase"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Vernon R",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-22T02:00:42.000Z",
+          "Titre": "ASAP Utilities is one of the most\u2026",
+          "Contenu": "ASAP Utilities is one of the most essential tools available. I honestly don't know what I would do without it."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "Ivo van Nimwegen",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-23T19:21:03.000Z",
+          "Titre": "It's an easy to use add inn for Excel\u2026",
+          "Contenu": "It's an easy to use add inn for Excel to process and adjust data very quickly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "FR",
+          "Pseudo": "John N.",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-22T18:02:56.000Z",
+          "Titre": "Asap is great product at a reasonable\u2026",
+          "Contenu": "Asap is great product at a reasonable price. I only use it occasionally, but when I do it's invaluable. Updates are frequent."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NZ",
+          "Pseudo": "Ann Cooper",
+          "Nb_Reviews": 2,
+          "Date": "2023-03-01T05:25:10.000Z",
+          "Titre": "ASAP - Fantastic product extension to EXCEL",
+          "Contenu": "ASAP = Fantastic product extension to EXCEL.  Saves time and various options available.  Have been utilising for a number of years."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Martin Smith",
+          "Nb_Reviews": 8,
+          "Date": "2023-08-21T08:18:46.000Z",
+          "Titre": "ASAP Utilites is a real time saver",
+          "Contenu": "ASAP Utilites is a real time saver. Makes XL easy or easier for a very average user like me. Very intuitive to use too."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Alfred Eaton",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-12T22:36:07.000Z",
+          "Titre": "I have used ASAP Utilities for several\u2026",
+          "Contenu": "I have used ASAP Utilities for several years and find it very useful.  It makes multiple Excel tasks much easier and faster."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "paul levin",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-23T22:15:51.000Z",
+          "Titre": "I've used ASAP for years",
+          "Contenu": "I've used ASAP for years - always saves time and trouble.  Got a second computer and wanted a separate license."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "David Weaver",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-19T23:09:22.000Z",
+          "Titre": "ASAP consistently makes challenging\u2026",
+          "Contenu": "ASAP consistently makes challenging Excel issues much easier to resolve. Its a must have tool for our Excel users."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IE",
+          "Pseudo": "E GALLAGHER",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-11T13:42:27.000Z",
+          "Titre": "ASAP utilities delivers everything it\u2026",
+          "Contenu": "ASAP utilities delivers everything it promises to deliver and have done so for many years now. Would recommend"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Tim",
+          "Nb_Reviews": 2,
+          "Date": "2023-02-28T21:06:33.000Z",
+          "Titre": "Amazing",
+          "Contenu": "The service, support and the product are superb. This is an investment that pays for itself over and over with the time savings and I've never had a more responsive, online customer service experience."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "WK",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-22T23:51:26.000Z",
+          "Titre": "Quick, easy, and friendly",
+          "Contenu": "Quick and easy to get licenses and an easy setup for Excel. Friendly and responsive customer support from Bastien."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Brenda B",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-20T19:01:03.000Z",
+          "Titre": "Great software",
+          "Contenu": "Makes certain data conversion and clean up a lot easier. Easy to use with no issues with the plug in!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IT",
+          "Pseudo": "Barbara Magnoni",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-18T10:31:07.000Z",
+          "Titre": "Very useful tool",
+          "Contenu": "Very useful tool! I'm still using it after a lot of years and I can't do without it! You can easily speed each process, data mining and more, love it!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Salman Yousafzai",
+          "Nb_Reviews": 2,
+          "Date": "2023-10-25T16:45:44.000Z",
+          "Titre": "Wow really good experience with This\u2026",
+          "Contenu": "Wow really good experience with This app its Amazing"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dianne Kelm",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-22T19:21:27.000Z",
+          "Titre": "I've used this program for years",
+          "Contenu": "I've used this program for years, and I buy licenses for my new staff whenever I change jobs. It is a huge time-saver. Yes, you could create your own macros or work-arounds to clean up data, but why?! They've already done it for you."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Steve Archer",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-22T16:06:17.000Z",
+          "Titre": "I use ASAP Utilities Daily",
+          "Contenu": "I use ASAP Utilities Daily. Many great time saving functions! Support is great too. Always a quick reply to any questions."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Yusuf Moolla",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-12T14:17:40.000Z",
+          "Titre": "I\u2019ve used ASAP utilities for about a\u2026",
+          "Contenu": "I\u2019ve used ASAP utilities for about a decade now and it has saved me thousands of hours. Highly recommended."
+        }
+      ]
+    }
+  ]
+}

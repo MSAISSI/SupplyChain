@@ -1,0 +1,117 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "www.neothek.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "MX",
+          "Pseudo": "Christel",
+          "Nb_Reviews": 2,
+          "Date": "2018-05-14T15:31:42.000Z",
+          "Titre": "All our mails dissapeared",
+          "Contenu": "All our mails dissapeared. Only part could be restored. That is the worst thing that can happen to a Company. It took forever to resolve, because you cannot call by telefone, only way to communicate is by email."
+        },
+        {
+          "Note": 5,
+          "Lieu": "BO",
+          "Pseudo": "cliente",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-19T15:28:37.000Z",
+          "Titre": "Las notificaciones son oportunas"
+        },
+        {
+          "Note": 5,
+          "Lieu": "DO",
+          "Pseudo": "Yuri Garcia",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-22T21:56:57.000Z",
+          "Titre": "Best",
+          "Contenu": "The best services of domain management, 5 star."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Candido Cruz",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-09T23:22:28.000Z",
+          "Titre": "Excelente servicio al cliente",
+          "Contenu": "Excelente servicio al cliente. Profesionales con vasto conocimiento."
+        },
+        {
+          "Note": 5,
+          "Lieu": "VE",
+          "Pseudo": "Pedro",
+          "Nb_Reviews": 6,
+          "Date": "2018-05-09T15:56:26.000Z",
+          "Titre": "Excelente - Great",
+          "Contenu": "Muy buen servicio y precios muy solidarios.  Great service and very affordable pricing."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Alfredo Wolfermann",
+          "Nb_Reviews": 1,
+          "Date": "2020-10-28T16:03:27.000Z",
+          "Titre": "Customer service",
+          "Contenu": "This company respond very fast instantly and also they want to help you"
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "Freddie",
+          "Nb_Reviews": 2,
+          "Date": "2020-05-28T18:36:20.000Z",
+          "Titre": "cool",
+          "Contenu": "service is prety cool,very attentive staff"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PA",
+          "Pseudo": "William",
+          "Nb_Reviews": 1,
+          "Date": "2018-08-21T14:36:02.000Z",
+          "Titre": "Excellent service.",
+          "Contenu": "Never experienced any problems with Neothek."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GT",
+          "Pseudo": "Coralia, Malinche Translations",
+          "Nb_Reviews": 1,
+          "Date": "2020-12-21T03:26:41.000Z",
+          "Titre": "Customer support",
+          "Contenu": "Great and fast customer support!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "SV",
+          "Pseudo": "Romeo Munoz",
+          "Nb_Reviews": 1,
+          "Date": "2021-01-05T17:27:21.000Z",
+          "Titre": "very easy",
+          "Contenu": "Quick and easy purchase process"
+        },
+        {
+          "Note": 5,
+          "Lieu": "EC",
+          "Pseudo": "Jord\u00e1n",
+          "Nb_Reviews": 2,
+          "Date": "2022-02-20T18:32:28.000Z",
+          "Titre": "Bueno",
+          "Contenu": "sin incovenientes"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CR",
+          "Pseudo": "Kattia  Arce Trimedical",
+          "Nb_Reviews": 1,
+          "Date": "2021-02-13T00:28:15.000Z",
+          "Titre": "bueno",
+          "Contenu": "xxxxxxxxxxx"
+        }
+      ]
+    }
+  ]
+}

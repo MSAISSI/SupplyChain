@@ -1,0 +1,53 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "www.independanceroyale.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "FR",
+          "Pseudo": "CHAUWIN DOMMINIQUE",
+          "Nb_Reviews": 2,
+          "Date": "2019-04-06T11:00:22.000Z",
+          "Titre": "Pose mal faite",
+          "Contenu": "Pose mal faite Nombreuses anomalies On attend r\u00e9paration En plus ns r\u00e9clame 180 euros en plus du devis De qui se moque ton ?"
+        },
+        {
+          "Note": 4,
+          "Lieu": "FR",
+          "Pseudo": "LAMARRE ALBAN ET MARTINE",
+          "Nb_Reviews": 1,
+          "Date": "2019-10-13T13:37:13.000Z",
+          "Titre": "Prestations fournies correspondants \u00e0\u2026",
+          "Contenu": "Prestations fournies correspondants \u00e0 nos attentes. D\u00e9lais respect\u00e9s."
+        },
+        {
+          "Note": 4,
+          "Lieu": "FR",
+          "Pseudo": "kammacher",
+          "Nb_Reviews": 8,
+          "Date": "2017-09-19T15:53:33.000Z",
+          "Titre": "construction impeccable"
+        },
+        {
+          "Note": 5,
+          "Lieu": "FR",
+          "Pseudo": "laure.ahadosfr.fr",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-25T12:01:50.000Z",
+          "Titre": "mes parents ont etes tres contents",
+          "Contenu": "mes parents ont etes tres contents: du representant et de l equipe vqui a installe."
+        },
+        {
+          "Note": 5,
+          "Lieu": "FR",
+          "Pseudo": "DEPRET MICHEL",
+          "Nb_Reviews": 2,
+          "Date": "2018-10-09T14:27:47.000Z",
+          "Titre": "excellent travail"
+        }
+      ]
+    }
+  ]
+}

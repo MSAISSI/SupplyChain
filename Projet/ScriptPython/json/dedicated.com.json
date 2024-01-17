@@ -1,0 +1,370 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "dedicated.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "DE",
+          "Pseudo": "Serhii Pyshniuk",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-19T20:28:59.000Z",
+          "Titre": "The provider is perfect for masochists\u2026",
+          "Contenu": "The provider is perfect for masochists who love to be insulted in the support chat. RDNS support did not work on the server control panel, which support was unable to fix within 5 days. After 5 days of downtime for our product, I received not an apology, but an offer to update the RDNS through the support chat instead of the panel. Okay, I agreed to this decision, but after asking to update the RDNS in the chat, I received from a company employee a portion of insults and accusations that I was a scammer/spammer and their services were not for me, after which my server was canceled (thank you, at least the money was returned )I am very glad that your employees use RDNS extrasensory abilities to determine everything about the client, but I expected to get a regular working server and not insults and almost a week of project downtimeI'm surprised that anyone even works with you"
+        },
+        {
+          "Note": 1,
+          "Lieu": "DE",
+          "Pseudo": "Denis",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-31T10:57:24.000Z",
+          "Titre": "very bad fixing of the problem",
+          "Contenu": "Answer was quick but so unprecise that me as a normal person could not work with that information. so problem still not resolved."
+        },
+        {
+          "Note": 1,
+          "Lieu": "SE",
+          "Pseudo": "TMKC",
+          "Nb_Reviews": 2,
+          "Date": "2021-05-30T06:41:53.000Z",
+          "Titre": "Do NOT use Dedicated.com",
+          "Contenu": "Do NOT use Dedicated.comI ordered a server from them. The server was setup and ready to use instantly after payment.The issues started about 5 minutes later.  I was trying to install Linux onto the box, but the Control Panel is TERRIBLE. It has a automated installation for most operating systems, but if you choose Linux, the installer won't work due to RAID bs.  It does not matter what RAID level you set it as, it is still not going to install.I contacted Support about this issue, and they blamed it on that \"I\" messed up, when I did everything exactly as it should be done through the Control Panel.They also claim \"100% uptime\" in their SLA, which is not even LEGAL! You can not claim 100% uptime. The highest you can claim is 99.99%.And the worst part is, that you can not even GET A REFUND for the order.  The ONLY kind of a \"refund\" is to account credit, which is not even guaranteed that you'd get due to their ToS.This provider is complete bs to use.  You'd be better off using something like Hetzner, OVH, Server4You or even CONTABO!"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Donnie",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-26T22:36:31.000Z",
+          "Titre": "Bad service, bad attitude.",
+          "Contenu": "I'm in the process of scaling out my infrastructure to support the release of my product so I ordered an extra server in Chicago. The point of scaling out is to build up two Nomad clusters, one in Dallas and one in Atlanta for HA/redundancy.  Due to technical issues on your end in Chicago, the OS install kept getting stuck at 20%.  I opened a ticket and Damian replied and said there was an outage and they were working on it. Okay, I get it. The outage page he forwarded me said it should be back up within an hour.  An hour went by, two hours, three hours... the whole day.  I came back the next morning, still down and one 13 hour old notice apologizing for the delay. Remember, I'm needing these additional servers for fault tolerance.   Anxious to get my servers online so I can start testing, I looked into it more the night before and saw that there were two servers, slightly better than the one in Chicago so more expensive, and there was one available in each datacenter where my other two servers already were. So I purchased those and started the OS installs and replied to the ticket to ask for a refund for the Chicago server I was never able to access.  The next morning, I came back to find that one of them had booted up and was ready but the other one hadn't so I tried restarting it a few times and navigating through the site trying to figure out how to access it another way. Nothing worked. Same as the one in Chicago only this time it would get stuck at 60%.  I got a reply to my ticket later saying it was against the TOS to refund but I could get a credit.  Okay?  I mean, I was never even able to log into it because of the outage on your end but thanks for not making me pay for something you never gave me? Whatever, no big deal.  I was polite and said thank you and explained the other issue with the server in Dallas.Damian replies later and says \"some have raid cards\" or something to that effect implying that they were configured differently.  This is another red flag.  I don't want to have to deal with different server configurations in my CM tools and end up with a bunch of frankenservers and one-offs.  I'm definitely not starting out that way.  So I asked if it could be moved to a different box so they were the same and he said there were none left as \"it shows on the front page\".  At this point, I'm not only frustrated with the lack of progress I've made in the last two days and disappointed that my first attempt at scaling out my solid well organized fault tolerant plan that's been in the works for the last two years is off to such a rocky start, now I'm dealing with one of your support tech's attitude as well.So I decided to cancel the two servers, one of which again, I was never able to log in to, and made sure they were cancelled immediately to free them up for someone else and politely asked for credit for them. Damian comes back and gives me the \"okay but this is the last time\" speech.Just so we're clear.  I didn't just waste the last two days trying to restart OS installs and suddenly change my mind because I thought it would be fun.  I backed out of those purchasing those servers from you out of lack of trust and satisfaction with your services. I wasn't even able to access them.Now Damian seems to think this was all somehow my fault and I need to be taught a lesson and be careful about the rules of the TOS in the future.  And I'm considering whether or not I want to continue doing business with you at all."
+        },
+        {
+          "Note": 1,
+          "Lieu": "IN",
+          "Pseudo": "Philip",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-27T06:42:15.000Z",
+          "Titre": "There was a serious downtime of almost\u2026",
+          "Contenu": "There was a serious downtime of almost 4 days"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "C.",
+          "Nb_Reviews": 2,
+          "Date": "2020-01-12T20:08:00.000Z",
+          "Titre": "Don't use dedicated.com",
+          "Contenu": "I got off lightly here. Whatever you do don't use this company. dedicated.com is a waste of time and sucks!"
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Dave",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-23T05:18:31.000Z",
+          "Titre": "They only got one support guy answering\u2026",
+          "Contenu": "They only got one support guy answering all the questions. I don't care which location the server is, they should have more support reps. You'll get a simple answer the next day because probably the only support rep available is either overloaded with too many tickets or in sleep during off business hours. Not very helpful on urgent situation when you're abroad or on the road with different time zone. Their security is also lacking as there is no firewall for port blocking at the router level. The price may be competitive but you get what you pay for if you don't mind with the challenges of tackling on your own and facing security issues."
+        },
+        {
+          "Note": 2,
+          "Lieu": "DK",
+          "Pseudo": "Mikkel",
+          "Nb_Reviews": 1,
+          "Date": "2020-09-16T08:44:49.000Z",
+          "Titre": "They started out great",
+          "Contenu": "They started out great, but has gone drastically down hill. Pros: - Network is stable.- DDoS protection is average.Cons:- Prices are super high. (With extra transaction fees added to each bill)- Panel constantly breaks. - Graphs barely work. - Reinstall often freeze and you need support, whom will barely do their job. - KVM breaks all the time, and need support assistance to work again.- Support is below average. Will not do ANYTHING to help you, if they believe its anything to do with software. - They barely take responsibility for their outdated hardware when faulty. Spending more time to prove its your responsibility, not theirs.- They offer no new hardware options (>2 years old)"
+        },
+        {
+          "Note": 3,
+          "Lieu": "BE",
+          "Pseudo": "C\u00e9dric",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-04T09:13:29.000Z",
+          "Titre": "Not so bad",
+          "Contenu": "A good price vs quality for a dedicated servers.Some outages (the last lasted more than 2 days ;) )... but still ok.The support answers quickly during working hours. The answers are not always precise, but in the end with a little patience, you arrive at the result."
+        },
+        {
+          "Note": 3,
+          "Lieu": "CL",
+          "Pseudo": "Jha",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-26T23:07:06.000Z",
+          "Titre": "The last failure left us offline for 53\u2026",
+          "Contenu": "The last failure left us offline for 53 hours, which is unpresentable for a service that is contracted to have continuity in the systems. The support limited itself to saying that we applied our contingency plan and that they depended on fire department to reactivate the service. Everything unpresentable, of the greatest irresponsibility. They sent a technical report of what happened a week later and with a mediocre explanation. It shows that they are not interested in good service but only charging. I am very dissatisfied with this service and we feel highly insecure with the system. A few days ago we tried to request a new server to migrate the current one and update, but it was not possible either because they do not have the machines that are needed or do not understand the requirement or are not interested in doing so."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Crazyace",
+          "Nb_Reviews": 3,
+          "Date": "2022-12-26T05:33:59.000Z",
+          "Titre": "I passed and kept looking",
+          "Contenu": "Wasn't able to give them a try but look for yourself."
+        },
+        {
+          "Note": 4,
+          "Lieu": "IN",
+          "Pseudo": "Arpit",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-25T03:17:14.000Z",
+          "Titre": "Service is Good",
+          "Contenu": "Service is Good, Support is Ok. Uptime is very good."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Pete",
+          "Nb_Reviews": 3,
+          "Date": "2022-07-20T08:26:30.000Z",
+          "Titre": "I have been a data center technician\u2026",
+          "Contenu": "I have been a data center technician for many years. As a new TrustPilot user, I would remiss if I didn't review some of the companies I have worked on/for. I remember when Dedicated was a 1/2 rack and called LA Dedicated. What they have pulled off in the years since, shows that they have a recipe for success. Few companies know how to build a network properly. Dedicated is one of them."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "Stan van de Klippe",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-05T03:05:57.000Z",
+          "Titre": "I have been working with dedicated.com\u2026",
+          "Contenu": "I have been working with dedicated.com for the past couple of months, we rent multiple full racks from them and it has been nothing short of amazing, friendly support, quick replies, and most importantly the ability to think outside of the box. They are truly dedicated (pun intended) to helping you! Matthew, you rock!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "DE",
+          "Pseudo": "Customer",
+          "Nb_Reviews": 5,
+          "Date": "2023-08-12T10:12:17.000Z",
+          "Titre": "Happy to work with Dedicated.com",
+          "Contenu": "Happy to work with Dedicated.com. Dedicated.com is a reliable provider. After bad experiences with other providers in the US we went to Dedicated.com and since we are there everything is okay. Unfortunately there was a 2 days downtime in NYC but this was because of the fire dep caused by issues in the DC. The support is fast and will help you with problems. Sometimes you have to bug them but in the end they will help you. The prices are  absolutely fair for the service!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "J.P. Downpatrick",
+          "Nb_Reviews": 4,
+          "Date": "2023-07-24T19:21:34.000Z",
+          "Titre": "Reliable service at reasonable rates",
+          "Contenu": "Dedicated.com for the most part (within their control) provide reliable dedicated servers at a reasonable rate.Their customer service is A1 when I need to use themI'd like to see online GUI access to change IPv6 reverse entries without having to open a support ticket to get a human to make the change"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Thomas Chung",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-31T18:29:39.000Z",
+          "Titre": "Great Support.",
+          "Contenu": "Great Support.Unfortunately, they don't offer Debian 12 yetBut, they informed me they will offer Debian 12 in near future. Finger crossed.(Updated 2023.07.31)Yes, I confirm Debian 12 is now available on Control Panel and it's very easy to re-load OS with Debian 12. You have my vote."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Tom",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-24T19:46:40.000Z",
+          "Titre": "we collocate 4 servers across 2 of\u2026",
+          "Contenu": "we collocate 4 servers across 2 of there sites. Customer service is excellent, price is very reasonable, had the odd blip, but neither in my opinion were directly the result of dedicated.com's actions or lack of knowledge, there comms during these blips was very good, which is all you can ask during incidents. The control panel synergyCP is very good also and a nice addition to the colo service compared to iDRAC being open to the entire web like with other colo facilities we have used.  Connectivity is good and all in I cant really say anything negative. Would recommend for colocation all day long."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "LWSLLC",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-26T23:22:10.000Z",
+          "Titre": "Best Company I've Hosted a Server With",
+          "Contenu": "I've had web servers with various companies over the last 15+ years and Dedicated is the best. I've been a customer for 2 years and the support and quality of service is excellent. Support is polite and helpful, my server is hardly ever down, and ample warning is given for scheduled maintenance that may affect my server."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Richard S",
+          "Nb_Reviews": 9,
+          "Date": "2023-06-26T23:04:49.000Z",
+          "Titre": "Dedicated.com are a thumbs up!",
+          "Contenu": "I've been hosting on and off with dedicated.com for the past 3 years and I have to say, I've never really had any problems. They're good at replying to tickets, the servers are as advertised and there's no horrible packet shaping that can limit your server. Damian is lovely and always friendly and helpful. I would recommend this company and I've used a fair number of hosting companies over the intervening decades."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Peter",
+          "Nb_Reviews": 5,
+          "Date": "2023-04-17T18:06:49.000Z",
+          "Titre": "Recommended",
+          "Contenu": "Recently purchased 3x Ryzen 5900X servers from Dedicated.com across 3 separate locations and I have been impressed thus far. I am planning to transition more machines from other providers.Damian from support was helpful with getting my requested OS installed (which was not initially supported in the installer) and everything has been rock solid ever since. Also a big fan of the SynergyCP control panel which I wish more providers used.Overall, highly recommended!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Brian",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-24T19:22:08.000Z",
+          "Titre": "Damien is an amazing support tech",
+          "Contenu": "Damien is an amazing support tech. Our experience with Dedicated.com has been amazing. We will continue to use them into the future."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Karthik Sankar",
+          "Nb_Reviews": 3,
+          "Date": "2023-07-31T21:22:28.000Z",
+          "Titre": "Unlimited Bandwidth, Fast network ports",
+          "Contenu": "We need multiple dedicated servers with different hosting companies, to host our docker containers. Dedicated provides, unlimited bandwidth plans (though we use very less bandwidth), fast network ports and ssd drives. Dedicated's admin console has decent features comparable or better than our other hosting companies."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Spades Slick",
+          "Nb_Reviews": 3,
+          "Date": "2023-02-16T03:45:01.000Z",
+          "Titre": "Reliable service and support",
+          "Contenu": "Reliable service and support. For the past 6 months of using Dedicated.com, I've probably only had 1 minute of downtime. My servers have never been downed or nulled on their free ddos protection. They appear to be working proactively on their mitigation. A Hetzner server on the other hand, can be downed from a well-structured 1gbps attack, and staff there is no intervention or very little assistance. DDoS protection is never a simple solution. Good protection requires staff to be proactive, diligent and knowledgeable. Dedicated.com's team have shown me the dedication and lived up to their name: They keep their uptime high, and respond to tickets kindly and rapidly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Clay",
+          "Nb_Reviews": 1,
+          "Date": "2022-01-24T14:58:15.000Z",
+          "Titre": "Fantastic!",
+          "Contenu": "We've worked with the Dedicated.com team for over five years now and have nothing but great things to say about their overall service and support. We operate a variety of hardware in each of their locations to establish our North American footprint. By hosting on Dedicated's networks, our customers are able to enjoy the lowest latency and best DDoS protection in the industry. I frequently recommend them to anyone in search of an IaaS provider."
+        },
+        {
+          "Note": 5,
+          "Lieu": "VN",
+          "Pseudo": "Phong",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-25T09:48:34.000Z",
+          "Titre": "Great provider with great service",
+          "Contenu": "Great provider with great service. Been with this provider for more than two years. Great experience"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 2,
+          "Date": "2023-03-07T09:43:11.000Z",
+          "Titre": "Impressive provider",
+          "Contenu": "We are actually somewhat a competitor of US Dedicated.  We own and operate our own network hosting approximately 16,000 users.  But we needed a spare machine based in LA to host an Email server failover for our network, preferably on a different AS, in a different location geographically from where our primary was.    We came across US Dedicated randomly when looking to source a single server in Chicago.  These guys surprised us, no downtime. The website was sleek, they put a ton of effort into automation as well as building their control panel and infrastructure out.  This is not easy to do by any means.  The network itself was very quick and stable, perhaps they were an INAP customer.  There are not many small hosts like this left anymore.   Have to give them credit.  We ended our contract because we no longer needed the server.  The only downside is that they do not seem to like to communicate too much, which is a mistake because had they engaged our sales requests more at the time we could have possibly sent them 2 cabinets of data center colo equipment.  Since they were unresponsive we opened a few cabinets presence in Quadranet LA."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AE",
+          "Pseudo": "Alex",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-17T16:00:31.000Z",
+          "Titre": "Best Colocation in US",
+          "Contenu": "For the past four years, Dedicated.com has been a reliable and trustworthy provider for our business. The customer experience has been exceptional, with consistent network uptime and dependable support. The network latency has been stable. The timely delivery of servers has been a key factor in our success. One aspect that really stood out for us was the hassle-free migration from one data center to another, without any downtime on the network side, and the ability to move the same IP subnets. This was a huge benefit for us, and we appreciate the seamless transition that Dedicated.com provided. (we did it one more time to increase the power capacity)Of course, none of this would have been possible without the knowledge and dedication of the team at Dedicated.com. In particular, Matt's experience and dedication have been invaluable in helping us improve our setup. His immaculate attention to detail and willingness to go above and beyond has been a true asset to our business.Overall, we highly recommend Dedicated.com to anyone looking for a reliable and supportive provider. Their commitment to excellence and reliable services make them a top choice in the industry of colocation and hosting."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Edward S",
+          "Nb_Reviews": 7,
+          "Date": "2022-12-26T08:20:54.000Z",
+          "Titre": "Dedicated.com is a stellar IaaS provider",
+          "Contenu": "We've been with Dedicated.com since 2018. We went from a Managed Colo customer to a full Cabinet Colo customer in this time frame.I can't speak for their other services but as a colo customer, we've had zero network and zero power downtime since 2018. This to me is the definition of 100% uptime. Matt and his team know how to build reliable and proven network infrastructure and I can't speak any more highly of him. I will admit, our relationship, in the beginning, started off rocky due to some issues regarding how the company handles remote hands support. But, we decided to look past this incident and continue our relationship with Dedicated.com. I'm very glad we did. The data that we host in the data center is mission-critical to the success of our clients. If I can trust Matt to take care of our network needs, you can too.Matt and his team continue to improve the Dedicated.com network and so long as they keep their service top-notch, we will be a customer. You can't go wrong with Dedicated.com."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Johnny",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-24T19:37:14.000Z",
+          "Titre": "Excellent service",
+          "Contenu": "Excellent service, price and support. Can\u2019t ask for any better. Been with them for 4+ years"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Cygnostik",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-24T19:28:09.000Z",
+          "Titre": "Great company all around",
+          "Contenu": "Great company all around. Good servers, good pricing, good service, good support."
+        },
+        {
+          "Note": 5,
+          "Lieu": "UY",
+          "Pseudo": "gt",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-24T19:41:47.000Z",
+          "Titre": "Colocation Center",
+          "Contenu": "Placed a dell server and for now very good  service and support exp"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Peter Orville",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-24T19:24:14.000Z",
+          "Titre": "Been with dedicated for almost 4 years\u2026",
+          "Contenu": "Been with dedicated for almost 4 years now and they never disappoint."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Richard M",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-26T19:20:05.000Z",
+          "Titre": "Dedicated.com offers a full range of\u2026",
+          "Contenu": "Dedicated.com offers a full range of dedicated hosting services with reliable and robust data centers in convenient locations."
+        },
+        {
+          "Note": 5,
+          "Lieu": "UA",
+          "Pseudo": "Oleh Koval",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-24T20:30:37.000Z",
+          "Titre": "Good Hosting",
+          "Contenu": "Good hosting at an affordable price."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Adam Gunderson",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-15T00:39:57.000Z",
+          "Titre": "Very smooth and transparent experience",
+          "Contenu": "Very smooth and transparent experience. Select a server in stock and be up and running within minutes."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ricardo Perez",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-04T17:13:13.000Z",
+          "Titre": "Recommended",
+          "Contenu": "Network latency in Chicago is the lowest out there.100% uptime for 2 years now."
+        },
+        {
+          "Note": 5,
+          "Lieu": "RU",
+          "Pseudo": "Michael",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-24T19:21:18.000Z",
+          "Titre": "Great reliability",
+          "Contenu": "Great reliability, simple and clear web-interface. Great thanks!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Aidan",
+          "Nb_Reviews": 5,
+          "Date": "2022-12-28T22:35:16.000Z",
+          "Titre": "Superb company that never lets you down!",
+          "Contenu": "We've used US Dedicated for around 7 years now and I have to say they're second to none! Highly recommend them, you will not be disappointed. It\u2019s extremely rare in the industry to have such amazing people like them.They\u2019re one of, if not the, best server infrastructure companies that we\u2019ve found in the US and we always continue to use them rather than going direct with datacenters due to the unparalleled service and support they give to us.Our infrastructure with them currently consists of 8 colocation racks across 4 locations and their support and assistance with our equipment is something we\u2019ve never had before. We\u2019ve had zero power downtime in any of the cabs with them, we operate our own network in most locations however use theirs too and it\u2019s been an extremely good experience overall \u2013 no issues with ddos attacks either, their protection works well.Recently signed a new contract with them to move 2 cabs in New York from Coresite to their cage in INAP and had the COO of the company Matt helping us move and ensuring we had everything we needed (including grabbing us some lunch which was much appreciated)! When we setup our LA/CHI locations they sent someone out to help us too and when we got ourselves some cabs in Dallas, we had the pleasure of meeting quite a few of their team (including the main man himself, Robby) as during the time we moved in they had been migrating between two datacentres.What makes them superb is the fact that during times of peak demand they offer dedicated servers that we can purchase that are available instantly, which allows us to scale painlessly without ordering equipment, waiting around, etc.On occasion we have to contact their support for example when we are getting deliveries or we need a cross-connect done, remote hands, et la, the responses come quite fast and usually from Damian (who is one of the most knowledgeable support staff I\u2019ve ever had to deal with, absolute legend), they get our queries handled well. They have a phone number too, fast to answer and you get a human on the line that is US based!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Andrew",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-24T19:23:34.000Z",
+          "Titre": "Solid uptime and predictable communication",
+          "Contenu": "Solid uptime and predictable communications on maintenance."
+        }
+      ]
+    }
+  ]
+}

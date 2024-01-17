@@ -1,0 +1,471 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "www.webhostpython.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Michael",
+          "Nb_Reviews": 22,
+          "Date": "2020-01-25T15:04:35.000Z",
+          "Titre": "They don't even fluff you up on the honeymoon.",
+          "Contenu": "Was referred by a trusted friend. But my experience so far has been very different.Right off the bat these guys have been extremely lazy. The first thing I noticed is that their \"24/7 live support\" does not actually exist. It's all a ticket system, yet they still advertise live chat support.Prior to requesting migration, I spend 8 hours configuring my websites to make it easy on them and even asked them for the best practices and offered to migrate the sites myself, since I insisted they be done one by one (for many, many reasons).Instead, they just migrated my entire hosting account in one shot, which is exactly what I did not want (for many, many reasons) and then they tell me \"yeah, just delete anything you don't want\".Definitely regretting this so far. They refunded. Moving on."
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Chris A.",
+          "Nb_Reviews": 4,
+          "Date": "2023-06-20T14:23:16.000Z",
+          "Titre": "Cheap hosting, but crappy customer support",
+          "Contenu": "Their hosting packages are cheap and include lots of features, so it looks good up front.  Unfortunately, their customer support personnel seem either inept or unwilling to help customers with bigger issues.  I've used 3 different webhosts before WebHostPython, and I have had 10x MORE support tickets in to fix things.  Now, they're just placing support tickets on hold without answering them, on top of not answering their phones.  It's like their customer support all just vanished.  I've tried calling every day for over 7 days.  I've had tickets waiting over a week, and they're simply placed on hold without responses.  Even after I update the ticket to keep it open, they simply place them on hold again, still without a single word in reply.  I would avoid this webhost."
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Bryan Gilchrist",
+          "Nb_Reviews": 1,
+          "Date": "2022-03-21T19:52:55.000Z",
+          "Titre": "Good servers, lousy customer relations",
+          "Contenu": "Was with WHP for about two years before they decided one day to arbitrarily suspend my entire server because they thought I had \"retaliated\" against them due to the fact that there was an issue with an email from one of my clients. They never investigated the issue, never gave me a chance to respond, and corresponded with me in a VERY unprofessional way."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "White",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-05T13:51:09.000Z",
+          "Titre": "Support is excellent",
+          "Contenu": "Support is excellent.  Some features such as web socket and celery are not supported, at least not on the plan I have."
+        },
+        {
+          "Note": 5,
+          "Lieu": "LK",
+          "Pseudo": "ulaganathan chartheepan",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-08T10:09:50.000Z",
+          "Titre": "Impressive 6+ Years with My Reseller Hosting",
+          "Contenu": "With over six years of experience, I can confidently say that my reseller hosting provider is a top-notch choice. The pricing is affordable, the technical support is superb, and the uptime is rock-solid. I wholeheartedly recommend this company for anyone looking for reliable reseller hosting."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Robert",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-06T22:07:21.000Z",
+          "Titre": "Outstanding Experience in every respect",
+          "Contenu": "I have been continuously using Webhostpython.com for over ten years now.  The hosting services are extremely reliable and the customer service regarding technical matters which are typically not even hosting related are beyond reproach.  If every service I have utilized over the past 60 plus years was run as well as this company, I would have no gray hairs.  Highly recommend."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Stephanie Steves",
+          "Nb_Reviews": 2,
+          "Date": "2023-10-05T18:15:50.000Z",
+          "Titre": "The customer service is amazing",
+          "Contenu": "The customer service is amazing! They are always super helpful and any issue that arises gets solved quickly. I recommend this company to everyone I can."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Pete",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-09T21:12:00.000Z",
+          "Titre": "Outstanding! Hosting very reliable....",
+          "Contenu": "We have been with Webhost Python for many years since 2017, the support service is Outstanding! Hosting very reliable fast and professional services when an issue arises they are on it right away.  when comparing hosting companies at a 365 degrees approach Webhost Python beats them all hands down! And how can I say this Because I have used them all GoDaddy, Hostgator, Blue. Rackspace, Orange, WP Engine etc. before coming here so I know!  We absolutely love this company and highly recommend."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Keith C",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-27T22:37:46.000Z",
+          "Titre": "WebpythonHosting a hosting company that is more",
+          "Contenu": "I have been hosting with Webhostpython for many years not and I will not be leaving, my problems regarding my websites become there problems and they are 100% customer service and customer oriented.Keep up the good work."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Steve bee",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-08T22:45:58.000Z",
+          "Titre": "Excellent and Reliable Hosting",
+          "Contenu": "Webhostpython offers are good value and their client service is responsive and effective.The services on offer are clearly set out and without hidden tricks, which is something one can really, really appreciate these days."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mark Scheyder",
+          "Nb_Reviews": 4,
+          "Date": "2023-08-09T23:43:22.000Z",
+          "Titre": "Excellent customer service",
+          "Contenu": "Every time i have an issue from mail servers, name servers or even Word Press. IT GETS RESOLVED, FAST. They have a fantastic support team. My websites work seamlessly and as long as i do my part, they're fast. I won't switch hosting providers as long as webhostpython is in business. Stay the course."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Divraj",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-10T17:43:11.000Z",
+          "Titre": "Fast Speed, Affordable Pricing, Instant Support & Services",
+          "Contenu": "I have been using Webhostpython.com hosting website for over 8 years and I am very satisfied with their service. The speed is fast, the pricing is affordable, and the support is quick and helpful. The best part is their quick support as they even help in resolving any issues encountered on the websites which I think no other hosting companies will ever provide. I would highly recommend this hosting website to anyone looking for a reliable and easy-to-use web hosting solution."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "jAC",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-10T02:07:28.000Z",
+          "Titre": "Great customer service",
+          "Contenu": "Great customer serviceI have been using webhostpython for just over 6 years and they have been absolutely fantastic to deal with. They help you with whatever you need and super fast. If they don't have an answer they help you find it."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Lou & Jenna",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-05T22:32:09.000Z",
+          "Titre": "These guys have a wonderful service and\u2026",
+          "Contenu": "These guys have a wonderful service and support team. I am so happy that we switched over to webhost python. Thanks for everything guys! Highly recommended."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Zach Coder",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-25T22:17:25.000Z",
+          "Titre": "Absolutely Stellar customer\u2026",
+          "Contenu": "Absolutely Stellar customer satisfaction. They have never let me down. Each time I have a question or issue I can't resolve on my own, their team is so super speedy and knowledgable. 10 out of 10 would recommend!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kody Ahrens",
+          "Nb_Reviews": 1,
+          "Date": "2020-06-09T22:11:41.000Z",
+          "Titre": "I have absolutely nothing bad to say\u2026",
+          "Contenu": "I have absolutely nothing bad to say about Webhostpython! They have been incredible since day one of working together (About 2-3 years ago) and as a small business, have far exceeded the level of performance and customer service any big box company could come close to providing. The team always goes above and beyond anytime I ask for something. Other companies like GoDaddy will make you wait on hold and then be greeted by an untrained rep who's sole job is just to try to sell you more crap. If you're looking to support a small but mighty business, please give Webhostpython a try! I assure you, you won't regret it."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Athanatos",
+          "Nb_Reviews": 3,
+          "Date": "2023-07-10T23:56:49.000Z",
+          "Titre": "High Class Hosting Service",
+          "Contenu": "I've been with them for over 15 years now and was one of their first accounts. The owner is fantastic and all my needs are met immediately. They treat all of their clients like royalty regardless of the amount you are spending. I will stay with them as long as they will keep me!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "NG",
+          "Pseudo": "Scott Wellington",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-13T11:10:38.000Z",
+          "Titre": "I won't recommend any serious business to use them",
+          "Contenu": "I was with them for 4 years because they are cheap. The server is semi-fast and customer support is good. They respond to all queries swiftly. But I had to move because my sites were getting hacked often. I notice on several occasions that my sites were redirected to another site. Then when I asked them, they said it was because my sites were on a shared plan. I moved to a VPS and was paying $40 still the same thing happened. I don\u2019t trust their security.  And I think they hack their customers site on purpose.  Another time I transferred my site to an upgraded plan, one of the employer (the customer rep that did the upgrade  and transfer) added his affiliate site to my account. When I complained, the removed the site and made up bunch of excuses to cover up the fraud. Also the owner of the company James is very arrogant whenever he response to tickets. If you use them be warned your site will be offline most times and they will keep recommending you upgrade to a higher plan. They lack credibility and transparency."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ID",
+          "Pseudo": "Dota2",
+          "Nb_Reviews": 6,
+          "Date": "2020-06-05T09:02:43.000Z",
+          "Titre": "I just started my web hosting company",
+          "Contenu": "I just started my web hosting company. From August 2019 until now they give a excellent services for me. They have unlimited cpanel accounts when others companies not. Highly resource like what they has promoted in their website. The support are amazing fast just about 1-3 hours responses.Updated their cpanel arent unlimited again. It was counted from 50 to 100. Fine for that its still cheap :)"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Aravind Ajith",
+          "Nb_Reviews": 1,
+          "Date": "2020-10-12T10:19:39.000Z",
+          "Titre": "100% Trustworthy",
+          "Contenu": "I have been using their VPS servers for some of our websites and some clients for almost three years now.  Being in the web development field for over 14 years, I have seen and tried at least 100 top web hosting services. Out of them, I found Webhostpython to be the best in terms of support, infrastructure and reliability. The support team is very friendly and knowledgable. They proactively work to keep our infra optimised and secure. They do not deceptively try to push you to upgrade or buy more from them. They recommend the best solutions for our requirement even if they do not sell them directly and always support us like an extended team."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GR",
+          "Pseudo": "Kyriakos Topsoglou",
+          "Nb_Reviews": 5,
+          "Date": "2023-07-11T22:25:39.000Z",
+          "Titre": "The BEST hosting ever !!!",
+          "Contenu": "The BEST hosting ever !!!Very fast and good service. Very friendly and very kind assistance people.Very fast servers.Best value for money.5*+++I'm 100% satisfy.Thank you Webhostpython Team !!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Damon",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-18T23:14:27.000Z",
+          "Titre": "This is a long overdue review",
+          "Contenu": "I've been using Webhostpython since 2018, starting with reseller hosting then later upgrading to a VPS. They are the complete opposite of what most hosting providers have become. They're actually honest and always puts the customer first. You're never nickel and dimed for everything, in fact, i feel you get way more than what you actually pay for, in terms of quality and service. Never experience downtime and my websites speed is always incredible. Big shout out to James and the rest of the team. They've always gone above and beyond whenever I'm needing help and I greatly appreciate all they've done for me. If I could rate 10 stars I would and I'm sorry I took so long to leave this. Usually you think to leave a review when you've just had an awful experience and want to warn people, but in this case, it has been nothing but a great experience so it didn't even cross my mind."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Ahmad Mukhtar",
+          "Nb_Reviews": 1,
+          "Date": "2020-04-16T19:01:56.000Z",
+          "Titre": "Awesome Experience!!",
+          "Contenu": "I've been with Webhostpython for over a year now and I'm impressed with the level of customer support, quality service, and affordable prices (fixed pricing).Customer support is a very important factor in hosting companies and I can easily say no other hosting company is matching the level of support and dedication these guys put in for you. They have always been there, whenever and whatever I needed help with.The service has been amazing so far and I hope it will stay the same! I totally recommend Webhostpython."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "TheReal MVP",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-05T21:16:56.000Z",
+          "Titre": "I've been with webhost python for years\u2026",
+          "Contenu": "I've been with webhost python for years and it's one of the best customer support in the game! Well done people!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mass Business Search Sales",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-26T20:04:48.000Z",
+          "Titre": "WAY Better Than WPX & Cloudways!!",
+          "Contenu": "I was at Cloudways before, who just sucked... A trusted friend and fellow SEO recommended there guys... WHP have gone above and beyond for me, and I wince to ask help so often, because I really do try to be self sufficient, but I got overwhelmed on a big move with almost 60 sites, and other pressures of my fledgling business, and they made things much easier for me, migrating all my sites over, flawlessly.  And, if any issues, they fixed all of them!  Truly appreciate WHP.  And, damn it, I hope to be able to send a PayPal to corporate and somehow send the support team a Dunkin Donuts or Starbucks card! Great, amazing people.  I have owned businesses in my life, and I know how hard it is to please clients (especially the thankless a-holes shown here in these negative reviews, who were clearly being a-holes - UGH), and how much it costs to maintain profitability.  I have NO hesitations in promoting them and all their services, FAR ahead of WPX and Cloudways, and even Siteground... Message me on how to start off with a special offer of the month, such as possibly FREE Migration of all your websites over to them.."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Frederick Cristiano",
+          "Nb_Reviews": 3,
+          "Date": "2023-07-07T15:15:33.000Z",
+          "Titre": "WebHostPython is honestly the best paid\u2026",
+          "Contenu": "WebHostPython is honestly the best paid hosting I have ever had and I have been with them for 3 years now. The support also can't be beat, and if I have an issue (which is rare) they get back to me and fix it within minutes. The prices are also great for what I need and I have quite a bit of sites. Their uptime is great and the servers are fast. 5 stars."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kim",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-27T17:16:20.000Z",
+          "Titre": "My sites always run smoothly.",
+          "Contenu": "I would say my sites are up 99.9% off the time and the one time they got right on it and was back up in no time. They are quick to respond to tickets and my sites always run smoothly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "LK",
+          "Pseudo": "Sumith Jayantha Dias",
+          "Nb_Reviews": 1,
+          "Date": "2020-06-17T05:53:32.000Z",
+          "Titre": "I migrated over to webhostpython after\u2026",
+          "Contenu": "I migrated over to webhostpython after I found that my previous hosting company was  very bad ,but webhostpython is Great hosting site with excellent prices. I have been using webhostpython.com 06/03/2016 now and have had a great experience with using Wordpress and associated plugins and themes. I am building 5 websites and if I have had any questions, they have been there to help and resolve the issue. You are always made aware of updates to plugins and they notify you of new and upcoming changes before they happen. I have been very pleased with all aspects of their hosting services.I have never had an issue with down-time, slow page loads, etc., so I have been very pleased. ,always Help to customers, quick answer and quickly fix any service Problems,Specially Thanks to James , He is the always do Help my Problems,Thanks webhostpython , you are the Best ..."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kat R.",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-20T06:54:01.000Z",
+          "Titre": "The team of a Python is the Bomb.com it\u2026",
+          "Contenu": "The team of a Python is the Bomb.com it is like having your own support team. They are on top of their game, when I don\u2019t know some thing, I can just ask them and they are more than happy to help. I\u2019m so happy my sister recommended them to me.\u263a\ufe0f"
+        },
+        {
+          "Note": 5,
+          "Lieu": "LK",
+          "Pseudo": "Niranga Dilshan",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T06:35:37.000Z",
+          "Titre": "They cared for me.",
+          "Contenu": "James, the owner is a human. He is very kind and goes well above and beyond to help us customers. Shane is the genius of the team. He knows everything and a little bit more. Others are great too.It feels family, not just a business partnership."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "buildthescene.com",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-11T20:12:08.000Z",
+          "Titre": "I have owned/designed websites since\u2026",
+          "Contenu": "I have owned/designed websites since 1996 and Webhostpython has the best support system that I have EVER dealt with."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "DCG",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-12T19:12:09.000Z",
+          "Titre": "State of the industry support",
+          "Contenu": "State of the industry support, great supplier of quality services ever since they launched"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "LN",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-24T02:45:18.000Z",
+          "Titre": "Patient Staff",
+          "Contenu": "The staff spent an enormous amount of time troubleshooting and communicating with them."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ID",
+          "Pseudo": "Rahayuning",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-12T10:32:48.000Z",
+          "Titre": "they have a great support team",
+          "Contenu": "they have a great support team, who are always ready to help if there is a problem."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mike Montague",
+          "Nb_Reviews": 3,
+          "Date": "2023-07-10T17:52:03.000Z",
+          "Titre": "Many years with The Best Host",
+          "Contenu": "Many years with The Best Host. Great prices and customer service supreme."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "CF",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-13T00:14:08.000Z",
+          "Titre": "Webhostpython has been a solid hosting\u2026",
+          "Contenu": "Webhostpython has been a solid hosting provider at a very reasonable price.  Highly recommended"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Matt",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-04T18:55:28.000Z",
+          "Titre": "Quick and effective reply"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "kristopher stutz",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-05T21:09:31.000Z",
+          "Titre": "Great service ,fast response  to\u2026",
+          "Contenu": "Great service ,fast response  to questions"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ovadia Digital Agency",
+          "Nb_Reviews": 2,
+          "Date": "2021-09-14T19:40:24.000Z",
+          "Titre": "Great customer support",
+          "Contenu": "Great customer support! Really spend time going over until the issue is resolved."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Abdul",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-12T17:10:15.000Z",
+          "Titre": "One of the best hosting companies based\u2026",
+          "Contenu": "One of the best hosting companies based on a personal experience for over 5 years!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "MX",
+          "Pseudo": "Marco Rodriguez",
+          "Nb_Reviews": 4,
+          "Date": "2021-03-23T19:23:27.000Z",
+          "Titre": "Without a doubt",
+          "Contenu": "Without a doubt, one of the best hosting sites that I have tried, the support, it answered me in less than 30 minutes, in the majority it was less than 10 minutes, the speed was pretty good, and the prices are not bad, in the future I will definitely hire their services again, I've been testing host for years and this one gets 5 stars"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "B. N.",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-27T17:45:25.000Z",
+          "Titre": "Very easy to work with and hosting\u2026",
+          "Contenu": "Very easy to work with and hosting works great for me!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rebecca",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-10T17:43:49.000Z",
+          "Titre": "Webhostpython hosting has been\u2026",
+          "Contenu": "Webhostpython hosting has been consistently functioning, excellent customer service and always helpful. Keep up the good work!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Marsh",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-04T20:35:47.000Z",
+          "Titre": "Easy to get ahold of and helpful!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "RIOS",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-27T17:19:53.000Z",
+          "Titre": "Best In the Business",
+          "Contenu": "Very Quick Response"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CO",
+          "Pseudo": "Duque",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-29T17:27:22.000Z",
+          "Titre": "Excelent",
+          "Contenu": "The service is great"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "George",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-06T16:23:59.000Z",
+          "Titre": "Really great fast support!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "David Smith",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-05T22:23:52.000Z",
+          "Titre": "Simply amazing service & support"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Darbo",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-11T20:52:40.000Z",
+          "Titre": "Hands down the best webhost."
+        },
+        {
+          "Note": 5,
+          "Lieu": "MX",
+          "Pseudo": "Hv developer",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-18T23:21:59.000Z",
+          "Titre": "Friendly",
+          "Contenu": "Friendly, fast service and excellent technology."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Websair",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-18T18:33:01.000Z",
+          "Titre": "excellent servies"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kevin",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-10T18:40:48.000Z",
+          "Titre": "Always helpful"
+        }
+      ]
+    }
+  ]
+}

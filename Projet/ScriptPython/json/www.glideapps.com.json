@@ -1,0 +1,2131 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "www.glideapps.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "JP",
+          "Pseudo": "Ashley Walls",
+          "Nb_Reviews": 2,
+          "Date": "2023-12-17T18:04:59.000Z",
+          "Titre": "Internet is unreliable",
+          "Contenu": "Internet is unreliable. I am finding having no more than 5Mb (megabit) download speed most weekends and evenings. This is an ongoing issue. I have reported the issue several times and it still persists."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Person",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-21T13:41:08.000Z",
+          "Titre": "Very very buggy software",
+          "Contenu": "Very very buggy software. During attempts to develop an app, you spend more time troubleshooting bugs than actually developing. Simple things as sorting a list becomes a huge nightmare. Lack of logic throughout the app. Lack of using basic web standards.  Using formulas break everything. Frustrating experience. Usable for super simple apps without much functionality."
+        },
+        {
+          "Note": 1,
+          "Lieu": "TR",
+          "Pseudo": "Angry user",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-27T19:59:59.000Z",
+          "Titre": "Have bugs and not great support",
+          "Contenu": "The platfrom is buggy. Support is only for subscribers and not in all of the pricing packages, which is weird cause the platform is even though not completely broken, but still has some bugs and not  ideal to be so picky."
+        },
+        {
+          "Note": 1,
+          "Lieu": "ZA",
+          "Pseudo": "MT",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-18T10:36:41.000Z",
+          "Titre": "The platform is very buggy",
+          "Contenu": "The platform is very buggy from the time my developer transfered my app to me. Many app edits made have been consistently wiped out costing me time and money. If I could switch to another platform I would. Also, I was made to switch to a starter account in order to integrate my subscriptions with stripe and feel the value isn't worth the monthly fee."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Marcus",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-23T00:49:22.000Z",
+          "Titre": "Your desire to grow is problematic\u2026",
+          "Contenu": "Your desire to grow is problematic because you have left your classic users behind. 1. We can\u2019t upgrade our apps to the new platform anytime soon. 2. The pricing of $100/month makes it hard for a solopreneur to try things and with their way up to profitability. They could go broke trying an idea which is really alienating your ideal customer that chose Glide to do their MVP. You have made it impossible to benefit from the iPhone Push notifications without spending $100/month. The budget required is too steep to try anything new."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Omar",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-11T00:03:20.000Z",
+          "Titre": "Terrible customer service",
+          "Contenu": "Terrible customer service. We were going to launch a product and your app didn\u2019t work with a specific link. We tried to contact customer support but got this AI chatbot that didn\u2019t solve the problem and tried to convince us it was human. After getting a real customer service rep, we got extremely delayed responses and just got rid of most of the app. Only then, we got customer support to understand our problem, but it was useless since the app wasn\u2019t even functional anymore. I don\u2019t think we will continue to use or recommend this product."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Grant",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-13T15:47:55.000Z",
+          "Titre": "These folks only care about the next dollar\u2026",
+          "Contenu": "These folks only care about the dollar after yours. Paying customers are ignored, don't receive communication about new features, required upgrades, etc.Empathy is not known to support at this company. It's all on you baby! I've seldom put energy and money into a product that I hope fails, but that's where I am at the moment."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "samiha hoque",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-23T00:53:21.000Z",
+          "Titre": "Hardly Any Support",
+          "Contenu": "Glide is pretty easy to understand and get the hang of, however their support is atrocious. I pay $$$ monthly for Glide\u2019s membership yet there is no support for when you have issues with the app. You get left on read. Now my business is suffering because I can\u2019t fix my app due to Glide\u2019s error messages"
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Kieran",
+          "Nb_Reviews": 7,
+          "Date": "2023-03-09T16:27:35.000Z",
+          "Titre": "Misleading features, predatory pricing",
+          "Contenu": "Misleading features, predatory pricing, may aswell just hire a cheap dev on Upwork and build it yourself. Even though under the access/login screen I chose a Public app, because I then selected \"only users in my users table\" can login, its now classed as a private app (then why have that under the Public tab?), which you barely get any users for unless you want to pay a redic amount (seriously predatory pricing - it doesn't cost Glide barely any (if any at all) different whether users are private or public). There was no warning selecting this option would make my app a private app, and so I had hundreds of unhappy users unable to access it since it caps at 50 private users on $99/month (that pricing, jeez...) - I now have a quote on Upwork to build the app (which I'll be able to host on a tiny $10/month server) for $280, meanwhile, even the $249/month plan doesn't have enough private users (only 100!) to support my userbase which is around 500 users... so it would cost probably $4-5k+ per year to run my usecase with Glide or you can get it for $280 one-time on Upwork + $10/m for a cheap server - it's laughable these guys are acting like they're making app building accessible... make sure you get a quote on Upwork first if you're only building something simple, Glide pricing is predatory."
+        },
+        {
+          "Note": 1,
+          "Lieu": "UA",
+          "Pseudo": "\u00d0\u2018\u00d0\u00be\u00d0\u00b3\u00d0\u00b4\u00d0\u00b0\u00d0\u00bd",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-11T12:32:30.000Z",
+          "Titre": "A useful program",
+          "Contenu": "A useful program, but only if you have a lot of money to keep the maximum subscription.  The update limitation is unjustified.  To make a smart program and for it to function normally, you need a lot of updates, but this limitation destroys everything, and forces you to switch to alternative designers that do not have this limitation.  Update unjustified restriction.  Now, instead of focusing on the main thing, on the mechanics of the program, its design, I am distracted by this limitation, I am constantly forced to think only about this limitation, that now for every next 1000 updates $10 will be deducted.  This is a very high price for my country.  In general, is it fair to charge such funds for this limitation?  Is this limitation important to your designer?"
+        },
+        {
+          "Note": 1,
+          "Lieu": "DE",
+          "Pseudo": "Fabian Meyer",
+          "Nb_Reviews": 4,
+          "Date": "2023-01-04T11:20:30.000Z",
+          "Titre": "Product good, service horrible",
+          "Contenu": "I recently had a terrible experience with the customer service team at Glide. Despite numerous attempts to reach out and get help with a problem I was experiencing with the app, I was consistently met with ignorance.They offered no solutions or even an apology for the inconvenience I had faced.I am extremely disappointed with the level of service I received from Glide, and would not recommend this app to anyone based on my experience. It's a shame, because the app itself is actually quite useful, but the poor customer service completely negates any positive aspects. Stay far away from Glide if you value good customer service."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Cate",
+          "Nb_Reviews": 2,
+          "Date": "2023-06-21T04:11:11.000Z",
+          "Titre": "Charge too much and just released a new\u2026",
+          "Contenu": "Charge too much and just released a new version of apps but didn't make customers aware."
+        },
+        {
+          "Note": 1,
+          "Lieu": "ES",
+          "Pseudo": "Daniel",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-06T23:38:18.000Z",
+          "Titre": "Too expensive",
+          "Contenu": "Glide is a great tool to design apps but is too expensive once you want to use it with a few users. It has a limit of syncs too low in the lowers plans (the ones I can afford)."
+        },
+        {
+          "Note": 1,
+          "Lieu": "MX",
+          "Pseudo": "Juanjo",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-15T03:09:24.000Z",
+          "Titre": "Too expensive to continue using it",
+          "Contenu": "Due to the price increase I decided to abandon this platform that had given me so much satisfaction."
+        },
+        {
+          "Note": 1,
+          "Lieu": "TH",
+          "Pseudo": "KATATHANI",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-23T05:59:10.000Z",
+          "Titre": "Promotion App Not good",
+          "Contenu": "App is Good But pro is Updates Data is Low  shout unlimited for Update Data"
+        },
+        {
+          "Note": 1,
+          "Lieu": "ZA",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T12:17:19.000Z",
+          "Titre": "Too basic",
+          "Contenu": "Too basic, and expensive with limited features, you are better off learning coding"
+        },
+        {
+          "Note": 1,
+          "Lieu": "IN",
+          "Pseudo": "Muna",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T17:42:28.000Z",
+          "Titre": "The App loading speed is very slow",
+          "Contenu": "The App loading speed is very slow and we cant publish it on Play Store..."
+        },
+        {
+          "Note": 1,
+          "Lieu": "RO",
+          "Pseudo": "al",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-11T19:35:03.000Z",
+          "Titre": "bugs",
+          "Contenu": "bugs, Lags, etc... I don't like this services/app"
+        },
+        {
+          "Note": 1,
+          "Lieu": "MX",
+          "Pseudo": "Ibrahim",
+          "Nb_Reviews": 3,
+          "Date": "2021-08-12T14:48:42.000Z",
+          "Titre": "Great app - REPELLENT SUPPORT!",
+          "Contenu": "I would really like to give Glideapps 5 stars. It takes a little while to get the gist of it but once you do the tech is amazing. The singular problem is support!!1) I originally bought a template that I had to move between domains due to the Google verification process. No probs pretty straightforward. Done it hundreds of times across other platforms.In the Glide post payment process the template got well lost. And instead of helping resolve the issue their response was to blame the vendor. Despite the fact the purchase was undertaken on their platform. Once I cleared that up and they agreed that they were responsible they were in fact useless as they did nothing. Choosing instead to stick their heads in the sand and ignore me. Leaving it to the vendor of the template to be kind enough to resolve their problem by sending me the template. 2) Roll on a week+. Following direct support advice I migrated my template to a new account and followed their directions to the letter. Ensuring I removing all external permissions within the Glide environment.  So when the old domain expired and my google sheet with ALL my hard work was was deleted I was pissed. And supports reaction?\"Glide's back end can not delete a Google Sheet, and never has been able to delete a sheet.  You can replace the link to a Google sheet in an existing app by going to Settings>>Data Data Sources and select the 3 dot menu.  You have to make sure that the sheet that you select has the exact same sheets and columns that the original one had.  Google does retain deleted sheets for a period of time so you should be able to recover the Google Sheet.  I suggest you work with Seth as he is the one who set you up with the app outside of the Template store process.\"What I've come to expect from  Glide Support1) In response I sent them a link to Google sheets message stating the sheet had been deleted. Wrong! Support response - nothing!2) You would expect a quick workaround would be to export data from the CMS and just reattach file to template, right? I tried, the naming conventions on tabs have been changed and who knows what else. So I asked support to confirm.Support response - nothing.3) Finally the Glide support playbook 101 -  blame the vendor again \"I suggest you work with Seth as he is the one who set you up with the app outside of the Template store process\" date 17th JulyReally, that's not exactly true is it? From Glide support:\"Sorry we haven't replied sooner. There's an issue with some templates, and our engineering team is working on it.\" 5th July. As a result of the crap I went through to get my template. Showing 100% Glide's responsibility\"Sorry about my previous message, based on the PDF attached I assumed it was a purchase in XXXXX vs ours. I see that you've purchased the template in Glide.\" 2nd July - showing 100% Glide's responsibilityFinally, lets not forget that the only reason the vendor sent me the template in the first place is because your platform failings which you have clearly confirmed. Your support is beyond clueless and so to blame him now for your failings is to my mind beyond outrageous!!!!Great platform - support are clearly on VERY powerful medication.EDITI would like to add lazy as F*** to the list of reviews for Glide app.Found the problem. Asked community support for a fix, who pointed me back to support with a resolution. Asked support if they could follow the resolution as outlined by the certified community support staff.Response? dead airWell FU2!"
+        },
+        {
+          "Note": 2,
+          "Lieu": "IN",
+          "Pseudo": "Bhaskar",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-12T12:46:19.000Z",
+          "Titre": "Lot of bugs when making very simple\u2026",
+          "Contenu": "Lot of bugs when making very simple apps. Response to ticket submitted takes days, which wastes so much of our development time.Glide sounds like a great idea, not sure if the implementation is there yet."
+        },
+        {
+          "Note": 2,
+          "Lieu": "SG",
+          "Pseudo": "IChild Company",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-16T07:53:26.000Z",
+          "Titre": "Poor support despite having a business\u2026",
+          "Contenu": "Poor & No support despite having a business subscription. Support was good initially. Very quick and responsive. After getting the funding round and attention was put into Glide Pages, NO response at all when support ticket is raised.Updated on 16 May 2023There's absolute no feedback nor response when we raise support tickets. Community is fantastic but there's a limit on what they can do since the Glide Team is not responding at all."
+        },
+        {
+          "Note": 2,
+          "Lieu": "CO",
+          "Pseudo": "Nicol\u00e1s Sicard",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-16T14:37:56.000Z",
+          "Titre": "It has been such a dissapoiting\u2026 It is not a good no code platform for anyone",
+          "Contenu": "It has been such a dissapoiting experience. They succend\u00f1y increase prices and those small developers who had one app in one account have to pay for a big company price. And on top of that, the performance is very very poor, the data capacity is very low, if you have more than 25k rows of data which is for a small/medium size app then reach the limit and your app wont run fast."
+        },
+        {
+          "Note": 2,
+          "Lieu": "KR",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T05:50:52.000Z",
+          "Titre": "Super Easy & Powerful. But Super UNSTABLE",
+          "Contenu": "I built an internal CRM site with Glide. It's easy and fast to deploy, and when you use it with Zapier, you can add a variety of features.However, the Glide Data Editor (GDE) is extremely unstable. The disadvantage is that the recorded data suddenly disappears (Row remains, but the entered data disappears), and when linked to an external DB (Airtable, Google Sheet, etc.), the speed is significantly reduced. Glide is a tool that is impossible to use for a long time and stably.I sent an email to the glide customer center to resolve this issue, but I didn't get a reply, and I got a CEO's email telling Trustpilot to leave a review, so I'm sharing my experience here.I'm thinking about moving to Bubble.io for more stable DB utilization."
+        },
+        {
+          "Note": 2,
+          "Lieu": "UA",
+          "Pseudo": "Mykhailo",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-11T16:07:30.000Z",
+          "Titre": "In multi-user applications",
+          "Contenu": "In multi-user applications, everything works fine for admin only. For all others, the entry in the table is very unreliable, sometimes the information is not saved in half of the cases. When using the application, when trying to search for information through the \"search\" field, the interface breaks and everything has to be restarted (this is observed only on mobile devices, there are no such problems with a PC). For such money, I would like more."
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Shay",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-11T15:24:57.000Z",
+          "Titre": "SaaS/Longer experiment",
+          "Contenu": "I have to sell SaaS. Its so much more profitable than one off consulting jobs. Make it easier for me to sell one app to 1000s of people, not just one. I need longer to learn and build to get to monetization. As soon as it started charging and I wasnt ready to sell, I was gone."
+        },
+        {
+          "Note": 2,
+          "Lieu": "AR",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T13:57:26.000Z",
+          "Titre": "Too expensive in comparison",
+          "Contenu": "Too expensive, there are so many no-code tools that charge half or less the price that Glide currently is charging. is non-viable for a freelancer to use Glide."
+        },
+        {
+          "Note": 2,
+          "Lieu": "BR",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T22:39:00.000Z",
+          "Titre": "Exchange rate drives prices too high",
+          "Contenu": "As I live in Brazil, the price is 5x more, factoring the exchange rate, and the apps meet fierce price resistance. There is no economical way to package the apps and make a profit. The market won\u00b4t bear it."
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T18:28:44.000Z",
+          "Titre": "Only allowing a certain amount of\u2026",
+          "Contenu": "Only allowing a certain amount of changes per project, per price point is why I left. It\u2019s more than what I think is reasonable."
+        },
+        {
+          "Note": 2,
+          "Lieu": "TH",
+          "Pseudo": "Prodeveloper",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-05T03:35:03.000Z",
+          "Titre": "Below average platform",
+          "Contenu": "Average platform, misguided subscriptions which lack visibility to the delivery of thier own proposed feature readmap. Customer service is average, Bubble.io is better value for money and actual use of integrations like Stripe etc."
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Marcos",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-22T17:22:19.000Z",
+          "Titre": "Helpless documentation",
+          "Contenu": "Helpless documentation, customer support are very slow, we are unable to get rows from the tables using API, even if you are using business plan, have limitations."
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T21:48:11.000Z",
+          "Titre": "Pages is not like Apps in several key\u2026",
+          "Contenu": "Pages is not like Apps in several key ways....that was promised almost a year ago."
+        },
+        {
+          "Note": 3,
+          "Lieu": "IL",
+          "Pseudo": "Dealmoovil",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-17T20:03:03.000Z",
+          "Titre": "The price doesn't make sense",
+          "Contenu": "The idea is excellent.The price doesn't make sense, I pay 30 dollars a month and barely manage to update one project, there is no logic in the pricing system.30 dollars for the first package, and to upgrade you have to pay 4 times the price of the base package.It is difficult to develop in a language that requires right alignmentAnd there are lots of ui limitations.Thanks to you, I realized that I had no choice  so i decide to learn to write code, and every day I upgrade my skills. I'm I had no background in writing Apps before Glide let me fit into this world.Thanks to you, you are great!! And thanks for everything!!"
+        },
+        {
+          "Note": 3,
+          "Lieu": "CO",
+          "Pseudo": "Robbie",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-17T15:54:30.000Z",
+          "Titre": "No chat option.",
+          "Contenu": "The fact that there is no live chat to answer simple questions is an actual pain. It feels like this....\"I know you have an important question, so... here is some homework for you... go to our community and have fun searching for your answer. We understand that this might take you away from what you are doing for up to an hour, and you might never find a solution. A chat would be ideal... but... homework is better and cheaper\""
+        },
+        {
+          "Note": 3,
+          "Lieu": "KH",
+          "Pseudo": "Jason",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-24T02:02:01.000Z",
+          "Titre": "Slow",
+          "Contenu": "Slow. Loading the sites are too slow, sometimes stopped."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Jeremiah Shackelford",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-16T21:35:41.000Z",
+          "Titre": "Lots of features, easier than coding.",
+          "Contenu": "I like the program a lot. There are, however, a few components I am hesitant to use, like the chat component, because of how the pay plans limit the number of table rows you can use before they lock the app - especially since there's no automated way to delete old rows or purge old data to ensure you stay under that limit.Even 10,000 rows is not a lot when you're talking about a chat component that could be using hundreds of rows per day. 100 users, sending 10 messages a day could max out the rows in less than 2 weeks - and the only way to purge old data is to manually delete rows? That's pretty much unusable in my case. Also, what if you need to keep some of those messages longer? Or just save the last 100 messages from each user? Maybe I don't understand how the chat component works - but the fact remains that there is no easy way to automatically purge old data."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Davit",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-05T03:01:16.000Z",
+          "Titre": "Hey Glide Team",
+          "Contenu": "Hey Glide Team,I've been thinking about how to make Glide even better for small business owners like me. Here's what I've got:Collaboration Tools: How about a dashboard where business owners can create assignments and monitor progress? It'd make working with developers a breeze.Paid Support and Training: Live chat, live coding events, personalized training \u2013 these could be game-changers. Sometimes, we just need a little extra help.Community Engagement: More webinars, forums, and events would make Glide feel like a real community. We could all learn from each other!I believe these tweaks could make Glide the go-to platform for small business owners. Let's make it happen!"
+        },
+        {
+          "Note": 3,
+          "Lieu": "BR",
+          "Pseudo": "Freire",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-23T20:42:41.000Z",
+          "Titre": "Actually",
+          "Contenu": "Actually, I think you are missing out on a great opportunity to significantly increase the community that uses \"Glide\" since the price you charge is exorbitant and makes it difficult for developers to work because it makes the cost to the customer very high. I have been using \"Glide\" much less because those I offer it to, initially find it expensive. The number of rows and updates is very small, and the fact that, even in a team, each of the applications is added to the others for the computation of rows and updates makes development quite challenging."
+        },
+        {
+          "Note": 3,
+          "Lieu": "NZ",
+          "Pseudo": "Jason Palmer",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T05:10:58.000Z",
+          "Titre": "I find the flexibility of function far\u2026",
+          "Contenu": "I find the flexibility of function far too complex for a novice. The amount of times I've had to seek advice around  simple functions such as date /timeHave caused  me issues to the point where I am unsure if my app is accurate. I would love to see  a block  of columns generated automatically  when  a pre determined function is selected."
+        },
+        {
+          "Note": 3,
+          "Lieu": "SG",
+          "Pseudo": "Manikandan",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T22:01:38.000Z",
+          "Titre": "Give much more limbo to notification and custom cart",
+          "Contenu": "There is no Easy way to do notification on tabs and helping tutorial or free template of custom cart functions.Ease of use platformGlide pages looks sexy and need an equivalent upgrade to the one glide app.Give broader space to other categories other than that glide is only for organisation customers only."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Craig Madsen",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-30T22:49:31.000Z",
+          "Titre": "Glide & Airtable joins",
+          "Contenu": "I'm having a hard time figuring out how to get my Airtables to be used in Glide as far as with \"joins\" are concerned.  I have a couple of tables joined up in Airtable, but I'm not understanding how to use these in Glide, that is, in their joined state?I'm also having an issue trying to figure out how to do something, that although not too complex, figuring out how to do it in a no-code platform is causing me a little grief.  I've been through a half dozen videos on Glide and Airtable and the lights just aren't coming on, yet!"
+        },
+        {
+          "Note": 3,
+          "Lieu": "IL",
+          "Pseudo": "Glider niv",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T09:10:48.000Z",
+          "Titre": "Recommended only for simple and uncomplicated applications",
+          "Contenu": "An excellent solution for really small and simple applications, as soon as the application is a bit more complex it becomes unprofitable. We started with a very cheap and convenient price of 39 dollars, then they raised the price to 100 dollars, then 250 dollars per month and now they want an additional 10 dollars for every 1000 lines, really insolent. In addition, there are still many bugs.  And some days it works better and some days it works less well"
+        },
+        {
+          "Note": 3,
+          "Lieu": "CL",
+          "Pseudo": "C\u00e9sar",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-14T17:08:07.000Z",
+          "Titre": "Bad experience using glide for launch",
+          "Contenu": "Bad experience using glide for launch. Glide Pages is fine, but have a lot of things that improved, need components like accordion, add custom action to menu links, very expensive for use Google Analytics. Very restrictive in a lot of ways."
+        },
+        {
+          "Note": 3,
+          "Lieu": "ZA",
+          "Pseudo": "Bradley",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-24T19:52:34.000Z",
+          "Titre": "Amazing product - lacking customer service",
+          "Contenu": "Amazing productSorely lacking in customer support and communication - almost to a point where it\u2019s non existent.If they fix this I will give 5 starts"
+        },
+        {
+          "Note": 3,
+          "Lieu": "FR",
+          "Pseudo": "Sol\u00e8ne",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-19T18:37:18.000Z",
+          "Titre": "It\u2019s convenient but buggy",
+          "Contenu": "It\u2019s convenient to learn no code, it\u2019s simple and effective. But it\u2019s expensive if you actually want to launch you app, and it bugs often. There is no contact support. It\u2019s only in English. I like it but I wouldn\u2019t necessarily recommend it\u2026"
+        },
+        {
+          "Note": 3,
+          "Lieu": "IN",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T05:13:39.000Z",
+          "Titre": "Scope for improvement",
+          "Contenu": "Glide is experiencing some major performance issues like it the builder has gotten really slow recently Bugs like set columns not working sometimesThere have been some great updates and have seen glide grow and i believe it has alot of potential to improve"
+        },
+        {
+          "Note": 3,
+          "Lieu": "HR",
+          "Pseudo": "\u017darko Srzi\u0107",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-13T15:35:11.000Z",
+          "Titre": "synchronization delay",
+          "Contenu": "At the beginning I was very happy, but later I realized that the synchronization with Google Sheet is not reliable. This is very uncertain environment for developing apps. So I am using Glide only occasionally for myself. Hope this would improve since the platform has a great potential. Maybe I had to rate it 1 or 2 stars. But I am content wih your genuine and kind support.----Explanation: When I enter some figures, the program would not show changed numbers. Sometimes it takes minutes or more to change numbers calculated by formulas, especially when you have complex formulas. This prevents me from creating more demanding apps. It is not always like this. Sometimes it works. That is why it is unreliable for me. You never know what you will get."
+        },
+        {
+          "Note": 3,
+          "Lieu": "IL",
+          "Pseudo": "lucie",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T16:23:51.000Z",
+          "Titre": "the probleit's hard to understand even watching the explanatory videosm is that it is difficult to\u2026",
+          "Contenu": "the problem is that it is difficult to use the application despite everything. it is not always easy to understand your explanatory videos. but we must admit that the basic concept is brilliant. writing is the most difficult and I'm on my 6th version. thank you"
+        },
+        {
+          "Note": 3,
+          "Lieu": "CL",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T03:07:54.000Z",
+          "Titre": "The tool is awesome but...",
+          "Contenu": "The tool is awesome. However, al the time the tool is down is really disgusting for me and for the customers who use it. For this main issue, I decide move on antoher tool called AppGyver. Is not as powerful as Glide but the company send email before to turn off the tool for upgrading or maintanece."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Zenly",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-25T06:26:16.000Z",
+          "Titre": "I like the simple interface but am\u2026",
+          "Contenu": "I like the simple interface but am frustrated that the documentation does not match the app following the 3/20 move to glideapps. For example, the ability to adjust the look of the signin screen seems to be missing from pro accounts."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Patrick",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-31T00:32:17.000Z",
+          "Titre": "I was disappointed when I saw the app\u2026",
+          "Contenu": "I was disappointed when I saw the app online -  I like the original screen but I would have like to have learned how to make the text into a graphic on all pagesOtherwise I like the product, probably my fault not the technology -"
+        },
+        {
+          "Note": 3,
+          "Lieu": "IL",
+          "Pseudo": "A.I Office",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T21:06:25.000Z",
+          "Titre": "Unsupported RTL",
+          "Contenu": "Glide is very useful for small businesses to make a \"prof of concept\" apps or internal apps for company/students etc'however, it doesn't support Hebrew and RTL"
+        },
+        {
+          "Note": 3,
+          "Lieu": "IN",
+          "Pseudo": "sumit",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-27T20:26:50.000Z",
+          "Titre": "Challenging to debug the issue and use\u2026",
+          "Contenu": "Challenging to debug the issue and use community help. A lot changed in last year but the documentation and videos are not updated."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Earshot",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-27T16:11:30.000Z",
+          "Titre": "Product is great",
+          "Contenu": "Product is great. Issues with performance speeds and lack of parity between glide apps and pages for certain features."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T21:41:44.000Z",
+          "Titre": "My Experience with Glide",
+          "Contenu": "My Experience with GlideWhat I liked about Glide was building a complete possible working app with zero coding background being needed. Not sure how to word this, but Glide's \"features\" or mechanics just work. Upon building an app, never ran to any hiccups which was amazing. What I dislike about Glide and I might be in the minority with this, but I feel like as a new costumer who has never done anything like this before, the function/mechanics of Glide got to be a bit confusing and borderline frustrating sometimes. It might be my lack of knowledge on the subject, but at the same time it becomes challenging when a person want the app to do something and they're unsure how to either make that happen or what do each function do so that they can make it happen themselves, without relying so heavily on the aids from others in the forums. I feel like the company is doing well with having experts under their belt and utilizing them to help out the next generation of Glide users. How the company can improve is that I wish Glide had a better \"store\" system in place. My original vision for Glide is for it to have an Apple-like app store with tones of Glide user designed apps for the picking. I also feel or at least at the time, Glide defiantly needs to make sure that they keep up with their tutorials so that it mirrors as close to the latest updated features as possible. Nothing like a deflated moment of checking out a tutorial, but it's like night and day."
+        },
+        {
+          "Note": 3,
+          "Lieu": "ID",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T08:04:18.000Z",
+          "Titre": "Glide really easy to use, but need more upgrade on design",
+          "Contenu": "Glide really easy to use, the downside are we need more flexibility on design, give more widget and plugin."
+        },
+        {
+          "Note": 3,
+          "Lieu": "CA",
+          "Pseudo": "sara waker",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-10T07:17:44.000Z",
+          "Titre": "Number of public users",
+          "Contenu": "Glides wonderfull! But the new limit of public users is not helpful for small business. \ud83d\ude15"
+        },
+        {
+          "Note": 3,
+          "Lieu": "MX",
+          "Pseudo": "Klef Agency",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-15T00:30:06.000Z",
+          "Titre": "The tool is very good",
+          "Contenu": "The tool is very good, but sometimes it has latency to synchronize the database.  Or it does not respect the filters."
+        },
+        {
+          "Note": 3,
+          "Lieu": "IE",
+          "Pseudo": "Brian",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-13T21:39:05.000Z",
+          "Titre": "I have no tech experience so it's hard\u2026",
+          "Contenu": "I have no tech experience so it's hard to pick up"
+        },
+        {
+          "Note": 3,
+          "Lieu": "FR",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T11:29:47.000Z",
+          "Titre": "Not flexible enough",
+          "Contenu": "I like the symplicity to build app with this tool, but for the front part, we can't make all we want to do, it's not flexible enough"
+        },
+        {
+          "Note": 3,
+          "Lieu": "TH",
+          "Pseudo": "Santi",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-18T01:15:46.000Z",
+          "Titre": "1.App is now very very very slow in\u2026",
+          "Contenu": "1.App is now very very very slow in linking with Google Sheet2.why no LIKE feature, people can do voting"
+        },
+        {
+          "Note": 3,
+          "Lieu": "SV",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T21:28:34.000Z",
+          "Titre": "Need more option to managment data",
+          "Contenu": "Need more option to managment data, APIS"
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Bob",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-29T17:07:44.000Z",
+          "Titre": "Zap integration never worked well with\u2026",
+          "Contenu": "Zap integration never worked well with salesforce"
+        },
+        {
+          "Note": 3,
+          "Lieu": "AR",
+          "Pseudo": "Germ\u00e1n",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-02T15:18:23.000Z",
+          "Titre": "I wrote for help",
+          "Contenu": "I wrote again by email for better contact"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "miles",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-10T23:02:18.000Z",
+          "Titre": "Super easy to use",
+          "Contenu": "Super easy to use, robust ecosystem, and the finished product looks great!Would like to see more custom CSS capabilities on the lower tier plans and native Zapier/ Make API integrations."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Nick",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-02T16:07:13.000Z",
+          "Titre": "I think it's a great platform for\u2026",
+          "Contenu": "I think it's a great platform for building simple products and MVPs. Super easy to learn and you are kinda defaulted a good looking app. One limitation that limits the scalability for me is that you can only reference one sheet per screen. This is my only complaint, but it does make for a hard ceiling."
+        },
+        {
+          "Note": 4,
+          "Lieu": "ID",
+          "Pseudo": "Toko",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-18T03:53:40.000Z",
+          "Titre": "PERFECT FOR ANYONE NEWBIE",
+          "Contenu": "Very easy to create and very useful feature"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Michael Wallace",
+          "Nb_Reviews": 3,
+          "Date": "2023-08-23T19:24:31.000Z",
+          "Titre": "I am a fan",
+          "Contenu": "Videos are good, community is good.  Development is easy and straightforward.What I still dont understand is:the user revenue model.  I did receive info, but didnt make sense to me.  Uncertain where to turn for more info.Mixed explanations about adding photos by accessing the device's camera.  Some documents say yes and some dont say yes or no."
+        },
+        {
+          "Note": 4,
+          "Lieu": "RO",
+          "Pseudo": "Valentin Paun",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-21T12:19:59.000Z",
+          "Titre": "I like Glide!!",
+          "Contenu": "I like the easiness of putting up an application for small purposes. Very, very nice. As an experienced developer (UI/backend/databases)I can deal very nicely with your implementation.What I don't really like is the pricing. For example, for a small app with 10 users and around 5 new records per day  I need to pay the Starter plan. But Starter plan doesn't cover push notification features, for example, a very useful feature for a mobile app."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Sujay",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-05T19:02:10.000Z",
+          "Titre": "I want to be able to publish the app to the ios app store or google play through glide",
+          "Contenu": "Helped take my idea from idea to prototype that I can beta test with. However, in the future I will need to either go to another platform that actually allows me to post my app on the ios app store or simply code out the app. I really like glide, but that one thing is holding you guys back in my opinion."
+        },
+        {
+          "Note": 4,
+          "Lieu": "SN",
+          "Pseudo": "Lamine",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-20T14:47:14.000Z",
+          "Titre": "I carried out a useful task for my\u2026",
+          "Contenu": "I carried out a useful task for my company which allows our listeners to be closer to our content, my company is a media group,"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "TP",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-28T03:12:48.000Z",
+          "Titre": "Amazing tool for no-code users, community and resources could use further development",
+          "Contenu": "Amazing tool for no-code users like myself to create custom tools for our specific needs. Glide is continually improving the tools and experience for users. Design customizations are a bit limited which means a lot of apps look the same, difficult to make them stand out. Online resources and community tools are a bit lacking and not current, had a hard time finding solutions to the design challenges I've encountered."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "WTH",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T21:21:58.000Z",
+          "Titre": "Glide has very powerful data tools that\u2026",
+          "Contenu": "Glide has very powerful data tools that allow you to build some very impressive workflows. Additionally, the interface and views it allows you to create provide some great looking apps. It's also very easy to use and has a great community. The only downside with Glide is that this no-code platform is meant for internal or semi-internal tools, and may not be the right fit for someone trying to build an MVP that will have hundreds of initial users."
+        },
+        {
+          "Note": 4,
+          "Lieu": "SG",
+          "Pseudo": "Chichap",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-23T10:14:51.000Z",
+          "Titre": "Good, best and improvement",
+          "Contenu": "User controls and functionality is good and doing what is expected.Program logic and flow is easy to understand with low learning curve.For improvement is design flexibility in UI/UX (like menus and color  table row. If possible to increase the number of Entry level private users to 50."
+        },
+        {
+          "Note": 4,
+          "Lieu": "AR",
+          "Pseudo": "Thiago Alvarez",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-14T00:15:36.000Z",
+          "Titre": "Experience",
+          "Contenu": "I really like Glide because it is a very easy to use and intuitive platform. It has a great variety of templates and features to create an amazing app. It is also a very versatile and powerful platform.The only bad thing is that I have very few updates in the starter plan and the pro plan is too expensive for me."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CZ",
+          "Pseudo": "proste_ondraa",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T21:20:11.000Z",
+          "Titre": "Glide - Publishing",
+          "Contenu": "I really like Glide, but something that they could change is auto-publish. In the past, we have option to publish our app manually (when we want or made changes, we hit the publish button to publish changes), but they have removed it and now Glide is publishing changes in time."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Adele",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T02:22:02.000Z",
+          "Titre": "Discovering glide",
+          "Contenu": "Discovering glide. Price very accessible.  reasonable pricing for growth. You can play with it until you\u2019re ready to launch and pay.  Support access to Bob on your team with key knowledge and access to x number of one on one with him was KEY to learn some key features and learn user access levels and administrator roles. An app without r\u00f4les and access is rather very limited. This was key knowledge to move forward to create an user friendly app"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Daniela",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-27T21:48:06.000Z",
+          "Titre": "It is Excellent to build Apps/Programs\u2026",
+          "Contenu": "It is Excellent to build Apps/Programs to handle information, in an easy an quick way.It has it's limits, but there is a big community always willing to help, and many work arounds."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Kamille Parks",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T21:28:29.000Z",
+          "Titre": "An intuitive, easy to use interface designer",
+          "Contenu": "Glide handles designing the navigation from screen to screen easy. The editor is fast, isn't bulky, and allows you to create fairly flexible layouts. The design (colors, spacing, fonts, etc.) are fairly limited and CSS is paywalled, but the default options do look nice and are perfectly responsive. The mobile app builder is much more advanced than the webapp builder, but there are continuous improvements that will soon make the webapp builder in closer parity to competitors like Softr. Inter-app connectivity is a bit limited if you need to pass data to a resource other than your sync source (data refresh times), but for simple implementations or smaller scale tools Glide is the one to beat."
+        },
+        {
+          "Note": 4,
+          "Lieu": "NZ",
+          "Pseudo": "Tahu",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-14T21:27:37.000Z",
+          "Titre": "Glide is cool",
+          "Contenu": "The platform is very easy to use once you have the basic grasp of the structure.Additional you tube tutorials would be great though. Especially around what types of Glide Data types can be shown by each of the content components"
+        },
+        {
+          "Note": 4,
+          "Lieu": "PH",
+          "Pseudo": "terence",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-06T06:05:50.000Z",
+          "Titre": "Ease of use",
+          "Contenu": "I very much like the ease by which I can create an app and publish it. I'm not a programmer, yet I can do many things because of the simplicity. I know that if I had more skills, I could do even more - so there are learning opportunities for me. So far, I have published around eight apps and probably will release more in the future as both the need arises and I learn more. Well done Glide."
+        },
+        {
+          "Note": 4,
+          "Lieu": "SK",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-15T14:23:27.000Z",
+          "Titre": "Easy, quick set-up, worth the money",
+          "Contenu": "We made a couple of apps using Google Sheets as data store. Our apps provided login by e-mail address for ~1k users. Building the app was easy, quick and worth the money. The two-way data binding was not real-time but reactive enough for our purpose. Sometimes we had minor issues, but contacting the help center we managed to get them fixed fairly fast."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-06T22:44:49.000Z",
+          "Titre": "Conference Schedule did the job",
+          "Contenu": "I'm not an app dev, my background is in web development. I chair a conference and we wanted an app mostly for the schedule. Glide's intro session and templates made getting started easy. Our nonprofit conference wanted a simple app for the schedule (and it grew into a lot more). I found super and fast help in the forums (if you're new at this, they're great). The result is a web app and some of our attendees were expecting a \"regular\" app, so there was a little confusion but the information was there and it did what we needed."
+        },
+        {
+          "Note": 4,
+          "Lieu": "ID",
+          "Pseudo": "Yosi",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-18T04:32:14.000Z",
+          "Titre": "Easy to set up but the menu bar needs to be improved",
+          "Contenu": "\ud83d\udc4d\ud83c\udffc easy to set up. I don't have experience in product / engineering but I'm able to create (simple) apps\ud83d\udc4e\ud83c\udffb if we open glide page from mobile device, menu bar appears at the bottom of the page. However, this menu bar still appears when we click a button to show a form screen. In consequence, submit button is blocked by menu bar and users are unable to find submit button"
+        },
+        {
+          "Note": 4,
+          "Lieu": "AE",
+          "Pseudo": "Sanjay",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-22T16:12:43.000Z",
+          "Titre": "Am able to do so much more compared to\u2026",
+          "Contenu": "Am able to do so much more compared to some other no code platforms"
+        },
+        {
+          "Note": 4,
+          "Lieu": "JP",
+          "Pseudo": "Jamie",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-23T13:40:17.000Z",
+          "Titre": "Very Useful Database Website/App Builder",
+          "Contenu": "Very useful website/app builder for no coders. Even better if you have built a database in Airtable to connect to. Lots of different components to make your website/app look clean and professional and display the information you want in the way you want. Has a lot of the basics and looks like their always adding more components and functionality."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CO",
+          "Pseudo": "Blanca",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T21:50:56.000Z",
+          "Titre": "Easy to use",
+          "Contenu": "Easy to use. Glide it's easy to use, and you can learn how to develop an application fast. However, it has some limitations, for example, the datasources that you can use. I think that if you need a simple application, or maybe a PoC, or a demo, it can be a good option. For more advanced capabilities, maybe you have to consider other options."
+        },
+        {
+          "Note": 4,
+          "Lieu": "NG",
+          "Pseudo": "Mayowa",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-10T07:04:06.000Z",
+          "Titre": "It has been a useful tool",
+          "Contenu": "It has been a useful tool, but wish could be more customisable, or maybe we are still limited to our own knowledge of the app"
+        },
+        {
+          "Note": 4,
+          "Lieu": "DE",
+          "Pseudo": "Frank Richter",
+          "Nb_Reviews": 14,
+          "Date": "2023-06-21T08:57:14.000Z",
+          "Titre": "The idea is good",
+          "Contenu": "The idea is good. After a while you can use it well. The new actions and workflows are impeccable. Only the price is just abnormally high. I can't pay for 250 euros just because I want to write to a spreadsheet via API. For example, I only have 3 customers who would use an APP, but they pay a maximum of 5-10 euros a month, as is customary in the area - including hosting and much more. If I use Glide, I can never earn. 10 euros only for whitelabel, elsewhere I host 3 sites for the money incl. whitelabel."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CH",
+          "Pseudo": "Thierry G.",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T16:39:51.000Z",
+          "Titre": "Successful first Glide experience",
+          "Contenu": "It was my first experience with Glide.I like the way it is done. It was easy to set-up after I understood the principles.However, the integration with Airtable is a bit confusing with linked fields which sometimes need to be duplicated in Glide.Another point is relative to private users. I have 10 private users in my plan and in my project. But some are not able to log in. Is it because of tests users that we used in the development phase ? It should be counted on effective users."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Jay",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T22:12:18.000Z",
+          "Titre": "My experience was pretty good",
+          "Contenu": "My experience was pretty good. There is a lack of help on the site.  Some functions don't work until you upgrade..can't even test them.  They don't tell you about that upfront.Otherwise..the API connection to airtable was a breeze. Creating my first app was fairly easy and enjoyable.."
+        },
+        {
+          "Note": 4,
+          "Lieu": "BG",
+          "Pseudo": "Peter",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-24T15:10:20.000Z",
+          "Titre": "Great No code product",
+          "Contenu": "It is great product. Recommending it. Great software unfortunately you don\u2019t have the flexibility to move around to different providers as the code solutions."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "RobMackie",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T21:23:44.000Z",
+          "Titre": "I was able to make changes quickly when\u2026",
+          "Contenu": "I was able to make changes quickly when needed. Added a few fields to a profile screen and connected them to data that is dynamically updated in the base spreadsheet, including links to outside resources."
+        },
+        {
+          "Note": 4,
+          "Lieu": "DE",
+          "Pseudo": "Andrew Sheehy",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-11T10:32:47.000Z",
+          "Titre": "Glide Apps Rocks!",
+          "Contenu": "Glide allows you to do in days what would otherwise take weeks.No-Code is for sure the future of prototyping, but more than that: you can use it to build pretty sophisticated commercial prototypes."
+        },
+        {
+          "Note": 4,
+          "Lieu": "IN",
+          "Pseudo": "James Abraham",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T05:28:23.000Z",
+          "Titre": "Fabulous and simple product",
+          "Contenu": "Fabulous and simple product. Allowed me to build and test prototypes quickly and showcase them to investors. Wish Glide had API access to the built-in sensors and more options for navigation."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T16:22:12.000Z",
+          "Titre": "Quick and Easy",
+          "Contenu": "The learning curve is by far the easiest of all the competition. I had my project up in a few days.Part of that simplicity comes with limitations such as design elements and how things need to work overall. This is made for people that don't want to look under the hood. You get a good looking app that works great quick and easy."
+        },
+        {
+          "Note": 4,
+          "Lieu": "DE",
+          "Pseudo": "Patrick",
+          "Nb_Reviews": 5,
+          "Date": "2023-06-02T04:54:48.000Z",
+          "Titre": "So far great experience",
+          "Contenu": "So far great experience. Building an app withing a few weeks, which would otherwise have taken me months. Will see how it scales."
+        },
+        {
+          "Note": 4,
+          "Lieu": "IL",
+          "Pseudo": "noa",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-18T16:09:10.000Z",
+          "Titre": "There is a problem with another\u2026fonts",
+          "Contenu": "There is a problem with another language besides English. I write in Hebrew. No fonts. It is not possible to increase or decrease. Problem with a period at the end of a sentence."
+        },
+        {
+          "Note": 4,
+          "Lieu": "DE",
+          "Pseudo": "Mangalorean",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-27T16:11:55.000Z",
+          "Titre": "Perfectly suitable for building\u2026",
+          "Contenu": "Perfectly suitable for building consumer apps during 0-1 phase. Takes some hours to get up to speed when switching from traditional programming to spreadsheet based programming"
+        },
+        {
+          "Note": 4,
+          "Lieu": "MY",
+          "Pseudo": "Hilwani",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T05:57:15.000Z",
+          "Titre": "Why Glide motivated me to create an app",
+          "Contenu": "I've been using Glide for nearly a year. Glide's fantastic features and performance have wowed me. Despite having no prior experience with software, learning to create apps using the Glide platform has been effortless and pleasant."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Al",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-05T15:49:58.000Z",
+          "Titre": "I am new to Glide",
+          "Contenu": "I am new to Glide.  Just signed up for Pro.  Love working with Jamie Rotbert so far.  All looks very promising with his his help and guidance.  Too early to tell how Glide will positively impact my SaaS plans."
+        },
+        {
+          "Note": 4,
+          "Lieu": "EG",
+          "Pseudo": "Raghdaa",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-26T22:50:20.000Z",
+          "Titre": "Very good ,organized many data in a good manner",
+          "Contenu": "It help me to organise some data ,easy way to reach them ,i even used it in our weekly sales from supermarkets ,sometimes ihavesome problems with no of rows,newly added features but mainly found my answers in glide also"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "LYNN",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-26T17:32:12.000Z",
+          "Titre": "Easy to use",
+          "Contenu": "I find the platform easy to use and someone in the community or staff is usually readily available to give tips and advice."
+        },
+        {
+          "Note": 4,
+          "Lieu": "DE",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T23:12:09.000Z",
+          "Titre": "Good tool for simple apps",
+          "Contenu": "It's very easy to create Apps with a professional Look&Feel. Quickly reaches its limits when backend logic is involved."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Wendy",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-01T16:49:57.000Z",
+          "Titre": "Beginners, there is a learning curve. Especially if you have no technical background.",
+          "Contenu": "The software works as it should. When I click an item there are no surprises or frustrations as to why it's not doing what I expect it to do. As of now, this is the case.\ud83d\ude09"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Stephen Flournoy",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-14T03:32:34.000Z",
+          "Titre": "Software is top notch",
+          "Contenu": "Software is top notch. - Pricing, not so much.   I'd love to have a voice conversation with someone about this."
+        },
+        {
+          "Note": 4,
+          "Lieu": "ID",
+          "Pseudo": "Martinus",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T08:29:03.000Z",
+          "Titre": "Best UI",
+          "Contenu": "The UI is the best, most user friendlyBut there of course have limitation customization, that could be improved"
+        },
+        {
+          "Note": 4,
+          "Lieu": "AU",
+          "Pseudo": "Jay",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-08T01:19:35.000Z",
+          "Titre": "I am fairly good at working out how to\u2026",
+          "Contenu": "I am fairly good at working out how to use applications but when I need help on a particular task/topic I find it more difficult than I would like."
+        },
+        {
+          "Note": 4,
+          "Lieu": "AU",
+          "Pseudo": "james",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T01:40:29.000Z",
+          "Titre": "Aesthetic, fast, functional, still young",
+          "Contenu": "Glide brings app building to many people for who it previously would not have been possible.I have been able to make high quality, responsive web and mobile apps (not native) for my company without knowing how to code.The team appears to focus on making components that are clean, easy to use, and of a high quality. I love that the product is so visually pleasing both for the app developer and app user, whilst also being very functional.One thing I particularly enjoy is not having to deal with responsiveness as is the case with competing products. All the components are 100% responsive on all devices and you simply have to set up how they work with the data. There is a small customisation trade-off to note as a result.I also love that you can connect multiple data sources to your app. E.g. a table from Google Sheets, a table from Glide Tables, a table from Airtable. Data can also be used across multiple apps.At this stage, Glide is still young and so there are some features to be desired. That being said, the community is super helpful and there is often a workaround for the occasional thing I can\u2019t do natively. The Glide team has their heads down and are rolling out new features every week.Overall, after trying many different no-code app builders, Glide is the one I have landed on because of its mix of quality and ease-of-use, not to mention speed of development.If you are creating a tool for a business (and not trying to build the next Twitter or something totally unique), then Glide is probably for you!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "JP",
+          "Pseudo": "Glider-",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-08T05:25:53.000Z",
+          "Titre": "It is a wonderful no-code tool.",
+          "Contenu": "It is a wonderful no-code tool that combines beauty and competence.It will get me closer to my ideal in less time.It offers great value for free.I look forward to future updates.Thank you."
+        },
+        {
+          "Note": 4,
+          "Lieu": "ES",
+          "Pseudo": "Greener",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-15T08:16:31.000Z",
+          "Titre": "Easy of use",
+          "Contenu": "- Ease of use.- Best for making an application model.- You can make an application in a matter of minutes."
+        },
+        {
+          "Note": 4,
+          "Lieu": "ES",
+          "Pseudo": "Miguel \u00c1ngel",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-14T12:42:41.000Z",
+          "Titre": "Number of possible updates too low",
+          "Contenu": "The development platform and the service is very good, but not the conditions due to data updates and new registrations. The number of possible updates is too low."
+        },
+        {
+          "Note": 4,
+          "Lieu": "KR",
+          "Pseudo": "\uc774\uc0c1\uc900",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-19T04:40:47.000Z",
+          "Titre": "Glide is the most attractive no-code tool.",
+          "Contenu": "I collected the company's internal information scattered in the Google spreadsheet, and I'm creating an internal information system that allows all members of the company to easily access information, and that allows to maintain a single database.I've tried several no-code tools, but Glide is the most intuitive and has the lowest running curve. Data linkage with Google spreadsheets and Airtables is excellent, design quality is higher than other services, and also I can create the desired service through various functions such as filters, groups, and actions. It's also very attractive to offer features that enable CUSTOM CSS, and also price is reasonable compared to other services. Most other services only support web browsers, but Glide provides features that can be used on mobile in a form similar to native apps. In addition, when Apple made an update to provide Push Notification in browser, Glide team updated their service to support that feature in just a few days. I highly appreciate and commend you for continuing to upgrade features with quick updates.Of course, there are some weaknesses. As of now, some features provided by the Glide app, such as dark themes or login screen background images, are not yet fully available on the Glide page. Glide team is working on it, so I expect it to be available if I wait a few more weeks. Also, I want to make the uploaded PDF file downloaded directly as a file, but it appears in the form of a preview in the browser and I can't change it. I've spent a lot of time trying to solve this problem, but I still couldn't make it. I'm using Google Drive as an alternative, but then I can't upload files directly from Glide, and I have to enter the URL of the Google Drive or should use Glide's Google Drive webform, which make inconvenience to the user experience.Although there are these issues, I still think Glide is the most attractive no-code tool. Thank you for the Glide team."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Justin",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-10T21:35:43.000Z",
+          "Titre": "Glide is great....",
+          "Contenu": "Glide is great....but there is a learning curve. The user interface is clean, quick, and professional looking."
+        },
+        {
+          "Note": 4,
+          "Lieu": "BE",
+          "Pseudo": "JF Degand",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T08:46:12.000Z",
+          "Titre": "Combination of Glide with other no code apps makes it very powerful",
+          "Contenu": "Glide is an easy way for non technicians to approach the set up of a powerful and flexible app"
+        },
+        {
+          "Note": 4,
+          "Lieu": "MF",
+          "Pseudo": "Mathieu Luna",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-14T12:54:54.000Z",
+          "Titre": "Glide is a powerful tool",
+          "Contenu": "Glide is a powerful tool, I love to build and create app with Glide.The only thing missing is they have to improve the landing time. Sometime that take time to open the first page."
+        },
+        {
+          "Note": 4,
+          "Lieu": "NI",
+          "Pseudo": "Aaron",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-09T07:42:03.000Z",
+          "Titre": "It's so easy and fast to create an\u2026",
+          "Contenu": "It's so easy and fast to create an appweb in Glide that it is amazing, but the problen is that can not upload the photos straight since your cellphone to the app because you have a few space, however its nice to feel that you can create your own appweb by your self, Itvis what I really love."
+        },
+        {
+          "Note": 4,
+          "Lieu": "AU",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-16T23:57:55.000Z",
+          "Titre": "Quick",
+          "Contenu": "Easy and fast to use but lacking some connection features"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Glider CM Smith",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-08T04:12:41.000Z",
+          "Titre": "Glide is basically user friendly",
+          "Contenu": "Glide is user friendly, but some of the instructional videos show either a different version, because the available responses in the video aren't always the ones I have access to when actually using Glide"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-08T21:07:32.000Z",
+          "Titre": "More Features",
+          "Contenu": "I think there are a lot of features we are missing that can be added.  But overall it is getting us most of the way there."
+        },
+        {
+          "Note": 4,
+          "Lieu": "AR",
+          "Pseudo": "Gus",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T02:50:09.000Z",
+          "Titre": "Great experience transforming Excel in app",
+          "Contenu": "It's great experience work in Excel and obtain app results. Very handy and useful."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "John Lester",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-17T16:06:46.000Z",
+          "Titre": "Glide makes it incredibly easy to\u2026",
+          "Contenu": "Glide makes it incredibly easy to develop and launch app concepts and workable prototypes very quickly."
+        },
+        {
+          "Note": 4,
+          "Lieu": "SE",
+          "Pseudo": "Tony Sten Lennart Johansson",
+          "Nb_Reviews": 4,
+          "Date": "2022-12-07T10:51:38.000Z",
+          "Titre": "Private app",
+          "Contenu": "My Glide app is more a private app mainly used by me but a few members have also been invited."
+        },
+        {
+          "Note": 4,
+          "Lieu": "MX",
+          "Pseudo": "Jesus Gazca",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-15T15:37:36.000Z",
+          "Titre": "Fast evolvers",
+          "Contenu": "They are updating the platform at a very fast pace, the support is great and eventhough the limitation on the amount of rows in plans below Enterprise represents a problem for some of our projects I believe they will solve that issue soon enough."
+        },
+        {
+          "Note": 4,
+          "Lieu": "ES",
+          "Pseudo": "JUAN JOSE GUILLEN PERNIA",
+          "Nb_Reviews": 4,
+          "Date": "2022-12-07T14:21:40.000Z",
+          "Titre": "I am developing an idea and with Glide\u2026",
+          "Contenu": "I am developing an idea and with Glide I managed to create an online card for members of an association as the first part of that idea and now I have to continue with the project that seems to be successful."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Simon",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-07T05:56:21.000Z",
+          "Titre": "Awesome Glidexperience",
+          "Contenu": "A very user-friendly platform, intuitive and easy to navigate. The design tools are great! Apps generated are compatible with various operating systems."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CH",
+          "Pseudo": "Bernhard",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-09T17:52:27.000Z",
+          "Titre": "Quick-ish response",
+          "Contenu": "Quick-ish response, nice tone, but problem not fully solved"
+        },
+        {
+          "Note": 4,
+          "Lieu": "NG",
+          "Pseudo": "Sampson",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T14:08:07.000Z",
+          "Titre": "My experience with Glide",
+          "Contenu": "Seeing that I can build an app without coding."
+        },
+        {
+          "Note": 4,
+          "Lieu": "KE",
+          "Pseudo": "Pierre",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-27T05:19:46.000Z",
+          "Titre": "Well the continuous improvement on the\u2026",
+          "Contenu": "Well the continuous improvement on the toolset and the layout changes and additions make my development enjoyable."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Dave",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-10T22:32:06.000Z",
+          "Titre": "I like the ease of use of the App and\u2026",
+          "Contenu": "I like the ease of use of the App and the ability to make changes quickly"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Tapptechnology",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T21:14:25.000Z",
+          "Titre": "Love the platform",
+          "Contenu": "Love the platform ! Seems like they are always trying to improve"
+        },
+        {
+          "Note": 4,
+          "Lieu": "NG",
+          "Pseudo": "Abraham",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T12:27:27.000Z",
+          "Titre": "Great web app builder components"
+        },
+        {
+          "Note": 4,
+          "Lieu": "NL",
+          "Pseudo": "Alaaddin",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-18T21:02:35.000Z",
+          "Titre": "The community and the communication\u2026",
+          "Contenu": "The community and the communication with company is truly amazing."
+        },
+        {
+          "Note": 4,
+          "Lieu": "ID",
+          "Pseudo": "yans",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-24T16:12:44.000Z",
+          "Titre": "great,,,,make more tutorial for beginer"
+        },
+        {
+          "Note": 4,
+          "Lieu": "JP",
+          "Pseudo": "tendice",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-26T03:38:42.000Z",
+          "Titre": "Compatible in Japanese",
+          "Contenu": "Please make the UI, including new registrations, compatible with Japanese language!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "George",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-06T19:37:30.000Z",
+          "Titre": "Solid product and getting better",
+          "Contenu": "Solid product and getting better. Unbelievable support community."
+        },
+        {
+          "Note": 4,
+          "Lieu": "ES",
+          "Pseudo": "Albert Puig",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-10T00:50:35.000Z",
+          "Titre": "....",
+          "Contenu": "....................."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Ross",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-06T15:02:31.000Z",
+          "Titre": "I am really amazed.",
+          "Contenu": "I am really amazed with the functionality of the Glide platform. I am new to building apps, and was recommended by an I.T. friend.Within 2 weeks I have built an impressive and functional app for a community group that I'm a part of. It looks good, works well, and is easy to update or tweak.Now that I have a reasonable understanding of how the system works, I built my son a cataloguing app for his coin collection today, and it only took about 15 minutes.There's a lot of potential to this platform. I just wish I had more reasons to build apps."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PE",
+          "Pseudo": "Javier Cullas",
+          "Nb_Reviews": 2,
+          "Date": "2023-12-11T04:51:05.000Z",
+          "Titre": "Glide flexibility",
+          "Contenu": "With Glide, our company has been able to carry out many medium-sized projects in record time!!!! And now with the functionality of external databases everything becomes easier and without limitations"
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "Daniel",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-04T12:52:53.000Z",
+          "Titre": "I've been looking for a proper no-code\u2026",
+          "Contenu": "I've been looking for a proper no-code app for a while. And by coincidence I saw Glide passing by. Tried it out for 5 days, and directly decided to go to pro acount simply because I love it so much.It is helping me out on so many levels; business and personal live as well."
+        },
+        {
+          "Note": 5,
+          "Lieu": "DE",
+          "Pseudo": "Torben",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-12T10:59:14.000Z",
+          "Titre": "It's so easy to build great products that\u2026",
+          "Contenu": "It's so easy to build products that actually changes things to the better. On top of that it's fun and the more you build the more ideas you get what else you can do. This leads to the next thing that you can integrate it with other apps like airtable which then enables you to even more possibilities. And all without knowing anything about code."
+        },
+        {
+          "Note": 5,
+          "Lieu": "SV",
+          "Pseudo": "Xavier",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-04T02:15:39.000Z",
+          "Titre": "Amazing to build ideas!",
+          "Contenu": "Been using glide for 4 years and whenever I got an idea I ask myself: can l build this with glide? Love this product"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Matt Friesen",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-03T21:37:36.000Z",
+          "Titre": "Prompt helpful support from Glide",
+          "Contenu": "I needed support with an issue I was having with my app. George at glide customer support was prompt and helpful. He even went beyond my inquiring and offered some additional best practice tips. Very satisfied with how they dealt with me."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PL",
+          "Pseudo": "Mariusz",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-09T13:48:35.000Z",
+          "Titre": "Outstanding product and great service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Martin Stewart",
+          "Nb_Reviews": 2,
+          "Date": "2023-10-22T11:08:45.000Z",
+          "Titre": "Best No code PWA builder by a country\u2026",
+          "Contenu": "Best No code PWA builder by a country mile!So quick to build something ace, but, with the scope to craft something unparalleled which only your creativity as a barrier. A moment to find, a journey to explore."
+        },
+        {
+          "Note": 5,
+          "Lieu": "MX",
+          "Pseudo": "Jesus Gazca",
+          "Nb_Reviews": 2,
+          "Date": "2023-11-12T15:54:09.000Z",
+          "Titre": "How Glide can\u2019t stop surprising us",
+          "Contenu": "The Glide team keep surprising us with new features, great customer support and the constant opportunity to build better tools for our clients. We have been implementing new features with AI that a year ago were unthinkable and we have had the glide team supporting us all the way. Glide has demonstrated to be in continuous evolution and trying to take advantage of every new advance in technology around software. When we started the company we we contarle seeking for the best no code tools to develop the best solution for our clients, we would check for pricing, features, speed of development and storage capacity. Now we know that we can build almost everything in Glide with no need to be comparing it with other platforms. If Glide keeps with this great pase and addresses the technical issues as fast as it has been doing it so far when they a appear, I have no doubt that they will become the best partner to boost a lot of medium and small companies growth."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-21T06:01:27.000Z",
+          "Titre": "Very straightforward and clear\u2026",
+          "Contenu": "Very straightforward and clear recommendations. This has to be one of the easiest platforms to learn. Highly recommended."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Courtney",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-14T08:27:07.000Z",
+          "Titre": "Perfect Introduction to App Building",
+          "Contenu": "If you\u2019re new to app building, I think Glide is the perfect start! Simple to use and interpret. Plenty of resources to learn the functionalities and most importantly, awesome if you\u2019re just trying to fulfil hobbie."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Paolo",
+          "Nb_Reviews": 3,
+          "Date": "2023-08-21T21:14:52.000Z",
+          "Titre": "Powerful no-code and mobile friendly authoring tool",
+          "Contenu": "After much research of a no-code, mobile friendly, database driven authoring tool, I finally embraced Glide. I spent many hours watching Youtube reviews, but until you actually spend quality time with a platform, you are never sure of their capabilities. What I like of Glide is the number of integrations to other systems (e.g. Open AI), a community with generous contributors, and the rhythm of new updates.Glide is a tool to generate practical data-driven web apps. Don't expect deep control of how the UI will look like. If you are a designer, this may feel like a limitation. Overall I'm quite happy of my learning journey so far."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PT",
+          "Pseudo": "Amy",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-28T15:26:59.000Z",
+          "Titre": "Glide hits the sweet spot for me",
+          "Contenu": "Glide hits the sweet spot for me. I use Airtable as my data source and need a flexible app on top of it that doesn't require coding skills. Glide offers so many options but makes it easy to create. Their documentation and community are phenomenal as well, so if I ever get stuck, there are very quick responses to my queries."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Bill",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-02T17:36:09.000Z",
+          "Titre": "No experience... had 2 apps up over the weekend to make mine and my co workers lives a lot easier.",
+          "Contenu": "Easy to use, documentation is great and tutorials are plentiful. Still have to get use to some little things but overall it is great."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Hyde Phillips",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-11T08:28:42.000Z",
+          "Titre": "Absolutely loving Glide",
+          "Contenu": "Absolutely loving Glide, and excited about new (and undiscovered) ways it will enable me to scale my business. I\u2019m a long-time Airtable builder and enthusiast for creating customised no-code apps to drive efficiency & performance. Glide is a breath of fresh air in this exciting arena - it\u2019s a powerhouse under the hood but gorgeously easy to use. Combine it with new and emerging AI tech and the opportunities are very exciting. Power, Beauty & Magic really do sum it up. This is the future of app building IMO!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jan Molski",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-15T10:01:01.000Z",
+          "Titre": "It's works like magic. The best no-code tool",
+          "Contenu": "It's loading superfast. Looks good on any device. Everything works perfectly (no errors, reloaded etc.) And it gives me so much joy to build with Glide. I'm just a happy human. I remember how Glide used to be 3 years ago and you made so much progress in that time...Love the experience.Btw. Integration with OpenAI is so well-designed... I'm pretty sure there is also automated embedding generation in the backend and integrated similarity search... Amazing job!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ZA",
+          "Pseudo": "Luther the Glider",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-13T21:43:14.000Z",
+          "Titre": "Glide is one of the best no-code tools\u2026",
+          "Contenu": "Glide is one of the best no-code tools out there, if not the best. It allows non techie users like myself the ability to create tech solutions in half the time and I don't need to hire a developer but rather I can everything myself on their App builder. They also have a great community that is very supportive and helpful. I don't think I can ever find another no code tool that I love and enjoy as much as I enjoy using Glide."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Matt",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-13T11:30:19.000Z",
+          "Titre": "Excellent, I have leveraged this in so many ways",
+          "Contenu": "Quick to learn, fast to make, long lasting solutions. I can't code, but that didn't stop me making leading apps for booking platforms, CRMs, investor reporting, fund management, and more. Truth is, so many people still use a collection of spreadsheets and this is super messy. With Glide you can make something 10X better than a spreadsheet and 80% as good as a very expensive (time and money) bespoke salesforce setup or newly developed product."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Cynthia Blake",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T21:20:37.000Z",
+          "Titre": "Finding Glide Has Changed My Life!",
+          "Contenu": "Finding Glide has changed my life. I am an educator. I use it religiously to make apps to help me teach. I\u2019ve made other things too that are being uses by others which has profited Glide, which I am more than happy to do. I hope to make many more things that will ultimately benefit Glide and provide some side income for me as well. It\u2019s the greatest thing I\u2019ve used in many years, and I\u2019ve been a techy for decades!I cannot say THANK YOU enough!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "John Bastow",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-31T12:44:47.000Z",
+          "Titre": "Great for apps powered by lots of complex data",
+          "Contenu": "It's brilliant for developing apps that use lots of data. I've been using for some time, developed complex user journeys, the whole thing is powered by multiple data links. Great for relational data tables. Also the finished product looks great. Never gone wrong yet.  It's not perfect; but it meets the number 1 criteria. It just works. Don't underestimate the need for smart design though; there are often several ways of achieving the same thing so to find the best method may require a lot of time to be invested. Whilst it's no/low code, you can't shortcut the testing. Good luck."
+        },
+        {
+          "Note": 5,
+          "Lieu": "VN",
+          "Pseudo": "Tr\u1ea7n Tu\u1ea5n Minh",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-21T08:48:27.000Z",
+          "Titre": "Hello glide, you are a amazing startup",
+          "Contenu": "1. The ability to quickly import data into the app by title2. Glide Academy with full video tutorials3. Clear and specific paid packages suitable for many audiences4. The free plan is great, helping users experience and want to upgrade to higher levels5. Decentralize by activating the row owner"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "David",
+          "Nb_Reviews": 7,
+          "Date": "2023-02-13T09:39:09.000Z",
+          "Titre": "Great experience to date",
+          "Contenu": "Great experience to date. I came to Glide after trying many other 'low code' tools and applications. Glide was a real breath of fresh air, doing more than I needed in an easy, structured and logical way. It is a bit like a Russian Doll, the more layers you explore the more features you find, and it just keeps exceeding my expectations day by day. Looking forward to the forthcoming print / PDF plugin which will complete our application."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Saahil Bhanot",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T04:22:01.000Z",
+          "Titre": "Glide gives wings to ideas",
+          "Contenu": "Glide makes database and user interface setups a cakewalk. Templates made by users and Glide experts open up the possibilities of use cases. Clubbed with Google Sheets formulae and integrations gives wings to ideas. A novice like me caught up on apps dev and confidently pivoting to enhance user experience."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T21:59:29.000Z",
+          "Titre": "Glide is amazingly simple to stand up a\u2026",
+          "Contenu": "Glide is amazingly simple to stand up a good looking mobile app with data coming from a Google sheet.  Changes made in the design screen are immediately reflected in the production app. The new lower tier pricing made the difference for me to be able to keep the app online vs having to shut it down."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IE",
+          "Pseudo": "Ivan",
+          "Nb_Reviews": 3,
+          "Date": "2022-12-07T09:30:44.000Z",
+          "Titre": "Great UI, mostly straight forward tools.",
+          "Contenu": "I have used Glide to create 2 small mobile apps, using free tier. Previously I have tried solutions from 2 other vendors, but unsuccessfully. Although the apps were minimal there was always something lacking. Glide was the first one that had everything I needed out of the box. I did not require any training to start building the app.Couple of things were still cumbersome to complete and required some coding on the DB side (which was google sheets).Couple of things were not straight forward or required indirect approach to implement, e.g. using one type of field to prepare data for another field, etc.The best part - is the UI of the resulting application. I enjoy that the app looks modern and the default UI is simple an functional"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IT",
+          "Pseudo": "Marco Castello",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-04T18:34:30.000Z",
+          "Titre": "Perfect to build MVPs",
+          "Contenu": "Cool app, simple to use, can achieve great result very quickly. Super useful to build quick MVP for tools and startup ideas"
+        },
+        {
+          "Note": 5,
+          "Lieu": "AT",
+          "Pseudo": "Christoph",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-15T22:17:28.000Z",
+          "Titre": "From Simple to Advanced Apps",
+          "Contenu": "Glide is a very intuitive and easy to learn No-Code Plattform for building great responsive Web-Apps (and Pages which I didn't use). You can start very simple and fast. And while you learn and grow (with the help of a great community) you can build complex apps with the integration of third party services such as payment, automation, etc.Glide supports several data sources (Google Sheets, Airtable, ...) and has a great track record in implementing new helpful features and improvements all the time.Check it out, you can build your first Web-App in a few hours. For your customers, your employees or your community and friends."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Glider Lara",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T01:12:43.000Z",
+          "Titre": "Excellent app for beginners\u2026",
+          "Contenu": "Excellent app for beginners because you can learn from pre made templates and step by step tutorials or video instructions. every feature is free without time limits or payment until you want to go bigger. so you don\u2019t have to worry about paywalls prior to trying anything out and knowing it will work. It\u2019s beautiful and easy to create things , and I use both the mobile App and Pages app for a technical services company. Prior to using glide, google sheets was my level of experience. So give it a go you\u2019ll be surprised at all the things you can create!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "Aaron Rodriguez",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-31T21:20:06.000Z",
+          "Titre": "Incredible product",
+          "Contenu": "Incredible product. Amazing way to build a nocode saas. I think very soon Glide will be the tool for nocode building (now in terms of global positioning is bubble).You need more success cases. I\u00b4m building a sideproject (cobrandings.com), and I\u00b4m more than happy."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IT",
+          "Pseudo": "Noemi",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-28T20:17:19.000Z",
+          "Titre": "Perfect for displaying content, like an archive or tracker",
+          "Contenu": "Awesome if you want to create apps or websites to display informations, like an archive or expense tracker.Easy to use and efficient and with Google Sheet integration you have full control of your project.In the beginning, I was disappointed because it was too difficult and the learning curve was high but with a bit of practice I got used to it.If you want to use formulas or the advanced features on glide academy, community, and YouTube you can find help and resources.Give it a try, is worth it!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Bobby Gay",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T18:19:05.000Z",
+          "Titre": "I am not a programmer",
+          "Contenu": "I am not a programmer. I do know spreadsheets well, and began using Glide with Google Sheets. I have built apps that do things like capturing expense receipts in the field to calculating Heating & Air BTU load requirements based on field technician inputs. I have recently been using Glide with Airtable and I think that will be a winning combination."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Will Ware",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T00:06:58.000Z",
+          "Titre": "Im not a programmer",
+          "Contenu": "Im not a programmer, I use Glide to make app from the data I have. I like Glide better than the others (bubble/adalo) because I don't have to PROGRAM the interface, I just use your prebuilt views into data. Because Im NOT a programmer, I don't THINK like a programmer so I would like to see more videos on HOW to use the components in glide to achieve various workflows. Videos about HOW to THINK like a programmer"
+        },
+        {
+          "Note": 5,
+          "Lieu": "MT",
+          "Pseudo": "Hugues Bonamy",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-10T09:51:41.000Z",
+          "Titre": "The ease-of-use interface of Glide: Glide is the easier tool I ever work with (Salesforce, Airtable, Google sheets, Excel...)  The ease of use is mainly based on a \"natural\" Editor.",
+          "Contenu": "The ease-of-use interface of Glide allows anyone to create what is known as \u201cprogressive apps\u201d. But it's more than that. You can built complex Information System and automate most of the engineering process. The thing is that you need to be a good analyst to do it. Not a manager, not a developer but a  proper business analyst. Glide is the perfect tool of the analyst. For \"safety\" reasons it would be long to develop here, you can mainly develop Information System for small business. But i'm pretty sure to be able to develop for large organizations pretty soon; Glide team is moving fast in the good direction. After Airtable, Glide will be soon for sure one of the few great tech companies."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "Ralf",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-15T07:49:35.000Z",
+          "Titre": "Glide Apps for Golf Management",
+          "Contenu": "With the use of Glide and Google Sheets I have built a Golf Event Management System for a non-profit organization for nordic people on vacation in Spain.300+ golfers are participating in up to 100 events per year. All, from bookings and starts to results are fully automated. The prize podium is announced immediately after that the last ball is in the hole.Some outstanding features are:-Digital membercards (with help of Cloudinary)-Digital scorecards-Live leaderboardThe Glide built-in browser is very useful for presenting digital lists and cards in in the same familiar format as the golfer is used to see analogically.We find Glide apps on Google sheets extremely powerful."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Yousif Abass",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-18T20:54:30.000Z",
+          "Titre": "Excellent way to build mvp's or to test\u2026",
+          "Contenu": "Excellent way to build mvp's or to test concepts. The css customisation would allow you to easily turn a basic tool into a fully fledged customer facing application. Takes dev time from weeks to hours."
+        },
+        {
+          "Note": 5,
+          "Lieu": "BE",
+          "Pseudo": "Luc",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-07T17:30:59.000Z",
+          "Titre": "An app in 24h \u2026",
+          "Contenu": "Glideapps allows an incredibly fast start for developing new apps. It's not yet a full-blown platform, but it already has a lot of great possibilities. I just regret that  the use of customised CSS is only possible in the  Business version that is way too expensive for a private app. I don't mind paying 20$/month or eventually 99$/month, but 249$ is not ok.For the rest, I got the app life with its first screens and functionalities in 24h and 2 months later (having a full time job besides this) it has become an app we use daily for our healthy food approach, our menu of the week, calorie count, automated shopping list and everything you can wish for if you are the cook at home. With that first experience I'm now working on 2 new ideas. Another advantage of Glideapp, I don't make wireframes ... I make the life app immediately usable ... and build from there ... in direct connection with the future users."
+        },
+        {
+          "Note": 5,
+          "Lieu": "RU",
+          "Pseudo": "Mikhail",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T01:29:51.000Z",
+          "Titre": "Best of best and grate potential",
+          "Contenu": "Best of best platform for idea\u2019s testing. Easy, quickly, stable and professional view. I hope, when GA4 integration will adjusted, SMS SignUp will realized and road map to native app\u2019s platform will be more clear, Glide will amazing."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ray",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-17T14:52:15.000Z",
+          "Titre": "I am a small business owner (sports\u2026",
+          "Contenu": "I am a small business owner (sports club - fencing) and use Glide for my onboard/membership flow.  Glide is a fantastic platform to easily create apps for small organizations. This provides me with a mechanism to provide a modern looking app to my customers."
+        },
+        {
+          "Note": 5,
+          "Lieu": "RU",
+          "Pseudo": "Alexandra Berger",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T07:56:23.000Z",
+          "Titre": "useful, well thought through",
+          "Contenu": "I just learnt how to use Glide via help of the tutorials and supportive community for my future small business. I really like the integration with google spreadsheets, and it works magic! Full stack web page made simple, and it takes only 1 person to maintain it. Magical!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Michael",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-13T13:20:05.000Z",
+          "Titre": "Glide has given me the opportunity to\u2026",
+          "Contenu": "Glide has given me the opportunity to turn ideas into action. I'm finding it hard to keep away from my computer because the work flow is so fluent. It didn't take me long to put a working model together and it looks very polished. Looking forward to consolidating many websites and applications into my Glide projects."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Carylanne",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T22:06:11.000Z",
+          "Titre": "Glide is awesome",
+          "Contenu": "Glide is awesome! With barely any coding skills, I've been able to create several apps for work and for my personal life. The UI is easy to use and there are plenty of templates for me to copy or find inspiration from to build my own apps. I'm excited to explore the many ways I can keep using Glide, especially at work."
+        },
+        {
+          "Note": 5,
+          "Lieu": "BE",
+          "Pseudo": "Filip Art'Iz",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-14T20:40:15.000Z",
+          "Titre": "Glide is what we need for our school",
+          "Contenu": "Glide is what we need for our school. Creating our own apps and pages gives us the opportunity to build out the platform we need for sharing educational content en gathering the progress of our students in an organized and sleek way. Glide also keeps improving with regular and valuable updates."
+        },
+        {
+          "Note": 5,
+          "Lieu": "FR",
+          "Pseudo": "David TARDIVEAU",
+          "Nb_Reviews": 2,
+          "Date": "2023-06-22T14:52:36.000Z",
+          "Titre": "As a developper, i can say \u00ab\u00a0Glide is THE No Code Saas you need\u00bb",
+          "Contenu": "As a developer for over 30 years, passionate about new technologies including NoCode, I found Glide in 2020-21 to be a flexible, powerful, and incredibly easy-to-use professional solution. Its deployment is the simplest among all existing solutions. After testing numerous options, Glide is by far the most efficient. In fact, I am upgrading to the higher plan this month."
+        },
+        {
+          "Note": 5,
+          "Lieu": "QA",
+          "Pseudo": "Yasin Hassanien",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T05:18:33.000Z",
+          "Titre": "Top No-Code Platform In The Market So Far",
+          "Contenu": "One of the best no code apps for beginners and with a learning curve serves experts to reach their goals via customizing the backend to their need.The columns and yes code feature puts glide in very special place where you can combine all of excel formulas, javascripts & many other features under 1 umbrella"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T07:54:03.000Z",
+          "Titre": "Great",
+          "Contenu": "Glide's a great option for those who want to explore the basics of which I believe is called block programming. For something that is free, it provides a great variety of features that give you a really good chance of having fun while you learn block programming."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AR",
+          "Pseudo": "Nicol\u00e1s C.",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-12T00:01:22.000Z",
+          "Titre": "Now anyone can build a mobile app!",
+          "Contenu": "I still can't believe how straightforward it was for me to build a mobile app for my side project with Glide. Glide makes building mobile apps incredibly accessible for anyone with no programming knowledge or experience. This tool is incredibly user-friendly. With its drag-and-drop interface and intuitive design, you can quickly and easily create attractive apps with no difficulty. The most incredible feature is that Glide automatically creates a first draft version of your app based on your data. The apps look gorgeous right away and you don't have to spend countless hours with design and style. You will create stunning mobile apps in minutes and have them ready to share in no time. Highly recommended!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "MQ",
+          "Pseudo": "Client",
+          "Nb_Reviews": 3,
+          "Date": "2022-12-07T01:54:05.000Z",
+          "Titre": "Glide is the greatest nocode app builder",
+          "Contenu": "I tried different nocode app builder and, I truly believe that Glide is the best nocode app builder to me. Im using Glide from 2020 and as a nocoder, it is the easiest way to create app.Ever since 2020, I\u2019m using Glide to create app for professional needs as much as private ones. Also, I really like the interface design of the builder and created app, simple and efficient."
+        },
+        {
+          "Note": 5,
+          "Lieu": "JP",
+          "Pseudo": "Mikio",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-21T01:45:12.000Z",
+          "Titre": "Even a complete amateur could make the app!",
+          "Contenu": "Until now I was able to realize an application that I had only fantasized about.I am completely clueless about programming, and I am not fluent in English.The operation is so easy that even I can make the app by utilizing the limited information I have.Thank you very much."
+        },
+        {
+          "Note": 5,
+          "Lieu": "SE",
+          "Pseudo": "Billy",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-17T11:01:10.000Z",
+          "Titre": "I think Glideapp is a wonderful tool",
+          "Contenu": "I think Glideapp is a wonderful tool. I love creating small apps for me, my friend, or at work. I love experimenting with new functions but I wish it would be cheaper since I don't have a budget for testing."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ID",
+          "Pseudo": "Lily",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T04:51:11.000Z",
+          "Titre": "Best no code app",
+          "Contenu": "Building app is so easy. I can build any simple features for class simulation, business, and personal finance tracker. Glide also provide helpful information and guide how to maximize their features. Best no-code app!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "FR",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-06T21:25:49.000Z",
+          "Titre": "The best no-code builder, ever.",
+          "Contenu": "Glide has been my best & default go-to no-code builder in 2022, and nothing makes me want to try another one! Apart the great features to create MVPs, iphone apps or landing pages, I had a great customer experience by email and dedicated learning sessions with a Glide professional. I am looking forward so much to the future possibilities of Glide for building entire internal apps. I have learned Product Management trough no-code in my company, and Glide has been my daily tool."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mike Social Studies Teacher",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T05:24:28.000Z",
+          "Titre": "Well designed product that is user friendly",
+          "Contenu": "Glide is pretty user friendly.  The learning curve was a bit steeper for me than most I think because I did not have any sort of background with spreadsheets but with Glides tutorials and the support of other users I have managed to build an app that I use for the management of my gamified classroom."
+        },
+        {
+          "Note": 5,
+          "Lieu": "DZ",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T23:36:35.000Z",
+          "Titre": "Impressive",
+          "Contenu": "I discovered glide about a year now, I find it very easy to use, and with a little practice you can turn pretty much any idea into a functional application. The team is super helpful, the community top and they keep improving, I really can\u2019t find anything bad to say about glide, fantastic work !"
+        },
+        {
+          "Note": 5,
+          "Lieu": "FR",
+          "Pseudo": "Chris HARMAND",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-07T13:24:32.000Z",
+          "Titre": "Amazing tool",
+          "Contenu": "First of all, Glide has an intuitive and very easy to use interface. Connecting the database from Google Sheet, Airtable or under Glide directly, allows me to change the operation of the apps according to the projects.I was able to test a lot of ideas to get out of MVPs quickly without wasting time or money.The possibility of developing several projects on the same interface is really a plus.Moreover, the tool is incredibly easy to use with its drag-and-drop interface and the rendering is truly stunning.Finally, the community is really active and many features can be added by reading the suggestions left by other users.In short, I recommend Glide to everyone :-)Congratulations to the whole team !"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Customer",
+          "Nb_Reviews": 2,
+          "Date": "2023-11-17T08:38:00.000Z",
+          "Titre": "Easy to use yet super powerful",
+          "Contenu": "Easy to use NoCode tool that offers powerful functionality and integrations with other platforms and tools."
+        },
+        {
+          "Note": 5,
+          "Lieu": "JP",
+          "Pseudo": "Masayoshi Ozaki",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-28T15:17:33.000Z",
+          "Titre": "You have plenty of partner programs as\u2026",
+          "Contenu": "You have plenty of partner programs as well as resources. Compared with other no-code apps, I believe Glide will be one of the best platforms in the world."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IE",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T21:28:54.000Z",
+          "Titre": "From total beginner to Glider",
+          "Contenu": "As a total beginner, I managed to create 3 different community apps within a short timeframe. There are so many videos available to help you along if you get stuck. The apps look so professional, the graphics are so colourful and eyecatching and the image library is very impressive. Most of all I've found creating apps to be a very interesting challenge, and it's been very satisfying providing a useful resource for others. I would highly recommend Glide Apps."
+        },
+        {
+          "Note": 5,
+          "Lieu": "BR",
+          "Pseudo": "Daniel",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-24T03:06:51.000Z",
+          "Titre": "Game changing",
+          "Contenu": "Im working using Glide for a month, it is not. perfect, but is a game changing tool, it's unbelievable how much i was able to do in soo little time. The community is awesome too, very helpfull"
+        },
+        {
+          "Note": 5,
+          "Lieu": "FR",
+          "Pseudo": "Antoine",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T23:09:33.000Z",
+          "Titre": "Powerful and easy to use",
+          "Contenu": "My long IT experience comes from various jobs in IBM, but never as a developer:  I created some successful applications using a very famous interpreter (Rexx).  Glide is providing me with a similar approach and gives me the same possibility of creating without coding. Glide reduces drastically the timespan between creativity and implementation.  I really love it. The more I use it the more I find ways to easily add new functionalities.  It is an excellent tool  which is continuously improving. I wish the Glide team a lot of success and a bright future."
+        },
+        {
+          "Note": 5,
+          "Lieu": "RU",
+          "Pseudo": "DomFarfora",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-02T20:18:25.000Z",
+          "Titre": "This is the most amazing thing I've\u2026",
+          "Contenu": "This is the most amazing thing I've seen in recent years. A solution that allows you to assemble literally on your knee as simple solutions (we used it for self-service kiosks in our chain of stores, for a startup selling products on cruise ships as a reporting environment for the project in the financial part) and for a more serious solution for production. We have created an mvp solution for monitoring production equipment and executing projects in production within two weeks. Without preparation, without development knowledge, a working pwa application on Glide is just a gift. You guys are amazing!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "V-Eighty-Eight",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T11:03:21.000Z",
+          "Titre": "Super Glide Platform",
+          "Contenu": "The team at Glide provide a fantastic platform for building mobile and desktop web apps that are fully-featured and robust. We have been using them for over three years now and the experience keeps getting better."
+        },
+        {
+          "Note": 5,
+          "Lieu": "FR",
+          "Pseudo": "Sacha",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T11:38:31.000Z",
+          "Titre": "N\u00b01 choice for an interface designer",
+          "Contenu": "The company is moving very fast and it's very pleasant to see all the improvement that is done each month.I love how quick and easy it is to build apps that quickly brings value/efficiency at low cost.I'am also very impressed with how powerful is Glide tables and all the available field types (even more powerful that Airtable in some cases !)I would love to see some improvement on the Airtable integration side. Especially when dealing with special Airtable field types such as Multiple select or Linked fields. The integration is a lot better since the arrival of linked records update through choice components, but it's sometimes difficult to update or add values into a linked record field that relates multiple linked records (1-n relationships).Also, it would be good to have access to the same components in Glide pages that we have in Glide apps (e.g. e-sign component).Even with these little limitations, Glide is today my N\u00b01 choice when there is a need to design interfaces."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jamie R",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T21:43:33.000Z",
+          "Titre": "Thoughtful Design, Works Really Well, Reliable",
+          "Contenu": "Their app is brilliantly designed, works reliably, and they have a wonderful community of experts to support. Highly recommend to anyone who wants to build apps faster than they ever could have imagined possible."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T08:14:09.000Z",
+          "Titre": "Product review",
+          "Contenu": "Great app,help me to build next level products.My process flow is think of idea make MVP on Glide and when it's working according to thought process make whole product by traditional way."
+        },
+        {
+          "Note": 5,
+          "Lieu": "MX",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T23:11:15.000Z",
+          "Titre": "I have been blown away by how powerful\u2026",
+          "Contenu": "I have been blown away by how powerful and easy to use Glide is. As a non-technical person, I was able to create a complex and feature-rich app for my small business in just a few hours, without writing any code. The drag-and-drop interface and pre-built templates made it incredibly simple to build the app I wanted. I love how complex the backend can be with computed columns and even javascript columns!The app itself is fantastic - it looks professional and has all the features I need to connect with my customers and grow my business. I've been amazed at how quickly I've been able to get it up and running, and how easy it is to make updates and changes as needed.Overall, I highly recommend GlideApps to anyone looking to create an app for their business. Whether you're a technical person or not, it's an incredible tool that will help you build a beautiful, functional app in no time. Five stars!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ZA",
+          "Pseudo": "Luther the Glider",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-11T20:49:25.000Z",
+          "Titre": "Why i love to \"Glide\"",
+          "Contenu": "Glide is a powerful nocode App builder that allows even non technical founders or employees within companies to create powerful and purposeful Apps without the need to write code. This has the impact of empowering people to not only stop at idea stage but to also make the transition to bring their ideas to life with faster than they would if they had to hire a technical developer."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "customer",
+          "Nb_Reviews": 4,
+          "Date": "2022-12-07T13:02:00.000Z",
+          "Titre": "This APP has helped us to manage our\u2026",
+          "Contenu": "This APP has helped us to manage our non-profit organisation in a simple way. We have managed to manage all the processes in an agile way and collected more than 400kg of food last November."
+        },
+        {
+          "Note": 5,
+          "Lieu": "MY",
+          "Pseudo": "Naqadaqe",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-08T11:30:09.000Z",
+          "Titre": "Beginner Friendly for New App\u2026",
+          "Contenu": "Beginner Friendly for New App Developer.This is a great tools for someone with little or no programming background. Also, I really help to reduce the time to complete the task. Play with the simple features, sometimes will result in a complex app."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Matt",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-02T03:32:29.000Z",
+          "Titre": "Glide lets me build high quality\u2026",
+          "Contenu": "Glide lets me build high quality applications quickly that look great on many form factors. My clients are impressed with how fast I can provide real value for them."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ID",
+          "Pseudo": "lion",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-01T08:41:52.000Z",
+          "Titre": "what makes our experience is great;",
+          "Contenu": "what makes our experience is great;its easy to use, its massive improvement where every month we can see new features added, and its affordable price. Thanks to glide team."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "GlideFan",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T08:13:09.000Z",
+          "Titre": "Glide is saving lives! We love Glide",
+          "Contenu": "Glide has made it easy for us to be able to build and deploy an app for our community. Using Glide we have been able to build an app that supports and empowers queer individuals from across Utah."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Melissa",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T22:06:08.000Z",
+          "Titre": "Low cost development options",
+          "Contenu": "This is a great solution for people with new ideas who cannot afford expensive development teams. It is also good that there are resources to bring programs forward."
+        },
+        {
+          "Note": 5,
+          "Lieu": "FR",
+          "Pseudo": "lise",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-12T20:02:01.000Z",
+          "Titre": "So easy to start",
+          "Contenu": "We manipulated Glide; initially for small apps, and thanks to the different tutorials, and the forum where we could ask questions, we managed to create an app for leave requests. Excellent, and easy to use."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PT",
+          "Pseudo": "Narrativa Intemporal Lda",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-08T15:14:12.000Z",
+          "Titre": "The community is awesome",
+          "Contenu": "The community is awesome! The documentation is simple and clear.We are starting a consulting business where no code tools are the main point!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ID",
+          "Pseudo": "sebastian",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-12T06:24:45.000Z",
+          "Titre": "A very usefull apps",
+          "Contenu": "A very usefull apps. easy to make an application for daily use such as recipe apps, product katalog, financial, etc. I have made 5 different apps with glide that i use everyday. Thanks Glide"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Mark",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-07T11:17:42.000Z",
+          "Titre": "Can\u2019t recommend glide enough.",
+          "Contenu": "The ease of the platform. Really easy to use and great functionality. It has really supported my business. The community within glide is amazing too. Full of enthusiastic and support people."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CH",
+          "Pseudo": "Raphael",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-22T14:24:38.000Z",
+          "Titre": "Combines Front and Backend with No Code \ud83c\udf89",
+          "Contenu": "Finally, there's a nocode builder that combines the most important back and frontend capabilities. Exactly what I was looking for to build my extended MVP."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Perry Van Dongen",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-08T02:59:17.000Z",
+          "Titre": "A very easy to use App.",
+          "Contenu": "I found Glide very easy to use. I had no trouble making my first app and since then I've made several more. It is a bit limited in it's graphic design capability but that's not all that important to me."
+        },
+        {
+          "Note": 5,
+          "Lieu": "TR",
+          "Pseudo": "Ali",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-06T16:39:24.000Z",
+          "Titre": "Thank you!",
+          "Contenu": "Helped me to run my work in a different way, thank you so much... the only issue that I face is that clients suffer a long time when they open the app till the material starts to appear...anyway, thank you so much :)"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Generation Revival Church",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-07T00:08:38.000Z",
+          "Titre": "Custom Work Apps for Church",
+          "Contenu": "Glide helped me connect the admin side with the ministry side of our new church. Administrators can update spreadsheets and ministry leaders can review contact information, call/email/text directly from the app without downloading contact info into their phones, and leave notes/comments that will benefit admin. It's a great place for an live/interactive church directory used internally by admin and ministry staff."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Brad",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-15T01:45:27.000Z",
+          "Titre": "Glide is easy to use yet very powerful!",
+          "Contenu": "Glide App is a game-changer in the realm of software development, allowing users to create intuitive and engaging applications with remarkable ease. Its user-friendly interface combined with a suite of powerful features enables even those without a technical background to bring their visions to life. In short, Glide App democratizes app creation, making it accessible and straightforward for all."
+        },
+        {
+          "Note": 5,
+          "Lieu": "FR",
+          "Pseudo": "Mike",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T22:54:33.000Z",
+          "Titre": "The non-profit offer is great for us\u2026",
+          "Contenu": "The non-profit offer is great for us and enables us to provide Glide to our students. I like the detailed instructional videos, the really good online help documentation and the free templates that enable you to adapt these to a new project."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Chris",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-02T22:22:56.000Z",
+          "Titre": "Great and easy-to-use!",
+          "Contenu": "Glide has a great and easy-to-use interface that allows me to create and test lots of different app ideas while also providing unique experiences to access and organize the underlying data. Users have the option to create multiple teams on free plans to strategically test and deploy apps which is nice if you don't have very large datasets, as the free plans do have a limit on rows."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ZA",
+          "Pseudo": "Sam Take City",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T09:10:26.000Z",
+          "Titre": "It's a great tool to have as a low code\u2026",
+          "Contenu": "It's a great tool to have as a low code developer. It has features that makes the everyday business person adjust to technical development with ease."
+        },
+        {
+          "Note": 5,
+          "Lieu": "RU",
+          "Pseudo": "Gafar-Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-07T07:42:48.000Z",
+          "Titre": "Personnel management system using glide",
+          "Contenu": "Amazing system! It allowed automating the management of field personnel and filling in tables in automatic mode. About 500 working hours per month were released."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Madz G.",
+          "Nb_Reviews": 3,
+          "Date": "2022-12-14T08:25:46.000Z",
+          "Titre": "QR Code",
+          "Contenu": "Great support but however in apps itself need to improve the QR code feature to serve it well as didn\u2019t work in scanning activity."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AR",
+          "Pseudo": "Emilio Roqueta",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T21:41:43.000Z",
+          "Titre": "The beauty of simplicity",
+          "Contenu": "The tool allows you to create PWA applications with a simple and incredibly professional interface.I would like, especially in Glide Pages, to manage more records, I think that 25,000 are few for a web app."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "DIGlider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T21:32:36.000Z",
+          "Titre": "Wonderful tool for a non-profits to share information",
+          "Contenu": "Easy to learn and use, the old pricing was perfect for a small educational non profit that need an app for a few months. Still learning the new pricing model."
+        },
+        {
+          "Note": 5,
+          "Lieu": "BR",
+          "Pseudo": "Igor Iansen",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-08T16:27:13.000Z",
+          "Titre": "Easy and fast",
+          "Contenu": "Easy to set up and quick to launch. In a short time, I managed to have project and sales information available to the entire team, wherever the team was located."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NG",
+          "Pseudo": "Agbo Faruq Rabo",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-18T21:58:49.000Z",
+          "Titre": "The Best",
+          "Contenu": "The best no coding platform I have used so far I love the experience and everything most especially after testing so many platforms alike I have realized none of them met my taste like glide."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Glider Jeremy Jones",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T22:17:27.000Z",
+          "Titre": "I love Glide",
+          "Contenu": "I love Glide. Your team has made it simple to create apps. My Glide app is a bookkeeping app. It is a monthly subscription-based app. Therefore, I have users/subscribers for my app. Those subscribers use \"Rows/Data\" within Glide. I'm currently on the Pro Plan. Eventually, I (my users) will hit a cap on row usage. So, my only ask would be: For Glide to have a plan I could purchase that will allow unlimited row data usage (without hitting some sort of cap). This would allow me to grow my app and possibly hold an unlimited amount of users. Other than this I love Glide. Your team has brought my idea to life. Shoutout to your Glide Expert Robert Petitto. He has helped a TON and is so skilled! He's a Doogie Howser."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "John",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-13T20:58:34.000Z",
+          "Titre": "Incredibly Powerful Tool for managing databases",
+          "Contenu": "Honestly, I can't believe Glide is free. It's true that the free accounts are limited, but for making hobby apps and learning how to use the software, it was very practical and was not limiting at all. I made several apps that were personally useful to me. And it's not until I was confident enough to start making apps for work (I work in education) and play (I volunteer for a non-profit tennis league) that I hit the limitations of the free account because of the number of users and edits using the app every month. I have a rudimentary knowledge of programming and am proficient at spreadsheets, but glide allows me to do things that I would never be able to program on my own and it is very intuitive. Coded spreadsheets that were cumbersome to use and had low capabilities due to my limited programming knowledge, are now apps that are streamlined, used from my phone, and blow people's minds. It's like what Dreamweaver was for websites, but better. I only wish the apps would work offline... and that toggle switches/boolean column edits wouldn't count toward the monthly edit count. The customer service is excellent with very short response times and I find the basic plan is good value, but the next higher plan is a big jump, especially if you are doing non-profit work. As a Canadian, I also wish the invoice would state that the price paid is in American currency. It would make my life much easier if they would put USD $25 instead of just $25."
+        },
+        {
+          "Note": 5,
+          "Lieu": "SE",
+          "Pseudo": "Raymond",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-12T23:07:12.000Z",
+          "Titre": "This company is really helping people",
+          "Contenu": "This company is really helping people with app ideas but no experience of coding, like myself, to create useful digital interfaces to any spreadsheet. Surprisingly easy to learn even beyond the basics."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "Asociaci\u00f3n Juvenil Glera",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-13T07:50:00.000Z",
+          "Titre": "It is very easy to create apps",
+          "Contenu": "It is very easy to create apps. And the design of the interfaces is very flexible and you get awesome results."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Raja",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-21T16:38:31.000Z",
+          "Titre": "Very good experience",
+          "Contenu": "Very good experience. Glide app help a lot my business."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Glider",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-08T04:57:59.000Z",
+          "Titre": "Easy to use. Creates beautiful pages",
+          "Contenu": "Easy to use, thanks to intuitive design interface where interaction can be as simple as just drag & drop of predefined objects on a graphical representation of the app your are creating. The objects look & feel help create pages views that are refined and beautiful"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ZA",
+          "Pseudo": "Shane",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T22:02:46.000Z",
+          "Titre": "Glide Apps is the most amazing no-code app building platform i've ever used!",
+          "Contenu": "Glide Apps is the most amazing no-code app building platform i've ever used. Everything is clean and easy to navigate and the tutorial videos, documentation, case studies, templates and active community of industry experts make it an easy learning experience, i'm one click away from help, 24/7.I can link my mobile apps and web apps to my google sheets or excel but lately i've found their data editor so easy to use, i try build everything directly off there.When i first started using Glide almost 3 years ago the most important thing was the look and feel of the apps, that's what sold me on Glide Apps, but they have grown massively in three years and the user interface designs, components, functionality, help tools etc just keep getting better and it's been an exciting journey ever since. I love the fact that the apps don't need to be downloaded and it's 2 clicks for my users to install the app on their home screen.I can build small, medium or even enterprise apps with massive capacity as my projects grow.I started building Glide Apps at the start of covid lockdown in 2020 (coming from the construction industry) and i turned this into my new career path within 2 days, zero cash down and no prior experience.I'm loving the laptop lifestyle that Glide offers me and i'd recommend Glide to anyone."
+        },
+        {
+          "Note": 5,
+          "Lieu": "BR",
+          "Pseudo": "Anderson",
+          "Nb_Reviews": 3,
+          "Date": "2023-06-16T17:35:30.000Z",
+          "Titre": "true community",
+          "Contenu": "the community is active and helps a lot, contact with the company is quick and agile, they try to help however they can!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rene",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-04T05:29:31.000Z",
+          "Titre": "Things are easy enough for someone just\u2026",
+          "Contenu": "Things are easy enough for someone just getting started and robust enough as the learning goes on."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "ERPs with GlideApps",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-14T08:17:21.000Z",
+          "Titre": "It's the best no code tool out there.",
+          "Contenu": "GlideApps allows you to build complex apps and portals with extreme functionality. I've used it to build a mimic of the SAP ERPs"
+        }
+      ]
+    }
+  ]
+}

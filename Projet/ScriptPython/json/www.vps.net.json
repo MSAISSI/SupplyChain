@@ -1,0 +1,1513 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "www.vps.net",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "NZ",
+          "Pseudo": "Jim",
+          "Nb_Reviews": 2,
+          "Date": "2023-06-19T03:06:20.000Z",
+          "Titre": "VPS.net continue to let us down",
+          "Contenu": "VPS.net continue to let us down. They love to send automated \"how did we do\" emails to review them, but without any human interaction to solve the problem. They won't reply to my emails to request to speak to a human, they simply ignore. I predict they will reply to this review to make it look like their service is good, but  the email address they provided last time I never got a response from. Don't fall for it."
+        },
+        {
+          "Note": 1,
+          "Lieu": "NZ",
+          "Pseudo": "Jim",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-29T12:12:57.000Z",
+          "Titre": "Stay away! Don't expect good service",
+          "Contenu": "Looking for a trustworthy host that won't let you down? Keep looking! I discovered that a change vps.net had made took all of my sites offline. No communication. No warning. When I questioned them about it, their support staff were slow, unhelpful, and defensive. I've been a customer for over a decade so I'm really disappointed in where their level of service has gone to. Update: after the reply below, I reached out to them via the email provided, and am still awaiting anything back from them. They take your money, but won't speak to you."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Luke Bridges",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-19T05:57:52.000Z",
+          "Titre": "They billed me twice",
+          "Contenu": "They billed me twice and the live chat told me to make a ticket and now I have to wait for the ticket people to respond. I dont even see two vps services on my panel so why would I be billed twice for two different amounts."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Disturb Duniya",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-24T10:07:04.000Z",
+          "Titre": "There is no Sign Up page nor Login with Google/Github works",
+          "Contenu": "There is no signup page, and Sign in with Google/Github redirects back to sign in page, total waste of time"
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Dr",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-07T00:57:51.000Z",
+          "Titre": "Worst VPS hosting. Don't use them.",
+          "Contenu": "The worst VPS hosting I have ever used (and I have used and still use a lot).I registered with themabout 2 years ago and had more then 10 servers with them at some point.1. Activation took more then 3 days2. Scaling up and down didn't work so had to work with support a lot to make them fix their bugs3. They constantly disable your account if you don\u2019t login.4. At some point they said 'ups, we accidently removed a server' so I lost all my VPSs at the time. Luckily I only decided to keep 2 and had backups to migrate the rest to a better hosting because of the #5...5. A month ago they decided to remove some servers again. This time they sent an email about it. I asked them to help with taking a snapshot and to migrate myVPSs to their new environment. After not doing it for over a week the deadline for migration was reached and they only said sorry that they didn't do it.Don't fall into their trap of giv8ng you credits as you will lose more time with them or just run disposable servers that you can afford to lose."
+        },
+        {
+          "Note": 1,
+          "Lieu": "NL",
+          "Pseudo": "Mrinal",
+          "Nb_Reviews": 3,
+          "Date": "2022-03-03T14:46:49.000Z",
+          "Titre": "Sub-par performance of their SSD VPS\u2026",
+          "Contenu": "Sub-par performance of their SSD VPS servers. I used their $10 plan in London and the performance of the VPS was not at all acceptable. The network speed fluctuated from 10 - 250 Mbps at different times of day without any consistency when tested with speedtest-cli. CPU (CPU family: 6, Model: 13) performance was also pretty low at around 2.5 GHz compared to 3.5 GHz CPUs that can be expected at that price bracket. (dd if=/dev/zero bs=1M count=1024 | md5sum) o/p was around 350 MB/s which could easily surpass 600 MB/s for a 3.5 GHz virtual processor. On top of that, no money back policy means that I already lost my money."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Deepak K Rana",
+          "Nb_Reviews": 9,
+          "Date": "2021-08-06T12:30:19.000Z",
+          "Titre": "Poor server management",
+          "Contenu": "The company server management team is terrible. They respond very slow and mostly busy in misguiding due to lack of knowledge. My server is getting too many errors, and their focus is only to make money by every ways. In comparison to the market, their server cost is exceptionally high."
+        },
+        {
+          "Note": 1,
+          "Lieu": "MX",
+          "Pseudo": "Matthew Gregory",
+          "Nb_Reviews": 13,
+          "Date": "2022-10-27T19:21:31.000Z",
+          "Titre": "They don't want to hear from you...",
+          "Contenu": "I tried to live chat with them in the morning with questions about their plans. It said you are 2 in the queue. I came back an two hours later, same message. Then I tried again in the afternoon. I used three different browsers thinking maybe the problem was on my end. It's obvious there is no one manning the live chat. They give zero effs about hearing from potential customers. If they can't get chat right, what's their support like? No thank you.UPDATE: It's hilarious you guys have to rely on responding to unhappy customers on TrustPilot. Would it not be infinitely easier to just make your live chat work? Again, no thank you."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Tiago Macedo",
+          "Nb_Reviews": 2,
+          "Date": "2021-12-13T10:40:29.000Z",
+          "Titre": "Customer service is horrible",
+          "Contenu": "Customer service is horrible. Calling them is also impossible as they are unreachable. Tried the sales department via the chat function and I'm speaking with \"Jay Rose\" that doesn't answer to me for over 30minutes. Switching companies asap"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Bill Edgar",
+          "Nb_Reviews": 2,
+          "Date": "2020-08-29T02:15:53.000Z",
+          "Titre": "Very poor customer service through VPS",
+          "Contenu": "VPS was unable to move my cPanel accounts from Westhost, one of their companies, to the VPS service.  Never was able to get custom name-servers set up.  Ultimately let VPS to go to another hosting service who had my custom name-servers setup within 4 hours.  The new hosting service was able to move my cPanel accounts on Westhost to the new hosting service seamlessly."
+        },
+        {
+          "Note": 1,
+          "Lieu": "RO",
+          "Pseudo": "CP",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-25T08:25:29.000Z",
+          "Titre": "More issues in 2 weeks than in 12 years of hosting with vps.net",
+          "Contenu": "1. First of all: Not a single issue was solved in 2 weeks! Please check the tickets 1024403, 1024254, 1025035.2. Since the imposed IP change, in 2 weeks I've had more crashes than in 12 yr of hosting! Same settings, same iptables (which I had to change now, to protect the server as much as possible)3. 2 weeks of DDOS attacks... at last, I see that Sunday at 6:25 you've change smth and stopped the udp flood4. Ticket 1024403 - you closed yesterday this ticket, but console is still not functional, I've opened that ticket 2 weeks ago5. Ticket 1025035 - the control.vps.net is not accessible through a mobile phone, I've tried 3 phones (iPhone 12 pro max, old Samsung note 8 and another newer samsung phone), on different networks, different settings, cache cleared etc. All die with \"too many redirects\"."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Mark Grindey",
+          "Nb_Reviews": 5,
+          "Date": "2020-09-09T13:30:53.000Z",
+          "Titre": "Duplicate payments taken and they wont\u2026",
+          "Contenu": "Duplicate payments taken and they wont refund. Old outdated UI and the support is fast and even paying \u00a330 a month for better support they hardly do anything and refer you to google. There billing is horrific and they clearly dont care and refuse to refund even if its there mess up and charge you twice. I dont want it as credit in my account i want it back to the bank being as you messed up and charged me twice.Also this is the second time this has happened."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Jullie",
+          "Nb_Reviews": 2,
+          "Date": "2021-12-21T18:03:58.000Z",
+          "Titre": "Leave you data.. You'll get no service or customer support.",
+          "Contenu": "This company makes you leave your data and confirm your credit card... then they do not give you access to the platform. its a waste of time.Customer service is unavailable unless they choose to confirm your account. Platform is bland and dissapointing. I would not put any importnant load on their cloud.Please. Dont even try to sign in on the premise that you will get free cloud credits.. Wont happen! Do not leave your data to this company and just go with cloud provider you can rely on.VPS.net is the worst cloud infrastructure provider I've seen to date."
+        },
+        {
+          "Note": 1,
+          "Lieu": "TH",
+          "Pseudo": "Toby Newbold",
+          "Nb_Reviews": 1,
+          "Date": "2020-09-15T03:07:32.000Z",
+          "Titre": "25 years of experience as a webmaster\u2026",
+          "Contenu": "25 years of experience as a webmaster this is absolutely the WORST hosting company I have ever dealt with. 1) They overcharge over $200 a month for VPS which more than you should pay for a dedicated server.2) Unreliable - the client account had almost 100 support tickets with the title 'website down'3) Support is unhelpful and even obstructive. Taking pleasure in making sure the client suffers. 4) When we tried to move the website away from them they became obstructive purposely making it difficult for us.This is a very competitive market I would recommend anybody save yourself a Huge Headache and AVOID this company like the plague"
+        },
+        {
+          "Note": 1,
+          "Lieu": "ZA",
+          "Pseudo": "J Paul Kuypers",
+          "Nb_Reviews": 1,
+          "Date": "2022-01-27T04:27:34.000Z",
+          "Titre": "I find the WHMCS guide to install quite\u2026",
+          "Contenu": "I find the WHMCS guide to install quite confusing and not at all helpful. I want to sign up as a reseller, yet no reseller pricing is available. I got 100$ free credit which is useless as i cant seem to order any services with it. What a pity!!"
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Scott",
+          "Nb_Reviews": 1,
+          "Date": "2020-08-28T15:42:58.000Z",
+          "Titre": "I changed to a different company and\u2026",
+          "Contenu": "I changed to a different company and personally moved out of website hosting due to VPS.net. The cloud server I used was extremely unreliable and plagued with both software and hardware faults. I would not use VPS.net again."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Fabiola",
+          "Nb_Reviews": 2,
+          "Date": "2020-08-23T16:23:21.000Z",
+          "Titre": "I am glad VPS.net  asked me for my\u2026",
+          "Contenu": "I am glad VPS.net  asked me for my review. I had 8 websites hosted at VPS.net. most of them very active with high ranking. The credit card expired and they delete all my sites without hesitation. All of them, including the database. Since  I realized a week after the billing cycle ended,  I asked them to restored them but they said payment failure is a motive to erase everything. Never, ever will trust these people. Who in their right mind do something like this unless you have a motive for it."
+        },
+        {
+          "Note": 1,
+          "Lieu": "AE",
+          "Pseudo": "Shafirasam Sm",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-21T10:41:48.000Z",
+          "Titre": "Pharmacy doing wrong calculation on Co\u2026",
+          "Contenu": "Pharmacy doing wrong calculation on Co pay and not providing bill. A detailed bill should be given to customer."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Ben G.",
+          "Nb_Reviews": 81,
+          "Date": "2022-02-15T08:42:33.000Z",
+          "Titre": "Not sure what planet they are on",
+          "Contenu": "Chat takes an age to get through and they are interrogating potential new clients for commercially sensitive information. I don't like the attitude of this company asking us to persuade them in order that they will accept our business so we are not doing business with them."
+        },
+        {
+          "Note": 1,
+          "Lieu": "IT",
+          "Pseudo": "Rick Orford",
+          "Nb_Reviews": 5,
+          "Date": "2020-08-21T16:04:41.000Z",
+          "Titre": "Always blamed \"DDOS\" attacks any time\u2026",
+          "Contenu": "Always blamed \"DDOS\" attacks any time there was a strange issue with the server.Switched to AWS, never had a problem since."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Luis Macias",
+          "Nb_Reviews": 1,
+          "Date": "2022-03-31T21:03:35.000Z",
+          "Titre": "closed sao paulo location without any\u2026",
+          "Contenu": "closed sao paulo location without any care for downtime, bad response to support tickets"
+        },
+        {
+          "Note": 1,
+          "Lieu": "CA",
+          "Pseudo": "Unhappy Web Dev",
+          "Nb_Reviews": 1,
+          "Date": "2020-08-21T15:39:09.000Z",
+          "Titre": "They did not respond to my support\u2026",
+          "Contenu": "They did not respond to my support questions, so I closed the account."
+        },
+        {
+          "Note": 1,
+          "Lieu": "MA",
+          "Pseudo": "sof",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-01T18:12:45.000Z",
+          "Titre": "The account is closed for no reason"
+        },
+        {
+          "Note": 1,
+          "Lieu": "PT",
+          "Pseudo": "DM",
+          "Nb_Reviews": 2,
+          "Date": "2021-12-01T12:05:09.000Z",
+          "Titre": "No way to contact any of you",
+          "Contenu": "Phone number on the website dont work, the live chat on the website dont work."
+        },
+        {
+          "Note": 1,
+          "Lieu": "PK",
+          "Pseudo": "Sana Harris",
+          "Nb_Reviews": 2,
+          "Date": "2020-08-21T17:14:34.000Z",
+          "Titre": "Customer service is horrible and they\u2026",
+          "Contenu": "Customer service is horrible and they failed to resolve my issue."
+        },
+        {
+          "Note": 1,
+          "Lieu": "PT",
+          "Pseudo": "santei",
+          "Nb_Reviews": 2,
+          "Date": "2022-03-15T19:06:23.000Z",
+          "Titre": "I can't access the vps because of the\u2026",
+          "Contenu": "I can't access the vps because of the ssh key errordon't solve"
+        },
+        {
+          "Note": 1,
+          "Lieu": "MA",
+          "Pseudo": "Hamza Quiita",
+          "Nb_Reviews": 2,
+          "Date": "2020-08-21T18:20:12.000Z",
+          "Titre": "closing VPS for no reason"
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "David Mason",
+          "Nb_Reviews": 4,
+          "Date": "2019-04-17T22:04:07.000Z",
+          "Titre": "Wouldnt recommend",
+          "Contenu": "Wouldnt recommend The price went up after 6 months which was in the small print, had problems every month. finally they tell me because my server keeps going down am getting ddos attacked - nothing they will do to help at all even when i pay for support - just deal with it (all my customers sites going down) Wouldnt recommend."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Michael Arnone",
+          "Nb_Reviews": 1,
+          "Date": "2018-01-14T03:02:35.000Z",
+          "Titre": "Terrible experience",
+          "Contenu": "Terrible experience. They promised so much and didn't deliver. We were unable to access the account, and finally just had it canceled.Then they actually fought against giving us a refund. Zero support, unusable account, and they wanted to keep the money for providing no service. When we signed up there was a 30-day satisfaction guarantee that was then removed when we asked for the refund. Only filing a complaint through the payment provider finally resulted in a refund.Avoid at all cost."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "P G",
+          "Nb_Reviews": 8,
+          "Date": "2017-12-19T03:19:47.000Z",
+          "Titre": "Slow servers and bad support.",
+          "Contenu": "I just created a vps from vps.net and they sent me an email that my account looks suspicious.Before I had a chance to send them my documents as prove my account has been suspended and server with my scripts deleted.I'm switching to digitalocean.com where they care about customers."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Josh Morris",
+          "Nb_Reviews": 2,
+          "Date": "2019-04-15T20:41:08.000Z",
+          "Titre": "Things WERE good until...",
+          "Contenu": "ONLY GOT WORSE AFTER ADAM GETS INVOLVED - do yourself a favor and DO NOT USE VPS.NET for anything.-----------------------------------------Used to like them.  Then my service went from $22 to $70 per month with no changes.  Terrible way to treat customers it jack up prices so high in less than 2 months.  I would go find another company if i could.  But stuck here because the everything is running on this.  On a second device I pay $9.95 for similar service elsewhere with same results.  Why is the price so high all of a sudden?  I wish i knew this was their plan i would have found another company."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Matt",
+          "Nb_Reviews": 1,
+          "Date": "2017-10-20T13:14:48.000Z",
+          "Titre": "I have for six months tried to get a \u2026",
+          "Contenu": "I have for six months tried to get a $40 refund after canceling my account per the guidelines of the company and have yet to receive any credit to my PayPal account. I keep getting the runaround over and over and over"
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Ad",
+          "Nb_Reviews": 7,
+          "Date": "2020-05-26T13:31:00.000Z",
+          "Titre": "Truly a money orientated company only",
+          "Contenu": "Truly a money orientated company only. Not here to help people. They will take advantage of you if you don't understand too much about VPS. They'll sell you the plan stating a cheap price, then in my case add on additional products without any authorisation and claim they are needed for your account to work.When I realised they had done this and explained I cannot afford the add-ons nor had I authorised them and the monthly payments to be taken from my account and asked for refund. They said they don't do refunds.Their customer service is short, unapologetic and they lack any moral or ethical value towards their customers.I would strongly advise staying away unless you want an endless complicated interaction with their customer service who will try and spin webs"
+        },
+        {
+          "Note": 1,
+          "Lieu": "GR",
+          "Pseudo": "Webmania Psora Maria",
+          "Nb_Reviews": 2,
+          "Date": "2020-08-22T07:12:27.000Z",
+          "Titre": "...I changed company"
+        },
+        {
+          "Note": 1,
+          "Lieu": "BE",
+          "Pseudo": "Hans Ostes",
+          "Nb_Reviews": 2,
+          "Date": "2018-03-14T18:44:44.000Z",
+          "Titre": "We have send a few weeks an email via\u2026",
+          "Contenu": "We have send a few weeks an email via the vps.net website without any result. Even with the sales chat no answer. My opinion not a trusted company."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Jordon",
+          "Nb_Reviews": 1,
+          "Date": "2017-10-13T16:41:16.000Z",
+          "Titre": "I purchased a 4gb vps thru one of their \u2026",
+          "Contenu": "I purchased a 4gb vps thru one of their sales.. it was slow slow slow.. it resembled a vps with 1gb not 4.. this company is shadey be warned."
+        },
+        {
+          "Note": 1,
+          "Lieu": "IL",
+          "Pseudo": "Avni V Yayin",
+          "Nb_Reviews": 3,
+          "Date": "2018-11-21T13:05:18.000Z",
+          "Titre": "STAY AWAY!",
+          "Contenu": "Cloud server got stuck every week. After a year of inactivity they charged me for $98. STAY AWAY."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Radsy",
+          "Nb_Reviews": 1,
+          "Date": "2020-08-21T15:38:42.000Z",
+          "Titre": "Give up trying so  Bad...",
+          "Contenu": "never go back support is slow / bad and I can't be bothered to type anymore im done"
+        },
+        {
+          "Note": 1,
+          "Lieu": "CH",
+          "Pseudo": "Technical Administration",
+          "Nb_Reviews": 7,
+          "Date": "2020-08-21T17:49:52.000Z",
+          "Titre": "because you're working illegal"
+        },
+        {
+          "Note": 1,
+          "Lieu": "LK",
+          "Pseudo": "Tom.jaz",
+          "Nb_Reviews": 2,
+          "Date": "2018-09-14T16:55:23.000Z",
+          "Titre": "Bad S**** Hosting Company  ! Never  use it !!",
+          "Contenu": "Bad S*** Hosting Company  !! Never  use it !!"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Gil Wigington",
+          "Nb_Reviews": 2,
+          "Date": "2020-01-08T01:23:46.000Z",
+          "Titre": "VPS.NET is a scam!!!",
+          "Contenu": "VPS.NET is a scam!!!On January 4, 2020 I wanted to cancel my account because we moved to Azure and continued to have issues with our billing and server. The only way to cancel is to send a request via the user portal. I did that and then the next day got a message asking how they could keep me. I explained it was that we moved to Azure and simply wanted to cancel. On January 6, I changed my email address associated with the VPS.NET account, but made a typo in the email address so the validation email kept being sent to a email that didn't exist. Rather than VPS.NET not accepting the change and continuing with my old email which is your user name they kept the new mistyped one which locked me out because it wasn't able to be validated. On January 7, I called them and first was sent to a voice mail in billing that cuts you off before you can say much. I then called back and tried support who quickly transferred me to billing.This time I got a lady who would not help and insisted all issues must be submitted via email. I explained I tried to email billing but they wouldn't respond back and I needed her help since I couldn't get into the portal to send messages from it and confirm the account was cancelled. She refused and said there was nothing she could do. I then asked to escalate the issue to her supervisor. Her response was \"Sorry there is no one here that can help you.\" I then asked for any other person in the building and she again responded \"Sorry there is no on in the building that can help you. All requests must be via email.\"This is ridiculous!! Stay away from VPS.NET they are simply trying to get you to give them your credit card info. From day one our server had to be rebooted every day and we could not find the reason. I think this is a mom and pop shop that is a scam just trying to get your money. Even their advertised 24/7 chat support is nonsense. I tired several times with it and no one ever answered the chat session. THEY ARE CROOKS!!!"
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-03-16T12:32:45.000Z",
+          "Titre": "unverified account"
+        },
+        {
+          "Note": 2,
+          "Lieu": "PK",
+          "Pseudo": "Danish",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-01T14:47:22.000Z",
+          "Titre": "Getting really pathetic service now",
+          "Contenu": "Getting really pathetic service now. When ever i ask for any help they said i dont have managed service and they don't help it out...."
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "John Lessnau",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-23T19:42:10.000Z",
+          "Titre": "My MySQL database crashed",
+          "Contenu": "My MySQL database crashed.  First I contacted through chat and Roman finally said it looks like your database has been deleted you should do a restore.I said that is last resort.  He said do a ticket and maybe they will know more.  I did a ticket and Roman found my database.  Tried to restart MySQL but it kept failing.After a few hours a long email was sent detailing what was checked.  It said that I might want to try to reboot server and see if that helps. (I checked ok to reboot server in ticket).Anyway, I rebooted server from  the vps dashboard and that fixed everything.A lot of time was wasted by VPS and me on this and I almost did a restore but fortunately I wanted to make sure that was 100% my last option.   A server reboot should have been done much earlier in the troubleshooting process, certainly before I was told to try a restore."
+        },
+        {
+          "Note": 2,
+          "Lieu": "CA",
+          "Pseudo": "Valued Customer",
+          "Nb_Reviews": 2,
+          "Date": "2021-10-08T14:37:04.000Z",
+          "Titre": "As the ticket progressed the support\u2026 991850",
+          "Contenu": "As the ticket progressed the support person took less and less responsibility for the challenge at hand. To the point of becoming argumentative.My entire setup was ordered and configured as per your company following every step. This means your company does not get to pass the buck and say stupid time wasting statements like \"Call Microsoft\"."
+        },
+        {
+          "Note": 2,
+          "Lieu": "MX",
+          "Pseudo": "Alejandro Orozco Hernandez",
+          "Nb_Reviews": 1,
+          "Date": "2020-08-21T16:23:21.000Z",
+          "Titre": "It's been 2 times that the server\u2026",
+          "Contenu": "It's been 2 times that the server crashes and there is no timely response. Long time without knowing what happens and what will happen. Total loss of information. It has happened to me with 2 different VPS.More communication is lacking, in order to make timely and quick decisions that do not affect the business."
+        },
+        {
+          "Note": 2,
+          "Lieu": "GB",
+          "Pseudo": "Samuel Bird",
+          "Nb_Reviews": 3,
+          "Date": "2021-04-06T00:14:10.000Z",
+          "Titre": "It's rare that I go out of my way to\u2026",
+          "Contenu": "It's rare that I go out of my way to write a negative review, but this company was a joke from start to finish.  I"
+        },
+        {
+          "Note": 2,
+          "Lieu": "GB",
+          "Pseudo": "Kenny Phipps",
+          "Nb_Reviews": 1,
+          "Date": "2020-08-24T09:02:04.000Z",
+          "Titre": "Great for years but degraded over time",
+          "Contenu": "Great for years but degraded over time, we moved our hosting in the end. Such a shame, you guys really were great."
+        },
+        {
+          "Note": 2,
+          "Lieu": "NZ",
+          "Pseudo": "Norman Cates",
+          "Nb_Reviews": 6,
+          "Date": "2017-12-29T10:51:15.000Z",
+          "Titre": "Pricing is deceptive",
+          "Contenu": "Pricing is deceptive. The main pages (as of 29 Dec 2107) have various prices on them. For example, a good testing plan for $10. But when you sign up for it, you find that if you want to add any extra VPSs, they are $12 for the same plan.If this was explained upfront, that would be fine. But they don't and it makes my hackles rise. Especially since the $12 price shows on the control panel, even though I am assured it will only charge $10 when it renews."
+        },
+        {
+          "Note": 2,
+          "Lieu": "NG",
+          "Pseudo": "Mike",
+          "Nb_Reviews": 1,
+          "Date": "2017-10-13T09:37:40.000Z",
+          "Titre": "My Site is always going down",
+          "Contenu": "My Site is always going down. So I have complained so many times to support team yet it is still going down frequently"
+        },
+        {
+          "Note": 3,
+          "Lieu": "GB",
+          "Pseudo": "Tim Hall",
+          "Nb_Reviews": 2,
+          "Date": "2021-11-28T19:19:50.000Z",
+          "Titre": "It was not easy to get clear\u2026",
+          "Contenu": "It was not easy to get clear information about monitoring and management of VPS or how billing would work over and above the short snippet features on your site.  The customer 'chat' is pretty awful - very slow, long waits, huge gaps between answers which is probably because you make them answer multiple queries simultaneously.  But it just comes over as rude and very slow.  However, the actual migration, when done, was fast and timely - thank you.  Obviously too early to say how pleased we are with the VPS package.  Hard not to feel rueful that the UK2.net shared package is maybe deliberately under-resourced to drive clients like me to move to faster options."
+        },
+        {
+          "Note": 3,
+          "Lieu": "CA",
+          "Pseudo": "Ben",
+          "Nb_Reviews": 1,
+          "Date": "2020-08-28T17:20:38.000Z",
+          "Titre": "Services are good",
+          "Contenu": "Services are good. Cost and flexibility are my main concerns as there are cheaper options out there (though granted maybe not as good service). But also, would be really nice to be able to choose beyond the basic packages and say I want X GB of drive space with X GB of Ram and X processors etc... Overall though the experience has been positive."
+        },
+        {
+          "Note": 3,
+          "Lieu": "ID",
+          "Pseudo": "Djono Amidjojo",
+          "Nb_Reviews": 1,
+          "Date": "2020-08-29T11:22:30.000Z",
+          "Titre": "The technical support couldn't resolved\u2026",
+          "Contenu": "It's weird the technical support could not resolved my problem.The server sometimes unable to reached from Southeast Asia (Indonesia).And rather slow to be accessed, whereas currently my server begin to be actived to published."
+        },
+        {
+          "Note": 3,
+          "Lieu": "RU",
+          "Pseudo": "Eugene Loza",
+          "Nb_Reviews": 2,
+          "Date": "2020-10-16T05:14:16.000Z",
+          "Titre": "Average company",
+          "Contenu": "Average company, I would suggest you guys to improve your customer support, it takes a really long time to get any response from you.Other than that it's fine, I use it periodically."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Christine",
+          "Nb_Reviews": 4,
+          "Date": "2023-12-18T20:42:12.000Z",
+          "Titre": "Need to improve sales customer service",
+          "Contenu": "I have had an account with VPS for a number of years. Support is super fast and 24/7. I sometimes have difficulty to understand the technical support, due to my lack of technical knowledge. I wish sales were easier to reach. Toll free number not accessible from Canada, not available early EST time and doesn't seem to reply to support tickets (one left 10 months ago was never replied to)."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Tim Broberg",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-19T00:42:16.000Z",
+          "Titre": "Good service, maybe a little understaffed",
+          "Contenu": "It took Amit a while to come online. He was 5 *'s, but it took a while to get there, which suggests that he's taking good care of people, but y'all might be a little light on the staff.He definitely got right on the problem and sorted it out, with a helpful attitude."
+        },
+        {
+          "Note": 4,
+          "Lieu": "GB",
+          "Pseudo": "Bob Vinteller",
+          "Nb_Reviews": 2,
+          "Date": "2021-03-04T14:10:53.000Z",
+          "Titre": "VPS standard support with moving your server",
+          "Contenu": "Speed is supports's foremost merit. They ALWAYS reply quite fast considering mine is a standard package. The information is usually bite-size which is and isn't as helpful, but you can find your way from there."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "CIO",
+          "Nb_Reviews": 3,
+          "Date": "2021-09-15T16:19:41.000Z",
+          "Titre": "Lots of help with our IP being blocked\u2026",
+          "Contenu": "Lots of help with our IP being blocked due to a hack on one of our e-mails, g-mail blocked all e-mails different URLs with help we have IP released however one URL is still blocked touringshoppe.com so still need help"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Dpulley",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-08T16:36:26.000Z",
+          "Titre": "Swift and Efficient",
+          "Contenu": "I was in the queue for less than 30 seconds. They were quick to respond and solve my query. Their number one priority is for security and professionalism."
+        },
+        {
+          "Note": 4,
+          "Lieu": "GB",
+          "Pseudo": "C. Hodgson",
+          "Nb_Reviews": 3,
+          "Date": "2021-03-20T23:20:49.000Z",
+          "Titre": "that's cool!",
+          "Contenu": "that's cool!Norm site. Prices are proportional. Cool support. Standard conditions. Normal servers. My friend advised."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CN",
+          "Pseudo": "John Krechting",
+          "Nb_Reviews": 1,
+          "Date": "2020-08-22T05:09:43.000Z",
+          "Titre": "Reliable service",
+          "Contenu": "Reliable service, with great support, if needed."
+        },
+        {
+          "Note": 4,
+          "Lieu": "BR",
+          "Pseudo": "Paulo Lima",
+          "Nb_Reviews": 1,
+          "Date": "2020-08-28T17:44:16.000Z",
+          "Titre": "Service is wonderful but....",
+          "Contenu": "Service is wonderful, but the user interface is poor and confusing."
+        },
+        {
+          "Note": 4,
+          "Lieu": "MA",
+          "Pseudo": "Yassine",
+          "Nb_Reviews": 1,
+          "Date": "2017-10-13T15:37:16.000Z",
+          "Titre": "You're service is my first experience \u2026",
+          "Contenu": "You're service is my first experience with VPS.I didn't Try any other VPS companies to compare with.I've choosed your company based on your customers review throught many websites .It was a good decision.I stopped using your service only because I'm programming an Expert Adviser which took me a while.I am planning to use VPS.NEt back when my EA is operational."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Matt Stobbe",
+          "Nb_Reviews": 1,
+          "Date": "2018-02-08T19:07:01.000Z",
+          "Titre": "Definitely meets the needs",
+          "Contenu": "No negatives to speak of yet. Customer service is based on what you pay for, like any other vendor, but server uptime has been phenomenal."
+        },
+        {
+          "Note": 4,
+          "Lieu": "GB",
+          "Pseudo": "John Stirling",
+          "Nb_Reviews": 2,
+          "Date": "2017-10-21T09:33:19.000Z",
+          "Titre": "Occasional issues with unexpected \u2026",
+          "Contenu": "Occasional issues with unexpected reboots of the hypervisor, but good customer service dealing with it."
+        },
+        {
+          "Note": 4,
+          "Lieu": "NL",
+          "Pseudo": "Art Seiders",
+          "Nb_Reviews": 8,
+          "Date": "2018-01-15T13:24:00.000Z",
+          "Titre": "Good quality and prompt service",
+          "Contenu": "Good quality and prompt service, reliable network, delivery as promised, eco-pricing!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "IN",
+          "Pseudo": "Sreejith Krishnan",
+          "Nb_Reviews": 1,
+          "Date": "2020-08-28T15:43:17.000Z",
+          "Titre": "Excelent service",
+          "Contenu": "Excellent service \ud83d\udc4d"
+        },
+        {
+          "Note": 4,
+          "Lieu": "IN",
+          "Pseudo": "Jayesh",
+          "Nb_Reviews": 1,
+          "Date": "2017-10-23T03:55:08.000Z",
+          "Titre": "good service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "GrabzIt",
+          "Nb_Reviews": 3,
+          "Date": "2023-11-07T17:58:45.000Z",
+          "Titre": "Great customer service",
+          "Contenu": "Great customer service. I was having some issues and they managed to quickly solve all of my problems."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ricky Ragsdale",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-10T04:07:48.000Z",
+          "Titre": "Fast service",
+          "Contenu": "Fast service, very friendly, and did exactly what I asked."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "Dick Dekker",
+          "Nb_Reviews": 6,
+          "Date": "2023-11-06T14:05:30.000Z",
+          "Titre": "Very quick and helpful support."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Margaret",
+          "Nb_Reviews": 3,
+          "Date": "2023-09-21T15:27:06.000Z",
+          "Titre": "I am not the best on WHM or CPanel but\u2026",
+          "Contenu": "I am not the best on WHM or CPanel but learning thanks to UK2.nets knowledge base but when I contact Support as I have done twice today the response is always fast, friendly and they sort out the issues and importantly show you how they have done it, so always learning.Have and will continue to recommend UK2.net.Thanks today to Nasir and Kashif for all their help."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mauricio",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-30T04:13:23.000Z",
+          "Titre": "AMIT B. did a great JOB",
+          "Contenu": "I am really happy because Amit B. offered a great customer service and provide a great suggestion of moving to a new server with Linux 8"
+        },
+        {
+          "Note": 5,
+          "Lieu": "VE",
+          "Pseudo": "Duskarlie Aarons",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-28T21:44:28.000Z",
+          "Titre": "Excellent vps machine service",
+          "Contenu": "Excellent vps machine service, very grateful for that excellent support. The machines are really very fast and with good performance. I love"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jacob Rice",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-28T20:13:49.000Z",
+          "Titre": "Fantastic support!",
+          "Contenu": "Was able to answer all of my questions in a clear and concise way and assist me in getting done what I needed to do."
+        },
+        {
+          "Note": 5,
+          "Lieu": "LK",
+          "Pseudo": "Harshana Samararatne",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-13T11:21:25.000Z",
+          "Titre": "Exceptional Support from Kais: A Job Well Done!",
+          "Contenu": "I recently had the pleasure of working with Kais and I must say, I am thoroughly impressed with the level of support he provided. From start to finish, Kais went above and beyond to ensure that all of my needs were met and that I was satisfied with the service I received. His attention to detail, responsiveness, and expertise were truly exceptional. I cannot recommend Kais enough and am grateful for the outstanding support he provided. Thank you, Kais, for a job well done!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Surinder Dixon",
+          "Nb_Reviews": 1,
+          "Date": "2022-06-01T03:18:37.000Z",
+          "Titre": "I needed to access our DNS servers to\u2026",
+          "Contenu": "I needed to access our DNS servers to install a TrueShield by a third party security service. I submitted a case with VPS.net for instructions to locate the DNS Server. In less than minutes, we had the location and completed our task.Since Sept 2018, every ticket that we have submitted with VPS.net has been solved with this speed.We moved our web server from another hosting company in 2018 and have been extremely with our decision to select VPS.net.I highly recommend VPS.net for web hosting services, for their support and reliability."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "Gabriel - LACOMBA Produccions",
+          "Nb_Reviews": 6,
+          "Date": "2023-08-23T17:01:26.000Z",
+          "Titre": "Technical assistance",
+          "Contenu": "We have been working with this hosting provider for many years. Their response in the support tickects is very fast and they are always willing to help you."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "Carl Fulford",
+          "Nb_Reviews": 3,
+          "Date": "2022-05-24T17:53:06.000Z",
+          "Titre": "VPS.net have got our backs",
+          "Contenu": "We have been using VPS.net to host our websites for 11 years now and we could not be in better hands.Their customer service is especially helpful and always replies swiftly and professionally to help us sort any problems that might have arisen with our servers. We are not server experts - but VPS.net is. We really feel they have got our backs."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "David",
+          "Nb_Reviews": 4,
+          "Date": "2022-09-28T23:50:49.000Z",
+          "Titre": "Let support take the stress out of the situation",
+          "Contenu": "Lost access to my hosting account and desperately needed help to regain access. Andrii was extremely helpful and managed to fix the issue quickly and promptly. I've only had positive experiences with the online chat and each query has been dealt with very quickly and efficiently."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Heather Whittington",
+          "Nb_Reviews": 2,
+          "Date": "2021-11-29T13:34:59.000Z",
+          "Titre": "Great customer service",
+          "Contenu": "I was having issues with reinstating my SSL certificates on my website as they were supplied by a third party. Vps very kindly applied two brand new ssl's for free for the next year to help resolve the issue quickly. Much appreciated and just wish more companies could be as helpful."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Synthia",
+          "Nb_Reviews": 8,
+          "Date": "2022-05-05T12:24:12.000Z",
+          "Titre": "Fantastic support",
+          "Contenu": "Being a complete novice i had no idea what i was doing and purchased the wrong product. Dom S was so patient and kind.  He talked me through step by step and didn't make me feel like an idiot.  I was able to cancel the old product and purchase the correct one.  He talked me through each step and what to select or enter.  I really appreciate his patience and understanding."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dale",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-30T16:33:10.000Z",
+          "Titre": "Louis helped me today with server",
+          "Contenu": "Louis helped me today with server, DNS, email, SPF, and security issues. He was wonderful! Very helpful, knowledgeable, patient and kind. I\u2019m am not accustomed to such amazing service from any of our vendors. Support like that makes me want to tell everybody that vps.net is the place to be. Thanks for putting him on our case!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Majestays",
+          "Nb_Reviews": 1,
+          "Date": "2021-10-27T18:28:49.000Z",
+          "Titre": "Louis is Awesome!",
+          "Contenu": "I don't usually leave reviews, but was compelled to do so because Louis was top notch. Probably the best support I have ever received. I had a few, ok several, questions around hosting, WordPress, SSL, redirects, etc. Louis troubleshot and helped with each issue. Thank you Louis!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Kathy James",
+          "Nb_Reviews": 4,
+          "Date": "2022-11-05T01:24:41.000Z",
+          "Titre": "VPS is always prompt to answer calls\u2026",
+          "Contenu": "VPS is always prompt to answer calls for help.They resolve issues and often go that extra mile. My recent experience was with Roman Mudrikuv, he was very efficient and resolved my issue."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Tim H",
+          "Nb_Reviews": 9,
+          "Date": "2023-06-09T17:39:35.000Z",
+          "Titre": "Quick and effective help.",
+          "Contenu": "I am not a sysadmin. A recent patch procedure was necessary but a little too complicated for me.  Andrii sorted it our rapidly and with no fuss."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "GY",
+          "Nb_Reviews": 4,
+          "Date": "2023-08-30T14:24:55.000Z",
+          "Titre": "Got help beyond.",
+          "Contenu": "Got help beyond.. sometimes I don't always get the help I need to solve my issues and I have to ask other people and companies..."
+        },
+        {
+          "Note": 5,
+          "Lieu": "MX",
+          "Pseudo": "Israel Ortiz",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-17T03:29:25.000Z",
+          "Titre": "Difference between SSD VPS and Cloud Server Services",
+          "Contenu": "In this case, Warren give just exactly what I am looking for. So that means, experience, attention to my question. What else can ask for tech service guy?. Well done!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Manager VM",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-06T19:36:02.000Z",
+          "Titre": "When a ticket is written the response\u2026",
+          "Contenu": "When a ticket is written the response is very fast, however, calling to understand what the ticket should request takes forever"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Nick",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-09T17:39:31.000Z",
+          "Titre": "Awesome support today",
+          "Contenu": "Awesome support today. Unlike the nerdy resentful guys for server support, vps.net team helped very quickly and were ready to look into the tech issue immediately."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Alasdair MacN\u00e8ill",
+          "Nb_Reviews": 7,
+          "Date": "2022-02-20T00:05:57.000Z",
+          "Titre": "Outstanding Service",
+          "Contenu": "The service provided was outstanding, and I must single out Louis here who went above and beyond to resolve an issue which had been causing me a lot of stress and anxiety. His expert knowledge and advice was just what I needed. Thank you!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "David",
+          "Nb_Reviews": 4,
+          "Date": "2022-02-25T14:57:46.000Z",
+          "Titre": "Extremely helpful team",
+          "Contenu": "Louis B was extremely helpful and resolved my issues very quickly. He answered all my questions and clarified all the details I needed.The support was much appreciated, with little waiting time."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GR",
+          "Pseudo": "Manolis Spanakis",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-14T12:52:48.000Z",
+          "Titre": "Server down after Centos 8 Updates",
+          "Contenu": "After applying Centos 8 Updates on Grub2 the server went down and was not able to reboot. Although it is Sunday I contacted support and they managed to recover the issue in 45 minutes. This is a great response time for such a damage. Thank you!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "esselfe",
+          "Nb_Reviews": 4,
+          "Date": "2021-03-29T15:39:31.000Z",
+          "Titre": "Finally a cloud vps CPU that I can fully use.",
+          "Contenu": "The CPU is dedicated, not shared like most cloud VPS providers which is very appreciated for the intensive use case that I have. SSH connections are very stable. Sadly there's no IPv6."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Cody Baker",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-11T18:56:53.000Z",
+          "Titre": "Fast and accurate support to a system\u2026",
+          "Contenu": "Fast and accurate support to a system that I am fairly new to. Kashif did an excellent job from start to finish."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Jack Wright",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-07T16:19:58.000Z",
+          "Titre": "Fantastic support",
+          "Contenu": "Had a technical issues, contacted a guy called Dom S on livechat - made me feel a bit dumb as it was such an easy issue (but that's on me) - Thank you!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "kishan",
+          "Nb_Reviews": 3,
+          "Date": "2020-08-22T10:02:50.000Z",
+          "Titre": "One of the best provider in terms of\u2026",
+          "Contenu": "One of the best provider in terms of support service it is better than AWS. As every one knows AWS free support replies very late and cannot help in server related stuff until paid."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AT",
+          "Pseudo": "Andreas",
+          "Nb_Reviews": 1,
+          "Date": "2022-06-09T10:05:06.000Z",
+          "Titre": "VPS.net support resolved issue in no time",
+          "Contenu": "One of our VPS.net servers couldn't get deleted which is why I needed to ask support to do that for me. They answered below 1 minute waiting time and resolved the issue immediately."
+        },
+        {
+          "Note": 5,
+          "Lieu": "MX",
+          "Pseudo": "Cassie Dakis",
+          "Nb_Reviews": 6,
+          "Date": "2022-08-27T15:35:03.000Z",
+          "Titre": "A Happy Client for More than 20 Years",
+          "Contenu": "We have been using VPS.net for more than 20 years and we are extremely happy with the reliability of their service and their exceptional technical support!  We cannot recommend them highly enough!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "RO",
+          "Pseudo": "Cristian Petcu",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-17T15:53:48.000Z",
+          "Titre": "Great feedback!",
+          "Contenu": "A fail2ban jail conf conflicted with a page within the admin section of my site. Staff feedback was quick and very helpful in identifying/solving this issue."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Hemant",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-27T11:51:12.000Z",
+          "Titre": "I had needed private IP address of my\u2026",
+          "Contenu": "I had needed private IP address of my website since it wasn't available on my dashboard. After security check, I was provided with the information I needed. Thanks for helping me out and keep up the good work"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Joe",
+          "Nb_Reviews": 1,
+          "Date": "2021-02-04T00:30:28.000Z",
+          "Titre": "Serhiy went the extra mile today to\u2026",
+          "Contenu": "Serhiy went the extra mile today to help us restore our offline website. I had messed it up pretty bad and he was able to help me identify the problem and bring it back online. Excellent service from VPS.net!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Leafgreen",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-16T14:52:21.000Z",
+          "Titre": "I had a problem with my name servers\u2026",
+          "Contenu": "I had a problem with my name servers after a domain transfer. The tech made the changes to the control panel that allowed the domain to operate properly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rich P",
+          "Nb_Reviews": 7,
+          "Date": "2022-06-14T00:30:04.000Z",
+          "Titre": "Every time that a problem has come\u2026",
+          "Contenu": "Every time that a problem has come forth. The tech department has always come thru and fixed the problems within a reasonable timely fashion."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ajay",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-05T17:35:34.000Z",
+          "Titre": "I had forgotten my root password since\u2026",
+          "Contenu": "I had forgotten my root password since I didn't login for a long time. Louis B. was very helpful and did the reset for me with no issues. Great job Louis. Really appreciate the help!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "SA",
+          "Pseudo": "Hani Draye",
+          "Nb_Reviews": 1,
+          "Date": "2022-02-10T14:18:17.000Z",
+          "Titre": "Almost a decade of great service",
+          "Contenu": "Since 2014 I never had but good support, I resell the service, never been disappointed.Despite the time difference and my tech ignorance, they ask the right questions to solve prablems,that usually I/client make."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Christopher Hillman",
+          "Nb_Reviews": 1,
+          "Date": "2020-08-21T15:41:52.000Z",
+          "Titre": "VPS.NET is a solid host and just works",
+          "Contenu": "VPS.NET is a solid host and just works.  I don't have to constantly wonder what is going on, they do exactly what I expect and leave me alone to focus on developing my products."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AE",
+          "Pseudo": "moheb serag",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-04T12:23:33.000Z",
+          "Titre": "Andrew sedun",
+          "Contenu": "Andrew sedun , made my life easier, he is very cooperative and clearly advising for the best practices , even i had too many question ,  he answered each and everyone"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ZA",
+          "Pseudo": "Hugo Meyer",
+          "Nb_Reviews": 1,
+          "Date": "2020-08-21T16:06:39.000Z",
+          "Titre": "Very happy with VPS.net",
+          "Contenu": "I was perfectly happy with the VM and service from VPS.net. Good stability, easy management and interaction with VPS support. As soon as I need another VM, VPS.net will be where I go."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "OneCommunity Orgainsation",
+          "Nb_Reviews": 10,
+          "Date": "2022-11-22T15:23:42.000Z",
+          "Titre": "UK2.net provides a good and reliable\u2026",
+          "Contenu": "UK2.net provides a good and reliable service, dealing with real people instead of bots, which makes a huge difference."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "KimOneProjectCloser",
+          "Nb_Reviews": 1,
+          "Date": "2021-12-22T19:54:49.000Z",
+          "Titre": "Quick Response Time",
+          "Contenu": "Needed to clear up billing after changing credit cards, and only waited a couple minutes for online chat. Everything cleared up quickly, and the website is also easy to navigate!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "MA",
+          "Pseudo": "Mohammed IBN",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-15T11:26:10.000Z",
+          "Titre": "Excellent support",
+          "Contenu": "Excellent support, amazing talk and help..Especially Louis.I am a customer for more than 5 years and i am very happy with the servicesProfessional"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Adam Coan",
+          "Nb_Reviews": 3,
+          "Date": "2021-12-31T17:23:06.000Z",
+          "Titre": "The support team is always so helpful\u2026",
+          "Contenu": "The support team is always so helpful and speedy to respond. It ensures that our sites stay up and running and we couldnt be happier."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Khanh D Tran",
+          "Nb_Reviews": 1,
+          "Date": "2021-12-22T15:06:32.000Z",
+          "Titre": "quick and fast response to a billing\u2026",
+          "Contenu": "quick and fast response to a billing issue during holidays. took care of my erroneous billing charges and credit my account. much appreciated"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Carie Andy Tugano",
+          "Nb_Reviews": 4,
+          "Date": "2021-04-27T02:02:22.000Z",
+          "Titre": "Had issues with yum packages",
+          "Contenu": "Had issues with yum packages. Andrii was able to fixed it by rebuilding the RPM database. I appreciate the quick assistance on this"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "AG",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-21T01:50:08.927Z",
+          "Titre": "I needed assistance restoring from an\u2026",
+          "Contenu": "I needed assistance restoring from an old backup and Andrew Sedun was extremely helpful and was able to resolve my issue quick and professionally. 5/5"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Aldwin",
+          "Nb_Reviews": 4,
+          "Date": "2023-10-16T11:20:11.000Z",
+          "Titre": "A Very Satisfied customer here",
+          "Contenu": "quick and very intuitive. thanks!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "BG",
+          "Pseudo": "Louis Miles",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-30T18:50:20.000Z",
+          "Titre": "2 Thumbs Up",
+          "Contenu": "I've been with vps.net since day 1.. and i've never had an issue, or request that wasn't attended to, and addressed in no time."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Adam Coan",
+          "Nb_Reviews": 3,
+          "Date": "2023-01-12T16:15:56.000Z",
+          "Titre": "The support team is always very prompt\u2026",
+          "Contenu": "The support team is always very prompt and helpful. If they can, they fix it. If they cant, they help me find who can. Excellent customer service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Nelise Carbonare",
+          "Nb_Reviews": 2,
+          "Date": "2022-02-25T02:37:56.000Z",
+          "Titre": "Thank you very much.",
+          "Contenu": "Thank you very much.I was sick, that explains why I couldn't respond to this ticket. Ticket #1011874Nelise Carbonare"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IT",
+          "Pseudo": "Jon",
+          "Nb_Reviews": 5,
+          "Date": "2021-06-22T12:11:15.000Z",
+          "Titre": "Dom is the man!",
+          "Contenu": "Very happy with the support I received from Dom. He obviously knew what he was talking about, and was patient, knowledgeable and professional."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Jayne Robertson",
+          "Nb_Reviews": 3,
+          "Date": "2021-03-06T22:40:50.000Z",
+          "Titre": "Amazing cloud hosting provider.",
+          "Contenu": "Amazing cloud hosting provider.Great support and amazing team.Always helpful and will go a mile your issue."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Wayne Andre",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-23T19:25:09.000Z",
+          "Titre": "From time to time we need your taff to\u2026",
+          "Contenu": "From time to time we need your taff to clear the firewall rather complicated we always get it done thanks"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Tadiwa Mandivenga",
+          "Nb_Reviews": 1,
+          "Date": "2022-02-24T11:00:52.000Z",
+          "Titre": "Louis was great!",
+          "Contenu": "Louis helped me with a issue we had with our server this morning and was very patient and efficient.Great customer experience!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PA",
+          "Pseudo": "Julio Mendoza",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-28T15:21:21.000Z",
+          "Titre": "You are the best !",
+          "Contenu": "In almost one decade using VPS service we can said that You are the best!!!Julioeemsystems.com"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Sola Erogbogbo",
+          "Nb_Reviews": 2,
+          "Date": "2021-02-20T13:28:02.000Z",
+          "Titre": "I had the greatest support from Amit B",
+          "Contenu": "I had the greatest support and patience from the support engineer. He even shared an article to use and keep for next time. amazing service. Thanks, Amit B!!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Sola",
+          "Nb_Reviews": 4,
+          "Date": "2022-01-24T21:27:56.000Z",
+          "Titre": "Couldn't send emails!",
+          "Contenu": "I had an issue where I couldn't send emails from my Domain. Spoke to support and they diagnosed this in minutes and applied a quick fix. Great service!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Glenn Caton",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-21T21:30:40.000Z",
+          "Titre": "Technician Amit on chat",
+          "Contenu": "AmitHelped me with my problem. He was able to resolve my problem quickly. I am very satisfied with the service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Sudhakar Pemmireddy",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-14T04:40:47.000Z",
+          "Titre": "Louis was so proactive and solved our\u2026",
+          "Contenu": "Louis was so proactive and solved our site issue so quickly. We really thank you for his wornder knowledge and support."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Tina Irvine",
+          "Nb_Reviews": 1,
+          "Date": "2021-12-06T15:47:48.000Z",
+          "Titre": "VPS.net has fantastic customer support",
+          "Contenu": "VPS.net has fantastic customer support. I've been with them for years. Highly recommend."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Carie Andy Tugano",
+          "Nb_Reviews": 4,
+          "Date": "2022-10-05T17:52:57.000Z",
+          "Titre": "Andrew Segun has been very helpful in\u2026",
+          "Contenu": "Andrew Segun has been very helpful in fixing the issue of server downtime. Thank you"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Matt \u201cscriptjunkie\u201d Weeks",
+          "Nb_Reviews": 1,
+          "Date": "2021-06-07T13:56:39.000Z",
+          "Titre": "Responsive support",
+          "Contenu": "Responsive supportVPS has reliably remained up. Support handled my DNS request quickly. No complaints."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rich P",
+          "Nb_Reviews": 7,
+          "Date": "2023-03-26T01:31:59.000Z",
+          "Titre": "Problems fixed",
+          "Contenu": "Everytime I have had a problem over the years they have always come thru and fixed them in a timely fashion."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Aldwin",
+          "Nb_Reviews": 4,
+          "Date": "2023-09-24T07:57:42.000Z",
+          "Titre": "Got my server back online",
+          "Contenu": "That was a quick fix. I hope the bug with almalinux on being stuck with grub fixed soon"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Omar",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-27T22:51:53.000Z",
+          "Titre": "helpful",
+          "Contenu": "Volodymyr Yablonskyyand Roman MudrikuvWere very helpful support agents. Answered my questions in a timely manner. Thank you."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AR",
+          "Pseudo": "Pedro Rodriguez",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-24T15:49:45.000Z",
+          "Titre": "All my experience with vps was great",
+          "Contenu": "All my experience with vps was great, never out of line and excellent costumer service.Thanks"
+        },
+        {
+          "Note": 5,
+          "Lieu": "AE",
+          "Pseudo": "rushi",
+          "Nb_Reviews": 1,
+          "Date": "2021-11-02T13:00:35.000Z",
+          "Titre": "Louis B",
+          "Contenu": "Louis B,  great support and immediate resolve the issues.Thank you very much for all support."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Bill Gillin",
+          "Nb_Reviews": 2,
+          "Date": "2021-10-28T00:46:15.000Z",
+          "Titre": "Amit was very helpful today",
+          "Contenu": "Amit was very helpful today. His attention was admirable. His help got my emails working again. Thank you very much Amit!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "David",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-06T12:46:39.000Z",
+          "Titre": "The staff at UK2 are very helpful with\u2026",
+          "Contenu": "The staff at UK2 are very helpful with support on using technical upgrades."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Adam Coan",
+          "Nb_Reviews": 3,
+          "Date": "2023-01-11T17:02:54.000Z",
+          "Titre": "Response time was excellent",
+          "Contenu": "Response time was excellent. Feedback was concise and accurate. I feel like the entire process was very efficient."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "V. Richardson",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-20T01:32:02.000Z",
+          "Titre": "That's cool!",
+          "Contenu": "That's cool!Service norms. The price is correct. Good support. Quite good conditions. Good servers. I liked everything!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "CIO",
+          "Nb_Reviews": 3,
+          "Date": "2021-12-07T16:26:05.000Z",
+          "Titre": "Bloicked IP & SSL expriring",
+          "Contenu": "IP was blocked by gmail yahoo aol our messages to our clients seem to be getting through, however I have been receiving ssl notification regarding all our domains due to expire Dec 4th I thought this was automatic?"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "PSG",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-13T14:57:21.000Z",
+          "Titre": "Managed support team quickly resolved\u2026",
+          "Contenu": "Managed support team quickly resolved the problem! Thank you!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "Martin van Duijn",
+          "Nb_Reviews": 2,
+          "Date": "2022-09-19T10:00:44.000Z",
+          "Titre": "Accurate serevice",
+          "Contenu": "My request for a  reverse dns was answered and solved Swift, accurate and friendly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Arta Seyzed",
+          "Nb_Reviews": 13,
+          "Date": "2020-08-28T16:10:00.000Z",
+          "Titre": "Worked with VPS.net for a very long\u2026",
+          "Contenu": "Worked with VPS.net for a very long time. Never had any troubles. I no longer am a customer because I switched to a local company. But overall, I was happy with vps.net"
+        },
+        {
+          "Note": 5,
+          "Lieu": "SA",
+          "Pseudo": "Mohammed Ali",
+          "Nb_Reviews": 4,
+          "Date": "2022-10-02T04:13:11.000Z",
+          "Titre": "their support is awesome",
+          "Contenu": "their support is awesome! they deployed a server just to test the latency to the servers i ask about!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Paul Miller",
+          "Nb_Reviews": 5,
+          "Date": "2022-02-14T16:51:36.000Z",
+          "Titre": "Great service",
+          "Contenu": "Have used VPS.net for over 12 years.  Service is great and good value.  Support have been very helpful over the years and reply in a way I can understand the issue."
+        },
+        {
+          "Note": 5,
+          "Lieu": "VN",
+          "Pseudo": "James",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-26T16:22:14.000Z",
+          "Titre": "Prompt response",
+          "Contenu": "Even as a very small-potatoes customer I got prompt responses and attentive service - thanks!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "MA",
+          "Pseudo": "Abdelmajid Sebbar",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-12T18:22:29.000Z",
+          "Titre": "Nice person in chat support",
+          "Contenu": "i have a nice experience with Mr. Warren S in chat, really it's amazing to have a quick help from you. thank you very much."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Sajith Kumar Kanangottu",
+          "Nb_Reviews": 2,
+          "Date": "2023-10-14T21:39:33.000Z",
+          "Titre": "Great response"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Sai Kumar Yadav",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-10T08:28:09.000Z",
+          "Titre": "UK Hyderabad",
+          "Contenu": "UK HyderabadRajit dixit Very calm and politeGood response"
+        },
+        {
+          "Note": 5,
+          "Lieu": "JP",
+          "Pseudo": "Emmanuel R",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-22T14:11:34.000Z",
+          "Titre": "Server problem solved",
+          "Contenu": "They were able to resolve the issue and get the server back up."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Eric Morris",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-18T20:23:02.000Z",
+          "Titre": "Amit B was quick",
+          "Contenu": "Amit B was quick, patient, and efficient"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Frank",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-20T22:49:11.000Z",
+          "Titre": "Awesome Job",
+          "Contenu": "VPS.NET provided great support this afternoon and was quick to resolve the issue."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Christine",
+          "Nb_Reviews": 4,
+          "Date": "2021-04-13T15:40:05.000Z",
+          "Titre": "Fantastic support on chat today!!",
+          "Contenu": "Fantastic support on chat today!!! Couldn't have been more helpful."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Manish Rahatkar",
+          "Nb_Reviews": 1,
+          "Date": "2021-12-02T06:04:55.000Z",
+          "Titre": "Mumbai",
+          "Contenu": "Mumbai - France VFS Quite an amazing service. Quick and efficient."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jean-Marc Denis",
+          "Nb_Reviews": 6,
+          "Date": "2022-08-31T15:42:06.000Z",
+          "Titre": "Sergiy Yatsuk has always been very\u2026",
+          "Contenu": "Sergiy Yatsuk has always been very knowledgeable and helpful every time we have a technical issue. In addition, he gives comprehensive explanation along the technical solutions he is providing"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "GY",
+          "Nb_Reviews": 4,
+          "Date": "2023-01-17T17:57:21.000Z",
+          "Titre": "Great job explaining the issue and\u2026",
+          "Contenu": "Great job explaining the issue and giving me time to fix the issue."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Dave",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-25T15:03:23.000Z",
+          "Titre": "Junaid J was very helpful!",
+          "Contenu": "Junaid J was very helpful and knowledgeable and got me out of a tight spot today! Thank you!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rich P",
+          "Nb_Reviews": 7,
+          "Date": "2020-08-21T22:59:06.000Z",
+          "Titre": "The last problem with my sites when\u2026",
+          "Contenu": "The last problem with my sites when they were down was fixed within a few minutes on live chat."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CO",
+          "Pseudo": "Edwin Espinal",
+          "Nb_Reviews": 1,
+          "Date": "2022-02-22T17:17:05.000Z",
+          "Titre": "Excellent attention and response time",
+          "Contenu": "Excellent attention and response time. I love the good service they provide"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rich P",
+          "Nb_Reviews": 7,
+          "Date": "2023-09-11T22:10:30.000Z",
+          "Titre": "Problem was solved in a timely matter"
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "Martin van Duijn",
+          "Nb_Reviews": 2,
+          "Date": "2023-01-02T18:52:24.000Z",
+          "Titre": "Swift respons that solved the issue",
+          "Contenu": "Swift respons that solved the issue, and as always, a friendly staffer."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IL",
+          "Pseudo": "Yarden Loumer",
+          "Nb_Reviews": 1,
+          "Date": "2021-11-06T12:08:10.000Z",
+          "Titre": "I\u2019ve received quick and professional\u2026",
+          "Contenu": "I\u2019ve received quick and professional support from Roman. I was impressed and very satisfied !"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Kathy James",
+          "Nb_Reviews": 4,
+          "Date": "2022-11-21T16:19:21.000Z",
+          "Titre": "I am always impressed with the speedy\u2026",
+          "Contenu": "I am always impressed with the speedy response  of support."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Shakeel Ahmed",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-19T16:45:54.000Z",
+          "Titre": "VPS.net team is really a professional\u2026",
+          "Contenu": "VPS.net team is really a professional team and I got awesome support for my VPS"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Physics Plus ICT",
+          "Nb_Reviews": 2,
+          "Date": "2022-06-12T16:03:53.000Z",
+          "Titre": "VPS cloud server and Support",
+          "Contenu": "VPS server is working good, and I got authentic support from them. Highly Recommended."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Rob",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-31T16:06:16.000Z",
+          "Titre": "Speedy, efficient  response",
+          "Contenu": "Speed of response, hyper efficient solution. Roman went the extra mile."
+        }
+      ]
+    }
+  ]
+}

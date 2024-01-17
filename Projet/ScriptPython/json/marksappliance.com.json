@@ -1,0 +1,544 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "marksappliance.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Mark & Faege Griffith",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-10T05:53:55.000Z",
+          "Titre": "Poor customer service."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Carole Pollett",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-10T03:39:17.000Z",
+          "Titre": "Not happy",
+          "Contenu": "Not happy at all"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Darryl Collins",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-28T20:06:51.000Z",
+          "Titre": "Great home town experience",
+          "Contenu": "Took three trips to get everything right, but really friendly people, competitive prices, great selection.  A super home town experience!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Jim & Sandy Shepard",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-10T17:23:09.000Z",
+          "Titre": "Products are great",
+          "Contenu": "Products are great.  Took several phone calls to get our bill total.  They did store/hold our appliances until construction was completed, which was very helpful."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Sian Alford",
+          "Nb_Reviews": 4,
+          "Date": "2023-07-04T18:03:57.000Z",
+          "Titre": "Customer service at its best.",
+          "Contenu": "I found dealing with Marks Electrical so pleasant from start to finish.The delivery drivers were Craig Ward and Aman were so pleasant and helpful and went above and beyond,nothing was too much trouble.Such a refreshing change,a very happy customer.Thankyou \ud83d\ude0a"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "The Pentecostals of Troy",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-01T16:27:24.000Z",
+          "Titre": "Mark's Appliance",
+          "Contenu": "I heard about Mark's through their radio ads on sports talk radio stations. Unexpectedly, our washer started leaking, so we visited Mark's. Brent was a tremendous salesman. Explained various washers and their options as well as warranties. Best part of the experience - he listened to our needs and wants.We will go back for more purchases."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jeffrey B. Reed",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-02T19:59:06.000Z",
+          "Titre": "We have purchased a washer",
+          "Contenu": "We have purchased a washer, a dryer, and a dishwasher from these guys. The sales staff is very knowledgeable. The delivery and install was stellar.We have also called upon their service staff for advice and repairs. We found them to be honest, reasonably priced, and punctual. A true 5 star provider from purchase to maintenance."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Vicki Daggett",
+          "Nb_Reviews": 4,
+          "Date": "2023-01-20T19:26:01.000Z",
+          "Titre": "Jerome Augustine was super kind and\u2026",
+          "Contenu": "Jerome Augustine was super kind and understanding. Buying a house after 25 years of renting has presented a string of challenges and I really appreciate the way Mark's Appliances made the appliance end smooth and simple.  I really like that they are a local business, not a big monolithic chain company.  I like putting money back into local hands."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jim & Jane Weingartener",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-10T05:20:37.000Z",
+          "Titre": "Mark\u2019s loaned us a refrigerator to use\u2026",
+          "Contenu": "Mark\u2019s loaned us a refrigerator to use while our new refrigerator was on order (our old refrigerator had stopped working). They came to the house to measure the space and help us find something we knew would fit. The crew installed it, took away the loaner and made sure all the packing material was off, all the shelving was installed and we understood the operation. Everyone was very professional and helpful.Jane and Jim"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Keith Fally",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-02T21:26:27.000Z",
+          "Titre": "I worked with Jerry and he was great at\u2026",
+          "Contenu": "I worked with Jerry and he was great at providing me the information on the dish washers I was looking at. I had a another purchase from Marks about 7-8 years ago and had a warranty issue. Its a long story but the appliance was out or warranty and Mark step up and took care of the repair no questions asked. I told him that he didn't have to do it, but he wouldn't take no for an answer. I will always purchase my appliances from Mark's and recommend his company to any one that is looking."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jordan Robertson",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-24T17:58:58.000Z",
+          "Titre": "Going above and beyond",
+          "Contenu": "There was a miscommunication regarding the online price and the total price once in the store. Abe and Drew went above and beyond in reaching a compromise, and even threw in a free garbage disposal without me even asking about it. Tremendous customer service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Dominique Roche",
+          "Nb_Reviews": 6,
+          "Date": "2023-05-01T08:27:54.000Z",
+          "Titre": "The staff at Mark's Appliance proved to\u2026",
+          "Contenu": "The staff at Mark's Appliance proved to be extremely knowledgeable and helpful when we were choosing a new washer/dryer set. They presented various options to us and gave us detailed explanations of the differences between models. Their friendly and approachable demeanor made the entire experience truly enjoyable."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Carol Sue Carnes",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-28T06:03:15.000Z",
+          "Titre": "Great company to work with!!",
+          "Contenu": "Great company to work with, have bought complete kitchen appliances there when we redid our kitchen.  Have also purchased 9 or more appliances from them for the South Calhoun Retirement Center.  Great service all around!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Barb",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-17T23:30:18.000Z",
+          "Titre": "I was looking for a refrigerator",
+          "Contenu": "I was looking for a refrigerator, but very limited due to dimensions.  Jerry took his time in trying to help me and was able to not only find a few but one I liked.  He even came in on his day off to write up the order to make sure I got it.  Oh, he also helped with a dishwasher as well.  Thanks Jerry!  Very professional atmosphere and everyone very nice.  I have gone to Mark\u2019s before and will continue to go there in the future."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Connie",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-01T04:39:01.000Z",
+          "Titre": "Positive review for Mark\u2019s Appliances.",
+          "Contenu": "Kevin was very informative about the washing machines that I was interested in.  I also liked that he gave me some space so I could compare the products on my own.  My first choice will always be to shop with local and hometown businesses."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Claire Bauer",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-03T20:33:27.000Z",
+          "Titre": "Customer Service at it's best!",
+          "Contenu": "Salesman was very knowledgeable about the products he was selling. Offered options to get us exactly what we wanted. Very professional, yet personable and friendly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Paul Johnes",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-23T08:15:59.000Z",
+          "Titre": "Always first-class",
+          "Contenu": "Always first-class and attention to detail.  Answer questions honestly and willing to find the best appliance to fit your needs.  What else can you ask for?  Why would you go anywhere else?"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Tanya Sharos",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-27T16:07:34.000Z",
+          "Titre": "Mark's Appliance staff was very professional, friendly, and knowledgeable.",
+          "Contenu": "Mark's Appliance staff was very knowledgeable and helpful in selecting a new washer/dryer set.  They showed us their different options and thoroughly explained the differences between models.  They were friendly and made our overall experience great."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "margaret meyer",
+          "Nb_Reviews": 3,
+          "Date": "2023-02-14T23:53:40.000Z",
+          "Titre": "A great company with which to do business",
+          "Contenu": "A great team from start to finish.  Kevin is very responsive answering questions and helpful in making the right decisions.  The delivery team was on time and was respectful of my space.  Everyone is very friendly and helpful and wants to the best for the customer."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "John Sweet",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-30T20:38:12.000Z",
+          "Titre": "Pleasant experience.",
+          "Contenu": "Had what we were looking for and was able to get it scheduled for a quick installation. Fair prices and great customer service. Buying local is a huge plus as well."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "David Richey",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-12T01:50:48.000Z",
+          "Titre": "We needed an electric range fast",
+          "Contenu": "We needed an electric range fast. Ours had stopped working about a month ago, and the service tech said it would be costly to repair. After finding a new one we liked, Abe told us the only one in stock was the floor model, and it could take weeks to get one. Abe spoke with the Manager, and they allowed us to buy the floor model (which isn\u2019t something they do on a current model unit.) Abe went above and beyond to see that we got our new range today!  Can\u2019t find that kind of service these days. We will be back for our future needs. You\u2019ve earned lifelong customers with us!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "kelof",
+          "Nb_Reviews": 3,
+          "Date": "2023-01-27T02:46:37.000Z",
+          "Titre": "Large showroom and helpful staff.",
+          "Contenu": "Very pleased with the large selection of appliances to see in stock and the helpful info provided by our salesperson. We were never rushed or pressured during our selection of four kitchen appliances and I feel confident in our choices."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Morgan Kiffmeyer",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-02T17:52:37.000Z",
+          "Titre": "Mark\u2019s Appliances is the best",
+          "Contenu": "Mark\u2019s Appliances is the best! They always have the best customer service and want to make sure everything is correct for you! They also made a thoughtful donation to a great cause! Highly recommend!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kimberly",
+          "Nb_Reviews": 4,
+          "Date": "2023-03-21T01:14:34.000Z",
+          "Titre": "Kevin was super attentive and helped me\u2026",
+          "Contenu": "Kevin was super attentive and helped me find the right products based on my needs and wishes.  He never rushed me and I truly appreciated that."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Allan & Millie Ho",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-10T05:19:02.000Z",
+          "Titre": "Great customer service",
+          "Contenu": "Mark\u2019s prices match or beat those of other dealers.  What is superior is their customer service.  They personally stand behind and service their appliances unlike the big-box stores that utilize third-party repairmen."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "ALEXANDER FOX",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-23T15:40:32.000Z",
+          "Titre": "AWESOME SERVICE FROM PURCHASE TO\u2026",
+          "Contenu": "AWESOME SERVICE FROM PURCHASE TO INSTALL.CLEAR TO SEE WHY USING AN IN TOWN BUSINESS JUST HAS A HOMETOWN FEEL.  PERSONALIZED!!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Vicki Daggett",
+          "Nb_Reviews": 4,
+          "Date": "2023-02-10T22:14:10.000Z",
+          "Titre": "Jerome was super helpful",
+          "Contenu": "Jerome was super helpful.  My washer and dryer were delivered without a hitch and I am incredibly happy to have them.  I am very grateful to Mark's Appliance."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Larry Rosenthal",
+          "Nb_Reviews": 2,
+          "Date": "2023-01-23T06:30:03.000Z",
+          "Titre": "Delivery problem solved",
+          "Contenu": "Abe was most helpful in making things work. He made an extra effort to see that delivery was possible.  A problem that I was having. He could have made life easier for himself and simply said no.  What he said he would do, he did. I am very grateful."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Maria Healey",
+          "Nb_Reviews": 2,
+          "Date": "2023-01-10T03:57:21.000Z",
+          "Titre": "Brent was awesome to work with",
+          "Contenu": "Brent was awesome to work with. He was very knowledgeable and transparent about the appliances, financing, and delivery. Answered all my questions and made the process easy."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Angela Byrne",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-08T15:47:30.000Z",
+          "Titre": "Replace Washer",
+          "Contenu": "Kevin and Mark took a great deal of time to answer our questions and show us several possibilities.  They were friendly, informative, and very knowledgeable.  We will definitely be using Mark's Appliance for all our appliance needs in the future."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Tina Hinds Denman",
+          "Nb_Reviews": 6,
+          "Date": "2023-03-09T00:41:01.000Z",
+          "Titre": "Love Mark's Appliance!!",
+          "Contenu": "Love Marks!  I bought all my appliances and my Traeger grill there!  They have great customer service, great repair service and are friendly!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Larry L",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-16T00:37:37.000Z",
+          "Titre": "Kevin, well done and thank you.",
+          "Contenu": "The interaction with Kevin, his patience with me, and his knowledge of the products all contributed to an outstanding experience and sale. I am very pleased with the bundle Kevin was able to create so that I could remain within my budget and be competitive within the local options available to me."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Nadine Meacham",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-24T03:45:45.000Z",
+          "Titre": "Sales staff really listen",
+          "Contenu": "Kevin listened to what I wanted in a stove and showed stoves that fit but he also let me free to look at all of he available options."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Danette",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-15T02:36:25.000Z",
+          "Titre": "Our animals thank you for the great customer service we received!",
+          "Contenu": "Customer service was excellent! I work for an animal shelter in St Jacob and Kevin understood how important having a washing machine delivered quickly was to our facility. He found the machine we wanted and our sale experience has been great!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Sam Fink",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-14T19:31:20.000Z",
+          "Titre": "Professional, timely, friendly.",
+          "Contenu": "Professional, timely, and friendly. My go to for all appliance related needs. Hometown business with best in class service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "kevinoglemail.org",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-11T22:27:08.000Z",
+          "Titre": "So far so good",
+          "Contenu": "So far so good.  Great help from Brent and the installation crew evaluating our options.  New range on order."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Denny Parrott",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-02T02:24:55.000Z",
+          "Titre": "Very helpful and courteous the second\u2026",
+          "Contenu": "Very helpful and courteous the second we walked in the door. Very thorough in answering our product questions."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Cindy Ennen",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-06T20:48:25.000Z",
+          "Titre": "We immediately were greeted and\u2026",
+          "Contenu": "We immediately were greeted and received help. Very friendly, the only negative was the lack of prices on some items."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "KD",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-03T20:56:29.000Z",
+          "Titre": "Purchase of a laundry set",
+          "Contenu": "Very friendly and super helpful.  Paula went above and beyond to make our purchase a great experience."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Michael Sly",
+          "Nb_Reviews": 3,
+          "Date": "2023-03-31T22:56:41.000Z",
+          "Titre": "Mark did a great job personally putting\u2026",
+          "Contenu": "Mark did a great job personally putting together my kitchen package. I couldn\u2019t be happier."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ren",
+          "Nb_Reviews": 2,
+          "Date": "2023-02-11T04:32:07.000Z",
+          "Titre": "Paula offered excellent customer\u2026",
+          "Contenu": "Paula offered excellent customer service while I was in the store and quick follow up.Happy to shop local!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Judy Obermeier",
+          "Nb_Reviews": 2,
+          "Date": "2023-02-10T00:47:45.000Z",
+          "Titre": "Great service",
+          "Contenu": "Great service, great prices. Needed a dishwasher and stove for a flip and you had affordable models that worked!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Robyn Albrecht",
+          "Nb_Reviews": 3,
+          "Date": "2023-01-12T01:44:28.000Z",
+          "Titre": "Jerry was very friendly",
+          "Contenu": "Jerry was very friendly, informative, and helpful.  He went the extra mile to make sure we were taken care of."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Gina Carroll",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-17T23:33:48.000Z",
+          "Titre": "I got the information I needed",
+          "Contenu": "I got the information I needed.  My questions were answered,   I was given full explanations.  Resulting in a purchase and planning for delivery and installation."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "DEE",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-11T03:36:54.000Z",
+          "Titre": "PROFESSIONAL",
+          "Contenu": "THE SALESPERSON WAS FRIENDLY AND EXPLAINED EVERYTHING BEFORE MY PURCHASE."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Bill",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-19T01:17:10.000Z",
+          "Titre": "Kevin very knowledgeable",
+          "Contenu": "Kevin very knowledgeable. Glad appliances in stock for quick delivery."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Daryel Buesking",
+          "Nb_Reviews": 3,
+          "Date": "2023-01-10T04:37:19.000Z",
+          "Titre": "The best place to buy appliances",
+          "Contenu": "The best place to buy appliances. Great service and service after the sale"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Chris Cannon",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-22T23:36:46.000Z",
+          "Titre": "Very helpful on the phone and in\u2026",
+          "Contenu": "Very helpful on the phone and in person. Did not try to upsell us."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dan",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-07T20:29:48.000Z",
+          "Titre": "Abe was very helpful and knowledgeable."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "David Koonce",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-14T03:06:37.000Z",
+          "Titre": "Great people to deal with",
+          "Contenu": "Great people to deal with, knowledgeable and professional."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Gilberto Restrepo",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-10T05:11:23.000Z",
+          "Titre": "Mark\u2019s Appliances Best In The St. Louis Metro East!",
+          "Contenu": "Great team of employees providing great quality service in sales, parts, delivery and installation service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Michael Ray Dillier",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-06T20:30:24.000Z",
+          "Titre": "Great info and service install"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Richard",
+          "Nb_Reviews": 4,
+          "Date": "2023-01-24T23:19:27.000Z",
+          "Titre": "Sales rep was knowledgeable"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Marsha Kilmer Ackerman",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-02T05:10:03.000Z",
+          "Titre": "Purchase",
+          "Contenu": "Always super helpful and prompt response!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Barbre",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-13T16:20:15.000Z",
+          "Titre": "\u2026extremely helpful\u2026",
+          "Contenu": "Kevin was extremely helpful in explaining the differences among the different appliances."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Myles",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-04T00:39:09.000Z",
+          "Titre": "Good Customer Service",
+          "Contenu": "Simple, easy, helpful, and fast."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ryan Bundy",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-02T17:37:39.000Z",
+          "Titre": "Love Mark\u2019s Appliance!",
+          "Contenu": "Love shopping at Mark\u2019s!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jim Fehner",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-09T22:00:54.000Z",
+          "Titre": "Efficiency of sale process"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Drew Bradley",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-10T03:56:24.000Z",
+          "Titre": "A great experience",
+          "Contenu": "A great experience. Hometown service, excellent selection."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 3,
+          "Date": "2023-01-09T21:18:23.000Z",
+          "Titre": "Abe is knowledgeable & professional."
+        }
+      ]
+    }
+  ]
+}

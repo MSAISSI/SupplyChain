@@ -1,0 +1,753 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "www.sendowl.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "MA",
+          "Pseudo": "Achraf Ben",
+          "Nb_Reviews": 3,
+          "Date": "2023-09-27T11:01:35.000Z",
+          "Titre": "Don't use this platform or you will regret it",
+          "Contenu": "I opened my account, after two days I came back to check on and I found it suspended without no warning no message no email nothing. I don't even have access to the dashboard to see what's going on. Not only that, but I email them, still no response. Please guys do not open your account here, find somewhere else. There is no support, nothing."
+        },
+        {
+          "Note": 1,
+          "Lieu": "TR",
+          "Pseudo": "S.k",
+          "Nb_Reviews": 3,
+          "Date": "2023-09-20T17:38:43.000Z",
+          "Titre": "Zero support",
+          "Contenu": "I'm giving this a one-star rating because it feels like I've had virtually no experience with their support. I registered for their platform a week ago and opted for the paid plan. I've sent over 4 emails seeking support, but have yet to receive a response. Instead, I continually receive their automated newsletters. My concern is the time I'm investing in creating lists and uploading products. Even their test mode doesn't seem to function, making me feel as though I'm adding products that only I can view. Their lack of responsiveness has been an issue from day one. Moreover, they advertise a free 14-day trial before your card is charged, but with this level of service, I'm hesitant to invest any more of my time"
+        },
+        {
+          "Note": 1,
+          "Lieu": "PT",
+          "Pseudo": "YASSINE ABOUZIA",
+          "Nb_Reviews": 3,
+          "Date": "2023-04-27T09:30:19.000Z",
+          "Titre": "They are racists against African\u2026",
+          "Contenu": "They are racists against African countries, they suspended my account right after I registered...I did the same process with European VPN, and they did not suspend my account.I cannot rate their service because they do not let me use it, but their customer service is very bad.Not recommended at all."
+        },
+        {
+          "Note": 1,
+          "Lieu": "SE",
+          "Pseudo": "Caroline",
+          "Nb_Reviews": 5,
+          "Date": "2022-01-31T19:03:11.000Z",
+          "Titre": "Unreliable, not a serious business",
+          "Contenu": "Not serious, do not trust them. Makes promises that they won't keep, hiding behind \"well our business partner is no longer here and it's their job to help you, not ours\". Basically pretends to be a reliable source of software, but they aren't, so take your business somewhere else to someone that cares more about their customers."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Jay Chizza",
+          "Nb_Reviews": 1,
+          "Date": "2018-08-02T21:58:31.000Z",
+          "Titre": "Horribly awful customer service.",
+          "Contenu": "After reading the feature set, I thought SendOwl was the ideal solution. In creating a test product I ran into some friction (confusion) and decided to reach out to support. I asked support specifically for a chat walk through for help. I got a response that said; \"we don't do phone calls.\"  I never asked for a phone call and it's EXTREMELY common for companies focused on customer service to offer chat support. I replied back clarifying that I would be happy with a chat walk through, I haven't heard back since."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Bhasker Patel",
+          "Nb_Reviews": 1,
+          "Date": "2017-11-29T14:37:57.000Z",
+          "Titre": "SendOwl is a online wholesaler who \u2026with no moral responsibility.",
+          "Contenu": "SendOwl is a online wholesaler who sales through third party sellers, without any checks. Counterfeit software are sold through SendOwl and customers are unaware of these. Adobe Genuine Software Team had a complaints from customers and SendOwl does not want to take any responsibility."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Cello",
+          "Nb_Reviews": 86,
+          "Date": "2023-05-27T21:02:26.000Z",
+          "Titre": "Beware of bad Stripe tariff and dark patterns",
+          "Contenu": "On the surface SendOwl looks pretty reasonable with its $15\u201340 of monthly fee and $0.04\u20130.03 per transaction, in addition to your Stripe fees.What's not so obvious however, is that the Stripe tariff SendOwl will apply is not the same tariff that you see in your Stripe account. It's not something SendOwl will show you in its plan comparison but a rather small print below: \"2.9% + $0.30 for merchants located in the United States. Add 2% for merchants located outside the United States\".Yes, that's right: with SendOwl you pay 4.9% + $0.30 even for for standard European cards instead of 1.5%  + \u20ac0.25 that you would have paid if just using Stripe checkout. And don't forget to add SendOwl monthly fee plus $0.04\u20130.03 per transaction on top.So, in reality, trading via SendOwl will cost you 6\u20138% on average, depending on your prices, compared to 3.5\u20134.5 of Stripe checkout.What's the takeaway? As usual: be careful, do your own research, do your maths and always read small print."
+        },
+        {
+          "Note": 1,
+          "Lieu": "ES",
+          "Pseudo": "Mrs P",
+          "Nb_Reviews": 15,
+          "Date": "2021-10-13T08:06:18.000Z",
+          "Titre": "Do not use",
+          "Contenu": "I was trying to download a pdf sewing pattern that I had just purchased and it completely disappeared the minute I pressed download. I should have been able to download this pattern 5 times but didn\u2019t even get to download once and no options left to download again. I have to hope now that the company I purchased it from will let me have the link again or it will be an absolute waste of money."
+        },
+        {
+          "Note": 1,
+          "Lieu": "AU",
+          "Pseudo": "Nick",
+          "Nb_Reviews": 7,
+          "Date": "2020-04-28T12:12:23.000Z",
+          "Titre": "I purchased an ebook which was sent to\u2026",
+          "Contenu": "I purchased an ebook which was sent to me via Sendowl.The page I was working on was poorly designed, worked very slowly, was riddled with blind spots and was very very user unfriendly.It instructed me to download to a Dropbox. In the wink of an eye I had supposedly used up my 3 attempts to download but am not certain how this occurred due to the poor design and operation of their software.I emailed them and got a reply from a bot telling me to contact the seller.This is unbelievably bad customer service.DO NOT USE UNDER ANY CIRC UUMSTANCES"
+        },
+        {
+          "Note": 1,
+          "Lieu": "HR",
+          "Pseudo": "lucija",
+          "Nb_Reviews": 2,
+          "Date": "2021-08-21T18:08:32.000Z",
+          "Titre": "Bungie Store scam",
+          "Contenu": "I got an email from them claiming that they were a game developer Bungie and that I received a free in-game item for creating my Bungie Store account. When I clicked on the link it took me to a download page, which is not how receiving in-game products works in this game."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Steven",
+          "Nb_Reviews": 5,
+          "Date": "2022-12-02T14:37:08.000Z",
+          "Titre": "RIPOFF and NO  customer support!!",
+          "Contenu": "RIPOFF and NO  customer support!!! bought a modmenu from FITKIT menu on discord and dont know what the problem is but NEVER  had to wait for the Activation key this long..WILL NOT USE THIS RESELLER AGAIN!!! enjoy the 25.00."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Katalin Ralph",
+          "Nb_Reviews": 15,
+          "Date": "2023-04-24T14:48:59.000Z",
+          "Titre": "ZERO customer service!",
+          "Contenu": "Customer service?? What customer service?? Is that when they supposed to get back to you and help with a platform they provide? But they don't help with anything. I'm not sure what they do  and why any merchant would want to use them?? I paid for an e- book,  downloaded it to kindle as I do all my books all the time,  but it just wouldn't appear. Their response was that they couldn't help. What? They don't know how their own app works? Well I am disgusted. In the end I pursued and eventually managed to get it onto my kindle library all by myself  but with great difficulty and frustration. The company should be able and keen to advise how to get their app onto one's reading list. If they can't advise,  who can??? Terrible service."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Me",
+          "Nb_Reviews": 6,
+          "Date": "2021-02-22T21:02:49.000Z",
+          "Titre": "Snotty customer service",
+          "Contenu": "Asked for help in changing a customers email address. Support desk did not actually answer my questions fully and were quite rude in their responses. If they'd fully answered my questions then the issue would have been resolved quicker than the 6 emails it actually took with one of those suggesting to me that when I 'feel' like supplying the email to let them know. Telling them where it was on the buyers receipt which I didnt have access to at the time, so they could copy and paste it across easily was apparently not telling them where the email address was. And they couldnt simply tell me that they couldnt access that screen or were unable to do it that way.Also the discount codes often do not work but apparently they do - despite me being told regularly by customers that they cant get them to work. Will be looking for another provider asap"
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Elaine Hardaker",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-23T15:03:04.000Z",
+          "Titre": "i want to use paypal",
+          "Contenu": "i am trying  to start with sendowl but  i dont want to use  stripe i  want to use  paypal  so i  might  have  to  not  bother  woth sendowl"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Jonathan",
+          "Nb_Reviews": 3,
+          "Date": "2021-02-06T20:28:53.000Z",
+          "Titre": "Don't use!!",
+          "Contenu": "My son bought something for Fortnite.  It took the charge then said the download would be ready in 2 to 10 hours.  Then an email came saying it was ready.  When you click on it to access it then says the file is no longer accessible.  there is no option to report the scam or problem, no way to deal with the issue.  I will report scam to Amex."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Katie",
+          "Nb_Reviews": 2,
+          "Date": "2017-12-06T15:13:15.000Z",
+          "Titre": "Unusable\u2026",
+          "Contenu": "Will be getting a refund through paypal. Download link would not download product and as it will only allow 3 attempts I now have no access to the product I have paid for."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Katie",
+          "Nb_Reviews": 2,
+          "Date": "2017-12-06T15:10:41.000Z",
+          "Titre": "Unusable",
+          "Contenu": "Will be getting a refund through paypal. Download link would not download product and as it will only allow 3 attempts I now have no access to the product I have paid for."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Gillian Moore",
+          "Nb_Reviews": 1,
+          "Date": "2019-01-11T21:57:55.000Z",
+          "Titre": "Don\u2019t be fooled what a Scam",
+          "Contenu": "Don\u2019t be fooled.  My brother purchased an xbox  live code for my son but I didn\u2019t activate it right away and now that I\u2019m trying to use it, it isn\u2019t available anymore.  Sounds like a BIG SCAM to me.  Don\u2019t be fooled people.  Do your research first."
+        },
+        {
+          "Note": 1,
+          "Lieu": "NL",
+          "Pseudo": "James",
+          "Nb_Reviews": 4,
+          "Date": "2020-10-01T08:28:14.000Z",
+          "Titre": "This service is allowing website like\u2026",
+          "Contenu": "This service is allowing website like the below steal money: company review source dot com"
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Nick",
+          "Nb_Reviews": 23,
+          "Date": "2021-10-27T14:03:24.000Z",
+          "Titre": "Unreliable delivery with no support for resume. Cannot recommend.",
+          "Contenu": "A poor content delivery network that evidently is not up to the task of providing reliable delivery for files taking several minutes, such as 2 or 3GB over typical UK fibre speeds. I experienced multiple download fails, which tended to get counted as a download even though they hadn't completed, and attempts to resume a partial download were usually rejected with a forbidden server response. I resorted to downloading to a cloud server instead, which succeeded due to the much higher bandwidth, and then downloading from the cloud server to local. I wouldn't want this hassle in the future so am unlikely to order anything else from the company who used SendOwl, and strongly recommend looking elsewhere if selecting a service to handle your digital downloads."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Oliver Odin",
+          "Nb_Reviews": 7,
+          "Date": "2021-09-10T18:02:31.000Z",
+          "Titre": "Order never received",
+          "Contenu": "Order never received, only an email with an expired link. Unfortunate"
+        },
+        {
+          "Note": 1,
+          "Lieu": "IT",
+          "Pseudo": "Reinaudi",
+          "Nb_Reviews": 4,
+          "Date": "2021-10-07T15:00:27.000Z",
+          "Titre": "Order never received"
+        },
+        {
+          "Note": 2,
+          "Lieu": "GB",
+          "Pseudo": "Dmitry",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-11T17:11:46.000Z",
+          "Titre": "Service quality has rapidly declined over the last three months",
+          "Contenu": "Writing this as I await a response from SendOwl support. Last time, it took them 2 days to get back to us while we were losing sales. Our checkout has been down for the majority of the day once again. This marks the third time this has happened since May 2023. We've relied on SendOwl since 2015 to facilitate the sale of our software. We are using the well-designed SendOwl API to drive our web store and previously, we were staunch advocates of its simplicity and reliability for anyone interested in vending digital products. Recent developments with SendOwl have left us puzzled, as we now find ourselves actively exploring alternative solutions. It had been working excellently until it suddenly faltered. While I acknowledge that our specific use case might differ from that of most users, and it's possible we may have expected too much, the fact remains that it worked and then it didn't. So, if you're planning to sell just one PDF a day, it might be acceptable on most occasions. However, if your sales involve dozens of items per day, I strongly recommend conducting thorough testing of this service before fully committing. A loyal user left disappointed."
+        },
+        {
+          "Note": 2,
+          "Lieu": "SG",
+          "Pseudo": "Subscribed customer for  yrs",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-10T04:32:57.000Z",
+          "Titre": "Stagnant product for last 6 years",
+          "Contenu": "Stagnant product for last 6 years. No innovations, no improvements. Bugs and issues reported years ago haven't been addressed. The good part is that since they have stopped making changes, it has not given any surprises in terms of new bugs."
+        },
+        {
+          "Note": 2,
+          "Lieu": "DE",
+          "Pseudo": "IronBeagle",
+          "Nb_Reviews": 9,
+          "Date": "2020-04-04T10:26:19.000Z",
+          "Titre": "Payment Issue",
+          "Contenu": "Offered free license keys through sendowl - Order could not be processed because of payment issue... Then I wanted to search an alternative to sendowl but Sendowl don't allow to export license keys so I had to load every key in list in order to CopyPaste. Terrible service."
+        },
+        {
+          "Note": 2,
+          "Lieu": "GB",
+          "Pseudo": "Brian O'Neill",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-28T16:46:44.000Z",
+          "Titre": "Generally ok but they are missing some\u2026",
+          "Contenu": "Generally ok but they are missing some really obvious features like pdf receipts for buyers. This is frustrating for us as it\u2019s our number one customer request."
+        },
+        {
+          "Note": 3,
+          "Lieu": "ES",
+          "Pseudo": "Ann",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-05T12:15:02.000Z",
+          "Titre": "Lacking tax zone",
+          "Contenu": "CONIt is lacking my tax zone Canary IslandsSupport often gives me the feeling that they could care less.PROIt integrates well with Thrive ThemesInexpensive"
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "John",
+          "Nb_Reviews": 2,
+          "Date": "2019-12-29T15:42:02.000Z",
+          "Titre": "It\u2019s a nice app but billing issue (beware merchants)",
+          "Contenu": "It\u2019s a nice app. Customizable and seems to function well. However, I did not appreciate being charged after uninstalling the app from my Shopify account. If it\u2019s uninstalled, it\u2019s no longer being used so any subsequent charges should cease by default. I ended up having to log in to SendOwl and cancel a second time (common courtesy should be to stop charging once you receive the deletion notice from Shopify). Other apps stop charging upon deletion, but SendOwl kept charging."
+        },
+        {
+          "Note": 3,
+          "Lieu": "CH",
+          "Pseudo": "Potm",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-15T14:50:40.000Z",
+          "Titre": "404 Error Showstopper [fixed]",
+          "Contenu": "We've used SendOwl for years. However, recently it started to display a 404 error in our store (\"404Sorry, we can\u2019t find that page\") after a customer switches the currency. The problem is caused by broken cookies and could be relatively easily fixed on their end. However, customer support says:\"So I have spoken with our development team and they have been over this issue at length, however, unfortunately, it is a real headscratcher and we have not been able to find the root of the issue.\"They now flat out refuse to fix the problem or even to provide a simple workaround (a way to clear the cookies). Instead, they suggest we change our web site, making it more cumbersome for customers to switch currencies.This is unfortunately not the only issue but the real showstopper. Other issues we were having:- download links suddenly stopped working- no translations possible for parts of the checkout- SendOwl displaying the rather unhelpful error message \"Well that didn't work\" to customersUnfortunately, this is the end of the road for us with SendOwl.Update (May 2022):The 404 error issue has now been fixed (about a year after first reporting it). We are still using SendOwl as switching e-commerce solutions is tedious for us and our customers. We can now recommend SendOwl for small businesses which can live with its limitations:- no localization of certain content (product names, upsells)- little control over existing orders (VAT numbers, download restrictions)- little flexibility with certain options (e.g. download validity limited to a fixed list between 1 day and two years)"
+        },
+        {
+          "Note": 3,
+          "Lieu": "CA",
+          "Pseudo": "Ascension-ArchAngel",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-11T04:03:16.000Z",
+          "Titre": "Your new script stop my website from\u2026",
+          "Contenu": "Your new script stop my website from working."
+        },
+        {
+          "Note": 3,
+          "Lieu": "FR",
+          "Pseudo": "Corsica bloc",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-25T08:49:07.000Z",
+          "Titre": "Some transactions fail"
+        },
+        {
+          "Note": 4,
+          "Lieu": "ES",
+          "Pseudo": "Jordi",
+          "Nb_Reviews": 3,
+          "Date": "2023-08-01T15:16:11.000Z",
+          "Titre": "Good but...",
+          "Contenu": "I've been using Sendwol for a week and everything works perfectly. It's just what I was looking for, some simple platform to sell my courses online.But the support is pretty bad. I've been emailing Paul for three days on a major VAT issue and all he does is answer my questions with totally generic answers.I have to insist and insist to get nowhere...When a platform is technically good, but the support isn't, it's a shame, because it could be perfect, but it's not.(I edit this review and increase the rating from 2 to 4 stars. Support has improved. I am satisfied with the platform)"
+        },
+        {
+          "Note": 4,
+          "Lieu": "BE",
+          "Pseudo": "Kris",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-20T08:43:03.000Z",
+          "Titre": "Works great",
+          "Contenu": "Works great so far, did never have to interfere in the process.  All emails are going out automatically.  A minor point of improvement would be to send emails a little faster.  Now it takes on average 10 to 15 mins before the mail is going out."
+        },
+        {
+          "Note": 4,
+          "Lieu": "DE",
+          "Pseudo": "cashbote",
+          "Nb_Reviews": 7,
+          "Date": "2023-06-08T11:04:07.000Z",
+          "Titre": "I would be happy if you paste the german\u2026",
+          "Contenu": "I would be happy if you paste the german language into your program."
+        },
+        {
+          "Note": 4,
+          "Lieu": "NL",
+          "Pseudo": "J. Keijzer",
+          "Nb_Reviews": 10,
+          "Date": "2022-03-22T06:27:39.000Z",
+          "Titre": "Great for digital products",
+          "Contenu": "SendOwl meets my needs as a merchant of digital goods and services for over 3 years now. Great support staff, recently they even updated some things in the looks department that make it feel more fresh and up to date. For the future:The only thing I really miss 'out of the box' is an option to embed the form straight into the sales page for my website. Now it opens in a popup or takes the viewer to a new page."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Kate",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-16T00:21:38.000Z",
+          "Titre": "I've been using Sendowl for 10 years\u2026",
+          "Contenu": "I've been using Sendowl for 10 years and I love it. It's simple, effective, affordable and a joy to use, even if you're not a techy person. It integrates well with my mailing list service and it makes my bookeeping a breeze. I highly recommend it."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Julie Chavanu",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-18T20:37:40.000Z",
+          "Titre": "Love the simplicity and easy\u2026",
+          "Contenu": "Love the simplicity and easy functionality. Low learning curve, and it works!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Act Now Partners",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-07T07:35:20.000Z",
+          "Titre": "I have been using SendOwl so long",
+          "Contenu": "I have been using SendOwl so long, that I was using it before it was called SendOwl, and that has been so long that I can't even remember the old name :)"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Cher Holton",
+          "Nb_Reviews": 3,
+          "Date": "2023-07-04T16:37:07.000Z",
+          "Titre": "SendOwl is fabulous!",
+          "Contenu": "SendOwl is effective, easy, and cost effective! I had been using a very expensive shopping cart, and began searching for an alternative. When I discovered SendOwl, I could not believe how easy it was to learn to use. It offers all the things I need: digital and physical goods; membership options; coupons; ease! I have been using it for a couple of years now, and can't be happier. I highly recommend it!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Dan Tohatan",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-26T20:21:50.000Z",
+          "Titre": "SendOwl enables our business to sell\u2026",
+          "Contenu": "SendOwl enables our business to sell online digital products quickly, with minimal setup effort, and reasonable price. We are happy to have the file hosting feature which enables secure file storage of large files. Payment processing is also easy to setup and a variety of options are offered."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jan Ozer",
+          "Nb_Reviews": 5,
+          "Date": "2023-03-17T14:43:18.000Z",
+          "Titre": "SendOwl is incredibly affordable, easy to use, and functional",
+          "Contenu": "SendOwl is incredibly affordable, easy to use, and provides the necessary functions for my application, which is selling PDF books with the buyer's email stamped on each page to reduce piracy. That's all I've used the service for. I've used SendOwl since 12/2016 and have never had a customer complaint about the service. That includes about 500 individual sales."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Carly Campbell",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-02T03:14:09.000Z",
+          "Titre": "Sendowl is SO easy to use and the price\u2026",
+          "Contenu": "Sendowl is SO easy to use and the price is excellent. The one major draw back that I cant overcome is when people who have purchased my subscription product cancel their paid subscription, it unsubscribes them from my mailing list. Other than that, I love sendowl!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "DE",
+          "Pseudo": "Regina Meissner",
+          "Nb_Reviews": 2,
+          "Date": "2020-01-02T15:17:38.000Z",
+          "Titre": "Best Buy-Button solution",
+          "Contenu": "I started researching several years for a nice and easy version to sell online without the hassle.Sendowl is perfect for the european market. GDPR compliant and easy to use for physical goods and downloads.If you combine it with membership platforms like membermouse, you can!Support is quick and friendly. :)Can\u2018t understand the other reviews. Maybe used not correctly.I can only give 5 stars so far."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Nymah Healing",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-25T12:16:30.000Z",
+          "Titre": "Simply brilliant",
+          "Contenu": "Simply brilliant. Easy to use and a great way to deliver digital products to customers. Very professional looking delivery. Great support if you have questions. Even a free plan to help get you started. I love you get the same email your customers recieve so that you can see their experience too."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Brandon Craft",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-26T15:20:29.000Z",
+          "Titre": "I should have switched sooner!",
+          "Contenu": "I've just switched to SendOwl after nearly 4 years of using Selz. It's been the best move I have made regarding selling digital content. I really like how I can customize every detail of the buying process for the customer... the upsells... and not to mention the fantastic customer support."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Karen Hull",
+          "Nb_Reviews": 2,
+          "Date": "2023-06-20T09:20:37.000Z",
+          "Titre": "Extremely Happy Customer",
+          "Contenu": "I have been using Sendowl now for almost a decade and can't speak highly enough of this organisation. SendOwl has made selling digital products a seamless process and the customer support provided any time I have had to seek assistance has been prompt and helpful. Would definitely recommend."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Pink Ribbon Runner",
+          "Nb_Reviews": 2,
+          "Date": "2023-02-01T20:24:07.000Z",
+          "Titre": "SendOwl is simple and effective",
+          "Contenu": "SendOwl is a cost-effective, simple payment platform that works reliably.  It\u2019s been a pleasure to work with their support team.  They\u2019ve always been quick to respond when help was needed, although there have only been a couple of times I needed help, as the platform is very easy to use.  Highly recommended."
+        },
+        {
+          "Note": 5,
+          "Lieu": "DE",
+          "Pseudo": "Jan Lingen",
+          "Nb_Reviews": 2,
+          "Date": "2022-05-26T07:16:36.000Z",
+          "Titre": "Reliable for years, since day one, excellent support",
+          "Contenu": "I have been using SendOwl for aroung 5 years now and they have never let me down. It is a super simple solution for people selling digital goods.For me it works seemless and whenever I reach out for support, I receive quite fast and helpful answers. I don\u00b4t know what to ask more for.Also read the negative reviews here.... it is quite obvious that most of them have nothing to do with SendOwl per se."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Wendy Wallace",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-12T13:32:50.000Z",
+          "Titre": "I love Sendowl",
+          "Contenu": "I love Sendowl! They're easy to use, the checkout cart is visually appealing, and adding my affiliate program was simple. I love that they offer just the right options that this merchant needs at prices I can afford. I recommend them every chance I get."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Carrie L. Lewis",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-27T19:04:09.000Z",
+          "Titre": "I am new to SendOwl and it's unlike the\u2026",
+          "Contenu": "I am new to SendOwl and it's unlike the other digital product delivery systems I've used, so there has been quite a significant learning curve and a lot of questions.The ability to ask questions by email and have them answered (usually within 24 hours) was a great benefit to me. The people with whom I corresponded were courteous and patient throughout the process and I received excellent suggestions for every question I asked.Thank you to everyone at SendOwl!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Erin Mooney",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-16T17:37:00.000Z",
+          "Titre": "Great platform to sell digital products",
+          "Contenu": "I use SendOwl to sell my digital products and have been doing so for a few years. I was previously using Gumroad, which is also a good service. But at the time I switched, it was a bit cheaper for me to sell through SendOwl and they offered more features than Gumroad. I find their customer service very responsive too, which I appreciate."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Helen Cronin",
+          "Nb_Reviews": 5,
+          "Date": "2022-04-26T12:17:20.830Z",
+          "Titre": "I have used SendOwl for 4+ years and\u2026",
+          "Contenu": "I have used SendOwl for 4+ years and have been very pleased with their efficient system of delivery. I chose them because they offer ID stamping on the PDF's that I sell. Their Knowledge base is awesome and extensive."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Lois Stallings,President,",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-02T22:10:20.000Z",
+          "Titre": "Richard Marsigliano has been dead for\u2026",
+          "Contenu": "Richard Marsigliano has been dead for two years!  His death certificate has a copy sent to GoDaddy and that name should e removed until we get a new web master."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IT",
+          "Pseudo": "Developer",
+          "Nb_Reviews": 10,
+          "Date": "2019-05-07T11:08:53.000Z",
+          "Titre": "I've been using it for 3 years",
+          "Contenu": "I've been using it for 3 years now and I had a very good experience. They answer to every support request, even though they didn't added the features I was suggesting but still, support came back with a reasonable explanation. The platform works pretty well and it's cheaper then other."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "brett fox",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-14T03:55:34.000Z",
+          "Titre": "SendOwl has been simple to use and easy\u2026",
+          "Contenu": "SendOwl has been simple to use and easy to set up.  I like the emails I get when a client signs up, and I like get notifications when a payment fails."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Sam",
+          "Nb_Reviews": 2,
+          "Date": "2023-06-09T13:12:55.000Z",
+          "Titre": "I've been with SendOwl for years now",
+          "Contenu": "I've been with SendOwl for years now. Paul has been great at answering my questions and my eBooks are secure to minimize piracy."
+        },
+        {
+          "Note": 5,
+          "Lieu": "DE",
+          "Pseudo": "Martin G.",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-25T09:28:41.000Z",
+          "Titre": "An all-round package for digital sales",
+          "Contenu": "To me, SendOwl is a robust and versatile platform for anyone looking to sell digital products. With a suite of features covering the entire sales process, from product placement to customer service, SendOwl offers an all-in-one solution for digital sellers. Overall, SendOwl has provided me with a comprehensive solution for selling digital products for years and deserves a high recommendation."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "Marta",
+          "Nb_Reviews": 1,
+          "Date": "2022-02-28T22:26:35.000Z",
+          "Titre": "Easy and efficient",
+          "Contenu": "I have been using it for over 2 years to sell my ebooks and so far I\u2019m really happy with the service. The process has been intuitive and easy and my customers have received the product with no problems. I\u2019d recommend it! Regards from Spain."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Nadalie Bardo",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-10T16:07:49.000Z",
+          "Titre": "When I first started my online business\u2026",
+          "Contenu": "When I first started my online business and I had no idea how to sell my digital products, SendOwl was the only choice. Within a few minutes, I was able to be up and running. Plus, if I ever had any trouble support was only an email away."
+        },
+        {
+          "Note": 5,
+          "Lieu": "DE",
+          "Pseudo": "Lars",
+          "Nb_Reviews": 3,
+          "Date": "2022-11-30T14:31:47.000Z",
+          "Titre": "Reliable tool and great customer support",
+          "Contenu": "We've been using Sendowl for years to sell our digital products and everything has been great. Pricing is fair and their support goes out of their way to help!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Crooklyn Clan Vault",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-10T21:36:44.000Z",
+          "Titre": "Very easy",
+          "Contenu": "Very easy, they don't rob you like so many other companies offering similar services.  I highly suggest them."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "N.S.",
+          "Nb_Reviews": 2,
+          "Date": "2023-02-24T00:31:38.000Z",
+          "Titre": "Great value for the price",
+          "Contenu": "Affordable and user-friendly product, great value for the price, helpful customer service! I've been a happy customer for many years."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kim",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-18T03:38:53.000Z",
+          "Titre": "I've just started using SendOwl and\u2026",
+          "Contenu": "I've just started using SendOwl and it's very easy to set up, and very easy for my customers to order and download from. I highly recommend it!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "The Hybrid Athlete",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-29T18:44:20.000Z",
+          "Titre": "Great for Automation",
+          "Contenu": "Great product assisting greatly in automating my products!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "FR",
+          "Pseudo": "Yanis Chaplain",
+          "Nb_Reviews": 4,
+          "Date": "2023-06-23T00:12:13.000Z",
+          "Titre": "Excellent Platform for Digital Product Distribution - Highly Recommended!",
+          "Contenu": "I recently had the pleasure of using Sendowl for distributing my digital products, and I must say it has been an outstanding experience from start to finish. I would like to share my positive feedback and recommend this platform to anyone in need of a reliable solution for selling digital goods."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Literature and History Guy",
+          "Nb_Reviews": 1,
+          "Date": "2022-03-10T00:03:49.000Z",
+          "Titre": "I've been using SendOwl for five years and it's great.",
+          "Contenu": "I've been using SendOwl since 2017 to sell MP3s for my podcast, Literature and History (literatureandhistory.com). I'm puzzled by all of these bad reviews, because as a merchant, the service has been totally flawless. It's easy to use, reasonably priced, and I sell a lot of GB of products every month there.I'm afraid that some of these angry reviews are due to purchasers who are blaming the service (SendOwl) for negligent content providers (like musicians or podcasters) who aren't replying to emails, or configuring the file distribution service correctly for their own customer bases. SendOwl is just a file distribution service, and in my experience, it works perfectly. Once in a while you'll get a customer who's not very computer literate and doesn't know how to download files, or move them into different file folders, but good grief, that's not the distribution service's fault, and SendOwl makes it INCREDIBLY easy to issue refunds, give discount codes, and otherwise help these folks out.So, as a merchant with literally thousands of satisfied customers who have used this simple service, it's outstanding. Again, go to my website (above) and you can see how I have Bonus Content set up for sale - SendOwl is great!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "AD",
+          "Pseudo": "Helena Galovan",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-28T15:27:10.000Z",
+          "Titre": "Extremely helpful customer service",
+          "Contenu": "Very user-friendly product and extremely helpful customer service! I've been a happy customer for many years."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ann Vanture",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-14T05:29:09.000Z",
+          "Titre": "So easy and intuitive to use",
+          "Contenu": "So easy and intuitive to use. Pricing is very competitive."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CL",
+          "Pseudo": "Carolina Livio",
+          "Nb_Reviews": 4,
+          "Date": "2023-05-25T04:27:08.000Z",
+          "Titre": "Great service",
+          "Contenu": "Great service, easy to use and understand, never had any problems. Thank you!!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Judy",
+          "Nb_Reviews": 4,
+          "Date": "2023-04-25T04:02:02.000Z",
+          "Titre": "No recent issue",
+          "Contenu": "No recent issue. Just ongoing appreciation of how convenient the platform works for looking up products and records. Also appreciate the reports."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "Marc Frau",
+          "Nb_Reviews": 4,
+          "Date": "2022-03-15T08:55:58.000Z",
+          "Titre": "My experience with Sendowl is perfect",
+          "Contenu": "My experience with Sendowl is perfect. I've been using it for years, and 0 problems :)"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Sean Silverman",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-16T03:35:16.000Z",
+          "Titre": "Been using this service for years to\u2026",
+          "Contenu": "Been using this service for years to sell my books. Excellent."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Renee Spears",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-02T15:44:34.000Z",
+          "Titre": "Easy to use",
+          "Contenu": "Easy to use! Dependable!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Michael",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-14T04:13:19.000Z",
+          "Titre": "Been using SendOwl for years",
+          "Contenu": "Been using SendOwl for years. Absolutely love it"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "D. Moore",
+          "Nb_Reviews": 27,
+          "Date": "2023-03-25T11:04:31.000Z",
+          "Titre": "The Owl sits in the background and I pocket the cash!",
+          "Contenu": "The Owl just sits in the background, working away for me, and sends me the profits!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "agustin grau",
+          "Nb_Reviews": 1,
+          "Date": "2022-06-15T15:14:16.000Z",
+          "Titre": "Great and marvellous",
+          "Contenu": "Great and marvellous. I'll always use it because I love it."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Cathy Anderson",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-15T15:04:45.000Z",
+          "Titre": "Its just easy",
+          "Contenu": "Its just easy. After trying multiple cart options. This one just works."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "N. E.",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-11T21:33:51.000Z",
+          "Titre": "Easy to use",
+          "Contenu": "Easy to use, great customer service and very affordable!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Terressa Pierce",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-10T03:32:17.000Z",
+          "Titre": "SendOwl is Great!",
+          "Contenu": "I've been using SendOwl for many years and I love them!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "John Beekers",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-17T08:27:41.000Z",
+          "Titre": "Great service",
+          "Contenu": "Great service, been using it for years."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "Jaume Josa Fen\u00e9s",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-13T09:42:07.000Z",
+          "Titre": "It's easy and perfect for our business"
+        },
+        {
+          "Note": 5,
+          "Lieu": "MA",
+          "Pseudo": "Mohamed Nobaa",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-20T18:50:06.000Z",
+          "Titre": "my favourite partner"
+        },
+        {
+          "Note": 5,
+          "Lieu": "EC",
+          "Pseudo": "Stanley Grist",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-29T12:47:41.000Z",
+          "Titre": "Fast",
+          "Contenu": "Fast, clean & simple!"
+        }
+      ]
+    }
+  ]
+}

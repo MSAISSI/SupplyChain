@@ -41,6 +41,7 @@ Cette base de données 'supply_chain' est consomée par la suite par notre API p
 
    3 - Pour requêter l'API (http://localhost:8000/docs)
    <img width="1027" alt="image" src="https://github.com/MSAISSI/SupplyChain/assets/56922928/0342419a-f6c3-4b44-a5d6-4a8bd734ec18">
+   
    	- Pour récupérer par exemple le nombre d'avis par entreprise, aller chercher le lien de l'entreprise dans la table SQL 'analyse_sentiment' et le remplir dans le champs suivant : 
     <img width="1010" alt="image" src="https://github.com/MSAISSI/SupplyChain/assets/56922928/154f1f23-f1a7-4e8e-a7dd-e3c58372e5d1">
 

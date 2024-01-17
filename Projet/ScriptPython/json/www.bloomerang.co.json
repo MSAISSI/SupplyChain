@@ -1,0 +1,1332 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "www.bloomerang.co",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Nicole Hansen",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-09T20:10:10.000Z",
+          "Titre": "The overall CRM issue and lack of\u2026",
+          "Contenu": "The overall CRM issue and lack of access is concerning."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Robert H. Y",
+          "Nb_Reviews": 3,
+          "Date": "2022-11-03T20:18:12.000Z",
+          "Titre": "Unresolved Issue with Bounced Emails to Sprectrum Recipients",
+          "Contenu": "Our organization has encourted an issue with bounced Emails sent to recipients on the Spectrum platform. This issue has been ongoing for at least 6 weeks.  It remains unresolved despite numerous calls to the Support Team.Other than dealing with this issue, the Support Team is very responsive and helpful."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "An unhappy customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-05T15:28:29.000Z",
+          "Titre": "Allow ACH donations through Stripe",
+          "Contenu": "Bloomerang is a great product, but they are attempting to create a monopoly for their own payment processor by forcing you to use their own payment processor, rather than Stripe if you want to accept e-check / ACH donations.  Bloomerang has deliberately written the code not to support ACH giving, if you use Stripe, and all it would take is one change to their code, that they won't do, because they are trying to force use of their own payment processor.Here's a message I received from Stripe, when attempting to enable ACH payments in Stripe.  It appears that if the Bloomerang code used \"automatic_payment_methods\" (as suggested by the error message below in Stripe) then I wouldn't have to completely change payment processors to Bloomerang Payments, which impacts saved recurring giving, accounting, stored credit cards, and donor satisfaction.Stripe Error Message:We've detected that you are using payment_method_types to configure payment methods. To manage payment methods from this page, replace payment_method_types with automatic_payment_methods."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Andrey Gidaspov",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-13T20:24:20.000Z",
+          "Titre": "Did not have an immediate response from\u2026",
+          "Contenu": "Did not have an immediate response from virtual chat."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Jan Wilson",
+          "Nb_Reviews": 1,
+          "Date": "2020-12-08T16:41:27.000Z",
+          "Titre": "Bloomerang Feedback",
+          "Contenu": "While the system itself is fairly easy to use by comparison to others, it lacks the tools to respond to current trends in creating donor forms as well as file segmentation for AB testing. Also, unlike other platforms at similar price points, it does not include a tools for auction, event, and P2P campaigns."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Lori Artz",
+          "Nb_Reviews": 1,
+          "Date": "2020-01-09T13:15:26.000Z",
+          "Titre": "There are a few features that would be\u2026",
+          "Contenu": "There are a few features that would be nice to have."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "SAFE-Africa/Gogo Grandmothers",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-15T02:10:29.000Z",
+          "Titre": "Software Inexperienced Small Nonprofit\u2026",
+          "Contenu": "We are a small nonprofit and our staff is older; not very computer literate. We chose Bloomerang because our research told us it was easier to use than other CRM and that a small organization would fit and be welcomed. Nonetheless, it has taken us a year or more to be able to understand and use this software in meaningful ways. BUT... now we simply couldn't do without it! Between the financial reorganization, constituent database, and ever patient \"Bloomerang Support Team,\" we have \"refashioned\" ourselves! Our purchase of \"Live Support\" has been worth every penny! We don't hesitate to recommend Bloomerang to anyone looking for a good CRM."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Teena",
+          "Nb_Reviews": 3,
+          "Date": "2023-12-12T20:00:46.000Z",
+          "Titre": "I love the customer support and that\u2026",
+          "Contenu": "I love the customer support and that the program seems to change once in a while and it's always adding new features that are beneficial to my organization."
+        },
+        {
+          "Note": 4,
+          "Lieu": "BM",
+          "Pseudo": "Lauren Simons",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-21T15:08:43.000Z",
+          "Titre": "As a donor database Bloomerang is easy\u2026",
+          "Contenu": "As a donor database Bloomerang is easy to use. We were told Bloomerang could do memberships, however I had to create custom fields to be able to maintain my membership customers. As it does not have any back end working for these custom fields for rolling forward data, all membership data changes must be entered / changed be hand.  If you are buying Bloomerang to replace a membership database, keep this in mind."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Kirsten Heder",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-09T19:42:22.000Z",
+          "Titre": "A pleasure to work with",
+          "Contenu": "One of the best customer service teams I've dealt with. They consistently improve their services with thoughtful  updates. I do wish their online giving form was better - it would help small nonprofits not to have to pay for an additional program in order to have an online giving form that meets fundraising needs. But overall, we've been pleased with Bloomerang since summer of 2020!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Jason Holt",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-09T15:43:29.000Z",
+          "Titre": "Next level",
+          "Contenu": "The overall operation of Bloomerang has been amazing. It has transformed our organization completely.  We are able to care and connect with our Partners better than ever! The only reason I did not give it 5 stars is the follow up support is lacking...."
+        },
+        {
+          "Note": 4,
+          "Lieu": "ZM",
+          "Pseudo": "James E",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-12T00:23:20.000Z",
+          "Titre": "There are so many different features\u2026",
+          "Contenu": "There are so many different features that make Bloomerang great. Such as the way you can see graphics of your monthly donations, the ease of the letters, the goals for campaigns on the dashboard, how easy it is to see what each person has donated, and many more.I gave 4 stars because the converting process was not simple. Long and hard."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Naomi W.",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-11T18:17:58.000Z",
+          "Titre": "Always Improving",
+          "Contenu": "I appreciate that Bloomerang is always striving to improve. They come out with updates frequently and utilize consumer feedback to make those improvements. There are still some features that I think could be helpful and I am hoping that they will be added to Bloomerang soon."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Libby Lafferty",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-12T21:50:52.000Z",
+          "Titre": "Your support is next to none",
+          "Contenu": "Your support is next to none.  Unfortunately I was in on choosing a database for our school, so I didn't get any advanced training.  I hit the ground running and when I fell, support picked me up and got me going again.  I am very grateful!!!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Michele Emge",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-11T23:31:53.000Z",
+          "Titre": "Love the ease of updating donor\u2026",
+          "Contenu": "Love the ease of updating donor accounts. Like the ability to create letters/emails with donor data for end of year statements, but the process of filtering is somewhat complicated. Glad there are articles and videos to help."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Lori",
+          "Nb_Reviews": 3,
+          "Date": "2022-09-26T23:08:38.000Z",
+          "Titre": "We are a new non-profit organization\u2026",
+          "Contenu": "We are a new non-profit organization and once we had a constituents in our account, we realized we had needed this sooner.   We use the email templates and make reports and learning more about what all we can do in Bloomerang every day.  The dashboard is great and easy to see what is given each day."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Susan Justice",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-16T21:04:27.000Z",
+          "Titre": "Running a small non-profit with Bloomerang",
+          "Contenu": "Bloomerang has made it possible for me, as a volunteer director of a very small non-profit, to efficiently run the day to day business of fundraising and communication.  They have great educational articles and resources.  The platform allows me to keep track of my donor database, receive and track donations through integrations, and plan events.  I send out email communications including newsletters and acknowledgements.That said, there are some kinks.  The billing portal is not up to date with our current info, and I cannot get it changed.  Phone support is an extra cost.  But I have found the email chat to be sufficient most of the time.  Some other platforms and upgrades (read more money) within Bloomerang offer better user interfaces for donors, but I like the cost (read less money) for the basics."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Development Director in SC",
+          "Nb_Reviews": 1,
+          "Date": "2020-02-09T00:38:38.000Z",
+          "Titre": "Great current software and still growing potential",
+          "Contenu": "Bloomerang has been a great tool for so much of what we need for supporter management. While there are areas that lack the robust tracking provided for donors, such as volunteer and event management features, they are constantly working on upgrades and building in new value and tools with their system. Would highly recommend."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Laurie McIntosh",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-04T16:45:50.000Z",
+          "Titre": "Most features work well, email design not so much",
+          "Contenu": "Most of Bloomerang is great and intuitive. I love the customer support. I find the design features of the email program to be hard to learn and not so intuitive. For instance, just to enlarge a photo, you have to click on \"apply effects and more.\" It would be much better if you could just click and drag the corner of the photo like most other programs allow you to do."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Kate Vinciquerra",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-06T17:59:38.000Z",
+          "Titre": "Flexible",
+          "Contenu": "Flexible, responsiveCould use some basic fundraising needs, such as using a custom report that you have built as a template for the next one. better grant tracking would be nice."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Jennifer Breneman",
+          "Nb_Reviews": 1,
+          "Date": "2020-10-06T19:49:22.000Z",
+          "Titre": "Happy with Bloomerang",
+          "Contenu": "We changed from Blackbaud's eTapestry to Bloomerang a year ago and it was a great decision! They are very responsive when we have questions or problems and it is very user friendly. They are adding new features often and it is pretty flexible as far as getting information I need.  We've had a couple of bumps integrating with our website on occasion - the grey area between our website provider and Bloomerang means there's a bit of a no-man's land but we've been able to get things working! Overall we are very happy and would choose Bloomerang again!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Layla A",
+          "Nb_Reviews": 1,
+          "Date": "2020-11-10T17:46:53.000Z",
+          "Titre": "Great Overall",
+          "Contenu": "Overall, great service. However, It would be so much easier if it were possible to edit individual letters in a batch or at least have the ability download letters to word for editing/moving to a letterhead template, but it only give you the option to download to pdf. So kind of a hassle."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Sara Marshall",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-15T18:00:20.000Z",
+          "Titre": "Positive First Year",
+          "Contenu": "I've really enjoyed our first year with Bloomerang and the support that is afforded to us. The trainings I have attended are excellent and when needed, the staff is responsive and helpful. I wished there had been maybe a bit more training at the very beginning to help me understand all that Bloomerang can do to help out a small nonprofit like ours because I think we could have better leveraged all the resources in a better way rather than migrating information over a year into our work."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "docjsf",
+          "Nb_Reviews": 1,
+          "Date": "2020-10-06T19:53:38.000Z",
+          "Titre": "Knowing feedback and suggestions are heard",
+          "Contenu": "So, i love the on-line support.  But, the ability to make suggestions regarding changes to the software or services provided seems to be like talking in an empty room.  So here, some things that would be great.  Is there some way that the software can harvest the facebook/linked in/twitter/website into and fill the blanks instead of me having to hunt it down?  also, and maybe this exists, is there a way to \"archive\" older fund/campaign/appeals, so when i am entering something for golf 2020, i don't have to scroll through 3 or more years of other campaigns/funds/appeals before i find it.  i still want to be able to potentially run a report which includes participation in something that happened 4 years ago, but i don't need to see it every time i enter a new transaction."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Joe Rushlau",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-23T16:53:01.000Z",
+          "Titre": "The online chat/help function is\u2026",
+          "Contenu": "The online chat/help function is fantastic.  I always get fast and accurate help.  I would really like bloomerang to develop the functionality to complete a zip code radius check.  This would help tremendously when we are building mailing lists for different events."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Megan Byler",
+          "Nb_Reviews": 1,
+          "Date": "2020-01-28T20:50:24.000Z",
+          "Titre": "A great first year working with Bloomerang!",
+          "Contenu": "I think that Bloomerang is great and the free webinars are super helpful! I would have given the rating a 5, however, I believe the search bar could be more intuitive and inclusive. Otherwise, I think Bloomerang is doing an outstanding job! I only began working with Bloomerang one year ago and I think that it is a very user friendly and customer friendly database. I look forward to continuing to learn and grow with Bloomerang!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Megan Barnhart",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-12T21:10:07.000Z",
+          "Titre": "I would love a better main donation\u2026",
+          "Contenu": "I would love a better main donation page and fundraising platform. Kindful is limited for events but has a great donation page."
+        },
+        {
+          "Note": 4,
+          "Lieu": "IL",
+          "Pseudo": "Rivka Schloss",
+          "Nb_Reviews": 1,
+          "Date": "2020-09-03T05:46:55.000Z",
+          "Titre": "Bloomerang is improving very good",
+          "Contenu": "Bloomerang is improving very good, but there are still discrepancies, like bad email address, what is not a bad email address.Also reports of the gift total it is not excluding payments.Hope to see this in the future."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Mardee Woodward",
+          "Nb_Reviews": 1,
+          "Date": "2020-11-03T14:12:32.000Z",
+          "Titre": "I love Bloomerang just have a wish list for a couple of add ons",
+          "Contenu": "I love Bloomerang, I would give it a five if it could be comprehensive and include platforms like auctions and peer to peer fundraising add ons that interface with Bloomerang.  That's on my wish list.  Thank you."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Scott Wolf",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-26T21:46:51.000Z",
+          "Titre": "Overall a very good product",
+          "Contenu": "Overall a very good product. Would like the ability to print letters directly from Bloomerang to the printer. Currently need to hack it with a download to a PDF, then printer whicj is cumbersome."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Ann Olson",
+          "Nb_Reviews": 1,
+          "Date": "2020-02-03T21:52:04.000Z",
+          "Titre": "I thing this is a great CRM",
+          "Contenu": "I thing this is a great CRM, however there are a few improvements that would be very helpful, like:  fund accounting capabilities, greater detail in connection with quickbooks.I do love the feature of being connected to NCOA service where we get updated address constantly....love that."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Julia F.",
+          "Nb_Reviews": 1,
+          "Date": "2020-02-03T21:44:01.000Z",
+          "Titre": "I truly love this database",
+          "Contenu": "I truly love this database. The only reason why I gave 4 stars instead of 5 is because I would really like to see the MailChimp integration materialize as well as have the option of different access/viewing levels for development staff. I run a library foundation and would like to find a way to bring the connected friends groups under my wings so that they can each see and manipulate their donor records but not necessarily the ones of other groups."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Abbey Weber",
+          "Nb_Reviews": 2,
+          "Date": "2020-12-08T16:02:05.000Z",
+          "Titre": "Bloomerang is a great tool for us",
+          "Contenu": "I love Bloomerang - the customer service is great! There are a few things I would improve upon, but mostly Bloomerang does exactly what we need for a good price."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "kstolar",
+          "Nb_Reviews": 1,
+          "Date": "2020-12-03T13:57:00.000Z",
+          "Titre": "The platform is easy to use",
+          "Contenu": "The platform is easy to use and the tech support is excellent. I do, however, find some difficulty with the steps when running reports as it is not always intuitive and usually requires an online chat with tech support if you're not familiar with running reports on a consistent basis.Otherwise, Bloomerang provides us everything we need for our donor management system."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Victoria Musser",
+          "Nb_Reviews": 1,
+          "Date": "2020-01-14T16:16:19.000Z",
+          "Titre": "They are great and very helpful when\u2026",
+          "Contenu": "They are great and very helpful when you have a question. I wish they would add a few features but overall a great service for nonprofits and i highly recommend them anyone!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Suzanne",
+          "Nb_Reviews": 1,
+          "Date": "2020-10-13T20:02:46.000Z",
+          "Titre": "I'm impressed with the new feature\u2026",
+          "Contenu": "I'm pleased with the new feature to assign a letter to the donor when entering the gift. I find it helpful and a time saver. I'll be glad when there is a function that allows you to enter multiple gifts in a batch."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Elisa Hopper",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-14T00:38:47.000Z",
+          "Titre": "Bloomerang is a powerful tool",
+          "Contenu": "Bloomerang is a powerful tool, and very user-friendly. Recent function/services expansions are helpful and useful."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Beth Stutler",
+          "Nb_Reviews": 1,
+          "Date": "2020-12-03T16:57:27.000Z",
+          "Titre": "Great product",
+          "Contenu": "Great product, I cant give an excellent rating because I am still learning Bloomerang.  Easy product so far to work with"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Marco Island Center for the Arts",
+          "Nb_Reviews": 2,
+          "Date": "2020-11-02T20:50:32.000Z",
+          "Titre": "Great cusomter service and easy to use",
+          "Contenu": "Great cusomter service and easy to use.  One porblem is that you need to be able to aplhoabetize when you print mailing.  That was our only real challenge so far."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Bill Hanawalt",
+          "Nb_Reviews": 1,
+          "Date": "2020-01-09T15:15:47.000Z",
+          "Titre": "Bloomerang Strengths & Challenges",
+          "Contenu": "I think Bloomerang's strengths are customer support and an intuitive platform. The training videos are also helpful.Areas to improve are integration with external communication platforms like Constant Contact, etc. The internal email / newsletter system has limited ability graphically and seems to be sent to junk mail at a higher rate than many of the external communication platforms."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Angela Joyce",
+          "Nb_Reviews": 1,
+          "Date": "2020-01-08T22:24:31.000Z",
+          "Titre": "Great customer service and super\u2026",
+          "Contenu": "Great customer service and super user-friendly platform. Would give 5 stars if the donation page was a BIT more sophisticated and had more capabilities. :)"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Vickie Walther",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-13T04:52:14.000Z",
+          "Titre": "Reasonably functional for a small shop.",
+          "Contenu": "Reasonably functional.  Hoped it would be a little more customizable."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Paige Heagle",
+          "Nb_Reviews": 1,
+          "Date": "2020-01-15T22:27:47.000Z",
+          "Titre": "Bloomerang is a great CRM",
+          "Contenu": "Bloomerang is a great CRM. Would definitely recommend for individual donor-centric focused development offices. Wish they had more features for events."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Patrick Belcher",
+          "Nb_Reviews": 1,
+          "Date": "2020-01-08T22:01:09.000Z",
+          "Titre": "Would like added built in features like\u2026",
+          "Contenu": "Would like added built in features like free events and peer to peer"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Martha Moore",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-03T18:25:11.000Z",
+          "Titre": "Meet or Exceed Expectations",
+          "Contenu": "All aspects of Bloomerang meet or exceed my needs and expectations and customer service is excellent."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Barbara Mazzeo",
+          "Nb_Reviews": 2,
+          "Date": "2020-12-07T23:57:01.000Z",
+          "Titre": "Very efficient and professional client service",
+          "Contenu": "Very efficient and professional response to inquiries and suggestions for upgrades.  Need even greater manual manipulation of data extraction criteria."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Kelly Millington",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-16T15:47:27.000Z",
+          "Titre": "Easy to use on the front end."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Laura Terzigni",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-21T16:04:12.000Z",
+          "Titre": "Bloomerang's Customer Service is Top\u2026",
+          "Contenu": "Bloomerang's Customer Service is Top Notch! Their chat function is by far the most helpful support chat out there."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Steve Jones",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-12T21:01:53.000Z",
+          "Titre": "Bloomerang is easy to learn with\u2026",
+          "Contenu": "Bloomerang is easy to learn with fantastic chat and online support.  They provide a number of webinars to help you learn how to use the features of Bloomerang more effectively."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Leslie Lewis",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-14T21:16:39.000Z",
+          "Titre": "Bloomerang's Support Team is Outstanding",
+          "Contenu": "We are a small non-profit, but we are growing and needed the support of a CRM. After a lot of investigation we chose Bloomerang. One of the most helpful investments we made was to have Bloomerang Support. They have always been available to patiently teach and guide us as we learn how to operate in this \"new world\" for us. I aways get off the phone with Bloomerang Support feeling grateful!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Elizabeth Temple",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-21T20:38:54.000Z",
+          "Titre": "Very knowledgeable and patient\u2026",
+          "Contenu": "Very knowledgeable and patient tech/support staff.  Also extremely responsive.  I am not a digital native and so I am learning a lot from them.  I can't speak highly enough about the team.  Thank you."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Deborah Miller",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-19T22:38:08.000Z",
+          "Titre": "Bloomerang is an amazingly intuitive platform that is easy to use and robust enough to get the reporting needed.",
+          "Contenu": "Bloomerang is an amazing platform that allows me to truly develop my donor base.  The staff is incredibly responsive to any questions and any problems have been resolved quickly.  It's easy to maintain relationships with donors via email, letters, and/or phone calls.  I highly recommend Bloomerang to everyone I know who works with fundraising and/or donors."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Stephanie Sheler",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-13T20:25:51.000Z",
+          "Titre": "Bloomerang makes a positive difference!",
+          "Contenu": "We love Bloomerang. It has made so many things easier and more efficient for us. We also appreciate that you are always trying to improve Bloomerang and that you listen to feedback. Thank you!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Tiane",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-12T23:21:55.000Z",
+          "Titre": "Excellent Customer Service",
+          "Contenu": "We have been very happy with bloomerang. It has increased our donor engagement and donations. When we began with them in 2016, we had approximately 1500 donors. We now have over 8,000. And our donations have skyrocketed.But what we love the most is the customer service. They are always available to chat and help you walk through any question. We highly recommend this for any nonprofit, small or large."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Vickie",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-12T20:01:02.000Z",
+          "Titre": "Bloomerang is very user friendly",
+          "Contenu": "Bloomerang is very user friendly.  I honestly think you guys thought of everything. One of the easiest parts of my job is logging our donations into Bloomerang.  I love that it integrates with QuickBooks so easily.  Thank you!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Denise Hoyos",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-19T19:03:27.000Z",
+          "Titre": "Game Changer",
+          "Contenu": "Bloomerang has been an all-around game changer for us. It's gotten to where more features have been added than we have time to use. But the simple basics have proven to be very helpful in our work: emails, engagement and generosity scores, online giving forms, and communication with Quickbooks are the items we probably take the most advantage of. It's been super and is the right \"size\" for where we are as an organization."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Craig Jordan",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-08T16:22:42.000Z",
+          "Titre": "Really Happy with Bloomerang",
+          "Contenu": "We've used Bloomerang for a couple of years now.  It was really good when we first started...and it's just gotten better and better.  They keep increasing functionality and analytics, making my job easier by streamlining tasks I do daily and by giving me insights into our donor base.  When I have a question, there is always someone available to help me create or validate a report or explain why something works the way it does.  I simply couldn't be happier with the product."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Marigene Kettler",
+          "Nb_Reviews": 3,
+          "Date": "2023-05-16T19:45:56.000Z",
+          "Titre": "Customer success? Absolutely!",
+          "Contenu": "Bloomerang's customer success team is well named. Since I don't use our database every day, it is necessary for me to need some guidance when putting together a report, email or making changes to our settings. The team is always there to help and are very thorough with a fantastic follow up procedure complete with a recap. Problems are solved, and answers are swift."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Laura Bright",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-09T21:55:48.000Z",
+          "Titre": "Bloomerang - Full Service Moving Company and Amazing Customer Service",
+          "Contenu": "Everyone at Bloomerang has been incredibly helpful since we demo'ed the software to helping with any request throughout the week. The platform itself is very user friendly and I like that Bloomerang is open to client requests for new features to be added. I highly recommend working with them!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Charles Browne",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-13T20:11:15.000Z",
+          "Titre": "The online Bloomerang donor database is excellent",
+          "Contenu": "The online database is exactly what we need: easy to use, easy to learn, excellent tutorials on all the customizable features for reports and donations.  Bloomerang has always been very responsive to any questions.  We can produce reports, segment donors, send acknowledgment letters of several different types and much, much more.  The database is very interactive and customizable to our needs."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Travis Johnson",
+          "Nb_Reviews": 1,
+          "Date": "2020-02-07T16:10:42.000Z",
+          "Titre": "I like it a lot",
+          "Contenu": "Great platform, helpful chat features, and more.  Could use some modifications to basic things, but great overall and always improving.> It would be cool to have a way to change large groups of a type or transaction or grouping.  Say we wanted to fix a mistake made on a certain campaign category or donor group, it would be nice to change several at once rather than individually modifying each account or instance. :)"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "KS in New York",
+          "Nb_Reviews": 1,
+          "Date": "2020-09-08T18:23:45.000Z",
+          "Titre": "Faster Thank You Letters, Easy Clear Reports",
+          "Contenu": "Bloomerang really streamlined our processes. Before, we had tons of double- (and triple-) entry and now we have hugely reduced our time spent on recording donations while at the same time improving our turnaround time on thank yous and followups. The reporting tools are super easy to use and have helped us track virtual event details we didn't even know could be tracked. I can't recommend it enough!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "John Kennedy",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-12T21:28:04.000Z",
+          "Titre": "I find Boomerang to be very user\u2026",
+          "Contenu": "I find Boomerang to be very user friendly. Thanks"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Sally Jackson",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-18T20:26:02.000Z",
+          "Titre": "Bloomerang is Outstanding!",
+          "Contenu": "Bloomerang is Outstanding!The transition was painless and the customer support is excellent. It is well worth any additional fee to have the phone support. The Chat support works well for some things as well. Overall, the price is right for donor management. It is easy to use, and intuitive. At times the reports can get a little confusing - that is where customer support comes in...they walk you through it step by step, test it out with you on your own database, and help make it better.Highly recommend them!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Bonnie Joy",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-11T21:13:04.000Z",
+          "Titre": "Love it!",
+          "Contenu": "I have been using Bloomerang now for almost a year, and I\u2019m loving it!! The platform is user friendly, and brings so many platforms into one location. Customer support is always kind and helpful. Thanks for all you do!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dawn Hartman",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-20T20:21:28.000Z",
+          "Titre": "Bloomerang is the best",
+          "Contenu": "Bloomerang is a fantastic donor database. It has everything you could possible need to run a fundraising program. It's easy to learn, very user friendly. They have stellar tech support if you ever need help. They are always making improvements to their software. They have a great mobile app that makes it easy to document visits or interactions when you are out of the office. They also offer free educational webinars throughout the year on how to use specific aspects of the database and other fundraising topics of interest. I would recommend Bloomerang to anyone who is looking for a donor database."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ely Heard",
+          "Nb_Reviews": 1,
+          "Date": "2020-11-02T20:39:30.000Z",
+          "Titre": "I couldn't be happier with Bloomerang",
+          "Contenu": "I couldn't be happier with Bloomerang. I took a gigantic leap of faith and switched from Blackbaud's Raiser's Edge to Bloomerang. It was a very smooth transition and I haven't looked back. It makes my day-to-day data entry, reporting and communications much easier. My Head of School frequently completes tasks using the incredible email-task ability. Working on the go and at home is a breeze. All customer service representatives are fast, friendly and informed."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jeanne Patrican",
+          "Nb_Reviews": 2,
+          "Date": "2020-11-04T23:40:49.000Z",
+          "Titre": "One of the things that I like best\u2026",
+          "Contenu": "One of the things that I like best about Bloomerang is that the home page immediately shows you where you stand regarding your donations.  You know how much came in that day, that week, that month, and that year.  Plus it gives you your retention rate.  There's nothing like having that staring in your face to motivate you to pick up the phone and re-engage a lapsed donor.  Plus I like the whimsical design of the graphics - not something dreary like so many other programs."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Marigene Kettler",
+          "Nb_Reviews": 3,
+          "Date": "2020-12-08T16:05:51.000Z",
+          "Titre": "Phone support extraordinaire",
+          "Contenu": "I'm a new Bloomerang user, and have opted for phone support and wow, am I impressed! Every time I call, I'm paired quickly with a member of the team and given support with excellent, clear instructions and always with a smile across the phone waves. You're making the transition easier than I thought - thank you."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jessica Hale",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-18T20:13:08.000Z",
+          "Titre": "The customer service rep",
+          "Contenu": "The customer service rep, Dusty, was helpful with sending me videos that helped me to understand the setup better than simply talking about it. He also admitted when something would need more investigation than simply saying that something would or would not work without knowing for sure."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Michael Donaldson",
+          "Nb_Reviews": 1,
+          "Date": "2020-09-02T20:41:44.000Z",
+          "Titre": "Bloomerang has been a fantastic tool\u2026",
+          "Contenu": "Bloomerang has been a fantastic tool for our church. It is user friendly, and has provided the quick access to reports needed as we continue to promote our capital campaign. The staff at Bloomerang have always been kind, courteous, and helpful. We are grateful for all the work that has been put into making this outstanding platform."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Emily Spaulding",
+          "Nb_Reviews": 1,
+          "Date": "2020-09-03T15:50:52.000Z",
+          "Titre": "I've been using Bloomerang for the past\u2026",
+          "Contenu": "I've been using Bloomerang for the past 2+years to manage our donor database and I continue to be pleased with everything about it. Your customer service and tech support is fast, helpful and easy to follow. The new features that are being introduced are great and the Bloomerang academy classes are also super helpful. Two thumbs up!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Hailey Tiedemann",
+          "Nb_Reviews": 1,
+          "Date": "2020-12-03T15:41:31.000Z",
+          "Titre": "Love it!",
+          "Contenu": "For someone who has never worked with a donor database before, this one is incredibly intuitive! I appreciate how willing the chat/phone line is to help when I'm stuck and how seamless they make just about every function. They're always improving and it makes my life a thousand times easier."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rich Howard",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-03T19:39:51.000Z",
+          "Titre": "Very use friendly and intuitive",
+          "Contenu": "I absolutely love \"B-rang\" as I call it! It is my fundraising superpower!  I would work in a nonprofit without this donor database!However, I must tell you the report function is a bear! Simple, straight forward reports are no problem. But when your npo grows to a certain threshold, the filters become like a labyrinth. Please look at this function.  Even more templates (a lot more) would make it easier for us \"non IT\" folks!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Joanna C",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-04T17:24:55.000Z",
+          "Titre": "User-friendly and helpful",
+          "Contenu": "The platform is user-friendly and easy to navigate. Their client relations are AMAZING! It's almost impossible to make a mistake in the system that is unfixable. The availability of blogs, videos, and webinars makes it easy to learn on your own. However, when you do run into something you can't figure out their client support staff are friendly, informative, efficient, and seem to actually believe there are no stupid questions. I recommend Bloomerang to everyone working in small fundraising shops."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jane H",
+          "Nb_Reviews": 1,
+          "Date": "2020-10-13T20:22:30.000Z",
+          "Titre": "Bloomerang is Great!",
+          "Contenu": "Bloomerang has been a great company to work with. From the conversion process through setting up reports, emails and letters the platform has been very user friendly and their support staff has been outstanding on those occasions when extra help was needed. Definitely happy with our decision!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Larry Aubrey",
+          "Nb_Reviews": 2,
+          "Date": "2020-03-31T18:47:05.000Z",
+          "Titre": "The Bloomerang Team- One Step Ahead",
+          "Contenu": "The Bloomerang staff always so helpful, have been especially supportive during the last couple of weeks when our worlds turned up side down.  Not only are they accommodating and cheerful, but they have been proactive and one step ahead, anticipating the needs of not only their clients, but he fundraising world in general. Thanks so much."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Abbey Weber",
+          "Nb_Reviews": 2,
+          "Date": "2022-11-22T19:00:47.000Z",
+          "Titre": "The People Make the Difference",
+          "Contenu": "Knowledgeable, friendly, patient customer service. The chat feature is great. When I have any problems or questions, they are there to help. I haven't ever worked with another database, but I've found whatever questions or goals I have, they are able to work with me."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Victor Neil",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-07T19:19:08.000Z",
+          "Titre": "Very intuitive tool",
+          "Contenu": "Very intuitive tool.  Over the past 18-24 months there seems to be a lot of customer input that is being implemented in the tool. And I find their support team to be very good at answering any questions or showing me how to use the tool."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Sarah Istre",
+          "Nb_Reviews": 1,
+          "Date": "2020-10-06T19:44:23.000Z",
+          "Titre": "We have loved the tools in Bloomerang\u2026",
+          "Contenu": "We have loved the tools in Bloomerang to run detailed, customized reports and to track interactions with our donors! It has definitely helped us be more timely with our donor acknowledgements, and it has streamlined our donation entry process. We are also able to run powerful analytics on all the data in our system, giving better reports to our board, finding key donors to cultivate, and helping us grow!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rala L. Williams",
+          "Nb_Reviews": 1,
+          "Date": "2020-12-08T20:30:44.000Z",
+          "Titre": "Working with Bloomerang is great!",
+          "Contenu": "Working with Bloomerang is great! Their support staff is always friendly and professional. And if they don't know the answer to a question, they will work on it until they get one, rather than passing me on to other people and making me explain my problem all over again."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dorothy",
+          "Nb_Reviews": 2,
+          "Date": "2020-02-05T13:46:57.000Z",
+          "Titre": "Perfect.",
+          "Contenu": "Bloomerang is perfect for a small shop! perfect for those new to fund raising, perfect as a first-time CRM, just perfect. The database grows with the organization and in fact, helps the organization grow as users have the capacity to track donor information (not just financial information) that helps strengthen that relationship. Bloomerang support staff are...supportive! I sometimes experience lapses of memory ;-) and support staff responses are professional and timely. They stick with you til the end if you are like me and can't quite figure it out. I am always able to get what I need."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jenny D.",
+          "Nb_Reviews": 1,
+          "Date": "2020-09-03T00:48:27.000Z",
+          "Titre": "Highly recommend Bloomerang",
+          "Contenu": "Bloomerang is user-friendly, provides helpful tracking and reporting tools, and has great customer service. For a small development shop, it is a great tool that fits our needs and keeps us learning more and serving our clients/donors in better ways."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Allison",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-16T21:00:18.000Z",
+          "Titre": "Good platform for our smaller\u2026",
+          "Contenu": "Good platform for our smaller nonprofit. Greatly appreciate making the latest updates as they save time and are logical. Many good aspects of the software."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Stevi Price",
+          "Nb_Reviews": 1,
+          "Date": "2020-10-14T15:19:20.000Z",
+          "Titre": "We are so happy with Bloomerang!",
+          "Contenu": "We are so happy with Bloomerang! It allows us to accurately track our donors and our interactions with them. It also allows us the capability of logging on anywhere at anytime - something that is very helpful when we're out of donor calls."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Pam Parkman",
+          "Nb_Reviews": 2,
+          "Date": "2020-04-20T18:09:40.000Z",
+          "Titre": "Best technical support in CRM 's",
+          "Contenu": "Ron was great!  He was extremely knowledgeable and very patient when I asked questions. One hour with him was incredibly helpful. He made a point to know my organization before getting on the training call with me.  Bloomerang repeatedly provides #1 technical support of the 3 CRM's I have used in other organizations.  Awesome Blossom!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Britt Vickstrom",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-06T20:50:23.000Z",
+          "Titre": "Bloomerang is great Donor Management software",
+          "Contenu": "Bloomerang is great donor management software. It's easy to use and learn. The customer service is fantastic. There are tutorial videos on demand or that you can sign up for. They take recommendations for tweaks and suggestions on changes. I recommend Bloomerang to anyone looking for donor management software."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Terri DiMarco",
+          "Nb_Reviews": 2,
+          "Date": "2020-02-03T23:32:47.000Z",
+          "Titre": "We are a small school and are happy\u2026",
+          "Contenu": "We are a small school and are happy with the results of Bloomerang.  Sometimes we wish the email template was a bit more friendly and also the letter templates. Otherwise it has been good for us. Filtering is cumbersome, but good for our purposes now."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Tiane",
+          "Nb_Reviews": 2,
+          "Date": "2020-03-06T18:44:18.000Z",
+          "Titre": "Customer Service is 5 stars",
+          "Contenu": "Customer Service is 5 stars! Whenever we have something we are not able to figure out, we get on the chat line and someone is always available to help. This company is super easy to work with and we have nothing to say but good things about their customer service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Karen Martin - Ada Jenkins Center (Davidson, NC)",
+          "Nb_Reviews": 2,
+          "Date": "2020-04-16T18:58:46.000Z",
+          "Titre": "Before choosing Bloomerang",
+          "Contenu": "Before choosing Bloomerang, we spoke with a half dozen CRM companies. We needed something to help us manage our constituent database, volunteer timesheets, and events. No other company even came close!  The user interface/experience are incredibly intuitive, and the customer service is out of this world -- two features that are critical in a smallish fundraising shop like ours. Bloomerang just GETS IT!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "d harris",
+          "Nb_Reviews": 1,
+          "Date": "2020-12-02T20:56:12.000Z",
+          "Titre": "Informed equals excellent service",
+          "Contenu": "Our experience with Bloomerang has been excellent. From the start and at each step along the process to convert our info into their software each person who has been involved has kept us informed, answered questions and guided us. Some reports were structured at the time of conversion but for any specialty reports that we needed to create they explained how to add the criteria to get the desired outcome in the report. This is definitely a step up from trying to do everything on a spreadsheet as we previously did.  The option for National Change of Address information reporting is well worth the expense if you do any mailings to donors."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Patty McKenna",
+          "Nb_Reviews": 2,
+          "Date": "2020-11-03T16:27:21.000Z",
+          "Titre": "the right blend of ease and complexity",
+          "Contenu": "Bloomerang has the right blend of ease of use and ability to do complex reporting. They have great support -- a help library with videos and written help, or live chat, or email support. And they are constantly adding new features."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Beverly Hallett",
+          "Nb_Reviews": 1,
+          "Date": "2020-12-08T11:35:08.000Z",
+          "Titre": "Many Years of Satisfaction",
+          "Contenu": "Our nonprofit has been very satisfied with Bloomerang for over 6 years now.   Customer service has always been stellar and improvements are made in the software on a continuing basis.  We appreciate, too, that they have kept their pricing reasonable.  Great marketing information support and education.  I don't know what we would have done without Bloomerang for donor management.  One of the best decisions we have made in the development of our ministry and feel blessed to have it!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "HuntAM",
+          "Nb_Reviews": 1,
+          "Date": "2020-10-06T19:28:10.000Z",
+          "Titre": "Bloomerang works great for a small\u2026",
+          "Contenu": "Bloomerang works great for a small non-profit.  We needed a good donor database management system without a large budget.  Bloomerang provides a quality product at a reasonable cost."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Caroline Kurtz",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-15T18:19:28.000Z",
+          "Titre": "So happy we found Bloomerang!",
+          "Contenu": "We say to each other over and over how happy we are that the assistant before my present one found Bloomerang! We love the service people and find most of what we need to be simple and intuitive. Thanks"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Judy Ugie",
+          "Nb_Reviews": 1,
+          "Date": "2020-01-16T13:48:48.000Z",
+          "Titre": "Always helpful",
+          "Contenu": "Always helpful, patient and courteous. Will resolve the problem if possible. If what's needed is not part of their software capabilities, they always ask that you put it on the \"wish list\" for future additions."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "margaret",
+          "Nb_Reviews": 1,
+          "Date": "2020-12-02T23:02:15.000Z",
+          "Titre": "Your customer service team has been\u2026",
+          "Contenu": "Your customer service team has been nothing short of stellar! As a new user who is not familiar with a lot of features, they have been extremely helpful and patient with me. Thank you all!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ruth Johnson",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-20T15:19:40.000Z",
+          "Titre": "\"I think I'm in love!\"",
+          "Contenu": "We've been using Bloomerang for just over 10 months now. It was very scary looking ahead into changing CRM software at our nonprofit, particularly as the switchover was going to be during our Christmas appeal, the busiest time of the year. But the Bloomerang staff were excellent, anticipating what our issues were likely to be, and creating a path that took us through the changes without a \"slowdown\" in returning our thanks to our donors, and without a pileup of work for our data entry folks - two of the things I was most worried about. Our monthly recurring program came over to Bloomerang seamlessly, and with improvements. Reports are SO much easier! Working with specific groups of people is also something we can do now with much more control. The one area that isn't quite as complete as our previous CRM is the Tribute area, for honor and memorial cards to be sent out. We knew this area wasn't fully developed in Bloomerang going in to our conversion, but we decided there were so many more benefits that we would bank on finding a work around. We are not sorry! The work around was easy (we set up custom fields), it works well, and though the relationships involved in the giving/sending of cards are not fully traceable in our database, we have found that this is only a secondary issue. The actual function of merging and printing the cards is so much easier and faster than before. We are continually finding things that surprise and please us. Just yesterday I heard my colleague say, \"I think I'm in love!\" She had just completed in a few minutes what she had previously dreaded, because it would take her several hours of convoluted work every year. I have found this true in my own tasks, too. Bloomerang beautifully simplifies things, and we are only beginning to scratch the surface of what this robust solution can help us do!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "DoeDee Rover",
+          "Nb_Reviews": 2,
+          "Date": "2020-01-09T15:11:19.000Z",
+          "Titre": "Best change we have ever made",
+          "Contenu": "After using the \"State of the Art\", \"Rolls Royce\" of the industry for 14 years and continued frustration with that system, I am so grateful a colleague recommended Bloomerang - It is the BEST thing we have ever done.  The ease of use, the terrific customer support, with a real person on the other end and the accuracy of the database is tremendous.  I cannot say enough!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Morgan",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-16T15:52:48.000Z",
+          "Titre": "An exceptional company!",
+          "Contenu": "Bloomerang has a spectacular staff team, whether through chat assistance or through email their staff are incredibly helpful, friendly, and efficient. As a platform Bloomerang sets you up for success in every way, their online knowledge base is extensive and well put together."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Frances",
+          "Nb_Reviews": 2,
+          "Date": "2020-10-06T21:45:31.000Z",
+          "Titre": "Bloomerang's customer service through\u2026",
+          "Contenu": "Bloomerang's customer service through online chat is so helpful.  Even if I'm trying to do something outside of Bloomerang's parameters, the guidance is clear, honest, polite and collaborative.  I have even asked the same question more than once because I either didn't understand of forgot how to do something, and the response remains polite, honest and clear.  There are times when I need something that Bloomerang just doesn't do.  The staff still remain supportive and polite, even making suggestions that sometimes work.  I made the switch to Bloomerang three and half years ago, and have really appreciated their customer support."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Annette M.",
+          "Nb_Reviews": 2,
+          "Date": "2020-09-03T15:32:00.000Z",
+          "Titre": "Detailed help with a filter question",
+          "Contenu": "I had difficulty setting up a filter for acknowledgement letters.  I sent my question and very quickly received detailed instructions about how to set up the filter.  This makes it much less threatening to try to use the functions available on Bloomerang because I don't have to become an \"expert,\" I have experts to consult."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Land Conservation Foundation",
+          "Nb_Reviews": 1,
+          "Date": "2020-11-09T20:47:02.000Z",
+          "Titre": "I was confused about the distinction\u2026",
+          "Contenu": "I was confused about the distinction between households and constituents and had records set up incorrectly. As always, the call to Bloomerang tech support answered all of my questions.  Thank you,"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Michelle",
+          "Nb_Reviews": 1,
+          "Date": "2020-03-06T18:02:12.000Z",
+          "Titre": "Great CRM and service!",
+          "Contenu": "We converted to Bloomerang more than 3 years ago and love it! It has the functionality and ease of using for our 10 person organization. The chat service is great--and they are always adding and updating the CRM."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "James G",
+          "Nb_Reviews": 2,
+          "Date": "2020-03-09T13:43:38.000Z",
+          "Titre": "Fantastic small nonprofit donor management solution",
+          "Contenu": "We have greatly enjoyed using Bloomerang since our migration to this solution almost two years ago. It is simplified yet smart. Effective and efficient. We also love the continued feature updates based on customer feedback. Fantastic donor management solution for our small nonprofit."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Julie H.",
+          "Nb_Reviews": 1,
+          "Date": "2020-10-06T19:58:54.000Z",
+          "Titre": "I have really enjoyed using Bloomerang",
+          "Contenu": "I have really enjoyed using Bloomerang!  It has helped me in so many ways!  I would fully recommend Bloomerang to anyone looking for a great data management system!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Claire Shanovich",
+          "Nb_Reviews": 1,
+          "Date": "2020-01-16T13:45:22.000Z",
+          "Titre": "live chat support is great",
+          "Contenu": "I really enjoy the live chat support, it has been very helpful in answering all my organization's questions. It's nice that the answer to your question is written out, so you can save that information for future use."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mallory Hertel",
+          "Nb_Reviews": 1,
+          "Date": "2020-08-21T17:22:22.000Z",
+          "Titre": "10/10 Would recommend",
+          "Contenu": "Love Bloomerang--I've used other CRMs and this is by far the cleanest and most user friendly I've used.  I also appreciate all the webinars and resources."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Lang Waters",
+          "Nb_Reviews": 1,
+          "Date": "2020-01-16T15:04:55.000Z",
+          "Titre": "I've worked many years with various\u2026",
+          "Contenu": "I've worked many years with various SaaS applications.  I find Bloomerang to be easy to understand, easy to work with, and powerful enough to meet all of my needs."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "William Shishko",
+          "Nb_Reviews": 2,
+          "Date": "2020-08-22T22:08:48.000Z",
+          "Titre": "Highly recommended.",
+          "Contenu": "We have been working with Bloomerang for over four years.  Their program is easy to use, they provide outstanding support and educational instruction in the various facets of Bloomerang.  Their pricing is very reasonable.  I cannot recommend Bloomerang too highly, especially for Not For Profit donor tracking."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Larry Aubrey",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-23T20:22:05.000Z",
+          "Titre": "In my many years of fundraising",
+          "Contenu": "In my many years of fundraising, I never worked with an organization that has better customer service than Bloomerang. Always there to answer even the most mundane and simple questions."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "McCall Winter Sports Club",
+          "Nb_Reviews": 1,
+          "Date": "2020-11-09T16:25:22.000Z",
+          "Titre": "Appreciate the attention given to our\u2026",
+          "Contenu": "Appreciate the attention given to our account. As a non-profit, every little piece of help goes a long way. Bloomerang staff is great!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Andrea Dearlove",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-19T19:05:28.000Z",
+          "Titre": "Staff ALWAYS so knowledgeable",
+          "Contenu": "Quenton was SO helpful reviewing our options and choosing something that worked best for our staff!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rosemary",
+          "Nb_Reviews": 1,
+          "Date": "2020-03-10T13:54:50.000Z",
+          "Titre": "Easy to use and incredible customer\u2026",
+          "Contenu": "Easy to use and incredible customer service! It has been a joy to work in Bloomerang, especially compared to our old system. Bloomerang has made our team more efficient and effective. So grateful for the outstanding customer service and their willingness to adapt to make nonprofits work better."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Adam Stetzel",
+          "Nb_Reviews": 1,
+          "Date": "2020-02-17T18:59:47.000Z",
+          "Titre": "Would Highly Recommend!",
+          "Contenu": "We've loved the system from the the beginning, but we also love how they are always working to make bloomerang smarter and more user friendly!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Molly Nash",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-04T01:07:53.000Z",
+          "Titre": "We love Bloomerang!",
+          "Contenu": "It\u2019s easy to use, has a great chat that always helps you solve any issues immediately and they often fix and update things for the better."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Julie",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-11T18:33:32.000Z",
+          "Titre": "User Friendly",
+          "Contenu": "Bloomerang provides many training opportunities and is user friendly.  It is a good value for the price."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Thomas Hagerty",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-16T14:10:58.000Z",
+          "Titre": "Great Product",
+          "Contenu": "They are constantly improving the product, which is already very useful. The customer service is knowledgable and responsive."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Tim Johnson",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-09T06:29:19.000Z",
+          "Titre": "I can always count on Bloomerang's\u2026",
+          "Contenu": "I can always count on Bloomerang's advice!Your online help is the best in the business. Always courteous and friendly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jenny Randolph",
+          "Nb_Reviews": 1,
+          "Date": "2020-11-02T21:32:24.000Z",
+          "Titre": "I called to ask for help with a report\u2026",
+          "Contenu": "I called to ask for help with a report which was more complex than I thought it would be.  Megan handled my questions and my shape-shifting requests brilliantly!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ron B.",
+          "Nb_Reviews": 2,
+          "Date": "2020-10-13T21:24:38.000Z",
+          "Titre": "Excellent and Professional Customer Service",
+          "Contenu": "I think I stumped Bloomerang's customer service representative with one issue.  The representative worked through the issue and even involved his colleagues. Through it all, I received extremely professional and cordial service.  Although the issue wasn't resolved, the issue was referred to their problem solvers.  I always feel confident that I will get a timely response to my questions."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "CM",
+          "Nb_Reviews": 1,
+          "Date": "2020-12-02T23:08:59.000Z",
+          "Titre": "Great platform",
+          "Contenu": "Great platform.  Keep developing it. Love the training and the quick user tips. Still my favorite platform after 25 years in the biz."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Winnie",
+          "Nb_Reviews": 2,
+          "Date": "2020-02-11T16:35:00.000Z",
+          "Titre": "It is a good software to keep track of\u2026",
+          "Contenu": "It is a good software to keep track of the donations we have been receiving throughout the years.  User-friendly and well-organized format for storing information."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "L.T.",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-16T14:44:22.000Z",
+          "Titre": "Software easy to learn and use",
+          "Contenu": "Software easy to learn and use.  Support team is always quick to respond to questions."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Joan",
+          "Nb_Reviews": 4,
+          "Date": "2022-11-22T20:23:36.000Z",
+          "Titre": "Bloomerang is a great company to work\u2026",
+          "Contenu": "Bloomerang is a great company to work with. They are user friendly with staff ready to help and user guides and templates that make the work so much easier."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Natalie Clifford",
+          "Nb_Reviews": 1,
+          "Date": "2020-12-02T23:35:34.000Z",
+          "Titre": "Bloomerang has whipped our teeny NPO\u2026",
+          "Contenu": "Bloomerang has whipped our teeny NPO into tip top shape. We love Bloomerang, and Blossom!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jason Barker",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-11T20:44:20.000Z",
+          "Titre": "Bloomerang has been a very useful tool\u2026",
+          "Contenu": "Bloomerang has been a very useful tool for our organization. It allows us to manage both donors and volunteers."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Brian S.",
+          "Nb_Reviews": 5,
+          "Date": "2023-02-11T20:20:49.000Z",
+          "Titre": "Help feature was useful",
+          "Contenu": "Watching a short video on the Help feature was very useful and I found the answer to my question."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Cyndy Searfoss",
+          "Nb_Reviews": 2,
+          "Date": "2020-09-03T15:24:21.000Z",
+          "Titre": "Bloomerang continues to impress",
+          "Contenu": "Bloomerang continues to impress us with the new features/enhancements the role out on a regular basis.They are responsive to our fundraising and tracking needs."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Joe",
+          "Nb_Reviews": 2,
+          "Date": "2020-12-08T02:17:44.000Z",
+          "Titre": "Intuitive and Informative",
+          "Contenu": "Bloomerang is very intuitive for non-techies. They offer frequent workshops on many aspects of fundraising and donor relations that are filled with good advice."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Robert Brandau",
+          "Nb_Reviews": 1,
+          "Date": "2020-01-08T21:54:43.000Z",
+          "Titre": "Over the 2 years",
+          "Contenu": "Over the 2 years, we have used Bloomerang we have had a completely positive experience. We still are not using all of its capabilities."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Nancy Hutson",
+          "Nb_Reviews": 6,
+          "Date": "2020-02-10T18:09:31.000Z",
+          "Titre": "Bloomerang is a great donor database\u2026",
+          "Contenu": "Bloomerang is a great donor database for our organization.  It helps with donor relations, retention and ties in to our accounting very well."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rina Chandalov",
+          "Nb_Reviews": 1,
+          "Date": "2020-04-01T18:09:38.000Z",
+          "Titre": "Beautiful Platform, Excellent Customer Service",
+          "Contenu": "Beautiful platform, intuitive to use, easy to pull useful reports. AMAZING customer service experience. I'm just getting started, so am not the best person to review the full capabilities. Thank you!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Angela Elliott",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-11T17:22:59.000Z",
+          "Titre": "Timely response & good follow up info",
+          "Contenu": "I appreciate the timely follow up and the summary response via email after each meeting."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jen Parker User Account",
+          "Nb_Reviews": 1,
+          "Date": "2020-10-06T19:46:04.000Z",
+          "Titre": "Bloomerang has great customer support",
+          "Contenu": "Bloomerang has great customer support. Every time I call, they are responsive, super helpful and nice!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Cyndy Searfoss",
+          "Nb_Reviews": 2,
+          "Date": "2023-03-06T16:16:42.000Z",
+          "Titre": "Outstanding!",
+          "Contenu": "The product and support are outstanding! We appreciate how easy it is to use."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Home Sweet Home St. Louis",
+          "Nb_Reviews": 2,
+          "Date": "2020-10-07T16:44:55.000Z",
+          "Titre": "When the CEO took time to answer my\u2026",
+          "Contenu": "When the CEO took time to answer my emergency tweet - I knew I was in good hands. Thanks Bloomerang for making it easy."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Michael Simon",
+          "Nb_Reviews": 1,
+          "Date": "2020-01-09T01:35:25.000Z",
+          "Titre": "Bloomerang is so easy to use",
+          "Contenu": "Bloomerang is so easy to use. When I do have questions I love the on-line chat. The reps are so friendly and helpful. 5 stars to Bloomerang."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Amy Juba, CFRR",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-04T16:35:12.000Z",
+          "Titre": "I recommend Bloomerang to all of my clients",
+          "Contenu": "Bloomerang is the most intuitive and user-friendly CRM I have ever used in my 17 years as a development professional! As a consultant now, I recommend Bloomerang to all of my nonprofit clients considering a new CRM."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Bev Meyers",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-09T18:23:50.000Z",
+          "Titre": "Easy and Quick",
+          "Contenu": "Very easy and quick to use which is important when you have lot of things to do!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Michelle Gorham",
+          "Nb_Reviews": 3,
+          "Date": "2020-10-06T19:21:13.000Z",
+          "Titre": "I love Bloomerang",
+          "Contenu": "I love Bloomerang, the reports, the support and the people. Helps me do my job better every single day!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dorothy",
+          "Nb_Reviews": 2,
+          "Date": "2020-11-09T14:00:03.000Z",
+          "Titre": "LOVE Bloomerang",
+          "Contenu": "LOVE Bloomerang! Thank you for the recent upgrades; so much easier now."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Nancy Hutson",
+          "Nb_Reviews": 6,
+          "Date": "2020-11-05T22:04:19.000Z",
+          "Titre": "Perfect for Our Non-Profit!",
+          "Contenu": "Bloomerang is perfect for our non-profit organization!!!  It provides an easy and efficient way to keep track of donors, interactions and management."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Barbara Mazzeo",
+          "Nb_Reviews": 2,
+          "Date": "2023-03-04T17:18:55.000Z",
+          "Titre": "The platform is agile and efficient",
+          "Contenu": "The platform is agile and efficient. Customer service handles our inquiries and concerns quickly and professionally. Suggestions for enhancements to the platform are intentionally considered and added if feasible."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Colleen Ryan",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-30T22:01:34.000Z",
+          "Titre": "It does not matter the challenge",
+          "Contenu": "It does not matter the challenge I am having always quick to respond, extremely knowledgeble, direct, and extremely customer friendly!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Andrea Yeskey",
+          "Nb_Reviews": 1,
+          "Date": "2020-04-06T20:39:42.000Z",
+          "Titre": "Love the product",
+          "Contenu": "Love the product, very user friendly, great learning resources, customer service is outstanding!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Malarie Allen",
+          "Nb_Reviews": 1,
+          "Date": "2020-02-10T15:44:08.000Z",
+          "Titre": "I love Bloomerang's customer service",
+          "Contenu": "I love Bloomerang's customer service! From the chat assistance to the free webinars to the constant changes and updates based on customer feedback, Bloomerang is fantastic!"
+        }
+      ]
+    }
+  ]
+}

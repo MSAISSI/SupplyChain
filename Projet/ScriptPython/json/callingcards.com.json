@@ -1,0 +1,838 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "callingcards.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "CA",
+          "Pseudo": "Omar Abou Alam",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-09T05:31:33.000Z",
+          "Titre": "My cell phone was recharged much less that what I already paid.",
+          "Contenu": "I paid US$ 8.50 (+ processing fees) to recharge my cell phone in Egypt. This is equal to EGP 263.00 (official Central Bank Exchange Rate in Egypt). It's even much higher than that outside the bank system.For my surprise, the only amount received by Vodafone (my cell company in Egypt) was ONLY EGP 140.00!! ... What is that?!! I'm sure the huge difference was NOT the processing fee, because I paid the processing fee in addition to the US$ 8.50. So, where is the rest of the money?!!."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Frank P",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-13T20:37:09.000Z",
+          "Titre": "Not worth it",
+          "Contenu": "Used this company since 2016 with no issues, and in the past few months they have gone downhill to the point I had to cancel the plan. Customer service is useless, cant make international calls and they have not been very helpful. Its now more trouble than its worth and cant count on if the calls will even work?"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Edward Pavia",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-19T00:53:08.000Z",
+          "Titre": "Billing",
+          "Contenu": "My account was set up to auto renew but when last used it cut us off for lack of funds after around 15 minutes.   It took 20 minutes to make contact with an aunt in Moscow and we are not happy to be cut off for lack of funds."
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Gregory Nedzynski",
+          "Nb_Reviews": 2,
+          "Date": "2023-10-02T13:46:51.000Z",
+          "Titre": "Breaking connection sometimes every few\u2026",
+          "Contenu": "Breaking connection sometimes every few minutes"
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Jaren Gibson",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-08T19:44:10.000Z",
+          "Titre": "We love CallingCards as it connects us\u2026",
+          "Contenu": "We love CallingCards as it connects us well with our office in China.  However, we seem to repeatedly be told that we are \"out of minutes\" even though we switched to the \"World Unlimited\" plan which auto-renews $10 at a time."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Sherran Danks",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-16T13:43:23.000Z",
+          "Titre": "I would like to be able to speak to a\u2026",
+          "Contenu": "I would like to be able to speak to a representative need to have a customer service number with a live person who speaks English as a first language"
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Joseph Karanja",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-04T18:06:32.000Z",
+          "Titre": "Conversion rate.",
+          "Contenu": "Sometimes the calls are clear and sometimes not. Topping up mobile is easy but CallingCards foreign exchange rate is well below the current rates and they still charge a transaction fee."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Dave H",
+          "Nb_Reviews": 2,
+          "Date": "2023-02-12T04:42:09.000Z",
+          "Titre": "Prefer to have the billing on a set day",
+          "Contenu": "I'd prefer to have the billing on set days of the month, like the 5th, 10th, 20th, etc so I can set up automatic payments or at least be able to remember when a payment is due. Every 30 days just doesn't work for me. After a few months it's a completely different date!"
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Catherine Moroney",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-18T14:09:38.000Z",
+          "Titre": "Replacing a new credit card",
+          "Contenu": "One of my credit cards was cancelled by VISA so I tried updating my account with the replacement card.  I was able to add the new card but I couldn't replace or delete the old card.  The old card is still the card being used by CallingCard and somehow VISA is still letting it go through."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Leila H.",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-23T01:20:51.000Z",
+          "Titre": "I give 3 stars because it is very\u2026",
+          "Contenu": "I give 3 stars because it is very annoying that there is no 1 minute warning so that I could say bye to the person that I was talking to unliked before..  For  me, that is very unprofessional, very rude!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Alex",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-22T17:37:07.000Z",
+          "Titre": "I like the email invoice that you\u2026",
+          "Contenu": "I like the email invoice that you recieve every time you recharge.Sometimes overseas calls are not In tip top quality . Overall I am satisfied."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Azoro.nkwocha",
+          "Nb_Reviews": 3,
+          "Date": "2023-08-10T17:03:52.000Z",
+          "Titre": "The company has good customer service",
+          "Contenu": "The company has good customer service. Calls are clear and uninterupted. Price rates are reasonable. I will recommend to friends."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Malco",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-13T21:04:43.000Z",
+          "Titre": "Dependable service.",
+          "Contenu": "Service has been very dependable for many years and at a bargain price. However, one small gripe. Phone call is terminated without warning after 2 hours."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Barney Gregg",
+          "Nb_Reviews": 3,
+          "Date": "2023-08-28T05:13:31.000Z",
+          "Titre": "It's hard to keep my auto refill to\u2026",
+          "Contenu": "It's hard to keep my auto refill to work.   But I do have great quality calls and service is very good.   I recommend to all my friends."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Love Artistry",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-11T14:40:50.000Z",
+          "Titre": "your company has improved greatly since\u2026",
+          "Contenu": "your company has improved greatly since I joined years ago.  And your prices have stayed pretty much the same!  The site is easier to use now, and I haven't had problems with ordering as much as years ago.Best to all there for the Holidays and New Year!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "A H",
+          "Nb_Reviews": 3,
+          "Date": "2022-11-01T23:32:08.000Z",
+          "Titre": "good calling service",
+          "Contenu": "I had to re-enter data several times; didn't see that the coupon data was blanked, hence lost the discount."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Mark",
+          "Nb_Reviews": 4,
+          "Date": "2022-11-11T15:46:29.000Z",
+          "Titre": "Great value",
+          "Contenu": "Great value, website is a bit tricky to navigate, especially the billing functions"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Azoro.nkwocha",
+          "Nb_Reviews": 3,
+          "Date": "2023-06-17T05:08:25.000Z",
+          "Titre": "You offer very good service."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Gino Z.",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-26T18:55:19.000Z",
+          "Titre": "Good service eith calling cards",
+          "Contenu": "Easy to purchase. Recomeded."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "manoj",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-12T16:31:55.000Z",
+          "Titre": "The best card company",
+          "Contenu": "I've been purchasing calling cards from this company almost 15 yrs they have the best price service is amazing"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Nina Rapeephan",
+          "Nb_Reviews": 3,
+          "Date": "2023-12-19T21:09:36.000Z",
+          "Titre": "Excellent company",
+          "Contenu": "I have used Callingcards.com for over 5 years.  Great company that you can trust."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Joseph R Arsenault",
+          "Nb_Reviews": 2,
+          "Date": "2023-12-16T03:23:47.000Z",
+          "Titre": "Satisfied Customer\u2026",
+          "Contenu": "CallingCards is easy to use and provides reliable service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Len Tischler",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-19T20:44:45.000Z",
+          "Titre": "They do what they say and they make the\u2026",
+          "Contenu": "They do what they say and they make the process simple."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Giselle D.",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-11T18:10:08.000Z",
+          "Titre": "I can always connect with my family in\u2026",
+          "Contenu": "I can always connect with my family in Southamerica. It is easy to dial the number having the card number and codes setted on your phone.Puedo conectarme con mi familia siempre. Es muy f\u00e1cil marcar solo el n\u00famero al que llamas cuando ya tienes la tarjeta y c\u00f3digos pre-registrados en tu telefono."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "John",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-28T17:08:04.000Z",
+          "Titre": "Transparency in Delivery of Service is Important.",
+          "Contenu": "What I really appreciate about services and sites like this is that the transactions are entirely transparent.  Normally, when I find out there are sneaky fees or gotcha expirations, I cancel the contract or subscription and find someone who doesn't.  MobileCaller/CallingCards.com hasn't done anything like that yet and I doubt it ever will.  Also, the quality of the product is really good.  I have never had any problems with call fidelity.  It can be a little tricky getting the PIN number in fast enough on a smartphone; sometimes the dial-to number takes too long to enter as well."
+        },
+        {
+          "Note": 5,
+          "Lieu": "DK",
+          "Pseudo": "Vincent Jendra",
+          "Nb_Reviews": 2,
+          "Date": "2023-11-12T17:00:21.000Z",
+          "Titre": "customer service Service",
+          "Contenu": "I emailed customer service and got a reply back very promptly and my issue was solved straight awY."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "ORESTE",
+          "Nb_Reviews": 6,
+          "Date": "2023-06-17T21:09:56.000Z",
+          "Titre": "Very reliable service",
+          "Contenu": "I have been using this service for a long time to call daily my mother in Italy. The connection is very reliable, and the signal is excellent. This has allowed us feel less distant. Prior to callingcards.com, I have been using other providers and the service was not comparable. Price is also excellent."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "S Hilger",
+          "Nb_Reviews": 2,
+          "Date": "2023-10-15T20:11:08.000Z",
+          "Titre": "Easy to use",
+          "Contenu": "Easy to use, easy to plug the numbers into my phone and take advantage of pinless & speed dialing. Easy to recharge. Awesome!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "A H",
+          "Nb_Reviews": 3,
+          "Date": "2023-10-22T22:48:28.000Z",
+          "Titre": "Quality and pricing",
+          "Contenu": "The pricing is very competitive. Their website is very easy to navigate for payments, selecting plans, refill, saving phone numbers, etc. Features like in-less dialing, access numbers in many countries, and speed dialing are very helpful. Local and international call quality is excellent."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jo Chapman",
+          "Nb_Reviews": 7,
+          "Date": "2022-11-27T19:39:48.000Z",
+          "Titre": "I lost my credit card",
+          "Contenu": "I lost my credit card. Besides getting another card, I had to contact every business that had automatic payments on the card. I forgot about calling cards com.They contacted me and within 24 hours my account was reinstated on my new credit card.And the cost of calls out of the country is amazing. I have been using the service for years with never a problem."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Janna",
+          "Nb_Reviews": 2,
+          "Date": "2023-03-27T11:42:38.000Z",
+          "Titre": "I can't believe that everyone who calls\u2026",
+          "Contenu": "I can't believe that everyone who calls outside the US doesn't use CallingCards.  For only ten bucks I can talk to my friends in England any time I want to call them. Being able to stay in touch with them by just picking up the phone is worth way more than $10 to me."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jo Chapman",
+          "Nb_Reviews": 7,
+          "Date": "2023-01-26T17:19:50.000Z",
+          "Titre": "I've used Calling Cards for quite a few\u2026",
+          "Contenu": "I've used Calling Cards for quite a few years with absolutely no problems calling friends and family in different parts of the world. Of course, if the recipient could recognize my phone number it would be a huge bonus but the cost of the monthly unlimited plan is so good I wouldn't change a thing."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "WPerry Arnold",
+          "Nb_Reviews": 3,
+          "Date": "2022-12-03T14:31:57.000Z",
+          "Titre": "Easy to Maintain Contact         I have been using Calling 9Cards for\u2026",
+          "Contenu": "I have been using Calling Cards for 3 years to keep in touch with my nephew in China. The local access number is convenient and connections in China are crisp with no time delay. I am pleased with the cost and efficiency of the service and have recommended it to others.  WPA"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "mila",
+          "Nb_Reviews": 3,
+          "Date": "2022-09-26T01:52:30.000Z",
+          "Titre": "I thank your company for making it easy\u2026",
+          "Contenu": "I thank your company for making it easy for us to stay communicated to our family in other country at a very very affordable rate. my thanks to your company and that you continue to have a prosperous business.God Bless you all.....Mrs Ruiz"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Binta",
+          "Nb_Reviews": 4,
+          "Date": "2023-11-29T14:52:40.000Z",
+          "Titre": "call",
+          "Contenu": "So convenient, easy to purchase and use."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "George Martin",
+          "Nb_Reviews": 2,
+          "Date": "2023-01-27T18:21:55.000Z",
+          "Titre": "Connection excellent: customer service not goof",
+          "Contenu": "Connections are super easy once account is set up and active.Easy to add minutesImpossible or next to impossible to speak with a person for customer service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "ORESTE",
+          "Nb_Reviews": 6,
+          "Date": "2023-08-12T13:25:38.000Z",
+          "Titre": "Very reliable service",
+          "Contenu": "Very reliable service. I can call my mother overseas every day. The sound is clear and we never get disconnected."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rebecca G",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-21T20:06:09.000Z",
+          "Titre": "I love using this service",
+          "Contenu": "I love using this service.  It is dependable, and the cost can absolutely not be beaten!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jo Chapman",
+          "Nb_Reviews": 7,
+          "Date": "2023-07-25T16:36:00.000Z",
+          "Titre": "I have used this company for years for\u2026",
+          "Contenu": "I have used this company for years for international calls. It's easy. It's very inexpensive and utterly reliable. Highly recommend."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "WPerry Arnold",
+          "Nb_Reviews": 3,
+          "Date": "2023-04-02T13:49:38.000Z",
+          "Titre": "Efficiently opens up the world to\u2026",
+          "Contenu": "Efficiently opens up the world to conversations. I try to contact my nephew in China at least monthly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Michael D",
+          "Nb_Reviews": 2,
+          "Date": "2022-11-05T18:35:37.000Z",
+          "Titre": "Easy to add call credit",
+          "Contenu": "I just needed to add calling credit, and it was effortless to do so.  Clear, easy to use web interface for this purpose."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mark",
+          "Nb_Reviews": 4,
+          "Date": "2022-09-22T19:07:31.000Z",
+          "Titre": "The pricing is very affordable",
+          "Contenu": "The pricing is very affordable, the website is a very little bit difficult to use but worth it for the great value"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Gerald Bulisco",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-22T04:18:12.000Z",
+          "Titre": "Seamless transaction and very timely."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Catherine Christie",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-10T23:51:43.000Z",
+          "Titre": "Best company and so easy to use",
+          "Contenu": "Used this card company for years and so happy still  sp easy to use  especially for seniors like Mr.Such a great value too."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Katrin Bolton",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-01T01:37:03.000Z",
+          "Titre": "I've been making calls at least twice a\u2026",
+          "Contenu": "I've been making calls at least twice a week for the past 5 years - never any issues.  Great service!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "KC",
+          "Nb_Reviews": 6,
+          "Date": "2023-07-10T22:39:03.000Z",
+          "Titre": "I thought it was going to be hard bcuz\u2026",
+          "Contenu": "I thought it was going to be hard bcuz I had not done in awhile but it was simple an easy to choose the right plan and update my payment info. Thank you."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "A H",
+          "Nb_Reviews": 3,
+          "Date": "2023-06-14T21:19:30.000Z",
+          "Titre": "Excellent service",
+          "Contenu": "Their website is easy to navigate. The service is excellent: calls are clear and international rates are good."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kevin",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-01T10:22:58.000Z",
+          "Titre": "Very dependable company",
+          "Contenu": "Very dependable company. I have been using for years and no issues whatsoever."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-03T18:16:04.000Z",
+          "Titre": "Reliable Service.",
+          "Contenu": "Good connection.  Easy to refill.  Easy to navigate site.  So far, I did not have to call their support for help."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Michael D",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-30T17:02:42.000Z",
+          "Titre": "Reliable service, reasonable rates, easy website",
+          "Contenu": "Reliable service (I use it only for India), reasonable rates, easy to recharge on website and they accept Paypal."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Zarina Shah",
+          "Nb_Reviews": 2,
+          "Date": "2022-11-11T13:32:29.000Z",
+          "Titre": "Great value for calls.",
+          "Contenu": "Very easy to call once I understood how to make the calls. Great value and a great service for a reasonable cost."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Barney Gregg",
+          "Nb_Reviews": 3,
+          "Date": "2022-09-26T23:45:32.000Z",
+          "Titre": "My calls go through always and the\u2026",
+          "Contenu": "My calls go through always and the autorefill work perfectly.  I'm very happy with calling cards."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Marcia",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-29T20:50:42.000Z",
+          "Titre": "Effortless recharging of card",
+          "Contenu": "Effortless recharging of card, great quality international calls"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Sigitas",
+          "Nb_Reviews": 4,
+          "Date": "2023-07-20T19:33:51.000Z",
+          "Titre": "the connection is always good and the\u2026",
+          "Contenu": "the connection is always good and the price is very good too"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "L. Paquette",
+          "Nb_Reviews": 3,
+          "Date": "2023-06-15T16:54:21.000Z",
+          "Titre": "Easy to use",
+          "Contenu": "Easy to use, automatic renewal ensures that funds are always available."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Giselle D.",
+          "Nb_Reviews": 2,
+          "Date": "2023-01-11T17:37:50.000Z",
+          "Titre": "Great international phone card",
+          "Contenu": "I always connect to Southamerica. It is easy and fast. No extra fees.Thanks"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "LLS",
+          "Nb_Reviews": 3,
+          "Date": "2023-02-13T20:33:19.000Z",
+          "Titre": "Website easy to use",
+          "Contenu": "Website easy to use, automated recharge at customers  choice, great connections!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mark Lamparski",
+          "Nb_Reviews": 3,
+          "Date": "2023-07-23T23:18:11.000Z",
+          "Titre": "Seamless",
+          "Contenu": "Seamless Once signed up you don't need to think about it anymore."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "Dhr. F.P. Tulfer",
+          "Nb_Reviews": 3,
+          "Date": "2023-03-05T15:22:27.000Z",
+          "Titre": "Trustworthy connection",
+          "Contenu": "The connection is not expensive, easy to use, fast, and the conversation is clearly audible without interference."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "josephine collins",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-21T21:47:40.000Z",
+          "Titre": "Love calling my friends in London"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Gbenga Oyewole",
+          "Nb_Reviews": 2,
+          "Date": "2023-03-17T16:04:52.000Z",
+          "Titre": "Clear voice call anytime I made my call\u2026",
+          "Contenu": "Clear voice call anytime I made my call to my family in Africa."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Lynn Hu",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-24T00:20:12.000Z",
+          "Titre": "Great!",
+          "Contenu": "I can call whenever and wherever I want. The best thing is I can talk as long as I want."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "LLS",
+          "Nb_Reviews": 3,
+          "Date": "2023-05-31T21:52:15.000Z",
+          "Titre": "Easy",
+          "Contenu": "Easy, best rate trustworthy connections"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "TERRY BARTLEY",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-10T12:14:51.000Z",
+          "Titre": "Extremely very easy to reorder minutes\u2026",
+          "Contenu": "Extremely very easy to reorder minutes and fast."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Binta",
+          "Nb_Reviews": 4,
+          "Date": "2023-04-03T23:20:14.000Z",
+          "Titre": "Easy to use and convenient"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "L. Paquette",
+          "Nb_Reviews": 3,
+          "Date": "2023-10-03T01:47:22.000Z",
+          "Titre": "prices are right as is the service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Earl Liew",
+          "Nb_Reviews": 3,
+          "Date": "2023-06-15T13:23:18.000Z",
+          "Titre": "Outstanding Value & Customer Service",
+          "Contenu": "Excellent courteous, knowledgeable and professional customer service, good pricing and a simple, user-friendly website."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Sonny Nguyen",
+          "Nb_Reviews": 3,
+          "Date": "2022-09-13T13:09:13.000Z",
+          "Titre": "Good card and affordable"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "A.P. Fatsis",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-04T02:07:44.000Z",
+          "Titre": "Keep up the great work",
+          "Contenu": "Keep up the great work, God Bless!!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Suzanne Gardner",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-06T01:54:13.000Z",
+          "Titre": "Great service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "krystyna Katta",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-10T14:45:35.000Z",
+          "Titre": "that is the best company,I love it,"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dawn Miller",
+          "Nb_Reviews": 3,
+          "Date": "2022-09-13T11:34:17.000Z",
+          "Titre": "Well worth the money",
+          "Contenu": "Great service. Easy to apply for and easy to use for calls."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Larry F.",
+          "Nb_Reviews": 4,
+          "Date": "2023-08-05T11:15:29.000Z",
+          "Titre": "Easy to recharge."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mark Lamparski",
+          "Nb_Reviews": 3,
+          "Date": "2022-12-23T17:12:06.000Z",
+          "Titre": "Seamless absolute perfection",
+          "Contenu": "Seamless absolute perfection. Guaranteed performance highly recommended. Performance described was the entire year."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Antonio Benevides",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-24T13:25:49.000Z",
+          "Titre": "Great Quality service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Customer",
+          "Nb_Reviews": 3,
+          "Date": "2023-03-05T16:44:57.000Z",
+          "Titre": "Good service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Janet Milanese",
+          "Nb_Reviews": 4,
+          "Date": "2022-12-23T22:03:01.000Z",
+          "Titre": "Calling cards",
+          "Contenu": "So easy to add more $$$ to my calling card."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Katrin Bolton",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-03T06:29:05.000Z",
+          "Titre": "Used it for years and super happy with\u2026",
+          "Contenu": "Used it for years and super happy with it!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Phaedon Papadopoulos",
+          "Nb_Reviews": 2,
+          "Date": "2022-10-02T11:53:45.000Z",
+          "Titre": "Great service",
+          "Contenu": "Great service, good value!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Trino Fernandez",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-11T08:44:13.000Z",
+          "Titre": "Everything as promised excellent service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Thomas Dugger",
+          "Nb_Reviews": 2,
+          "Date": "2023-11-07T15:46:10.000Z",
+          "Titre": "Was easy to use"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "John Williams",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-05T23:53:17.000Z",
+          "Titre": "No fuss",
+          "Contenu": "No fuss, no muss.  Asked for what I wanted.  Got it."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Binta",
+          "Nb_Reviews": 4,
+          "Date": "2023-08-01T15:43:08.000Z",
+          "Titre": "Really love it",
+          "Contenu": "Really love it.  Easy to geu and use."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Lynn Hu",
+          "Nb_Reviews": 2,
+          "Date": "2023-02-23T00:03:20.000Z",
+          "Titre": "You can talk as long as you want. It's the best!",
+          "Contenu": "You can talk as long as you want."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mark",
+          "Nb_Reviews": 4,
+          "Date": "2023-05-10T18:36:26.000Z",
+          "Titre": "Great value for international calling."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Ion Paladi",
+          "Nb_Reviews": 3,
+          "Date": "2022-11-20T16:38:20.000Z",
+          "Titre": "Reliable business with good practice.",
+          "Contenu": "Easy to buy and use the cards."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Zarina Shah",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-10T11:41:38.000Z",
+          "Titre": "Ease of use",
+          "Contenu": "Ease of use. Great value."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Barney Gregg",
+          "Nb_Reviews": 3,
+          "Date": "2023-05-16T02:18:54.000Z",
+          "Titre": "Simple and hassle free."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "David Sandberg",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-03T20:41:19.000Z",
+          "Titre": "reliable",
+          "Contenu": "reliable, simple"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "L. Paquette",
+          "Nb_Reviews": 3,
+          "Date": "2023-04-18T21:10:08.000Z",
+          "Titre": "cost effective",
+          "Contenu": "cost effective; reliable; confidentiality"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Nashaat Ghazawna",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-02T19:50:08.000Z",
+          "Titre": "So far the best!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Larry F.",
+          "Nb_Reviews": 4,
+          "Date": "2023-02-18T20:39:39.000Z",
+          "Titre": "Price and availability."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Adel Hosny",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-27T16:58:11.000Z",
+          "Titre": "Excellent .",
+          "Contenu": "Excellent .. very satisfied .."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Phaedon Papadopoulos",
+          "Nb_Reviews": 2,
+          "Date": "2023-03-31T17:44:09.000Z",
+          "Titre": "dependable service."
+        }
+      ]
+    }
+  ]
+}
