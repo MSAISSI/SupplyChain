@@ -1,0 +1,1098 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "easywp.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "PK",
+          "Pseudo": "Haseeb Butt",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-10T23:54:45.000Z",
+          "Titre": "bad experience with EasyWp",
+          "Contenu": "One of the worst services I had ever seen and had bad support, I bought hosting, separate SSL, and email. after the website setup, I came to know you can't install your cache plugin ep-rocket due to their own plugin, I redesigned my website and paid extra, after installing the lightest weight theme Generate Press I faced a server issue, I reach them but nothing was handled from them, Now am again going to buy another hosting. Bad experience"
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "George Lloyds",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-11T19:00:40.000Z",
+          "Titre": "Very unhelpful team",
+          "Contenu": "Very unhelpful team. problem going on for few days. always delaying matters"
+        },
+        {
+          "Note": 1,
+          "Lieu": "BA",
+          "Pseudo": "Kaizena",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-07T19:23:29.000Z",
+          "Titre": "Really bad experience",
+          "Contenu": "Two months of going back and forth with customer support, who isn't able to solve a problem that keeps occurring. Really disappointed, and yes, I'm migrating."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Neil French",
+          "Nb_Reviews": 3,
+          "Date": "2022-09-13T14:09:58.000Z",
+          "Titre": "Just a bad all round experience",
+          "Contenu": "Just a bad all round experience. Migration was problematic as their support team changed the effective domain name during restoration meaning a load of internal links broke and their support staff could only offer to restore again which would have meant us losing sales that had happened since.Then the website even with a turbo subscription was slow and sluggish. Their CDN also means that changes propagate slowly and inconsistently so you make a change and it seems to take ages, or deleting media shows the media deleted then it re-appears.In the end we lost all confidence in EasyWP and migrated back to our old server, since then visits to our website have increased and we can work on updates more confidently."
+        },
+        {
+          "Note": 1,
+          "Lieu": "IN",
+          "Pseudo": "HonestBanda",
+          "Nb_Reviews": 1,
+          "Date": "2022-01-05T04:50:53.000Z",
+          "Titre": "Want a downtime of 30+ hours in a month? Choose this",
+          "Contenu": "Worst hosting. I have the highest plan of theirs and guess what? Their downtime is over 30 hours a month. I usually don't feel this disappointed with hostings but this company is just worst.- their server always keeps showing 504. O mean c'mon ! How can you be performing so \"cheap\" like your own name? - Support is worst- Don't get lured by their discount, they are selling u cheap product ( far worse than any simple hosting of under 2 dollar a Month) at much higher rates. Just boycott this type of companies."
+        },
+        {
+          "Note": 1,
+          "Lieu": "UZ",
+          "Pseudo": "Sardor YSF",
+          "Nb_Reviews": 3,
+          "Date": "2021-09-01T13:25:20.000Z",
+          "Titre": "I totally do not recommend this EasyWP\u2026",
+          "Contenu": "I totally do not recommend this EasyWP hosting if you are hosting multiple languages website. It has strong caching. My problem was that objects on my WordPress website never change when you switch the language unless you clear the cache every time you click. They never warn you about this because this is for better speed and performance but they don't care about UX. And the funny part is they don't refund even they are guilty in this case. NEVER EVER USE"
+        },
+        {
+          "Note": 1,
+          "Lieu": "SC",
+          "Pseudo": "Delroy Finesse",
+          "Nb_Reviews": 9,
+          "Date": "2021-01-29T06:03:26.000Z",
+          "Titre": "The support is not great",
+          "Contenu": "The support is not great. Had one of the worst experience with a support person that did not try their best to resolve the issue. This review is purely based on one support rep as before that other reps at least tried."
+        },
+        {
+          "Note": 1,
+          "Lieu": "MA",
+          "Pseudo": "Joe",
+          "Nb_Reviews": 1,
+          "Date": "2021-05-08T09:56:27.000Z",
+          "Titre": "Site interface always breaks down in\u2026",
+          "Contenu": "Site interface always breaks down in both of my websites and it only shows visitors simple texts. worse experience ever"
+        },
+        {
+          "Note": 1,
+          "Lieu": "RO",
+          "Pseudo": "Alireza",
+          "Nb_Reviews": 1,
+          "Date": "2021-04-13T06:15:13.000Z",
+          "Titre": "The worst hosting EVER!",
+          "Contenu": "It's the first time that write I a review. TLDR; The worst hosting company ever!!!You should be aware that free SSL is not provided with the Starter Plan, and you should go for the Turbo Plan. This is when 99% of hosting companies provide free SSL with Let's Encrypt. Anyways, I went for the Turbo Plan but even after that I couldn't activate the SSL!!! I asked their support and they told that it's only available for the domains on Namecheap(Their parent company)!!! I must buy a domain from them or migrate my domain to namecheap to use free SSL!After talking for a while the other option was to move my DNS from Cloudflare to ... you named it Namecheap! What I needed was hosting with SSL but they were forcing me to move my Domain or DNS to Namecheap."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Ryan O'Meara",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-04T11:05:18.000Z",
+          "Titre": "I've never written a review before for but...",
+          "Contenu": "I've never written a review before for any hosting company, so this is a first.Bad.Almost felt like I was the victim of some sort of social prank, that bad. Frustrating doesn't begin to cover it.Firstly, I'll say I've got websites hosted with multiple companies for various set ups. I wanted one domain, one wordpress install on a wordpress specialist host. As much to test the service as anything.The set up was really easy. The performance seemed impressive too.But that's where it ends.I'd say, if your domain name is already with namecheap, you'd probably be fine. But if it's not? Look out!The sheer rigmarole of trying to get a straight answer on how to set up to make my domain work with their hosting was laughably bad.Each support request just redirected me to knowledgebase articles that had already been read, tried and shown to not have worked. I got the feeling that the support only knows how to send links out, rather than actually provide advice from a position of hosting knowledge.To cap it off - because I REALLY tried and I REALLY wanted to exhaust all options before cancelling a service less than 24 hours after paying for it; my very final support request was met with an attempt to just upsell. Pure nonsense. Purchased it. Tried it. Couldn't get it to work. Simply would not recommend based on the amount of time spent getting absolutely nowhere with support, which bodes very poorly were I to have stayed."
+        },
+        {
+          "Note": 1,
+          "Lieu": "KE",
+          "Pseudo": "Timothy",
+          "Nb_Reviews": 2,
+          "Date": "2021-10-22T03:08:36.000Z",
+          "Titre": "Please Avoid",
+          "Contenu": "This is a low-quality company. Low-quality product and vomit-inducing support assistants. Please spend your money elsewhere."
+        },
+        {
+          "Note": 1,
+          "Lieu": "IN",
+          "Pseudo": "NA",
+          "Nb_Reviews": 2,
+          "Date": "2020-12-10T10:35:06.000Z",
+          "Titre": "Downtime of more than 20 hours, yet still 99.99% uptime?",
+          "Contenu": "Had a downtime of more than 20 hours in October and they still claim 99.99% uptime at their sales pages. For proof: easywp.statuspage.io"
+        },
+        {
+          "Note": 1,
+          "Lieu": "DE",
+          "Pseudo": "Lukas",
+          "Nb_Reviews": 3,
+          "Date": "2021-07-27T18:00:27.000Z",
+          "Titre": "Terible Interface",
+          "Contenu": "Terible InterfaceNo Free SSL Don't use it, there are much better options"
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Amber Smith",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-20T05:20:04.000Z",
+          "Titre": "This service is very difficult to use",
+          "Contenu": "This service is very difficult to use, for example you cannot get help without entering all your domains and id's and then also a customer service PIN ? Why would they jot be able to pull your accounts by name and email?  I THINK it is meant to be deliberately difficult ie. you can't just cancel either, back to all your info, services, a special PIN. Also they do try to add services, and the price keeps changing. I have gotten 2 price change notices in 2 weeks. I seem to get 1 or 2 emails a day about it. If I ever get it all cancelled I would not sign up again for those reasons. I HATE being pushed around when I want something or to cancel something."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Tufail Sherazi",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-28T14:16:43.000Z",
+          "Titre": "Very complicated options if your domain not from namecheap",
+          "Contenu": "Very complicated options again and again name cheap support team help me ..thanks for support team"
+        },
+        {
+          "Note": 3,
+          "Lieu": "GH",
+          "Pseudo": "Joe Benny BF",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-31T07:09:31.000Z",
+          "Titre": "Caching from Woocommerce pages does not\u2026",
+          "Contenu": "Caching from Woocommerce pages does not help EasyWP for woo commerce shops. My shop in experiencing bad times with that. Add to cart shows No item in cart most times. Do fix that. All great except this, reason for 3 stars."
+        },
+        {
+          "Note": 3,
+          "Lieu": "DE",
+          "Pseudo": "An",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-03T21:54:01.000Z",
+          "Titre": "Website wrongfully deleted for monthly 'non-payment', although I paid for the annual subscription",
+          "Contenu": "There was some strange issue regarding my subscription. I paid for a year, but I continued to receive emails prompting me to renew my monthly subscription. Then my website was suddenly discontinued; the support specialist told me my subscription was cancelled due to non-payment and the site deleted.However, they then found out that I've actually paid for an annual subscription and the information about non-payment was wrong.So they managed to quickly restore the website from the backup. But all my development efforts were lost, as the website returned to its default condition.I told that to the support specialist, and they restored the website's design, layout, content and plugins to its previous state.In the end, I think the support service works great, and I'm grateful to the support guys for resolving my issue quickly.On the maintenance part, however, there was some serious oversight which led to the unrightful deletion of my website."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Glenn Avery",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-21T04:33:52.000Z",
+          "Titre": "Would be great with Free hosted email",
+          "Contenu": "Give us free email like with the shared hosting accounts."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Linda",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-21T05:55:21.000Z",
+          "Titre": "The website builder is not as easy to\u2026",
+          "Contenu": "The website builder is not as easy to use as claimed. There's no live support."
+        },
+        {
+          "Note": 4,
+          "Lieu": "RS",
+          "Pseudo": "Only For U",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-03T14:04:40.000Z",
+          "Titre": "I find EasyWP easy to navigate through\u2026",
+          "Contenu": "I find EasyWP easy to navigate through but I am having a few issues with some instructions not being clear enough  -  like Access to my website files and folders - server link does not work  and I failed to see  where it says that I need filezila client to manage that.Other than that, interface looks nice,  and navigation is very easy and pleasant."
+        },
+        {
+          "Note": 4,
+          "Lieu": "NL",
+          "Pseudo": "faif",
+          "Nb_Reviews": 6,
+          "Date": "2023-09-24T21:33:45.000Z",
+          "Titre": "Great product",
+          "Contenu": "Great product. Easy to backup WordPress and restore it, SFTP access possible, and server resource usage overview."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Will Kreth",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-02T03:59:37.000Z",
+          "Titre": "Fixed the problem",
+          "Contenu": "Fixed the problem. Yay."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NG",
+          "Pseudo": "Peter",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-21T09:25:36.000Z",
+          "Titre": "Best hosting option for beginners",
+          "Contenu": "Best hosting option for beginners, been using for years with zero downtime. Love EasyWP"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Patrick",
+          "Nb_Reviews": 3,
+          "Date": "2023-12-01T16:41:11.000Z",
+          "Titre": "Has truly simplified my life",
+          "Contenu": "EasyWP has truly simplified my online journey. As a newcomer to WordPress, I was initially overwhelmed, but their user-friendly interface and customer help made everything a breeze. The speed and reliability of my website have been outstanding, and the budget-friendly pricing is the icing on the cake."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Cheryle",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-15T18:25:53.000Z",
+          "Titre": "First time user.",
+          "Contenu": "I am used to using Wordpress but this is my first time with easy WP. So far do good!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kenyon Bagnall",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-25T10:43:37.000Z",
+          "Titre": "Making Me Feel Like a Tech Wizard",
+          "Contenu": "I've always considered myself about as tech-savvy as a penguin trying to use a smartphone. But then I stumbled upon EasyWord Press, and suddenly, I'm feeling like the Bill Gates of blogging! This platform is so user-friendly that even my toaster is jealous. If you want to blog without breaking a sweat or your keyboard, give EasyWord Press a go. It's like magic, but without the need for a wizard's hat! \ud83e\uddd9\u200d\u2642\ufe0f\u2728"
+        },
+        {
+          "Note": 5,
+          "Lieu": "MX",
+          "Pseudo": "Alain Iglesias",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-22T04:14:59.000Z",
+          "Titre": "They offer the best support I've ever had on any service over internet",
+          "Contenu": "They answer time is incredible fast, I haven't had to wait a whole minute to connect with an agent, ever. They are always kind and have patience. Last but not least, they are high skilled professionals, I mean, technically speaking they now what they are doing, no matter if it is a domain or hosting or email issue, whatever service they provide they are fully prepared to provide assistance to you."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PT",
+          "Pseudo": "Rui Pinho",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-12T10:05:29.000Z",
+          "Titre": "Best Service Support !",
+          "Contenu": "As always the support service at NameCheap it's unreal (in the good way), that's why our company always choose their services to run all our projects. Giving a special thanks for the service of the \"Nazarii Radichenko\" today ! Thanks very much, keep up with the good work"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PE",
+          "Pseudo": "Emerzon Guevara Burgos",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-28T22:49:48.000Z",
+          "Titre": "My amazing experience with EasyWP",
+          "Contenu": "EasyWP has allowed me to create my first project: VegetPlace.com; and EasyWP has been a great help for this project because it\u2019s an accessible and user-friendly platform with a WordPress Dashboard where I designed and built my website, and with a low budget I had access to a variety of top plugins which were very useful and decisive to design my website.Furthermore, EasyWP has an amazing support team which has helped me in every doubt or question I had through my web development learning. I have learned a lot thanks the technical support and in this way I was able to run my website.Emerzon Guevara."
+        },
+        {
+          "Note": 5,
+          "Lieu": "MX",
+          "Pseudo": "Cesar Romero",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-27T22:17:06.000Z",
+          "Titre": "Your live chat people are great --kind",
+          "Contenu": "Your live chat people are great --kind, efficient and very fast--,  the problem is that every month i have to contact them for the same issue.... please review and feel free to suggest any long term solution..."
+        },
+        {
+          "Note": 5,
+          "Lieu": "TW",
+          "Pseudo": "Jorg Wijnen",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-01T09:14:45.000Z",
+          "Titre": "Awesome support!",
+          "Contenu": "I'm quite inexperienced with building a WP site, but I've managed to learn quite a bit. But, sometimes I run into issues, and the support team always helps me out.From the 10 issues or so I've had in total, I got great support every single time."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "SIMONE CAMPOS",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-21T02:50:02.000Z",
+          "Titre": "I can make my website look great",
+          "Contenu": "I can make my website look great. Customize it however I want. All in a tight, manageable package. I don't have to worry about WordPress installation / maintenance because you do it for me."
+        },
+        {
+          "Note": 5,
+          "Lieu": "UA",
+          "Pseudo": "Deny",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-14T16:49:50.000Z",
+          "Titre": "Best WordPress based solution for beginners",
+          "Contenu": "Best WordPress based solution for beginners. I've used EasyWP from Namecheap for several months now and it amazes me how cool this product is. I am not a developer, but I was able to build my online store pretty easily with some minor guidance from support team. A+++"
+        },
+        {
+          "Note": 5,
+          "Lieu": "BD",
+          "Pseudo": "Akram Ali",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-15T05:41:48.000Z",
+          "Titre": "Simple and easy interface",
+          "Contenu": "Simple and easy interface. I love it."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Britany Wong",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-12T19:30:15.000Z",
+          "Titre": "Had an issue on my website and it took\u2026",
+          "Contenu": "Had an issue on my website and it took a little bit of figuring out, but Christina worked with me until it was resolved and kept me in the loop during the entire process! I've always had great experiences whenever I contact Name Cheap's EasyWP support team."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Reena-William Friedman Watts",
+          "Nb_Reviews": 3,
+          "Date": "2023-08-21T09:22:33.000Z",
+          "Titre": "My website is so much easier to\u2026",
+          "Contenu": "My website is so much easier to navigate now, and I'm not even tech-savvy and I can update it.  People can find my podcasts, podcast features I've been on, and I can blog post.  I absolutely love what EasyWP has done to my site."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GR",
+          "Pseudo": "Iordanis Meggidis",
+          "Nb_Reviews": 7,
+          "Date": "2023-09-16T13:17:09.000Z",
+          "Titre": "Great hosting provider",
+          "Contenu": "Great hosting provider, with no downtimes, friendly user interface, good prices and basic admin tools for your Wordpress website. Easy back-up too!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "AE",
+          "Pseudo": "Gcc salon Jobs",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-27T09:17:11.000Z",
+          "Titre": "Just got a very good support from\u2026Stanislav Mykhalchuk",
+          "Contenu": "Just got a very good support from Stanislav Mykhalchuk name cheap representative my site was hacked now got it back though I will need to work on it from scratch still it worth it #Thanks"
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Marjolyn Noble",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-24T05:16:47.000Z",
+          "Titre": "Whenever I have an issue I contact\u2026",
+          "Contenu": "Whenever I have an issue I contact Livechat and they are fabulous with their support.  They have the patience of a Saint and always resolve my problems.   This is why I register all my domains with Namecheap"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "usha k",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-06T07:39:34.000Z",
+          "Titre": "great experience",
+          "Contenu": "great experience. Oleksii Leontev was amazing. Oleksil walked me through the steps one at a time.  Oleksil setup expectations with regards time and fixed my problem"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Melchizedek Recalde",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-27T15:55:39.000Z",
+          "Titre": "GREAT SERVICE!",
+          "Contenu": "Nazarii Radichenko did not leave me until I fixed my website. The resolution is fast and the agents are friendly. Hope to have more interactions like this in the future. Keep up the good work!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "BR",
+          "Pseudo": "Marcelo Tavares",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-23T03:24:23.000Z",
+          "Titre": "The very best server",
+          "Contenu": "The very best server I've had since I started my podcast. Very reliable, it never get offline.And, the support is amazing! They're always prepared to fix any problem!!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Serge",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-04T22:09:23.000Z",
+          "Titre": "I've been a customer for years",
+          "Contenu": "I've been a customer for years. EasyWP is easy to manage, easy to create backups and restore websites when needed. Customer support is top-notch. I can definitely recommend EasyWP."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NG",
+          "Pseudo": "Emerson",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-28T12:43:03.000Z",
+          "Titre": "Excellent Support 5-Star",
+          "Contenu": "Namecheap support service is excellent. From my experience with them, they are sharp, on point, patient, persistent, and result-oriented. I do not think I will need to try another service because of the impressive services I've received from their support staff."
+        },
+        {
+          "Note": 5,
+          "Lieu": "EG",
+          "Pseudo": "Ahmed Hesham",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-02T19:55:54.000Z",
+          "Titre": "I had an issue renewing my EasyWP\u2026",
+          "Contenu": "I had an issue renewing my EasyWP subscription but people here helped me and solved the issue in very clear and simple steps to follow from my side"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Brian Smith",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-18T20:19:23.000Z",
+          "Titre": "Quick and easy support",
+          "Contenu": "Quick and easy support, no hassle for a newbie who accidentally bought two domains when I only needed one and properly spelled."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Ka Negosyo",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-26T17:17:31.000Z",
+          "Titre": "Since I transferred from GoDaddy to\u2026",
+          "Contenu": "Since I transferred from GoDaddy to them, I've never been so satisfied with their product and customer service..Really really superb \ud83d\ude0d"
+        },
+        {
+          "Note": 5,
+          "Lieu": "VN",
+          "Pseudo": "Tien",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-15T12:26:36.000Z",
+          "Titre": "Great supports",
+          "Contenu": "Namecheap support agents are exceptional professional, solve my requests in minutes. That's why I chose Namecheap as my Domain and Hosting provider."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "zohaid zohaiddd",
+          "Nb_Reviews": 6,
+          "Date": "2022-05-11T15:57:35.000Z",
+          "Titre": "It was easy to install WordPress even\u2026",
+          "Contenu": "It was easy to install WordPress even though my domain was with Cloudflare. Some people have complained here that free SSL is not available, but it is! I installed a Free SSL given by Cloudflare at Namecheap (there is an option for custom SSL) and works!Being using Easywp for 5 months now and there was only 1 downtime, in the month of may for ~5 hours, other than that I would recommend it.I would like to use reseller hosting by Easywp, better if it would be fully whitelabeled."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Nikki Gianni",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-03T20:50:02.000Z",
+          "Titre": "Fixed a critical error on my site and\u2026",
+          "Contenu": "Fixed a critical error on my site and helped me with a few other things.  Great, responsive customer service, as always!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "HU",
+          "Pseudo": "Evelina Romanovska",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-27T19:49:12.000Z",
+          "Titre": "Svitlana was really helpful",
+          "Contenu": "Svitlana was really helpful, it was my first time creating and setting up a website so Im glad she was patient to help me in this complex journey :))"
+        },
+        {
+          "Note": 5,
+          "Lieu": "EE",
+          "Pseudo": "Liigah Thrower",
+          "Nb_Reviews": 3,
+          "Date": "2023-09-07T20:52:29.000Z",
+          "Titre": "Yaroslav Tymoshenko assisted me to help\u2026",
+          "Contenu": "Yaroslav Tymoshenko assisted me to help me with the issue with the domain after migration. And it was all sorted in 7 minutes. Fast and effective service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Alex",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-15T01:41:34.000Z",
+          "Titre": "Quick and effective response",
+          "Contenu": "Quick and effective response! Problem was solved within a few minutes and the agent kept me apprised of progress the entire time."
+        },
+        {
+          "Note": 5,
+          "Lieu": "LC",
+          "Pseudo": "Daneille ThaPoet Louis",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-29T03:57:50.000Z",
+          "Titre": "Honestly",
+          "Contenu": "Honestly, I've never met a better solution that fits an easy budget and helps you produce monster results.Their customer service is unbeatable."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dawn evans",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-31T20:28:39.000Z",
+          "Titre": "The support staff was very helpful",
+          "Contenu": "The support staff was very helpful. Things that I didn\u2019t understand they explained them. Then they actually went and took care of any problems that I was having."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Freddys Suarez",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-23T03:27:14.000Z",
+          "Titre": "My WordPress website is faster now with\u2026",
+          "Contenu": "My WordPress website is faster now with EasyWP and I always have good support for my problems.Great hosting services"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CH",
+          "Pseudo": "Nikola Mirkov",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-24T21:07:00.000Z",
+          "Titre": "This is an amazing product because you\u2026",
+          "Contenu": "This is an amazing product because you can rely on professionals! Viktoriia was so helpful and so nice!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "VN",
+          "Pseudo": "Nh\u01b0 \u00dd Ph\u1ea1m",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-11T13:39:56.000Z",
+          "Titre": "EasyWP Support Feedback",
+          "Contenu": "I've got some problems with the easyWP hosting app and I am given with wonderful assistance. Thank you for that."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Syed Tawabul",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-13T22:29:59.000Z",
+          "Titre": "Best ever hosting company in all over the world",
+          "Contenu": "my experience was 100% good and every time i need any help about my site i ask for the support system they are very supportive i am so satisfied"
+        },
+        {
+          "Note": 5,
+          "Lieu": "NG",
+          "Pseudo": "Congatown Blitz",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-18T16:53:27.000Z",
+          "Titre": "The attendant was very helpful and\u2026",
+          "Contenu": "The attendant was very helpful and patient with me. i am a beginner and had lots of problems. but he explained to me what to do and provided me with the solution"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Clean Queen",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-03T23:16:54.000Z",
+          "Titre": "They are quick and reliable",
+          "Contenu": "I love that anytime I need assistance they are able to help and they are quick too.  I would recommend them to anyone who needs a website."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Jevannel Borlio",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-07T15:20:09.000Z",
+          "Titre": "Website Retrieved",
+          "Contenu": "I had a problem with my website loading; it was a critical error, and in just a few minutes, I was able to retrieve it. Thanks for the help of Stanislav."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "Marta M.",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-24T18:45:38.000Z",
+          "Titre": "Very quick and useful customer\u2026",
+          "Contenu": "Very quick and useful customer service/support. Had a problem with my website and it was solved very quickly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ID",
+          "Pseudo": "Rap Lib",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-11T18:06:25.000Z",
+          "Titre": "EasyWP Turbo Hosting Review: Making WordPress Faster and Safer",
+          "Contenu": "I've been using EasyWP Turbo for my WordPress website, and I'm thoroughly impressed with the experience. The speed boost it offers is remarkable. Thanks to optimized caching and SSD storage, my website loads faster than ever before. The robust security features, including protection against DDoS attacks and a powerful firewall, provide me with peace of mind.Furthermore, the EasyWP Turbo interface is incredibly user-friendly, even for beginners like me. I've also found their customer support to be responsive and helpful whenever I have questions or issues. The product comes with valuable additional features like automatic backups and quick recovery, which have been instrumental in keeping my website secure and running smoothly.The pricing of this service is reasonable considering the benefits I've received, and I believe EasyWP Turbo is an excellent choice for WordPress website owners looking to enhance speed and security. I highly recommend EasyWP Turbo to anyone in search of reliable WordPress hosting.I hope this helps you create a useful product review!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "BD",
+          "Pseudo": "baal",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-25T21:32:03.000Z",
+          "Titre": "its was so fast and they did so much\u2026and helpfull",
+          "Contenu": "its was so fast and they did so much for understanding the problem and solve it ASAP.. am very satisfy with the service.. thanks"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GR",
+          "Pseudo": "ali raza",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-17T18:12:38.000Z",
+          "Titre": "EasyWP: The Best Option for WordPress Web Optimization",
+          "Contenu": "EasyWP is the best option for beginners who understand how to optimize WordPress themes, media files, and code structure to achieve super-fast website loading.Currently, I have nearly 7,000 pages of information, and each page contains an image or poster, totaling almost 4GB of data. It's working well for me as I've just started a new project. It's an affordable way to begin something new. I anticipate upgrading to the Supersonic option as the number of users grows to enhance their experience.If anyone encounters slow loading times or other issues, it largely depends on how well our theme is coded and developed, as well as how we optimize each article's images before posting. It's essential to use fewer plugins when they're not necessary. By following these practices, EasyWP becomes the best choice.I understand that website optimization, caching methods, and using a CDN (Content Delivery Network) to reduce server requests are crucial. If you're familiar with these three to five simple concepts, then EasyWP, particularly the Turbo and Supersonic options, is the best choice.Let me provide you with more insight based on my experience of almost a month. It's perfectly well-coded on the backend with the latest hardware, especially CPUs and RAM. This made me choose it because many less famous companies use second-hand hardware, which doesn't lead to a robust server response.This review you can read before purchasing and In future if I get such error and things what i read already __ I will be welcome back here to give another short in details..."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Jeff D",
+          "Nb_Reviews": 4,
+          "Date": "2023-09-26T21:12:59.000Z",
+          "Titre": "EasyWP - great product, excellent support",
+          "Contenu": "EasyWP makes it easy for less technical people to manage WordPress sites and the support is superb"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ID",
+          "Pseudo": "Cantik Sehat Indonesia",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-18T13:38:12.000Z",
+          "Titre": "Vitalii is super helpful and very\u2026",
+          "Contenu": "Vitalii is super helpful and very patient. Thanks so much for your great assistance. Super!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GH",
+          "Pseudo": "laar yenchabir",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-29T02:25:28.000Z",
+          "Titre": "Great working with Namecheap",
+          "Contenu": "Even though I had issues with my connections, you were still available and assisted me as usual."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Danny",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-17T00:40:11.000Z",
+          "Titre": "Helped me within minutes",
+          "Contenu": "Helped me within minutes. Online chat very good. Mykhailo Tsyhanok was awesome."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Jelly Call",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-22T20:19:35.000Z",
+          "Titre": "It's just been a great help to have\u2026",
+          "Contenu": "It's just been a great help to have responsive agents like Iryna Shendenkova"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "evrvdav",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-28T04:48:02.000Z",
+          "Titre": "Namecheap is amazing",
+          "Contenu": "EasyWP really helps out bridging the gap as an early WordPress user. Namecheap support is also world class and I love everything they've done for me."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CR",
+          "Pseudo": ". FM CONTROL MUSIC PUERTO",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-03T11:49:55.000Z",
+          "Titre": "It was not only this and thank you very much",
+          "Contenu": "It was not only this and thank you very much it was difficult because at first I did not understand the process because I almost never do it but I was finally able to do it, thanks for having patience with me."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jinji Black",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-03T04:03:24.000Z",
+          "Titre": "EXCELLENT customer service",
+          "Contenu": "EXCELLENT customer service. I would highly recommend. The real human responders in the live chat provide instant clarification on all of my problems. Super, super company."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "kendra sanders",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-27T14:55:49.000Z",
+          "Titre": "I love that this service customer service always help me get my website up.",
+          "Contenu": "I love that this service customer support is always available to help me get my website up and running whenever I run into issues."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AE",
+          "Pseudo": "Naseem Khan",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-04T13:43:59.000Z",
+          "Titre": "Excellent services and when it comes to\u2026",
+          "Contenu": "Excellent services and when it comes to customer service tbh they are great and have a lovely approach to problem-solving"
+        },
+        {
+          "Note": 5,
+          "Lieu": "EG",
+          "Pseudo": "Eslam Abdelnasser",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-02T16:59:03.000Z",
+          "Titre": "the support Agent is professional",
+          "Contenu": "the support Agent is professionaland he back in the time and reply fast Thanks for your efforts"
+        },
+        {
+          "Note": 5,
+          "Lieu": "KE",
+          "Pseudo": "Isaiah Ndungu Wanjiru",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-29T15:20:06.000Z",
+          "Titre": "so awesome best ever support",
+          "Contenu": "so awesome best ever support . what could i have done when my back up i thought its gone and you helped me restore. take a beer on my bill, so happy"
+        },
+        {
+          "Note": 5,
+          "Lieu": "DE",
+          "Pseudo": "Nicole",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-14T20:38:56.000Z",
+          "Titre": "My website was able to be recovered\u2026",
+          "Contenu": "My website was able to be recovered even though i didnt pay! Very good service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Liza H",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-02T03:10:24.000Z",
+          "Titre": "Viktor Hrushko was knowledgeable",
+          "Contenu": "Viktor Hrushko was knowledgeable.  Excellent service. Beyond just sending me links, he understood my problem."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Jasmine",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-11T11:40:20.000Z",
+          "Titre": "She Viktoriia Pavlyk helped me to\u2026",
+          "Contenu": "She Viktoriia Pavlyk helped me to resolve my issue, i am so happy"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Mahnoor",
+          "Nb_Reviews": 3,
+          "Date": "2021-05-15T06:02:24.000Z",
+          "Titre": "Easywp is really the easeist way to\u2026",
+          "Contenu": "Easywp is really the easeist way to setup cost effiecent wordpress sites. Would recommend"
+        },
+        {
+          "Note": 5,
+          "Lieu": "EG",
+          "Pseudo": "Yasser",
+          "Nb_Reviews": 3,
+          "Date": "2023-09-30T15:37:14.000Z",
+          "Titre": "They have great team and fast responses\u2026",
+          "Contenu": "They have great team and fast responses and amazing services"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CO",
+          "Pseudo": "Luis Galindo Arenas",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-03T04:09:57.000Z",
+          "Titre": "Easy and fast for sure!",
+          "Contenu": "Easy and fast for sure! I have been using it for a couple of years in several sites and I love it!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "DE",
+          "Pseudo": "Vladimir Devic",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-18T12:14:03.000Z",
+          "Titre": "Amazing Viktoriia Pavlyk fixed my\u2026",
+          "Contenu": "Amazing Viktoriia Pavlyk fixed my website in a second! Thumbs up!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "LB",
+          "Pseudo": "Toufic",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-02T14:46:35.000Z",
+          "Titre": "understood my question and gave me the\u2026",
+          "Contenu": "understood my question and gave me the answer i need"
+        },
+        {
+          "Note": 5,
+          "Lieu": "VE",
+          "Pseudo": "Marcos Morales",
+          "Nb_Reviews": 4,
+          "Date": "2023-09-14T19:51:40.000Z",
+          "Titre": "Great atttention...",
+          "Contenu": "Great... I needed help to understand the services I was going to buy."
+        },
+        {
+          "Note": 5,
+          "Lieu": "MA",
+          "Pseudo": "Adnane Es-saiydy",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-19T12:55:50.000Z",
+          "Titre": "the support  team is verry helpfull and\u2026",
+          "Contenu": "the support  team is verry helpfull and on time. and they solve my problem in no time"
+        },
+        {
+          "Note": 5,
+          "Lieu": "TZ",
+          "Pseudo": "Issamani",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-27T14:22:44.000Z",
+          "Titre": "i had some issues on my wp hosting and\u2026",
+          "Contenu": "i had some issues on my wp hosting and they helped me..thanks to Christina Druzhinina"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Shon",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-14T18:16:34.000Z",
+          "Titre": "They communicated in a Great and timely\u2026",
+          "Contenu": "They communicated in a Great and timely manner."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Fahad Ur Rehman Khan",
+          "Nb_Reviews": 60,
+          "Date": "2020-12-28T05:22:49.000Z",
+          "Titre": "Highly Recommended.",
+          "Contenu": "Migrated my website without an issue. The load times have been much better."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "notone everyonenot LLC",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-02T00:19:14.000Z",
+          "Titre": "quick and simple responses made things\u2026",
+          "Contenu": "quick and simple responses made things easier for me"
+        },
+        {
+          "Note": 5,
+          "Lieu": "NG",
+          "Pseudo": "Admin PuzzleArt Studios",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-02T23:39:00.000Z",
+          "Titre": "Nazarii was understanding and took his\u2026",
+          "Contenu": "Nazarii was understanding and took his time"
+        },
+        {
+          "Note": 5,
+          "Lieu": "UA",
+          "Pseudo": "\u0406\u0433\u043e\u0440 \u0412\u0435\u043d\u0433\u0435\u0440",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-28T17:12:54.000Z",
+          "Titre": "Everything will be fast",
+          "Contenu": "Everything will be fast, high-quality and very eternal!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "BD",
+          "Pseudo": "Imran Hossain Khan",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-01T00:13:33.000Z",
+          "Titre": "My experience is great till now."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Banega Mohi",
+          "Nb_Reviews": 3,
+          "Date": "2023-09-17T09:31:09.000Z",
+          "Titre": "one of the best support team in all\u2026",
+          "Contenu": "one of the best support team in all websites"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GH",
+          "Pseudo": "eric agyei",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-17T14:13:44.000Z",
+          "Titre": "great customer care from you guys"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ZA",
+          "Pseudo": "Rivalani Kennedy Shibiti",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-25T21:02:06.000Z",
+          "Titre": "Your service is so amazing",
+          "Contenu": "Your service is so amazing, keep up the good work."
+        },
+        {
+          "Note": 5,
+          "Lieu": "MX",
+          "Pseudo": "Ricardo J Velasco",
+          "Nb_Reviews": 2,
+          "Date": "2023-10-04T01:50:59.000Z",
+          "Titre": "very good timing response"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CO",
+          "Pseudo": "Nelson Oviedo Pixelicone",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-07T23:09:40.000Z",
+          "Titre": "The best tool to make awesome Wordpress\u2026",
+          "Contenu": "The best tool to make awesome Wordpress Sites"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "sherjeel",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-26T21:51:34.000Z",
+          "Titre": "great service and guidence....issue\u2026",
+          "Contenu": "great service and guidence....issue resolved"
+        },
+        {
+          "Note": 5,
+          "Lieu": "MZ",
+          "Pseudo": "Alberto Azinar",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-25T16:40:05.000Z",
+          "Titre": "The help of the Specialist Vladyslav\u2026",
+          "Contenu": "The help of the Specialist Vladyslav Khainatskyi and Saravanan Rajasekharan"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kovalok Momontov",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-29T04:35:38.000Z",
+          "Titre": "Could find solution easily!",
+          "Contenu": "Could find solution easily!Thanks,"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Tarsha Darden",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-23T01:38:02.000Z",
+          "Titre": "Addressed my concerns",
+          "Contenu": "Addressed my concerns, very patient"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ID",
+          "Pseudo": "Irfan Khalil",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-29T11:20:42.000Z",
+          "Titre": "thank you",
+          "Contenu": "thank you, very helpful service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IT",
+          "Pseudo": "Mario Clavarino",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-01T20:26:25.000Z",
+          "Titre": "EasyWP tuning",
+          "Contenu": "Very professional, fast and quick answer."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Ross Racine",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-07T15:54:37.000Z",
+          "Titre": "Quick and adequate response."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "usama Arshad",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-29T06:38:02.000Z",
+          "Titre": "very good and abrupt support"
+        },
+        {
+          "Note": 5,
+          "Lieu": "NZ",
+          "Pseudo": "Lloyd Portman",
+          "Nb_Reviews": 6,
+          "Date": "2023-09-15T01:28:32.000Z",
+          "Titre": "Great service as usual"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jason Peterson",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-28T01:03:01.000Z",
+          "Titre": "Secure, responsive, competent, and always in the know.",
+          "Contenu": "They responded (as usual) immediately and answered my question promptly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "SV",
+          "Pseudo": "Rolando Peralta",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-07T00:18:13.000Z",
+          "Titre": "Iryna knows all the answers",
+          "Contenu": "Iryna knows all the answers. Excellent customer service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Davis Chandy",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-16T14:41:46.000Z",
+          "Titre": "Very simple and easy to use",
+          "Contenu": "Very simple and easy to use. Live service and support."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Lucy Wilson",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-25T22:09:23.000Z",
+          "Titre": "Very responsive",
+          "Contenu": "Very responsive, helpful and knowledgeable customer support. Thank you!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Ant\u00f3nio Jos\u00e9 Taipa Le\u00e3o",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-17T16:37:07.000Z",
+          "Titre": "Amazing customer service",
+          "Contenu": "Amazing customer service. Quick and solution-oriented. I recommend to everyone."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "William Schwab",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-17T13:51:54.000Z",
+          "Titre": "Fast and knew what my issues were",
+          "Contenu": "Fast and knew what my issues were. Quick and to the point. Nice job!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "MA",
+          "Pseudo": "Aziz Zfanz",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-27T16:13:07.000Z",
+          "Titre": "Nazarii Radichenko saved my life  a\u2026",
+          "Contenu": "Nazarii Radichenko saved my life  a great experience"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mks Keys",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-27T22:01:40.000Z",
+          "Titre": "Good Service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "BD",
+          "Pseudo": "Faruk hossen",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-29T21:42:29.000Z",
+          "Titre": "Good Service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Frank Clark",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-22T20:11:49.000Z",
+          "Titre": "The price is right",
+          "Contenu": "The customer service and technical support is always good."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "sandeep jaiswal",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-22T08:38:50.000Z",
+          "Titre": "best support"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "SURESH R",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-15T21:45:27.000Z",
+          "Titre": "Great support"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Richard Thomson",
+          "Nb_Reviews": 3,
+          "Date": "2023-09-17T18:18:14.000Z",
+          "Titre": "ALL GOOD MANY THANKS TO THE SUPPORT\u2026",
+          "Contenu": "ALL GOOD MANY THANKS TO THE SUPPORT TEAM...!"
+        }
+      ]
+    }
+  ]
+}

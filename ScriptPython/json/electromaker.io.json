@@ -1,0 +1,1271 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "electromaker.io",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-09T15:44:15.000Z",
+          "Titre": "order never went through, can't get support",
+          "Contenu": "order never went through. couldn't reach customer support. When I called, I reached a voicemail box that said \"Supplier Direct\". This business seems like a front, or maybe a dropshipper or something.Update (after electromaker response): my order sat in \"Pending\" status for several days. I got a random email to update my credit card with no reason why I had to do this and it was on an alternate domain, so that seemed suspicious. I did it anyway, against my better judgement, because I wanted the order to go through. No confirmation or any other update. I emailed and reached out about the matter and no response...including from calling (which as mentioned, the voicemail mentions some OTHER company). It is also curious that the phone number shows that it's located in Mansfield, Texas which is where Mouser and Digikey are....something is weird with these companies...."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-17T05:04:22.000Z",
+          "Titre": "I have not yet received my purchase."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 3,
+          "Date": "2023-09-22T13:50:07.000Z",
+          "Titre": "Mislabeled products",
+          "Contenu": "The title of the item I ordered said it was a 50mm cable but buried further down the page it said it was 100mm. I didn't notice the detail about 100mm, so now I have 15 cables that are twice as long as I need."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Justin T",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-08T00:24:46.000Z",
+          "Titre": "I have to fill out specail paperwork?",
+          "Contenu": "I don\u2019t understand why I have to fill out specail paper work for a simple order. Nowhere on the items description or info that I would get delayed ahipping until I answer the questions from mouser."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Unhappy Gilmore",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-16T17:22:01.000Z",
+          "Titre": "No refund after shipped wrong product",
+          "Contenu": "The website had false product information, so they shipped me the wrong product. It has been 4 weeks since I notified them of the error, which they acknowledge was their fault when they replied to me 7 days later. I have yet to receive a refund to my CC that they said would take 5-10 days. I am not confident that I will get my refund anytime soon."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "BK",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-11T15:45:42.000Z",
+          "Titre": "Defective item received",
+          "Contenu": "Defective item received. Support is basically worthless and extremely painful to work with. Order from another reseller or direct from the companies.Updated to correct their errors in their response to save face.They requested a photo of a board that doesn't power on after a 2 day wait. I had already informed them I had tried the board with 2 computers and 3 cables. I responded with the photo within 2 hours of the initial request after asking why a photo was needed because the photo is basically worthless as there is no verification that the board is even plugged in. (they don't require to see it plugged into the usb socket as well providing power) After I responded with the photo, I waited another 5 days for a response. After stating I would be requesting a chargeback their next response was \"did you follow the tutorial\" on the Adafruit website. They would do everything possible to NOT issue a refund. Electromaker IS NOT an authorized reseller and Adafruit is looking into how they are selling their products without authorization so hopefully others won't have to deal with this in the future."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Kian Nafeiy",
+          "Nb_Reviews": 2,
+          "Date": "2022-09-15T05:20:56.000Z",
+          "Titre": "no communication, updates, or responses.",
+          "Contenu": "hadn\u2019t received any updates or responses to emails after finishing purchase, will be contacting my card to cancel on their end. would not order again"
+        },
+        {
+          "Note": 1,
+          "Lieu": "JO",
+          "Pseudo": "Jawad",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-03T09:13:47.000Z",
+          "Titre": "Complicated and slow",
+          "Contenu": "1. They asked for too many papers to proceed with the order.2. Relatively slow in replying the emails and updates."
+        },
+        {
+          "Note": 1,
+          "Lieu": "SG",
+          "Pseudo": "SP",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-19T09:51:03.000Z",
+          "Titre": "Left Me With USD 100s in Taxes. Avoid.",
+          "Contenu": "I ended up having to pay more than the order total in taxes as they made a mistake on the import form."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Maverick Stout",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-04T21:02:37.000Z",
+          "Titre": "Atmega 328 did not work out of box to\u2026",
+          "Contenu": "Atmega 328 did not work out of box to upgrade old deicimilia arduino, and there were no obvious instructions."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "TomR",
+          "Nb_Reviews": 2,
+          "Date": "2023-06-13T02:58:17.000Z",
+          "Titre": "Where is my purchase",
+          "Contenu": "Where is my purchase? I was charged and promised two day shipping. Nothing."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-09T17:56:40.000Z",
+          "Titre": "Have not received product",
+          "Contenu": "Have not received product. Was told problem w credit card and to call. Have called 3 times with no response!"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Jay",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-06T22:21:10.000Z",
+          "Titre": "Bad communication, Took 1 month to cancel my unfulfilled order. (UPDATED 12/06/2022)",
+          "Contenu": "SUMMARY OF CUSTOMER EXPERIENCENot good at all. I placed an order for an item that was shown as in stock, and after 1 month of trying to get an order update it turns out the item was not available. Communication was practically nonexistent until I wrote an online review. COMPLETE TIMELINE OF MY (UNFULFILLED) ORDERNovember 2, 2022:Placed an order on the Electromaker.io website; the item was clearly shown as in stock and available to \"buy now\" (not showing out of stock or back ordered) - this was why I placed my order. November 4, 2022:4 days later, received 1 email from Electromaker.io confirming my order.November 18, 2022:2 weeks later, I had zero communication about my order so sent an email directly to Electromaker.io asking for an update. No response from Electromaker.ioNovember 21, 2022:No reply to my email 3 days prior, so I sent a SECOND email directly to Electromaker.io asking for an update. No response from Electromaker.ioNovember 22, 2022:Frustrated at the complete lack of responses, I wrote my initial review on TrustPilot, as after searching the Internet for any advice it seemed like posting on TrustPilot was the only way to get Electromaker.io to respond to anything.November 23, 2022;Surprise! Electromaker.io replied to my TrustPilot review THE VERY NEXT DAY. Why they cannot reply to customer emails that are sent directly to them, I don't know. They asked for my order info in their reply, so I immediately edited my TrustPilot review (within minutes of their response) to add that information.November 24, 2022:I sent a THIRD email directly to Electromaker.io asking for an update. No response from Electromaker.ioNovember 28, 2022:Electromaker.io finally replied to my email, informing me the item is on backorder. This reply finally arrived after over 3 weeks of trying to communicate with them directly through email and after writing my initial TrustPilot review. Within minutes I responded back, asking them to cancel my order.November 29, 2022:Well go figure... Electromaker.io replied to an email the very next day, confirming the cancellation of my order. AFTERMATHThis entire process took 1 entire month from start to finish - from the day I placed my order under the impression that the item was available as shown on their website... all the way to the end of the month when they finally replied to my email and canceled my unfulfilled order. What bothers me the most is not that I didn't receive the item I ordered - but that there was ZERO RESPONSE to my inquiries until AFTER I wrote my 1-star TrustPilot review. Why couldn't anyone at Electromaker.io reply to a customer email (actually, 3 customer emails) within 3 weeks? Why did it take a public review for them to finally respond at all? I honestly do not think that I was being unreasonable, nor do I think I was bombarding them with emails or being a difficult customer by simply asking for an order update.  Unfortunately, Electromaker.io's communication was practically nonexistent, up until I wrote the TrustPilot review.So in the end, I do not have the product I ordered 1 month prior. Because there was an eventual conclusion (they agreed to cancel my unfulfilled order) I hold no grudge or anger at the company at all. However, I will most likely not recommend Electromeker.io to others based on my first (and most likely only) buying experience with them."
+        },
+        {
+          "Note": 1,
+          "Lieu": "IN",
+          "Pseudo": "Sundeep Goel",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-20T17:43:34.000Z",
+          "Titre": "Price on checkout is not realistic",
+          "Contenu": "Price on checkout is not realistic, paid similar amount for customer and dhl facilitation"
+        },
+        {
+          "Note": 1,
+          "Lieu": "DK",
+          "Pseudo": "Victor Willaredt",
+          "Nb_Reviews": 2,
+          "Date": "2022-03-29T16:23:36.000Z",
+          "Titre": "Kept reminding me to review."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Raul Montelongo",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-20T15:30:53.000Z",
+          "Titre": "I have not yet received the item",
+          "Contenu": "I have not yet received the item, can\u2019t rated"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-09T21:11:43.000Z",
+          "Titre": "Would not ship to a mailbox at UPS\u2026",
+          "Contenu": "Would not ship to a mailbox at UPS Store."
+        },
+        {
+          "Note": 2,
+          "Lieu": "ID",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-22T10:19:22.000Z",
+          "Titre": "electromaker delivery fee",
+          "Contenu": "i was happy because electromaker gives the best price with 0 delivery fee to asia country, but turns out ups charge me about $40 for handling care and taxes"
+        },
+        {
+          "Note": 2,
+          "Lieu": "TH",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-06-13T15:54:59.000Z",
+          "Titre": "Since I placed an order on June 7",
+          "Contenu": "Since I placed an order on June 7, til now I haven't got any confirmation email."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Yeager",
+          "Nb_Reviews": 3,
+          "Date": "2023-09-02T19:01:45.000Z",
+          "Titre": "Well I got a link for a review before I\u2026",
+          "Contenu": "Well I got a link for a review before I even received my purchase orderd 10 days ago have tried calling multiple times emailed let messages went through a third party purchase app and have tried to get the issue resolved but every time I cal it says it\u2019s busy and the emails I wrote haven\u2019t been responded to to try and figure this out was called one time by a very kind lady that instructed me to re submit my payment info and I did but never received a call back or wether or not my shipment it\u2019s coming"
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "ADB Safegate",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-10T21:39:39.000Z",
+          "Titre": "No stock",
+          "Contenu": "They didn't have the parts we needed after placing an order."
+        },
+        {
+          "Note": 3,
+          "Lieu": "CA",
+          "Pseudo": "Elfituri Lahemer",
+          "Nb_Reviews": 1,
+          "Date": "2022-03-22T18:27:24.000Z",
+          "Titre": "The delivery was fast but the cable\u2026",
+          "Contenu": "The delivery was fast but the cable attached with raspberry pi not working. I wasted days troubleshoot and finally discovered the cable not good. This review is about my order only"
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-13T16:53:16.000Z",
+          "Titre": "Customer service was good",
+          "Contenu": "Didn't have what I needed but customer support was good. Relatively certain they sold my phone number to someone though."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-06-03T23:47:40.000Z",
+          "Titre": "I had to swap the plugins just used the\u2026",
+          "Contenu": "I had to swap the plugins just used the old one and it is working fine"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-18T00:25:52.000Z",
+          "Titre": "The ability to track the delivery of my\u2026",
+          "Contenu": "The ability to track the delivery of my order."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Dwight Robinson",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-01T20:54:52.000Z",
+          "Titre": "UPS in Canada Disappoints, Electromaker is great",
+          "Contenu": "Ordered from Electromaker as their prices were competitive and I wanted to support them as I like the weekly videos.  Happy with their part of the order.  Unfortunately UPS charged a $37 Canadian processing fee for a $130 Can order, plus the GST charged by the Canadian government.  Makes it too expensive to order from overseas again."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Ben P T",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-17T13:46:47.000Z",
+          "Titre": "Boutique shopping can be more satisfying with the addition of some common convenience items.",
+          "Contenu": "It\u2019s very handy to have a human-friendly user interface to find some of Mouser\u2019s vast inventory of parts. And very disappointing when Electromaker doesn\u2019t support some searches for basic necessities. I could not find some basic staple supplies, and I would have purchased them if I could.Contrast this to sparkfun.com, who sells me solder, plain old resistor and capacitor kits, leds that are just leds, and knobs/switches only your mother could love, but we all know we need these things every day. So yes Electromaker has a potent selection of mcu peripherals but lacks some ordinary things to make it a one-stop shopping experience. When I have looked for stock parts on Mouser I often give up because a search for a 1/4 watt 2.2k ohm resistor yields pages of results. If Electromaker gave me a limited set of valid, reasonable choices it would be awesome."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-27T03:40:38.000Z",
+          "Titre": "Easy to order",
+          "Contenu": "Easy to order.  Only issue I had was that the 300 degree advertised rotation is only available outside the usual 1000ms to 2000ms pulse width of most RC receivers."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-23T17:54:08.000Z",
+          "Titre": "great prices",
+          "Contenu": "great prices, great diversity of products, website is a bit clunky, slow sometimes, and also in general lacks technical information. I have to google the item separately to see datasheets and what not."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CL",
+          "Pseudo": "Kp",
+          "Nb_Reviews": 1,
+          "Date": "2022-06-29T06:26:05.000Z",
+          "Titre": "Good customer service",
+          "Contenu": "They ship to Chile, which is great! I had a problem because they charged me wrongfully the shipping (it was the \"buy $50 get free shipping\" promo time) and it was very slow to get a response. But once I talket to them, they solved the problem dilligently"
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Dwight",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-08T18:51:22.000Z",
+          "Titre": "Order arrived quickly and complete",
+          "Contenu": "Order arrived quickly and complete.  Unfortunately, although not a fault of electromaker, UPS added a $38 Canadian border processing fee onto a $130 order.  This made electromaker's otherwise affordable prices, expensive."
+        },
+        {
+          "Note": 4,
+          "Lieu": "BE",
+          "Pseudo": "--",
+          "Nb_Reviews": 4,
+          "Date": "2022-08-30T17:33:48.000Z",
+          "Titre": "Good communication",
+          "Contenu": "Good communication, some bugs in the ordering process when creating an account at the same time as the order though...Otherwise great customer support"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Scott",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-16T23:02:18.000Z",
+          "Titre": "There were items missing on my order\u2026",
+          "Contenu": "There were items missing on my order but it was handled promptly and missing items were sent."
+        },
+        {
+          "Note": 4,
+          "Lieu": "GB",
+          "Pseudo": "John Staveley",
+          "Nb_Reviews": 23,
+          "Date": "2022-09-02T10:38:02.000Z",
+          "Titre": "Quick delivery, now charge in \u00a3",
+          "Contenu": "The product was efficiently and rapidly delivered. For 5* they need to have charging in Gb\u00a3"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "RickW",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-12T13:28:29.000Z",
+          "Titre": "Happy with the Arduino compatible MP3\u2026",
+          "Contenu": "Happy with the Arduino compatible MP3 shield."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Ken",
+          "Nb_Reviews": 7,
+          "Date": "2023-06-08T05:35:48.000Z",
+          "Titre": "I thought that the shipping charges\u2026",
+          "Contenu": "I thought that the shipping charges were excessive."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Bill Lawrence",
+          "Nb_Reviews": 4,
+          "Date": "2022-12-23T03:27:16.000Z",
+          "Titre": "I gave 4 stars though the service was\u2026",
+          "Contenu": "I gave 4 stars though the service was exceptional"
+        },
+        {
+          "Note": 4,
+          "Lieu": "PH",
+          "Pseudo": "JOANNA",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-12T19:55:45.000Z",
+          "Titre": "Smooth Transaction and device is\u2026",
+          "Contenu": "Smooth Transaction and device is working."
+        },
+        {
+          "Note": 4,
+          "Lieu": "PL",
+          "Pseudo": "Jakub Jankiewicz",
+          "Nb_Reviews": 2,
+          "Date": "2022-03-22T16:40:16.000Z",
+          "Titre": "No Review just rating."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CO",
+          "Pseudo": "Juli\u00e1n Cossio Fl\u00f3rez",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-12T03:29:01.000Z",
+          "Titre": "Great Delivery Time"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-11T00:53:33.000Z",
+          "Titre": "Fast shipment."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 2,
+          "Date": "2022-08-15T14:53:12.000Z",
+          "Titre": "thank you",
+          "Contenu": "thank you! Best resource I've found!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Paul P",
+          "Nb_Reviews": 3,
+          "Date": "2023-11-22T04:26:44.000Z",
+          "Titre": "This purchase included everything I\u2026",
+          "Contenu": "This purchase included everything I think is important.Quality productFair PriceFast ShippingArrived Well Packaged and in Good ShapeGood CommunicationThanks!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "vim_user",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-04T21:09:24.000Z",
+          "Titre": "Fast shipping + well packaged sensors",
+          "Contenu": "My ToF sensors shipped quickly and were well packaged. I would purchase from Electromaker again."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-22T17:30:32.000Z",
+          "Titre": "Fast shipment and accurate product!",
+          "Contenu": "Fast shipment and accurate product. I wasn't sure if I could trust them but the Adafruit Matrix M4 arrived quickly and works perfectly!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Greg R",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-07T16:38:12.000Z",
+          "Titre": "The customer service was superb",
+          "Contenu": "The customer service was superb! Their stock was low so I couldn't order 2 pieces, but their customer service emailed me and asked whether I still wanted the remaining 1 piece. They let me know every step of the way the order status. It's details and kindness like this that really makes a difference!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-17T21:51:25.000Z",
+          "Titre": "Great selection",
+          "Contenu": "Great selection, good prices, fast shipping. Nothing else needs to be said"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-05T21:00:23.000Z",
+          "Titre": "Great product",
+          "Contenu": "Great product. Transmitting distance is much better than other boards I found on Amazon.  Product exactly as described and delivered in a timely fashion. Will do business again :)"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Aaron Crabtree",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-01T17:15:22.000Z",
+          "Titre": "Good online electronics store",
+          "Contenu": "Stumbled on Electromaker because the motor driver I was looking for was sold out everywhere else. Hadn't heard of them before, so I was a bit cautious, but I needed the part and there was no timeline for anyone else getting them in stock. Happily, my order arrived quickly & safely. No complaints from me!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Sergei Kuznetsov",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-15T05:58:04.000Z",
+          "Titre": "Great after sale support",
+          "Contenu": "Components were in short supply during order placement. I was not sure that I could receive all ordered parts same time. Sales provided a good feedback on my order. I received my order shortly in full and was able to start production right away."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-31T17:21:23.000Z",
+          "Titre": "PhyWhisperer",
+          "Contenu": "Ordered 2 PhyWhisperer's and they work exactly as expected. They really help improve our debug processes. We ordered late on the 18th with next day air and received the 20th.Order Date :\tMAY 18, 2022Ship Date :\tMAY 19, 2022Estimated Arrival Date :\tMAY 20, 2022"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Gary",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-08T16:36:41.000Z",
+          "Titre": "Very good experience for my first order",
+          "Contenu": "Got a receipt soon after my order was placed. A nice touch that the paperwork listed a UPS tracking number for easy tracking of the shipment. Very good experience with my first order and will come back again in the future."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Sam",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-12T18:48:22.000Z",
+          "Titre": "Super price and delivery",
+          "Contenu": "Super price, product arrived quickly, each item was packaged well. Pybadges work great and excited to teach students computer science and game design."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Thomas Dinkins",
+          "Nb_Reviews": 2,
+          "Date": "2022-07-01T17:15:46.000Z",
+          "Titre": "Amazing mini readout display",
+          "Contenu": "Amazing mini readout display. My main use for the meter is for observation of voltage, current, and temperature. Even though the digits are very small, the display provides many details for energy usage. The primary reason for my selection of this particular meter was the inclusion of an external temperature sensor, as well as its small size necessary for my application."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Zane",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-28T19:53:22.000Z",
+          "Titre": "My product arrived earlier than\u2026",
+          "Contenu": "My product arrived earlier than expected, and i was very happy with the products i received. You have a great selection of things to order, try and use so i intend on ordering agsin"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-06-28T00:36:52.000Z",
+          "Titre": "Elektromaker was quick and efficient",
+          "Contenu": "Elektromaker was quick and efficient. The thing is it's been two weeks (and counting!) since UPS Canada has my parcel. I keep calling them every other day. Every time they say 24-48 hours max. Maybe you consider changing the carrier."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Logan",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-15T20:01:57.000Z",
+          "Titre": "Pretty good",
+          "Contenu": "Bought these for a project, got pretty good service. The only thing is some shippers have you fill out a shipping security form which I thought was a little interesting. They were prompt and clear when getting back to my emails though"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "kware",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-23T23:12:13.000Z",
+          "Titre": "Electromaker carried a replacement battery",
+          "Contenu": "Electromaker carried a replacement battery needed for an older solar powered motion light. Ordered and delivered expediently, and installed and works as good as new."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dan Williams",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-13T00:14:01.000Z",
+          "Titre": "Great experience timely service",
+          "Contenu": "Great experience timely service. My order was correct and fast.Thank you,Dan WilliamsBarton Community CollegeGreat Bend, KS. U.S.A."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Fred Olivas",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-07T17:21:53.000Z",
+          "Titre": "Fast shipping. Great product!",
+          "Contenu": "I had a hard time finding a reliable source for my electronic parts - supply issues I presume - but her they were and I got them quickly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NZ",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-17T06:47:23.000Z",
+          "Titre": "Super Fast Shipping",
+          "Contenu": "Shipping was shockingly fast, everything has turned up in perfect working condition. Would highly recommend!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "CHARLES CHAPMAN",
+          "Nb_Reviews": 2,
+          "Date": "2022-07-19T03:48:02.000Z",
+          "Titre": "Finding the perfect part",
+          "Contenu": "I had a hard time finding just the right part to complete my project. Electromaker had the perfect part for me. I ordered it, received the part in just a few days and finished my task. Everything went fine from beginning to end. Thanks, Electromaker."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "BigB",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-26T12:05:05.000Z",
+          "Titre": "Reliable Vendor, great selection and lifesaver",
+          "Contenu": "Shipping was super fast, found what I need and got it in time to use it effectively. Super happy with the service and will use Electromaker again. I highly recommend them."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-20T20:49:18.000Z",
+          "Titre": "Great prices and reasonable shipping",
+          "Contenu": "Great prices and reasonable shipping.  Love being able to get parts from Sparkfun and Adafruit in the same order."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "OldJohn Wineke",
+          "Nb_Reviews": 1,
+          "Date": "2022-03-23T02:14:54.000Z",
+          "Titre": "Battery",
+          "Contenu": "I ordered my backup battery, and it took a little time for shipping, but arrived in good shape, for a reasonable price, so I'm happy!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-08T22:16:38.000Z",
+          "Titre": "Recieved what I ordered on time.",
+          "Contenu": "Recieved what I ordered on time.  My only complaint is the high shipping costs.  Thanks!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-23T16:30:08.000Z",
+          "Titre": "Quality",
+          "Contenu": "Item came in reasonable amount of time and was a quality product"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-18T08:16:55.000Z",
+          "Titre": "Great product"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Darin",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-24T21:11:27.000Z",
+          "Titre": "Had what I wanted in stock where other\u2026",
+          "Contenu": "Had what I wanted in stock where other places were sold out. Quick shipping, product worked perfect. I will buy all of my needs from ElectricMaker from now on."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Tom",
+          "Nb_Reviews": 2,
+          "Date": "2022-08-30T22:59:42.000Z",
+          "Titre": "My experience was wonderful",
+          "Contenu": "My experience was wonderful. I had a refund to work through. Everything went very smooth. I was very pleased with the outcome. The people that I worked with, were fantastic."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Bill G.",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-07T05:29:43.000Z",
+          "Titre": "Product was what was described",
+          "Contenu": "Product was what was described, service is fast and accurate\u2026and saved for future use as needed\u2026"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Brian",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-11T19:34:41.000Z",
+          "Titre": "I am thrilled with the product",
+          "Contenu": "I am thrilled with the product, received it blazing fast and the shipping cost was reasonable."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jose Artalejo",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-11T13:40:01.000Z",
+          "Titre": "The quality of the product is\u2026",
+          "Contenu": "The quality of the product is outstanding and the price is a designer's dream. From now on, it is \"CHINA\" products all the way.Very happy with the valves and will continue to by from you. Thank you for you excellent product."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Shelby M",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-15T06:03:11.000Z",
+          "Titre": "Great service and prices!",
+          "Contenu": "I was able to get my product in a timely manner and for a great price! I also submitted a question to support and got an answer very quickly!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "PK",
+          "Nb_Reviews": 2,
+          "Date": "2022-07-19T20:16:13.000Z",
+          "Titre": "Great customer service",
+          "Contenu": "My order was missing a part, but one call and it was sent out immediately. Great customer service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "JP",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-18T15:20:18.000Z",
+          "Titre": "Exactly as described",
+          "Contenu": "Exactly as described . Fast shipping and an excellent customer experience. Will definitely shop here again."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "tanny",
+          "Nb_Reviews": 1,
+          "Date": "2022-03-29T16:08:22.000Z",
+          "Titre": "this site is a good find",
+          "Contenu": "Super happy with electromaker, they had a hard to find sensor at a great cost and it shipped fast n safe."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GR",
+          "Pseudo": "Dimos Bolanakis",
+          "Nb_Reviews": 2,
+          "Date": "2022-10-17T16:06:53.000Z",
+          "Titre": "All great!!!",
+          "Contenu": "Very good price for the products, immediate response to my query, the goods received very soon!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Brett",
+          "Nb_Reviews": 3,
+          "Date": "2023-05-25T01:51:26.000Z",
+          "Titre": "Exactly what I needed at a great price\u2026",
+          "Contenu": "Exactly what I needed at a great price and super fast delivery to Australia"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-16T06:08:05.000Z",
+          "Titre": "The shipping was very fast and the\u2026",
+          "Contenu": "The shipping was very fast and the devices are reliable."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-07T23:11:43.000Z",
+          "Titre": "This is the place to go!",
+          "Contenu": "Product shipped fast and arrived in prestene condition!  This is the place to go for all electronic needs"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-06T04:45:39.000Z",
+          "Titre": "The whole process was stress free",
+          "Contenu": "The whole process was stress free. Very seamless. Delivery was on time."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-02T18:45:33.000Z",
+          "Titre": "Order an adafruit led matrix",
+          "Contenu": "Order an adafruit led matrix. Fast shipping and no issue at all."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "cc",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-13T02:42:33.000Z",
+          "Titre": "Electromaker was great",
+          "Contenu": "Electromaker was great - the products where delivered on time and exactly as expected."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Honest Allison",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-16T17:07:59.000Z",
+          "Titre": "My products were as described and\u2026",
+          "Contenu": "My products were as described and arrived in a timely fashion."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "atomicpenguinsbcglobal.net",
+          "Nb_Reviews": 2,
+          "Date": "2023-10-26T03:47:27.000Z",
+          "Titre": "Quick service for hard-to-find component"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-02T21:01:31.000Z",
+          "Titre": "Electromaker Is My Go To Shop For My Micro Electronic Needs",
+          "Contenu": "With it's great customer service and fast, reliable shipping Electromaker is my go to shop for my micro electronics needs."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Douglas Kennedy",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-14T20:21:33.000Z",
+          "Titre": "I bought a smartphone keyboard",
+          "Contenu": "I bought a smartphone keyboard. It works great!  Arrived promptly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Gregory Douglass",
+          "Nb_Reviews": 4,
+          "Date": "2022-07-29T18:34:48.000Z",
+          "Titre": "exactly what I wanted",
+          "Contenu": "Recieved exactly what I ordered, great price, fast processing. Recommended."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Bryan Porter",
+          "Nb_Reviews": 5,
+          "Date": "2023-02-09T15:59:48.000Z",
+          "Titre": "the product actually works!!!",
+          "Contenu": "the product actually works!!!! Unlike others I have tried, this is easy to use and works well."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "JLubetich",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-07T07:22:42.000Z",
+          "Titre": "They had things available when life saverother\u2026",
+          "Contenu": "They had things available when other sites didn\u2019t. Delivered quickly and everything worked."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Allen Higgins",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-21T00:06:32.000Z",
+          "Titre": "Great Job",
+          "Contenu": "Was as expected and shipped as expected"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Farhad",
+          "Nb_Reviews": 2,
+          "Date": "2022-04-24T01:42:17.141Z",
+          "Titre": "Got the battery on time",
+          "Contenu": "Got the battery on time.  packaged well and looks as advertised"
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Greg",
+          "Nb_Reviews": 1,
+          "Date": "2022-03-30T23:37:34.000Z",
+          "Titre": "Thanks for the fast shipping and the\u2026",
+          "Contenu": "Thanks for the fast shipping and the regular delivery updates from DHL."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-03T01:35:46.000Z",
+          "Titre": "reasonable prices",
+          "Contenu": "website was easy to navigate, and to find what I needed"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Brad",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-25T03:47:00.000Z",
+          "Titre": "High quality",
+          "Contenu": "Fast shipping, good product, high quality."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Xue",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-09T16:22:18.000Z",
+          "Titre": "Shipping is very fast",
+          "Contenu": "Shipping is very fast! Will buy again for my Raspberry Pi project."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Peyton",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-17T21:27:01.000Z",
+          "Titre": "Fast and accurate",
+          "Contenu": "Found the discontinued item here and got it quickly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "John Blackwood",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-27T20:03:57.000Z",
+          "Titre": "Excellent service and product",
+          "Contenu": "Thank you for an easy transaction and fast shipping!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "FREQ FR",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-03T07:41:17.000Z",
+          "Titre": "Reasonable price and really fast\u2026",
+          "Contenu": "Reasonable price and really fast shipping"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Nick",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-26T00:36:16.000Z",
+          "Titre": "Excellent quality product",
+          "Contenu": "Excellent quality product, great price, very carefully packaged"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-13T17:31:14.000Z",
+          "Titre": "Receive exactly what I ordered in a\u2026",
+          "Contenu": "Receive exactly what I ordered in a timely fashion."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-04T23:49:13.000Z",
+          "Titre": "Board game on time  Nicely packaged",
+          "Contenu": "Board came on time  Nicely packaged. Works well. All as advertised."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Sam",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-04T23:21:58.000Z",
+          "Titre": "Fast shipping saved me a ton of time\u2026",
+          "Contenu": "Fast shipping saved me a ton of time and soldering!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "CHAD",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-24T01:01:34.000Z",
+          "Titre": "simple order simply shipped on time",
+          "Contenu": "simple order simply shipped on time, no issues."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Tony",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-11T22:56:07.000Z",
+          "Titre": "So easy to do",
+          "Contenu": "So easy to do and pretty great delivery time"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Bill Lawrence",
+          "Nb_Reviews": 4,
+          "Date": "2022-12-30T01:36:14.000Z",
+          "Titre": "you did fabulous the plugs cables and\u2026",
+          "Contenu": "you did fabulous the plugs cables and everything worked fabulously"
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Jaydee",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-10T16:11:58.000Z",
+          "Titre": "Quick delivery and good product"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-19T01:34:09.000Z",
+          "Titre": "Exactly what I ordered with great\u2026",
+          "Contenu": "Exactly what I ordered with great delivery"
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Colin Glenister",
+          "Nb_Reviews": 2,
+          "Date": "2022-08-22T04:24:35.000Z",
+          "Titre": "Very happy with service and delivery",
+          "Contenu": "Very happy with service and deliveryThank you"
+        },
+        {
+          "Note": 5,
+          "Lieu": "SE",
+          "Pseudo": "Oliver",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-07T11:37:59.000Z",
+          "Titre": "fast and item as aspected",
+          "Contenu": "fast and item as expected"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-10T23:59:07.000Z",
+          "Titre": "Good selection without long delivery\u2026",
+          "Contenu": "Good selection without long delivery time."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Erich Tinguely",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-26T23:35:10.000Z",
+          "Titre": "Good turnaround and packaged well."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "KEVIN",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-21T09:00:17.000Z",
+          "Titre": "Good prices",
+          "Contenu": "Good prices, received the package quickly"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "rich",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-21T00:59:42.000Z",
+          "Titre": "fast service",
+          "Contenu": "fast service, very good product bought from them  last year very,very happy"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Yeager",
+          "Nb_Reviews": 3,
+          "Date": "2023-09-17T00:35:47.000Z",
+          "Titre": "Good product shipped pretty fast after\u2026",
+          "Contenu": "Good product shipped pretty fast after the weekend"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Joe Simpson",
+          "Nb_Reviews": 1,
+          "Date": "2022-03-24T12:13:25.000Z",
+          "Titre": "my order was completed quickly and\u2026",
+          "Contenu": "my order was completed quickly and accurately"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Steven U",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-24T12:37:16.000Z",
+          "Titre": "Perfect item more than my expectations",
+          "Contenu": "Perfect item more than my expectations Thankyou"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Teddy Shalon",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-10T01:42:51.000Z",
+          "Titre": "prompt & efficient",
+          "Contenu": "Got what we ordered when everyone else were out of stock..."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer Jose v",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-19T01:37:00.000Z",
+          "Titre": "All what I ordered came fast and\u2026",
+          "Contenu": "All what I ordered came fast and accurate.  Will buy again Thanks"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-14T19:40:49.000Z",
+          "Titre": "It came really fast",
+          "Contenu": "It came really fast, it was well-priced, and it works. Thanks! You really helped our project."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-20T23:56:13.875Z",
+          "Titre": "Super great response!   I will buy again.",
+          "Contenu": "Super great response   I will buy again"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-20T01:10:15.000Z",
+          "Titre": "I received everything and on time",
+          "Contenu": "I received everything and on time. What more could one ask for! Thanks guys!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "SG",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-11T10:23:22.000Z",
+          "Titre": "A bit expensive but fast delivery \ud83d\udc4d"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Glenn",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-18T20:59:52.000Z",
+          "Titre": "Quality products and fast transaction."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jathan",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-24T20:33:36.000Z",
+          "Titre": "Smooth shopping and Quick delivery"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-25T23:25:26.200Z",
+          "Titre": "Had the item in stock and delivery was\u2026",
+          "Contenu": "Had the item in stock and delivery was fast. Thanks"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Gary",
+          "Nb_Reviews": 3,
+          "Date": "2023-07-27T19:11:44.000Z",
+          "Titre": "Fast service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "JP",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-28T09:14:45.000Z",
+          "Titre": "They sent it fast to Japan",
+          "Contenu": "Fast shipment, but I have not checked the product yet"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Tom",
+          "Nb_Reviews": 2,
+          "Date": "2022-08-21T14:18:05.000Z",
+          "Titre": "Everything was fine",
+          "Contenu": "Everything was fine. Service was fast, and my item came 2 days early."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Don Maslanka",
+          "Nb_Reviews": 1,
+          "Date": "2022-06-29T22:17:00.000Z",
+          "Titre": "Really neat and very easy to assemble",
+          "Contenu": "Really neat and very easy to assemble. Love the way it works and looks!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Phillip Shiver",
+          "Nb_Reviews": 3,
+          "Date": "2023-06-21T23:32:12.000Z",
+          "Titre": "Hard to find product was in stock",
+          "Contenu": "Hard to find product was in stock. Fast shipping"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IL",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-20T15:24:27.000Z",
+          "Titre": "Fast delivery",
+          "Contenu": "Fast delivery. Reasonable pricing.Thank you!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "BE",
+          "Pseudo": "Intersoft Electronics Services",
+          "Nb_Reviews": 2,
+          "Date": "2022-09-08T11:23:27.000Z",
+          "Titre": "Very good proposal for alternative\u2026",
+          "Contenu": "Very good proposal for alternative product and fast delivery."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-30T20:30:31.000Z",
+          "Titre": "Fast shipping",
+          "Contenu": "Fast shipping.   Great customer service.   Recommend highly!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Joel Foster",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-02T13:07:17.000Z",
+          "Titre": "Great company"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ernest Gallo",
+          "Nb_Reviews": 9,
+          "Date": "2023-06-27T14:53:45.000Z",
+          "Titre": "On-time and worth the value !"
+        },
+        {
+          "Note": 5,
+          "Lieu": "AE",
+          "Pseudo": "Shrouk",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-09T15:59:58.000Z",
+          "Titre": "Thank you for your great service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "David Kasle",
+          "Nb_Reviews": 2,
+          "Date": "2022-08-05T17:47:28.000Z",
+          "Titre": "Good product",
+          "Contenu": "Good product, prompt shipping."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Romantic Geek",
+          "Nb_Reviews": 3,
+          "Date": "2022-10-07T17:00:42.000Z",
+          "Titre": "Thanks for you fast sales process!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-14T14:36:27.000Z",
+          "Titre": "Quick order and delivery",
+          "Contenu": "Quick order and delivery. Eliminated potential delay from another shipper."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Sean O'Steen",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-03T00:52:35.000Z",
+          "Titre": "You had the products that I needed and\u2026",
+          "Contenu": "You had the products that I needed and were quick to ship. Thank you!"
+        }
+      ]
+    }
+  ]
+}
