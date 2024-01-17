@@ -1,0 +1,19 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "pillbanana.com",
+      "Review": [
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "BD S",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-03T04:56:18.000Z",
+          "Titre": "Excellent customer service",
+          "Contenu": "Excellent customer service. Annual subscription is worth the price."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "primelicense.com",
+      "Review": [
+        {
+          "Note": 5,
+          "Lieu": "TR",
+          "Pseudo": "mnalcaci",
+          "Nb_Reviews": 2,
+          "Date": "2023-12-14T19:13:52.000Z",
+          "Titre": "It was an excellent service from Daniel\u2026",
+          "Contenu": "It was an excellent service from Daniel who is the Technical Lead! Thank you again!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "SG",
+          "Pseudo": "K. Zafar",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-23T14:28:50.000Z",
+          "Titre": "Legit product at a great price",
+          "Contenu": "I got a legit product with a great discount. The activation key was sent via email along with manuals on activation, everything was fast. Definitely recommend \ud83d\udc4d\ud83c\udffb"
+        },
+        {
+          "Note": 5,
+          "Lieu": "KZ",
+          "Pseudo": "Kate S.",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-04T18:58:02.000Z",
+          "Titre": "Great service!",
+          "Contenu": "I was not sure which VPN to choose, i've asked for a help in LiveChat, the service manager explained to me the differences between provides and helped to choose the best option for my needs."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IT",
+          "Pseudo": "Daniele",
+          "Nb_Reviews": 2,
+          "Date": "2023-11-11T21:53:56.000Z",
+          "Titre": "La sincera immediatezza del supporto\u2026",
+          "Contenu": "La sincera immediatezza del supporto chat tramite whazapp, la transazione sicura ed immediata, il download del software immediato, i prezzi onesti."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Antoan Simic",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-22T23:16:48.000Z",
+          "Titre": "Good and fast delivery",
+          "Contenu": "Good and fast delivery. For any recommendation"
+        }
+      ]
+    }
+  ]
+}
