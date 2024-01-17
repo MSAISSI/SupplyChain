@@ -329,5 +329,12 @@ services:
       mysql-phpmyadmin-fastapi:
         aliases:
           - fastapi
+    environment:
+      USER1_PASSWORD: ${USER1_PASSWORD}
+      USER2_PASSWORD: ${USER2_PASSWORD}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
 
   
