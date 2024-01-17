@@ -1,0 +1,1740 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "winhost.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Tibs",
+          "Nb_Reviews": 16,
+          "Date": "2023-11-29T23:01:47.000Z",
+          "Titre": "Terrible CS with a \"not our problem\" mentality toward shared host users.",
+          "Contenu": "The CS is terrible here. Whenever we have issues the responses are very vague and generally illude to \"it's a problem on your end\", with no explanation or information. To get insight on issues, I generally have to respond multiple times. One of those times I was told we could \"upgrade to a managed server\" for nearly $300/mo. I don't need to pay triple for a managed server when a private server would allow me to access the necessary information to figure out my own problems. The issue is the complete lack of information available and CS treating you like you don't deserve help if you don't pay a premium.It took multiple complaints and months of having issues with the shared Windows host bogging down to find out that we are allotted a whopping 256mb ram. Okay... fine, I can be more efficient with my code. But seriously...256mb?Their \"unlimited\" storage is limited to 15gb at first, and each time you make a request you get a whopping 5gb more--which, when you are storing PDF's is entirely insufficient. Also... I am sitting on 31 TB on my personal computer... is it really necessary to restrict shared hosting to 15gb in this age. Are we hosting on 2005 computers still?This last time around I had an unexpected change in workflow that caused a burst of about 570 emails every 15 minutes--during the holiday when I wasn't around to notice. I received an automated ticket during thanksgiving stating that abuse would be met with account suspension and \"WinHost is not intended for mass emailing\". No consideration for the fact that all the emails were duplicates and going to the same address. When I got back from the holiday, the email account was inaccessible, yet I have been repeatedly told nothing was changed. Well the two of us with access obviously didn't change the password over the holiday. It took a couple responses to get pointed to an article on how to change your password, which was at least something. But the ticket has been repeatedly closed without answers as to why I can't login in the first place when \"nothing was changed\".I wasn't the one who chose this host... but I am the one who has initiated leaving them."
+        },
+        {
+          "Note": 1,
+          "Lieu": "AU",
+          "Pseudo": "Rachael Edginton",
+          "Nb_Reviews": 1,
+          "Date": "2021-05-05T03:55:04.000Z",
+          "Titre": "13 years I have been with winhost and\u2026",
+          "Contenu": "13 years I have been with winhost and my emails are suspended with no notice or contact? I am so frustrated as there is no way to contact them, or to access my account or look at changing or updating my billing. I lost my credit card, and need to update with my new one. I have forgotton to update and now I am out to sea without a paddle of support. So unhappy right now....."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Aaron Oppe",
+          "Nb_Reviews": 1,
+          "Date": "2018-04-03T04:29:47.000Z",
+          "Titre": "RUN - HIGHWAY ROBBERY IS IN YOUR FUTURE.",
+          "Contenu": "15.87 for renewal is HIGHWAY ROBBERY. Run from these folks as fast as you can. ABSOLUTELY ZERO CUSTOMER SERVICE. These folks want nothing but your money. I have changed domain registrar, and am now looking for a new service provider. I have spent $1000 with this company over the last few years and I am done. Moving on! You folks need to learn how to take care of people that pay. RUN RUN RUN RUN RUN, you will thank yourself in the morning, THESE ARE NOT THE LOW QUALITY SERVICE PROVIDERS YOU ARE LOOKING FOR."
+        },
+        {
+          "Note": 1,
+          "Lieu": "CA",
+          "Pseudo": "Yan",
+          "Nb_Reviews": 4,
+          "Date": "2016-01-17T15:40:47.000Z",
+          "Titre": "Bad hosting, worst support",
+          "Contenu": "They dont even let you use their DNS if you buy the domain from them, and wont refund it. Only option is to pay again for a transfer.\r Support is pretty ignorant and condescendant. Told them what the problem was, they refused to fix it because they said it was a code problem. When I transfered everything and made the change I asked them, everything worked perfectly.\r One of the worst hosting experiences I've had so far..."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Matthew E. McFetridge",
+          "Nb_Reviews": 1,
+          "Date": "2016-08-23T06:05:11.000Z",
+          "Titre": "Terrible service...",
+          "Contenu": "These guys are bad... stay away they really don't care...  I think they in the middle east and on some computer in a basement... Technical support is a joke.  I tried to get my site live for over 8 hours and it just never happened.  Their support is only on email and basically canned responses that mean absolutely nothing.  STAY AWAY"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "JS",
+          "Nb_Reviews": 1,
+          "Date": "2015-06-24T22:51:00.000Z",
+          "Titre": "GO AWAY",
+          "Contenu": "I signed up for WinHost and cancelled the very same day when I found that you couldn't host more than one domain without doing some advanced (unsupported) customization to your domain configuration. \r I have unsubscribed and submitted support tickets to remove me from their mailing list numerous times and I still get emails multiple emails a month from them asking me how I like my service. This most recent email was asking for my opinion, so here you go. They get one star because they did actually refund my money. Now, if only they would leave me alone."
+        },
+        {
+          "Note": 1,
+          "Lieu": "IL",
+          "Pseudo": "Alek Fej",
+          "Nb_Reviews": 1,
+          "Date": "2017-03-22T00:00:13.617Z",
+          "Titre": "Unuseful support, unreasonable limitations",
+          "Contenu": "SQL server is limited by 2GB or 5GB depending on plan, which becomes pretty unuseful soonNo log files can be written since the storage is limited (despite the claim that it is not)Support is unhelpful, trying to say that everything is your problem."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Bob Brickley",
+          "Nb_Reviews": 1,
+          "Date": "2016-02-02T13:21:22.000Z",
+          "Titre": "Scan Scam",
+          "Contenu": "I've been with Winhost over 5 years now and I'm moving my accounts.  \r I got an email from Winhost stating I had a compromised website (which hasn't been changed in over a year) and listed 2 files that were the offending files and suspended my account.  In addition they could charge me an hourly fee and work on the site for me.\r I removed the 2 files and notified Winhost.  I received an email stating there were more than the 2 files compromising my site leaving the only alternative of hiring someone on their staff on an open ended hourly contract to scan MY site.\r I'm moving my 2 sites this week to a new vendor that hopefully has better ethical business practices.\r Bob Brickley"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Charles",
+          "Nb_Reviews": 1,
+          "Date": "2015-01-14T23:50:30.000Z",
+          "Titre": "Horrible",
+          "Contenu": "Account domain name renewal just all screwed up \rpaid them after credit card changed and they expired my site then they again did the exact same thing"
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "mequanent tessema",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-13T05:32:45.000Z",
+          "Titre": "I am unable to get docuemntation\u2026",
+          "Contenu": "I am unable to get docuemntation /instruction on how navigate. No clear steps.."
+        },
+        {
+          "Note": 2,
+          "Lieu": "VE",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2018-04-01T12:47:27.000Z",
+          "Titre": "I need my password",
+          "Contenu": "I need my password. No help from winhostVery little supporthector de lima"
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2017-05-09T03:41:54.000Z",
+          "Titre": "The knowledge base needs a revision"
+        },
+        {
+          "Note": 3,
+          "Lieu": "CZ",
+          "Pseudo": "Dominik Janata",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-21T10:26:16.000Z",
+          "Titre": "Well manageable, yet slow.",
+          "Contenu": "Pro:The hosting is very well manageable, also via IIS Manager and SQL Management Studio from my local computer.Con:The FTP is very slow."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Diane",
+          "Nb_Reviews": 1,
+          "Date": "2022-06-12T21:54:02.000Z",
+          "Titre": "Not the greatest customer service",
+          "Contenu": "The customer service is not what I expected. Everything is done through email and you cannot physically speak to anyone. They make it very difficult to communicate and it takes too long to go back and forth through emails."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2019-06-26T01:39:48.000Z",
+          "Titre": "Winhost - neutral",
+          "Contenu": "I was directed to Winhost about 2 months ago by a trusted tech adviser and based on this paid for a year's hosting in advance."
+        },
+        {
+          "Note": 3,
+          "Lieu": "BA",
+          "Pseudo": "Emir Aliba\u0161ic",
+          "Nb_Reviews": 2,
+          "Date": "2021-02-17T06:34:37.000Z",
+          "Titre": "sometimes I have very slow application\u2026",
+          "Contenu": "sometimes I have very slow application loading. Also missing some functions.Also [Authorisation] in app sometimes loss sessions."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Byron H",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-12T02:14:07.000Z",
+          "Titre": "The price is really good for unlimited\u2026",
+          "Contenu": "The price is really good for unlimited space on websites, but what WinHost claims is a Sub-Domain does not act like an actual subdomain - disappointing."
+        },
+        {
+          "Note": 3,
+          "Lieu": "CA",
+          "Pseudo": "AA",
+          "Nb_Reviews": 2,
+          "Date": "2017-07-01T06:17:49.000Z",
+          "Titre": "The hosting company is great but control panel sucks",
+          "Contenu": "The hosting company is great, the only complain I have is the control panel where I think it should be friendlier and easier to use with less tweets/news on the main page. Update: I put a 3 star from 4 because the control panel does not support a GUI to point a subdomain to a folder, You will have to do it programatically!"
+        },
+        {
+          "Note": 3,
+          "Lieu": "TR",
+          "Pseudo": "Serdar Rifat Turgut",
+          "Nb_Reviews": 1,
+          "Date": "2017-01-15T07:19:43.000Z",
+          "Titre": "Insufficient Speed",
+          "Contenu": "When I compare the speed of Winhost with my other hosting company, Winhost is really poor. I'm not very sure but linux based hosting with gzip option is much more efficient.What do you think?-----------Edited after the replyYou're 100% right, but the explanation didn't change the speed ;)"
+        },
+        {
+          "Note": 3,
+          "Lieu": "CA",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2017-06-10T02:13:25.000Z",
+          "Titre": "Great for basic no-frills hosting, but...",
+          "Contenu": "Great for basic, no-frills hosting, but as soon as you need anything vaguely advanced, you get bland non-helpful answers and support.  I only use this service for our vanilla clients.  Three times now we've hit the wall with this shared hoster with other clients, who are now elsewhere."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Dr. David E. Vaught",
+          "Nb_Reviews": 2,
+          "Date": "2017-09-21T22:26:34.000Z",
+          "Titre": "I really love WinHost",
+          "Contenu": "I really love WinHost, but the \"work around\" to use ASP.NET Core is unacceptable.  If you advertise that you run ASP.NET Core, you should run it in native Framework-Dependent Deployment (FDD) mode, not in a work-around, Self-Contained Deployment (SCD) mode.  The SCD method creates HUGE deployment artifacts, which take 30-60 seconds to load, even on a Premium account footprint.  My customers don't accept that lack of response time.  I am deploying my next application site to Azure.  The cost may be more, but the enhanced response time and ability to publish in FDD mode is worth the change in scenery and the increased cost."
+        },
+        {
+          "Note": 3,
+          "Lieu": "GB",
+          "Pseudo": "David Witko",
+          "Nb_Reviews": 8,
+          "Date": "2016-11-20T11:56:36.000Z",
+          "Titre": "Support Ok but always answers in very technical language",
+          "Contenu": "Product is great but my experience with Support is questionable.Several times I have had to check why I cannot access using FTP and sometimes when users report my site is down. Support's first response is always 'we have checked it at our end and everything is fine'When I keep pushing then all of a sudden things go back to normal - without me doing anything at all. Makes me think they found a problem and resolved it but would never admit or advise me.At times when they have advised me to try to do some things the language used is very technical and seems to assume  you are in-house dev or tecchie or something. If you are then everything will be fine - if not then you will struggle"
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Bill",
+          "Nb_Reviews": 1,
+          "Date": "2016-11-18T22:07:59.000Z",
+          "Titre": "Fast servers, no chat support.",
+          "Contenu": "If you have issues you will need to put in a ticket and wait.One issue I had caused trouble with everyone one the server and they stopped  my websites, the problem is they did not notify me of the issue."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Jimmy Neutron",
+          "Nb_Reviews": 2,
+          "Date": "2016-02-15T15:47:13.000Z",
+          "Titre": "Down times",
+          "Contenu": "Please give a quick response when you have problems with hackers, invest in skilled people and tools.\r Make Windows Updates on weekends, preferably on sundays.\r Thanks"
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "J Burnham",
+          "Nb_Reviews": 1,
+          "Date": "2015-08-04T00:00:37.000Z",
+          "Titre": "Email was a disaster",
+          "Contenu": "Hosting was fine. Fast, even for a windows server running PHP. I've found in the past that running PHP on a Linux client is much faster, but this was good. I needed to host a .Net site concurrently, so this was convenient. They offer Full trust, which was also good.\rThe only bad thing that will keep me from continuing the service is bulk email. They allow up to 4,000 outgoing emails a day if you throttle the sending, which is awesome. But, I didn't need quite that much. At the start, I needed to send out 110 emails via SMTP server on a Wordpress site one day. After 25 emails sent, nothing else was sent out. Turns out, I was flagged as SPAM by their email filter. After three attempts and a full week of fixing things, it never really was fixed. I chose to stay with GoDaddy (ugh) and use a third party email company. The only reason I chose WinHost was because of the email claim. If you have light email needs, you probably will not have an issue."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Victoria Boroveeva",
+          "Nb_Reviews": 1,
+          "Date": "2015-06-23T13:26:15.000Z",
+          "Titre": "No live representatives to talk to.",
+          "Contenu": "the online services to manage a website are great, but really lacking a live customer service representative to talk to and ask questions."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 2,
+          "Date": "2017-07-17T17:31:37.000Z",
+          "Titre": "No proper email service provided e.g",
+          "Contenu": "No proper email service provided e.g.  gmail"
+        },
+        {
+          "Note": 3,
+          "Lieu": "BR",
+          "Pseudo": "agathasociety",
+          "Nb_Reviews": 1,
+          "Date": "2017-05-24T20:09:08.000Z",
+          "Titre": "a cpanel is necessary"
+        },
+        {
+          "Note": 3,
+          "Lieu": "SG",
+          "Pseudo": "Sebastian",
+          "Nb_Reviews": 1,
+          "Date": "2014-12-22T03:00:39.000Z",
+          "Titre": "Cheap but slow"
+        },
+        {
+          "Note": 4,
+          "Lieu": "NL",
+          "Pseudo": "Wout de Zeeuw",
+          "Nb_Reviews": 2,
+          "Date": "2023-10-24T12:29:09.000Z",
+          "Titre": "Windows web hosting (Max plan) review",
+          "Contenu": "This is a first review after about half a year of use of winhost's asp.net core windows hosting.Overall: very happy with the hosting, albeit that some features that are standard included in other shared hosting providers are missing.Pros:+ Very stable, haven't had a single outage. (Unlike Accuwebhosting that non-stop crash their servers).+ Support is responsive and competent. You're not first getting some call center in a low wage country that first gives you nonsense replies 3 times where you have to keep explaining yourself over and over before getting escalated to real engineers (Accuwebhosting does this)+ The amount of memory and disk space is generous on their Max plan ($9.95 per month).+ Pricing quite competitive, Max plan is quite good.There are some downsides, no deal breakers, but still some inconveniences/annoyances:- The control panel is ancient and missing quite a number of things that is standard in modern control panels like Plesk. They are some ancient set of aspx pages. Overall winhost seems reluctant to invest in a more full featured control panel or just using Plesk, which is a shame, because this would easily land them in the 5 stars rating. I don't understand the reluctance to change, I've seen multiple people asking for features mentioned in this list, and they're all being shot down.- No online file manager. If you need to move large directory trees around on the server, that kind of thing is painful/impossible. I've had to create a primitive file manager myself to do this. File manager is standard in other control panels.- No automated support for letsencrypt certificates. You can however do this manually using certbot. I will provide a simple helper batch file below.- No option to shut down app pool in control panel. Is standard in Plesk. You'll have to rename web.config temporarily to shut down your asp.net core web app to upload new binaries.- Download speeds are not very high.As promised, here's a little batch file to help you generate a letsencrypt certificate for winhost:-----REM This is a simple batch file to create a Letsencrypt certificate using a CSR from a web host.REMREM Run as adminstrator, needs certbot to be installed.REMREM Get certbot from githubREMREM Instructions:REMREM - Get CSR: In cp.winhost.com: Sites List, Site Manager, SSL, Click \"Generate New CSR\". REM   If your domain name starts with www., the common name field must have www. as a prefix, otherwise it won't work.REM - Click \"Submit CSR Information\"REM - Copy the CSR text into a file C:\\tmp\\csr.txt.REM - Run this batch file.REM - When running for the first time, certbot will ask to upload a file with specific contents to a specific url.REM   Create/upload this file and press enter.REM - If successful, the following output is displayed:REM      Successfully received certificate.REM      Certificate is saved at:            C:\\tmp\\cert.pemREM - Open file C:\\tmp\\cert.pemREM - Copy/paste the contents of the cert.pem file into the web host control panel and click the submit button.mkdir C:\\tmpcertbot certonly --manual --csr C:\\tmp\\csr.txt --cert-path C:\\tmp\\cert.pem --key-path C:\\tmp\\key.pem --fullchain-path C:\\tmp\\fullchain.pem --chain-path C:\\tmp\\chain.pempause"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Steven Harris",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-14T01:16:47.000Z",
+          "Titre": "Winhost has been great to work with!",
+          "Contenu": "I spent eight months trying to work with an ISP that didn't care and didn't listen, a deadly combination in any service provider. After searching for an alternative, I chose Winhost to host my web site and haven't looked back. When a bump or two were encountered, they listened at what was happening and actually helped solve the problems. They've been great, and I\u2019m looking forward to a long relationship working with them."
+        },
+        {
+          "Note": 4,
+          "Lieu": "GB",
+          "Pseudo": "kingletit",
+          "Nb_Reviews": 12,
+          "Date": "2018-12-08T22:32:33.000Z",
+          "Titre": "Very good value but need more helpful support staff.",
+          "Contenu": "Very good value. I certainly recommend. Can only 4 stars because support personnel seem to do absolute minimum to answer questions. E.g. they will refer you to an existing help page without reading that you already know about that page but still have a problem. I get the feeling they don't have sufficient staff to really pay attention to the questions they're being asked so it's not an individual's fault.. They are however much, much better than Active24, who are just hopeless. 3Essentials had truly excellent support but their contracts became prohibitively expensive."
+        },
+        {
+          "Note": 4,
+          "Lieu": "IN",
+          "Pseudo": "Sylvia James",
+          "Nb_Reviews": 2,
+          "Date": "2020-08-18T15:20:09.000Z",
+          "Titre": "A good Windows Server Host.",
+          "Contenu": "If you are looking for Windows based Server for your hosting purposes, This Host is a good choice.They provide latest versions of Win Servers, with almost all services one may need including databases, emails, control panels and more.One will not be disappointed with them.This review is entirely on my own experience with them and doing this not for any monetary benefits!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "LB",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2019-07-31T08:04:38.000Z",
+          "Titre": "So far no complaints",
+          "Contenu": "As of now, WinHost has delivered on what we needed. So far so good, its been 1 month, our programmer wont use anything else. Personally, i have not worked within the domain to be able to judge fairly, but from what we understand it is the most practical in creating a website according to personal preference. Making web designing easy,."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "John Rountree",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-17T22:34:22.000Z",
+          "Titre": "It is one of the best sites for Windows",
+          "Contenu": "It is one of the best sites for getting windows..Net Core up in running.They know windows and have helped fix the few problems/questions I had.However, it is too slow as my page reads and displays from database files and creates new pages each time. If you have a normal simple text with photos as long as your not loading a ton of photos it will be fine for 99% of the page most people write.I may have to move to a provider with a virtual server as I do not believe Winhost offers a faster private server plan."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Craig Barnhart",
+          "Nb_Reviews": 2,
+          "Date": "2022-02-01T19:57:35.000Z",
+          "Titre": "I contacted Winhost about migrating my\u2026",
+          "Contenu": "I contacted Winhost about migrating my website from another host, and they guided me through the process nicely. I am a web developer so the process was simple enough for me.Their prices are good, and it was stated that there will be no surprise increases after a period of time. There is not an incentive price, which is what my last host had. That is the reason I migrated to Winhost. I am holding off on giving 5 stars until I assess performance of the new site and future support from Winhost."
+        },
+        {
+          "Note": 4,
+          "Lieu": "GB",
+          "Pseudo": "Robert Nwadinobi",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-28T09:02:02.000Z",
+          "Titre": "Oh No! What have I done\ud83e\udee3",
+          "Contenu": "Developing an e-commerce site will always come with its challenges\u2026 especially when you begin feeling adventurous and neglect change management rules. It\u2019s been brilliant having Winhost on side to rescue me from self-made dilemmas and also can\u2019t wait until they have follow the sun support available so we across the pond don\u2019t have an approximately 8 hr wait until our ticket is picked up. Please, Winhost follow the sun and get my last \u2b50\ufe0f Grateful Customer"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Mike",
+          "Nb_Reviews": 1,
+          "Date": "2018-02-27T05:09:06.000Z",
+          "Titre": "Winhost hosting company",
+          "Contenu": "I was impressed at how quickly I was able to successfully transfer my domain to Winhost. Unfortunately, as soon as I launched my primary e-mail account, I was bombarded with spam and junk e-mail.  I never had an issue with my former hosting company regarding spam e-mail.  I receive an average of 30+ spam e-mails per day now and it's a challenge to keep updating my content filters to try to re-route the spam e-mail to the delete bin.  So far, this the major grievance I have with Winhost.  I don't know how my e-mail address was exposed to the junk mail distribution pipeline, but it's frustrating receiving this crap.The only thing left to do is create a new primary e-mail account and let all my friends and business contacts know the new one.....this is a hassle!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Brian L",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-24T21:29:44.000Z",
+          "Titre": "Very easy to switch over",
+          "Contenu": "Very easy to switch over. No interruptions. Much cheaper and no annoying sales emails! Not being a computer geek, I am having some trouble getting all the supporting stuff (like email) up & running like I want it to. I will deal with that stuff later as it isn't critical."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "vaxjo",
+          "Nb_Reviews": 1,
+          "Date": "2018-06-08T11:24:17.000Z",
+          "Titre": "a little hairy setting up multiple\u2026",
+          "Contenu": "a little hairy setting up multiple \"sites\" in a single account, but possible.very glad to see their active participation in the user forumsthat ACL problem with web deploy is super irrtating"
+        },
+        {
+          "Note": 4,
+          "Lieu": "IL",
+          "Pseudo": "yaniv",
+          "Nb_Reviews": 1,
+          "Date": "2020-07-22T08:23:58.000Z",
+          "Titre": "very reponsive support and refund when\u2026",
+          "Contenu": "very reponsive support and refund when i needed it.there is a problem with products that winhost market for other companies (like SSL), it is not sure from the site if it is a \"forigen\" or winhost product.but in winhost products, it is excellent"
+        },
+        {
+          "Note": 4,
+          "Lieu": "GH",
+          "Pseudo": "Aidc Ghana",
+          "Nb_Reviews": 1,
+          "Date": "2020-09-12T07:53:44.000Z",
+          "Titre": "They should make room to increase\u2026",
+          "Contenu": "They should make room to increase resources.For example, when email size gets full,they should allow customers to buy additional space."
+        },
+        {
+          "Note": 4,
+          "Lieu": "KE",
+          "Pseudo": "eric aput",
+          "Nb_Reviews": 1,
+          "Date": "2018-09-05T16:11:43.000Z",
+          "Titre": "So far I am comfortable with winhost",
+          "Contenu": "So far I am comfortable with winhost, what I love most is the quick response  from support AND they respond with solutions. they dont respond just to respond, they respond quickly and effectively. highly recommended webhosting service provider."
+        },
+        {
+          "Note": 4,
+          "Lieu": "ZA",
+          "Pseudo": "AfroTada Company",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-18T04:25:32.000Z",
+          "Titre": "The remaining star is left for\u2026",
+          "Contenu": "The remaining star is left for improvement, winhost should make it an habit to send update emails to their customers. Create a relationship with them through periodic emails concerning the websites, services they can offer. That helps cement the relationship we the customers have with them and also creates a sense of proximity."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "JiB",
+          "Nb_Reviews": 1,
+          "Date": "2021-10-01T19:22:00.000Z",
+          "Titre": "Really glad there's still a host that\u2026",
+          "Contenu": "Really glad there's still a host that fully supports Classic ASP. GoDaddy claims to support Classic but some code doesn't work. Thankfully I found Winhost and didn't have to spend the time to convert sites to .net"
+        },
+        {
+          "Note": 4,
+          "Lieu": "BR",
+          "Pseudo": "israel silva",
+          "Nb_Reviews": 1,
+          "Date": "2018-12-26T12:19:58.000Z",
+          "Titre": "I am really enjoing work with you",
+          "Contenu": "I am really enjoing work with you, the only concern is that in this little time I spend using your services I already had my server down, I don't know if it was bad luck, or if this happens often."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Paul Zeitchick",
+          "Nb_Reviews": 1,
+          "Date": "2018-05-16T15:10:27.000Z",
+          "Titre": "I wanted more from my previous ISP and they couldn't deliver. I needed a change.",
+          "Contenu": "I was looking for an alternative to the already affordable hosting I had. Winhost was the same price for much more service and tools. I was able to expand my site and develop using technologies that were not supported on my previous ISP. If I kept the same services as before, my bill would have been cut in half. I opted to pay the same and increase the amount of databases, bandwidth, storage space, etc. WinHost was easy to switch to. However, there is no phone support, which bothered me a little but once I started, it was so easy, I did not require any support. The few questions I had afterwards, I sent emails and they were responded to promptly. One shortcoming is the amount of tools at your disposal. There is no FTP tool or database management tool. To work with my databases, I need to have my own SQL management and my own FTP software. Small by comparison to what I am getting in return. WinHost may be small now but I think this was an excellent move for my business and I look forward to see what is coming in the near future."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Greg D.",
+          "Nb_Reviews": 1,
+          "Date": "2020-02-21T03:06:53.000Z",
+          "Titre": "Good company and service",
+          "Contenu": "I like this company and their service. The only reason for four rather than five stars is lack of support for the most current version of .Net Core which I know is forthcoming."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "customer Tam Phan",
+          "Nb_Reviews": 1,
+          "Date": "2019-01-19T18:50:48.000Z",
+          "Titre": "your Winhost is interesting",
+          "Contenu": "your Winhost is interesting. You help us to link together thru this website. It is easy to edit. Thanks. Tam Phan"
+        },
+        {
+          "Note": 4,
+          "Lieu": "HK",
+          "Pseudo": "Wu",
+          "Nb_Reviews": 1,
+          "Date": "2022-03-29T09:13:47.000Z",
+          "Titre": "Easy to set up and start development."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Dave",
+          "Nb_Reviews": 1,
+          "Date": "2016-02-15T19:32:18.000Z",
+          "Titre": "Good but",
+          "Contenu": "their support had so many outdated issues that getting going was hard, first there was a problem hosting what I wanted for what I signed up for, then I could not get email to work and they wanted me to pay more.  In the end I got what I wanted and did not have to pay more but it took me threatening to cancel that got things moving.  But there were all too eager to cancel and not solve the issues"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Janet Barbeau",
+          "Nb_Reviews": 1,
+          "Date": "2015-07-01T15:14:29.000Z",
+          "Titre": "Good experience",
+          "Contenu": "The time on answering issues is awesome. The up time and overall experience has been very good. The only short point is the documentation is not up to par. It is really sketchy in areas. Also, should include a way to put your site out there in test mode. I had to use IIS to exclude all users. This was annoying to have to reset everytime I deployed."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Neil Gould",
+          "Nb_Reviews": 1,
+          "Date": "2016-11-15T19:16:05.000Z",
+          "Titre": "Very Good Experience, so far!",
+          "Contenu": "Although I've created and maintained websites since the mid 1980's, I am a relatively new Winhost customer. Every web hosting company that I've worked with over the years has their own way of operating, which makes it critical for them to have good tech support, good documentation of their server functions, and be responsive to inquiries. So far, Winhost has been one of the best in each of those areas. I am likely to move other sites that I manage to their company."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Lewis White",
+          "Nb_Reviews": 1,
+          "Date": "2015-06-19T14:21:34.000Z",
+          "Titre": "Solid hosting at a solid price",
+          "Contenu": "Hosting is good.  Plans are competitively priced.  Shared hosting can be a little slow at times, but that's not unexpected from a shared hosting plan.  My only real complaint is that their admin utilities could be beefed up a bit.  They are not always intuitive, and lack some of the fine grain controls that I would see on other hosts."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Mike A",
+          "Nb_Reviews": 1,
+          "Date": "2018-10-08T22:33:23.000Z",
+          "Titre": "Good service",
+          "Contenu": "Good service,  good documentation,  but the limits are are little restrictive"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Robert Phan",
+          "Nb_Reviews": 1,
+          "Date": "2016-08-29T17:19:48.000Z",
+          "Titre": "Great Customer Service",
+          "Contenu": "The only reason I don't give 5 stars is because of the uncertainty of the future.  I can only say this, at the current time, Winhost has great customer service; you ask a question, they will respond within the time they say they would.  As for the sites, I never had any issues."
+        },
+        {
+          "Note": 4,
+          "Lieu": "AU",
+          "Pseudo": "JohnHQLD",
+          "Nb_Reviews": 1,
+          "Date": "2015-07-22T09:52:34.000Z",
+          "Titre": "Simple, cheap and reliable",
+          "Contenu": "Been with WInhost for a couple of years now, a fairly simple interface but I have always had access to more than I expected especially for the price.\r The couple of times I have had issues the tech support guys have been very helpful and bought things to a quick resolution."
+        },
+        {
+          "Note": 4,
+          "Lieu": "JM",
+          "Pseudo": "Kashif",
+          "Nb_Reviews": 1,
+          "Date": "2017-03-29T10:17:22.000Z",
+          "Titre": "Very reliable hosting",
+          "Contenu": "It's difficult to get good and reliable windows hosting at a reasonable price. WinHost delivered on this without an issue. Though their backend panel is very simple compared to others, its proven to be very reliable so far and I get a bit faster performance."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Russell",
+          "Nb_Reviews": 1,
+          "Date": "2015-01-08T22:04:28.000Z",
+          "Titre": "Great Value and Support Response Times",
+          "Contenu": "I have been using Winhost for over 2 years and their online support is fantastic!  I have always been impressed with their professionalism, technical knowledge and quick response times.  \r Primarily, I use their services for hosting multiple ASP.Net websites, along with a Web API 2 service, SSL cert, email and multiple SQL Server databases. \r The only thing I've had friction on is the occasional request to recycle their web management service on a web server (which must be done by them) when my publish (from within Visual Studio) hangs. \r I definitely recommend Winhost to anybody wanting a big bang for their buck.\r Regards,\rRuss"
+        },
+        {
+          "Note": 4,
+          "Lieu": "GB",
+          "Pseudo": "Mick Morgan",
+          "Nb_Reviews": 1,
+          "Date": "2015-12-28T08:16:17.000Z",
+          "Titre": "Winhost Opinion",
+          "Contenu": "Not too much time to put to the test, but the first impression was that it is very slow to upload and download compared to any other host. I hope this can be remedied as it inhibits my use (my database is 30Mb)."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Vectrexer",
+          "Nb_Reviews": 1,
+          "Date": "2017-04-18T21:44:30.000Z",
+          "Titre": "Nice Follow up.",
+          "Contenu": "Nice follow up by WinHost.com in addressing an issue that initially looked to be an SEO ruse.  It's follow up like this  that helps to establish trust in a company.  Keep up the effective communication."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Jacob",
+          "Nb_Reviews": 1,
+          "Date": "2017-10-12T16:18:02.000Z",
+          "Titre": "Happy with hosting here so far",
+          "Contenu": "Happy with hosting here so far. App start can be a little slow but performance is good after that. I appreciate the SSL and SQL included in the package. Haven't dealt with customer support yet."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Jake Kinzie",
+          "Nb_Reviews": 1,
+          "Date": "2016-07-18T17:44:09.000Z",
+          "Titre": "Winhost - Good Service",
+          "Contenu": "This is the second time that I've used Winhost to host a personal website.  I find that their on-line control panel, knowledge base articles, and tech support to be very helpful and informative."
+        },
+        {
+          "Note": 4,
+          "Lieu": "LB",
+          "Pseudo": "Customer",
+          "Nb_Reviews": 1,
+          "Date": "2017-07-24T09:16:49.000Z",
+          "Titre": "its been about 7 satisfied years",
+          "Contenu": "its been about 7 years and we are satisfied, but the only issue is that Saturday and Sunday many kinds of support are not available. But WinHost is very good company and i recommend to others"
+        },
+        {
+          "Note": 4,
+          "Lieu": "GR",
+          "Pseudo": "Stathis",
+          "Nb_Reviews": 1,
+          "Date": "2016-05-18T19:15:12.000Z",
+          "Titre": "Reliable",
+          "Contenu": "We are running a MVC application on .NET 4.5 framework and everything is ok. It also supports many .Net applications giving the opportunity to host beta environments in the same hosting package."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Scott M. (A.C.E.)",
+          "Nb_Reviews": 1,
+          "Date": "2017-09-06T12:37:32.000Z",
+          "Titre": "The support staff at Winhost are \u2026",
+          "Contenu": "The support staff at Winhost are responsive and helpful.  They walked me through several issues with solutions that worked for me.  I would recommend Winhost for your web hosting needs."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Dennis",
+          "Nb_Reviews": 1,
+          "Date": "2015-01-08T22:12:20.000Z",
+          "Titre": "Overall Very Good",
+          "Contenu": "I've been using Winhost for over 5 years with great success.  Support is usually pretty good - though there are times they point the finger back to me, when it is really their problem."
+        },
+        {
+          "Note": 4,
+          "Lieu": "AU",
+          "Pseudo": "Remy Woods",
+          "Nb_Reviews": 2,
+          "Date": "2017-07-23T07:21:41.000Z",
+          "Titre": "No Dramas",
+          "Contenu": "You may need a little admin experience as DB access is remote as well as IIS. Basic but simple. I needed Full Trust for MVC applications and WinHost provided what I needed."
+        },
+        {
+          "Note": 4,
+          "Lieu": "GR",
+          "Pseudo": "BrilliCut/BrilliApp",
+          "Nb_Reviews": 2,
+          "Date": "2017-03-02T08:41:48.000Z",
+          "Titre": "You get what you pay.",
+          "Contenu": "WinHost is the provider that means every word written for their services.There is nothing hidden. Excellent support, which matters most for my company."
+        },
+        {
+          "Note": 4,
+          "Lieu": "GH",
+          "Pseudo": "Database User",
+          "Nb_Reviews": 1,
+          "Date": "2017-10-21T04:10:04.000Z",
+          "Titre": "Very reliable",
+          "Contenu": "We hosted our database on their server and had very sweet uptime through the time of usage. Speed of response can be improved though. Thanks winhost"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Joe Somebody",
+          "Nb_Reviews": 1,
+          "Date": "2017-03-19T21:05:14.000Z",
+          "Titre": "Very good, no complaints",
+          "Contenu": "Very good service, support team is knowledgeable and responsive. I have tried several other hosting providers, this is the best one so far."
+        },
+        {
+          "Note": 4,
+          "Lieu": "MK",
+          "Pseudo": "Igor",
+          "Nb_Reviews": 1,
+          "Date": "2017-04-12T07:14:09.000Z",
+          "Titre": "Great support",
+          "Contenu": "Great support, fast response, good value for the price. Meant for advanced users, some operations with domains you have to be experienced."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Michael Scott",
+          "Nb_Reviews": 2,
+          "Date": "2016-02-06T15:04:20.000Z",
+          "Titre": "Wish Winhost had a similar way of adding domain names as Arvixe has",
+          "Contenu": "I would not change anything in Winhost except the domain pointer paradigm.  Arvixe offered a method that distinguished the email addresses."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Ronald Thorne",
+          "Nb_Reviews": 1,
+          "Date": "2016-02-08T19:31:31.000Z",
+          "Titre": "Helped being pulled out of Quagmire!",
+          "Contenu": "Helping me gradually out of a nightmare, that I knew dial-up code and pop methodology, and this being my first, official dot com, the complexity is due to the right to use same.\rThe team, has gone out of their responsibility with the agreement for web site, and helped me get their incredible email program, working to a degree, however as usual lots to learn yet.\rFinding their help files to be clear, concise and at a level of verbal rhetoric that even I can understand, as the light bulbs go off in my mind from back in the day of dial-up 600bps modem use, and all that I've forgotten, and those hand written documents are buried, so scattered, that it is better, I re-learn and learn all that I can from all areas of help within their web site.\rI've just about got my first web page ready to go, and upload to my dot com, and have been so... excited to have my family proud of the dear old dad, to finally accomplish these things.\rHat's off to Team and Thank You !"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 2,
+          "Date": "2019-07-22T10:23:51.000Z",
+          "Titre": "All good",
+          "Contenu": "Good support, could up capacities"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Darol Lucas",
+          "Nb_Reviews": 1,
+          "Date": "2015-07-10T13:26:34.000Z",
+          "Titre": "Initial Review",
+          "Contenu": "I'll write this initial review, but only give 4 stars, since I haven't actually had enough time to evaluate the services provided by WinHost. First, I'm happier with WinHost than I am with DigitalOcean because WinHost provides IIS hosting. I'm more knowledgeable in Windows Systems Engineering than I am in Linux, so I find it easier to spin up websites using IIS. \r Also, I believe this survey / review came to me because of my recent experience with Tech Support. It was very positive. Good response time and no ambiguity when it came to resolving the issue. I had a PHP error and they fixed it. That is how support should be. I don't do many complex things when spinning up websites, so I think that the few issues I may run into should be easily resolvable. \r I have also already had to use the backup service at least twice now (my error, not WinHost's) and it was flawless. Restore a full site with no issues. \r So far, I am very happy with the service provided by WinHost, but I am not so anxious to jump in and give them a 5 star just yet. I am going to continue to evaluate the full extent of their services and see how well it goes.\r Thank you"
+        },
+        {
+          "Note": 4,
+          "Lieu": "SA",
+          "Pseudo": "Ahmad Qattous",
+          "Nb_Reviews": 1,
+          "Date": "2017-01-31T16:38:35.000Z",
+          "Titre": "Good",
+          "Contenu": "I believe that Winhost is the best hosting provider but sometimes, the IIS service seems keep restarting"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2017-11-23T14:54:36.000Z",
+          "Titre": "Excellent tech support",
+          "Contenu": "Excellent tech support.  Most features work.  Most things have documentation in knowledge base."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "joe",
+          "Nb_Reviews": 1,
+          "Date": "2015-07-15T11:50:52.000Z",
+          "Titre": "So far, very good!",
+          "Contenu": "I have only been using Winhost for a few days but so far I am pretty impressed.  I have a couple of old Classic ASP sites that were crippled by my old webhost.  The sites don't get much traffic but they are a hobby for me and I wanted to get them running again...\r I found Winhost by searching for \"Classic ASP hosting\".  They support the Persits suite of tools which is critical for me.  Transferring my first site and database over was pretty painless.  I will work on the other site in the near future. \r Their support is very quick to reply to email but there is no chat or phone option.  I find their control panel to be utilitarian if not overly friendly.  I believe they wrote their own control panel rather than use something like Plesk.  So far, it has done just about everything I needed it to do although it just doesn't feel \"friendly\".  If I was new to web hosting, I probably would feel lost but I have done this dance several times and I know what to look for...  \r One potential gotcha: They do not include daily site backups as part of their plans.  You have to pay a few dollars for it monthly.  This is the first time I have seen a webhost charge for backups.  By this point, I think most us take that for granted."
+        },
+        {
+          "Note": 4,
+          "Lieu": "SA",
+          "Pseudo": "Abdullah Alashry",
+          "Nb_Reviews": 1,
+          "Date": "2015-06-19T11:38:16.000Z",
+          "Titre": "Excellent Hosting with Good Price",
+          "Contenu": "Stable hosting more than many companies that provide asp.net hosting.\rVery good control panel"
+        },
+        {
+          "Note": 4,
+          "Lieu": "BR",
+          "Pseudo": "Thiago",
+          "Nb_Reviews": 1,
+          "Date": "2015-03-16T13:52:02.000Z",
+          "Titre": "Great service",
+          "Contenu": "Easy to configure, good cost and fast support response.\r I\u00b4m indicate to everyone."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2018-01-05T17:13:56.000Z",
+          "Titre": "The website does everything that I wanted.",
+          "Contenu": "I have had no problems with WinHost. The website does everything that I wanted."
+        },
+        {
+          "Note": 4,
+          "Lieu": "NG",
+          "Pseudo": "Emeka C",
+          "Nb_Reviews": 1,
+          "Date": "2017-08-07T23:08:39.000Z",
+          "Titre": "Good knowledge base system",
+          "Contenu": "Good knowledge base system, easy to use interface, quick to respond to issues."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Jerry",
+          "Nb_Reviews": 3,
+          "Date": "2017-03-01T19:09:22.000Z",
+          "Titre": "Decent price and easy setup. Good customer support.",
+          "Contenu": "They were affordable and had an easy setup and transferring dns was easy."
+        },
+        {
+          "Note": 4,
+          "Lieu": "EG",
+          "Pseudo": "Tarek Youssef",
+          "Nb_Reviews": 1,
+          "Date": "2021-10-23T12:26:30.000Z",
+          "Titre": "Excellent experiment",
+          "Contenu": "Excellent experiment, fast and perfect response."
+        },
+        {
+          "Note": 4,
+          "Lieu": "FR",
+          "Pseudo": "myname",
+          "Nb_Reviews": 1,
+          "Date": "2015-12-29T09:14:39.000Z",
+          "Titre": "Great hosting service and support",
+          "Contenu": "Just that\r(sorry, but I am requested to type more than 10 chars :)) !"
+        },
+        {
+          "Note": 4,
+          "Lieu": "PK",
+          "Pseudo": "irfan",
+          "Nb_Reviews": 1,
+          "Date": "2017-05-09T11:07:41.000Z",
+          "Titre": "ca sports, sialkot pakistan",
+          "Contenu": "its best to secure data and easy to use"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2017-04-05T20:25:48.000Z",
+          "Titre": "Easy setup and intuitive control panel"
+        },
+        {
+          "Note": 4,
+          "Lieu": "BR",
+          "Pseudo": "Fabio Luiz Paranhos Borelli",
+          "Nb_Reviews": 1,
+          "Date": "2015-12-21T14:37:33.000Z",
+          "Titre": "very good host!!!",
+          "Contenu": "very good host for windows!!!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Herbert Zinser",
+          "Nb_Reviews": 1,
+          "Date": "2015-08-11T12:12:09.000Z",
+          "Titre": "Winhost Blog-Engine hosting",
+          "Contenu": "Everything is working fine."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Gary",
+          "Nb_Reviews": 4,
+          "Date": "2016-07-10T20:34:01.000Z",
+          "Titre": "Good Product & Support - Average Tools",
+          "Contenu": "First, I have to say that I had to move my website from Arvixe, which has a very poor organization that exhibits almost non-existent support\u2014Beware all potential users! They took my money over my protests (outside their warranty period) when my website's server was down for over six weeks! They did not respond to my many service \u2018tickets\u2019 to move my website to a working server. Their Chat service goes through the Phillipines, with folks who cannot possibly help with obviously poor management and their equipment issues, and I had no choice after two weeks of this but to then switch ISPs immediately.Now, my early experience with WinHost is far and above that of Arvixe, in how WinHost provided content and their responses to my questions. The reason I did not award five stars is that this organization is still relying on the expertise of people. What I mean by this is I'm looking for systems (in the dry, barren desert wasteland of internet services) that employ an automated \"expert system\" in response to technical or other service questions. For example, I recently sent a bit of code I used in my website's email routine and asked for WinHost\u2019s help.The initial response during a Chat was inadequate! Now, I can certainly 'feel' for the folks manning their posts\u2014possibly youngish, with maybe little skills in the way of investigative and failure-analysis training or techniques. But, less than an hour later, I got an email with an example ASP script to use and with only two minor tweaks to my existing code, I was immediately back in business! In a communication about three weeks earlier on a less-technical question, I was 'serviced' by someone who was having a bad day. This was evidenced by their terse responses and non-answers to some of my questions during the Chat session.Again, it's difficult to respond on a daily basis to problems that other people are having, through tough communication channels such as Chat or email, and I certainly sympathize with this daily \u2018grind\u2019. Many people have trouble communicating their problem and may not even know why they are seeing the results they are. They may be inarticulate, whether through writing in Chat or an email request, or when speaking with someone. A better method is a machine that asks a few questions and either sends the data / information they may be looking for, then \u2018intelligently\u2019 waits for a reply as to whether the issue was resolved. If the machine can\u2019t answer their question, the individual is informed that a person will be in touch shortly. Much better, in my opinion!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "IN",
+          "Pseudo": "Sudipto Kumar Mukherjee",
+          "Nb_Reviews": 1,
+          "Date": "2016-10-19T08:42:24.000Z",
+          "Titre": "Awesome service. I will recommend anyone.",
+          "Contenu": "Great service."
+        },
+        {
+          "Note": 4,
+          "Lieu": "NG",
+          "Pseudo": "shoproyale",
+          "Nb_Reviews": 1,
+          "Date": "2018-01-03T17:12:06.000Z",
+          "Titre": "Satisfactory"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jeff V",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-11T08:39:38.000Z",
+          "Titre": "Switching to Winhost was a good decision",
+          "Contenu": "I was forced to find a new provider when my my former provider stopped caring about its customers.  I switched to Winhost a couple of months ago and so far I've been very pleased with both the service and support.  There are a few things I find inconvenient or annoying, but nothing bad enough to make me regret my decision."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GH",
+          "Pseudo": "Daniel Perez Fiadzeawu",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-14T12:04:08.000Z",
+          "Titre": "Great team who are ready to assist in\u2026",
+          "Contenu": "Great team who are ready to assist in every way they can to make sure your site works perfectly right from onboarding to running of your site. My only issue is in the event of emergency where you need urgent response, you sometimes might not get in time probably due to difference in time zones."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "BetterSunshine.com",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-02T16:59:53.000Z",
+          "Titre": "My E-commerce site BetterSunshine.com\u2026",
+          "Contenu": "My E-commerce site BetterSunshine.com has been hosted by WebHost for eight (8) years. While support has been seldom needed, the few times support was needed, it has been prompt and professional. Absolutely no regrets. (Oh, and nobody paid me to compose and submit this review. I pay WebHost for their very worthwhile hosting service!)"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Vincent Lozupone",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-27T17:32:43.000Z",
+          "Titre": "WinHost is top notch!",
+          "Contenu": "WinHost is an excellent hosting facility. I can say enough good things about them. You also can't beat the price. The control panel is easy to use and offers many practical applications that are easy to consume. The support staff is top-notch as well. You can't go wrong by using WinHost as your web hosting site."
+        },
+        {
+          "Note": 5,
+          "Lieu": "MX",
+          "Pseudo": "Gary Calow",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-26T21:48:58.000Z",
+          "Titre": "The company is running windows servers\u2026",
+          "Contenu": "The company is running windows servers which support mysql, plus other additions. Most companies are running Linux. It is hard to find a good company running Windows Server. Also I have 2 sites running on Linux boxes and have had problems, but not with WINHOST."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Steve Hall",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-04T22:32:27.000Z",
+          "Titre": "Dependable and responsive.",
+          "Contenu": "First, the offerings of Microsoft based services I am already familiar with including the latest dotnet core versions. The control panel lets me do all the admin tasks including renewals, ssl cert, domain name, and backups. All database needs can be handled wth sql mgmt studio directly, nice! Second, the quick and useful responses from support, this is hard to find. Third, price and performance, both hard to beat.Overall highly recommended."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "HappyTeamViewerUser",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-10T22:07:26.000Z",
+          "Titre": "The Winhost Team help us choose the\u2026",
+          "Contenu": "The Winhost Team help us choose the right plan for our client and helped us with every issue we ran into with publishing and securing the site. Their online/email support was prompt, usually less then an hour. Their prices are reasonable and we can easily scale the site for our client if needed."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IL",
+          "Pseudo": "Yaakov Rosenes",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-13T10:47:37.000Z",
+          "Titre": "Happy user for 15 years",
+          "Contenu": "Winhost always replied promptly and accurately to every question I asked. The service deskstaff replies were always pertinent and courteous. There were no consequential service interruptions or bugs.  The interface was a pleasure to use. In general I was very happy with winhost's service over the past 15 years"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Colin M.",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-17T17:18:30.000Z",
+          "Titre": "Great support when we need it!",
+          "Contenu": "Their tech support team is very responsive, quick, and helpful whenever there's an issue. Also, the dependable, easy-to-use service is a great value, offering startups like ours the best bang for the buck. We'll use Winhost to host all of our sites going forward."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Reginald Joules",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-14T02:18:56.000Z",
+          "Titre": "Very good, memorable experience\u2026",
+          "Contenu": "Seems like a long time since I used Winhost, so my memory is vague. All contact with Winhost was good and helpful, but what is fresh in my mind is how tech support picked up a question I had posed in the community forum and gave me the answer I needed, at the time I needed it."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Les Pinter",
+          "Nb_Reviews": 2,
+          "Date": "2022-06-08T15:35:51.000Z",
+          "Titre": "Always a pleasant surprise",
+          "Contenu": "I've been happy with Winhost services for years, and they're just getting better. I signed up because they had exactly what I needed for a low price. When I need tech support, their response is almost instantaneous. They know the answers to issues that even a Google search can't find. And they are courteous, which doesn't always happen when you're dealing with big companies. I would recommend Winhost to anyone who needs web hosting."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Nicko",
+          "Nb_Reviews": 5,
+          "Date": "2023-08-22T23:13:16.000Z",
+          "Titre": "We moved over from another provider\u2026",
+          "Contenu": "We moved over from another provider recently and the winhost side of the transition  was perfect.  Wish I could say the same for the previous provider as that caused so much wasted time and anger."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Patrick Myhrer",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-18T22:01:19.000Z",
+          "Titre": "You can't get better service",
+          "Contenu": "I've been an associate for 7 years and have followed this company for many more then that.  I recommend them not because they host sites, but because they are the best.  Over the years, the customer support has been exemplary, if it is on my end they have done their best to guide me in the right direction, which, of course fixed the issue.  Yet, on the other side of the coin, if it was an issue on their part, they owned it, admitted and fixed the issue in a short period of time, not days and no excuses, no run arounds, just great customer service and a great service all around.  I have one site they've been hosting for 7 years and never not once has there been an problem"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Andy Dentone",
+          "Nb_Reviews": 1,
+          "Date": "2020-08-27T00:17:43.000Z",
+          "Titre": "Thrilled with your outstanding customer service & server support for over 5 years!",
+          "Contenu": "We picked WinHost because they offered an easier way to setup reliable Windows Hosting for several old Classic ASP sites we were hosting. Since 2015, the uptime that WinHost has provided was very close to 100% (we tracked it to 99.99%). When there was downtime, it was only about 5-8 minutes every other month or so.When we did need to contact support, they were relatively fast and always very respectful and helpful.Overall, we\u2019d recommend WinHost and we\u2019ll be back if we ever need to host another Windows website!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Susan",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-16T02:07:51.000Z",
+          "Titre": "Helped me with problems that I caused!",
+          "Contenu": "I had two problems today in getting a new MySQL database up and accessible.  I spent hours on it, trying to make the connection to the database, first in PHPMyAdmin and then from my PHP program.  Both times the problem was my error, but I couldn't find it.  Both times the Support person figured it out and let me know in a clear communication what the problem was.  I LOVE Winhost support."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Kevin",
+          "Nb_Reviews": 2,
+          "Date": "2022-08-28T10:15:20.000Z",
+          "Titre": "Very reliable IIS hosting solution",
+          "Contenu": "I've been with hosting multiple websites with Winhost for just over 8 years.I find the service very reliable, the hosting control panel is easy to use and make changes.The pricing is highly competitive and good value for money when compared to similar packages from other hosting companies.The support is web provided only. There is no telephone support. This has never been a problem for me. All issues that I have raised with Winhost have been answered quickly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "brian b",
+          "Nb_Reviews": 1,
+          "Date": "2019-08-14T12:25:32.000Z",
+          "Titre": "Sorry to say \"Bye for Now\" to Winhost.",
+          "Contenu": "Sorry to close down my site as its use has ended. Was with two other providers before with problems until I found Winhost. Most issues were handled without problems through their excellent control panel. Individual and personal help was promptly and pleasantly provided. Overall, it was a pleasure to deal with such a thoroughly organized and well thought out company. Best wishes for the future of Winhost."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Aggrey Mutimba",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-13T13:17:10.000Z",
+          "Titre": "I made a great decision to host my API\u2026",
+          "Contenu": "I made a great decision to host my API at Winhost. Their plans are great and affordable, and their customer care agents are dedicated to great service, and would give you support until you get grounded. I highly recommend them if you are looking for a web host. Thank me later!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "RW",
+          "Pseudo": "James",
+          "Nb_Reviews": 2,
+          "Date": "2021-02-11T19:28:49.000Z",
+          "Titre": "Wow and wow",
+          "Contenu": "Wow and wow I changed hosting companies 5 times in 3 months trying to find a service prodiver who could meet the requirements of my project at reasonable price. Cheaper packages, no technical experiences required to get going , excellement support 24/7, etc...Well I can't find better words to describe them! Winhost are the BEST. Thanks and God bless you abundantly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ron",
+          "Nb_Reviews": 4,
+          "Date": "2021-12-06T14:10:19.000Z",
+          "Titre": "I was very surprised",
+          "Contenu": "I was very surprised, when I switched to Winhost.com, that their technical support people actually knew what they were talking about. My old, well known, hosting company hadn't a clue how to resolve a technical issue on their server, even after I told them how to do it."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rich Berube",
+          "Nb_Reviews": 1,
+          "Date": "2020-07-10T18:51:28.000Z",
+          "Titre": "After a service catastrophe on GoDaddy\u2026",
+          "Contenu": "After a service catastrophe on GoDaddy took our sites down, we moved our three sites to Winhost in a matter of a day, without a hitch!  The online tutorials and directions were excellent, and site design is very intuitive.  The tech support has been incredible, with nearly every request answered within fifteen minutes.  All responses were very tailored, and helpful.  It felt like waking up from a GoDaddy nightmare, to experiencing a brand new day full of sunshine with Winhost.  I now recommend Winhost to everyone!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Cronco Software LLC",
+          "Nb_Reviews": 1,
+          "Date": "2018-08-21T14:17:48.000Z",
+          "Titre": "Everything just works",
+          "Contenu": "Everything works as advertised, with no downtime. I particularly appreciate having IIS Manager access to my sites.Two features I would like to see added in the future are:1) the ability to create SQL users and adjust their permissions2) built in tooling for Let EncryptKeep up the good work!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "George Hepworth",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-03T18:29:33.000Z",
+          "Titre": "Amazing Response From Winhost Support",
+          "Contenu": "The response from Winhost to a problem I had with my website was immediate (much quicker than I anticipated). And the actions taken were quick and decisive. After a bit of back and forth to clarify the problem, I got a detailed explanation of what happened and how they had fixed it. Again, much more than I'd anticipated.This is consistent with many years of history with Winhost, although the problems I've encountered have been few and far between. My sites on Winhost just work dependably and consistently."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Richard Rost",
+          "Nb_Reviews": 1,
+          "Date": "2021-06-08T16:09:26.000Z",
+          "Titre": "Absolutely Fantastic",
+          "Contenu": "Absolutely Fantastic! I left GoDaddy after having been with them for 10+ years because of poor server performance and HORRIBLE customer service. Signed up with WinHost. Not only is my server faster and easier to work with, their customer service really impressed me. Not only can I EMAIL a support tech (which I prefer, and most other companies don't allow) but they got back to me in MINUTES, not hours. I have since recommended WinHost in my classes, to all my students and to my associates. I cannot praise their service and support enough."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mike Mullins",
+          "Nb_Reviews": 1,
+          "Date": "2019-10-23T02:32:49.000Z",
+          "Titre": "Excellent support today",
+          "Contenu": "Excellent support today. Online assistance got me through issues with wp and pps. Very knowledgeable and efficient. Have been with winhost for several years and super solid. We have over 6 sites hosted here. What are you waiting for?"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "GoldFellow, LLC",
+          "Nb_Reviews": 1,
+          "Date": "2020-06-08T22:12:40.000Z",
+          "Titre": "Winhost is great for small businesses\u2026",
+          "Contenu": "Winhost is great for small businesses with big ideas. The plans on offer are good value for money. The only thing on my wish list to make it perfect, would be multi users in the dashboard, it would be great to  have the ability to create users and assign different permissions. So I can assign some server related tasks to my dev team, while keeping the billing and maybe DNS sections private."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Damon J. Gray",
+          "Nb_Reviews": 2,
+          "Date": "2018-06-08T13:04:13.000Z",
+          "Titre": "I am exceedingly pleased with my choice of Winhost",
+          "Contenu": "I have been with Winhost for about three months now, following a 20+ year run with GoDaddy.  My hosting experience has improved dramatically. Email frustrations have vanished.  Page load/response times have been cut from 10 seconds per page to about 1 or 2 per page. Customer Service response time is measured in hours rather than days. Really, I have nothing but positive things to say about this move, other than that I wish I'd made the move years ago rather than months ago. I'm very pleased to be a Winhost customer."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "A Smith",
+          "Nb_Reviews": 1,
+          "Date": "2021-12-08T21:40:54.000Z",
+          "Titre": "Better than Telus or Azure for me",
+          "Contenu": "We have a hosting package with Telus, linux by default I guess.  I wanted to build an ASPNet app and it was REALLY uphill with them for a web novice.  The MS SQL stuff was OK but the app never ran.  My fault apparently.  I fell for the \"free trial' offer with AZURE and that was an easy setup, my code that wouldn't run on Telus ran first time.  However the \"free trial\" ran out real quick and got expensive fast so I cancelled that account.  Winhost was easy to purchase and set up, the cost is reasonable, and the help with setting DNS records appropriately, and getting the app started was fast and understandable."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ID",
+          "Pseudo": "Chris",
+          "Nb_Reviews": 1,
+          "Date": "2020-06-11T05:06:53.000Z",
+          "Titre": "Happy .Net deveoper wouldn't look elsewhere.",
+          "Contenu": "I'm a .Net developer and have used WinHost for what, 6 years now I think, and am still using them for personal projects plus any new client projects where they don't already have hosting set up elsewhere.Now I look back I can't recall there ever having even been an outage outside very occasional short, pre-warned maintenance slots.Support is very good, super-fast and very knowledgeable (and patient :). I live in Asia and despite the time difference I'm rarely waiting long for a solution when I mess something up or have a question.Their custom control panel is simple, not festooned with funky stuff that some designer thought would be cool, all good, clean, clear, fast interface design.Overall, I'd not look elsewhere, especially now they have a new 'Power' level of service beyond 'Ultimate'."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "George Kocur",
+          "Nb_Reviews": 1,
+          "Date": "2021-04-17T17:19:10.000Z",
+          "Titre": "WinHost has been great",
+          "Contenu": "WinHost has been great. Their support was excellent when I was setting up my website and had a couple of configuration issues. They made the change for the first question I had (instead of just telling me where to look) and also made a second change that they noticed was necessary. They responded within a few hours, which really helped.  Their tools are easy to use; site availability and performance have been great."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Squadra Technologies",
+          "Nb_Reviews": 3,
+          "Date": "2021-12-17T15:51:54.000Z",
+          "Titre": "I highly recommend Winhost",
+          "Contenu": "I have been using Winhost for 3 websites, 2 of them for over 10 years.  I have never had one issue with my web sites.  Their technical support is awesome.  Whenever I have a question, they respond immediately.  It is also clear that their staff is very technical.  I highly recommend Winhost!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "CodingMoose",
+          "Nb_Reviews": 1,
+          "Date": "2018-09-13T16:04:34.000Z",
+          "Titre": "Very easy to use hosting provider",
+          "Contenu": "Very easy to use hosting provider. There's usually someone on chat-support during normal business hours and, if not, their help system usually responds rather quickly with great explanations of how-to-fix. The hardest part of using Winhost was just learning to do a self contained deployment of .NetCode, which was easy and not applicable to all."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "brewgr .com",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-29T03:15:59.000Z",
+          "Titre": "Great support",
+          "Contenu": "Great support - all through email, but they are thorough and provide expert advice. Went above and beyond in assisting me with connecting to CloudFlare. Would highly recommend using WinHost. Started with HostGator and immediately transferred to WinHost, and have been happy ever since."
+        },
+        {
+          "Note": 5,
+          "Lieu": "TH",
+          "Pseudo": "Mark Peterson",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-04T12:13:15.000Z",
+          "Titre": "Small & Quite *and helpful* hosting provider",
+          "Contenu": "I've been with Winhost for more than a few years.  They've hosted me and aren't nickle&diming me on small things every single chance they get as most of the other host providers.  I've never had a big problem with them.  Never encountered a rude or incompetent support technician.  Recently, ran into a website-crash and yeah, had no reliable backup as I was under cost cutting measures (we all know how that is these days).  I sent a SOS out to their team, and voila - next day they recovered an archive and got my site up.  No charge (none so far that is!) :). Couldn't be happier.  Small and quiet host.  In this noisy oversized digital world."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Steven A",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-07T15:46:41.000Z",
+          "Titre": "Great Service",
+          "Contenu": "Great Service. We moved our API from Azure due to random SSL related issues and have not had any issues since. The service is great value and we have halved our costs since the move. Highly recommended!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Paul Moline",
+          "Nb_Reviews": 2,
+          "Date": "2023-01-17T17:32:27.000Z",
+          "Titre": "My internal server went down and needed\u2026",
+          "Contenu": "My internal server went down and needed to setup quickly on a more reliable platform.  Winhost made it so easy, I was up and running within 30  minutes of setting up the account, that included moving my database and publishing my website.  I couldn't have asked for more."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "J.J. Prats",
+          "Nb_Reviews": 1,
+          "Date": "2021-01-12T03:41:18.000Z",
+          "Titre": "Excellent Intuitive Service",
+          "Contenu": "Excellent service. My first work with a hosted website; I've always worked on physical servers before this. It was intuitive. I did not have to call or email support for help; the Knowledge Base showed me what to change to connect to the database. Some clicks here, a form to fill out there, an FTP upload, a SQL Server restore, and the website came to life. Flawless."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rudi H",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-12T21:19:59.000Z",
+          "Titre": "Great Hosting Site for ASP.net",
+          "Contenu": "Our website is based on ASP.net and therefore required Windows based servers for hosting. After some research, we selected Winhost since they are a Windows server only hosting company and had good reviews. When we were ready to host our website, we reached out to Winhost and started the setup process immediately. The process was very simple and the support was excellent. Whenever we needed help, in most cases Winhost already had a well documented and easy to follow instruction on how to set the environment up. We also like the control panel, which is an in-house application and is far more user friendly than the standard control panels such as Plesk. We would definitively recommend Winhost to anyone looking for a Windows server hosting company."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Les Pinter",
+          "Nb_Reviews": 2,
+          "Date": "2022-05-10T03:28:57.000Z",
+          "Titre": "Infinitely patient",
+          "Contenu": "From time to time I try something new and break my website. The guys at WinHost answer really fast, are infinitely patient, and generally get me straight to the answer. I happened upon them by chance 10 or 15 years ago, and it\u2019s one of the luckiest things that\u2019s happened to me in my 46-year career in IT. I wish I\u2019d known them back in 1980, when I sold our little word processor, the Magic Wand, to Bill Gates. They probably would have urged me to ask more than $35K\u2026"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2020-02-05T13:19:14.000Z",
+          "Titre": "Great experience",
+          "Contenu": "Excellent feedback from support usually same day answer.Very helpful in migrating my webite from another host.Answered all questions completely and thoroughly.I've had websites on 4 different providers and they are the best.Winhost goes the extra effort to be helpful."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "chtyrone",
+          "Nb_Reviews": 3,
+          "Date": "2020-03-04T07:16:19.000Z",
+          "Titre": "The 'four months in' review.",
+          "Contenu": "I've been with them about four months now. Excelent customer service - prompt and knowledgable. Excellent Windows hosting service. The only small gripe I would have is that you cannot purchase more disk space on the least expensive hosting service. The price jump is quite a large one from the small to medium package."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "John Beiswenger",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-10T16:18:20.000Z",
+          "Titre": "What made my experience great?",
+          "Contenu": "What made my experience great?  That would take more room than that provided.  I have been with Winhost for almost 30 years, and they have never let me down.  Their Support Team is remarkable, the best.  If I need help, they are there.  I have 6 sites with Winhost and as many as 36 domain names.  I have been a product research engineer for more than 50 years, so I know what I am talking about.  Winhost works and works every time."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Scott Garrigus",
+          "Nb_Reviews": 1,
+          "Date": "2020-05-01T14:02:01.000Z",
+          "Titre": "While searching for a Classic ASP host...",
+          "Contenu": "While searching for a Classic ASP host, I found a number of different companies and decided to try Winhost. I'm very happy with my choice. Not only did they provide all the features that I needed, their support was excellent in helping with the migration and answered every question I had in a timely manner. Highly recommended."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PR",
+          "Pseudo": "Tommy Irizarry",
+          "Nb_Reviews": 1,
+          "Date": "2019-10-07T17:07:36.000Z",
+          "Titre": "Just a solid reliable service!",
+          "Contenu": "I switched a few hosting companies looking for a reliable windows hosting service. I decided to give WinHost a chance for a new project and everything just worked as expected. The initial configuration settings for the database I created were just correct from the beginning. It was seamless to begin my new project. I even have a reseller plan from a famous provider, but even their service on creating the SQL database the way I needed turn turned out to be a pain, with many calls to the help desk and it was not solved. That is why I decided to look for an alternative. Thanks."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Nick",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-10T20:29:46.000Z",
+          "Titre": "I cannot say in words how appreciative\u2026",
+          "Contenu": "I cannot say in words how appreciative I am of the service I have received from Winhost. I would recommend your services to every single organization. If there is every an issue, you guys have worked diligently to help me solve it and keep my site up and running smoothly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Insight Learning",
+          "Nb_Reviews": 1,
+          "Date": "2021-01-26T14:37:24.000Z",
+          "Titre": "Working with WinHost has been a\u2026",
+          "Contenu": "Working with WinHost has been a pleasure to work with.  Support has been very responsive and helpful.  We signed up thinking this was a temporary hosting site for our legacy VB/Flash based site, but it has worked out so well we will be here for the foreseeable future."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Sameh",
+          "Nb_Reviews": 1,
+          "Date": "2021-05-03T20:09:26.000Z",
+          "Titre": "actually I feel winhost are very\u2026",
+          "Contenu": "actually I feel winhost are very reliable, the only thing when we face issue specially in critical time we need to have phone number to call to feel that we described immediately the situation and get immediate feedback,even they can charge extra for such calls (if it is not their servers issue.)but this will really help more than send ticket and wait for answer however the answers are in appropriate time. but some times there might be a critical situation cannot even wait the 20 minutes, between replies."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Joe Sweneey",
+          "Nb_Reviews": 1,
+          "Date": "2018-03-26T19:34:50.000Z",
+          "Titre": "An Excellent Hosting Company",
+          "Contenu": "I have been using WinHost for over eight years. I am impressed with their customer support - so much so that over time I have switched all but one of my clients over from another hosting company. (I will get my other client switched over at some point.) I highly recommend Winhost on the basis of their customer support. In addition, setting up new websites is easy, and the control panel is easy to navigate and use."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Thomas",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-04T02:38:43.000Z",
+          "Titre": "Absolutely fabulous",
+          "Contenu": "Easy enough to set up that I didn't even need any assistance. No failure or server downtime in the past year. Needed assistance once and issue was fixed promptly. Will always recommend Winhost."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Natty Trey",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-02T06:55:23.000Z",
+          "Titre": "Around The Clock Expertise",
+          "Contenu": "They really work around the clock to find problems with your website and help you to rectify it. Between Richard, Rei and Moises, I feel like I have round the clock support.  They helped me identify an issue that had kicked my tail several times and now I know it as soon as I cause my issue, I know exactly what to say and, just like this time, Moises, knew exactly what to do. Thanks guys!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "dorm40music.com",
+          "Nb_Reviews": 1,
+          "Date": "2018-10-06T22:15:48.000Z",
+          "Titre": "It just works!",
+          "Contenu": "I looked for a new hosting provider after the hosting provider I used for 10 years decided not to host Windows any longer.  I found Winhost through a web search and moved both of my sites to there platform.  Easy-peasy-lemon-squeezy!  Best decision I've made in a long time: my classic ASP sites were up in less than 30 minutes and the SQL Server restore from a backup took an additional 30 minutes.  In about an hour my sites were fully functional AND the little quirks from my last hosting service were gone.  Perhaps hosting Linux and Windows was too difficult for them.  With Winhost everything works perfectly.Anyway, I highly recommend Winhost for ANY kind of Windows hosting needs.  It just works!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Nicholas Clark",
+          "Nb_Reviews": 1,
+          "Date": "2018-03-26T18:24:04.000Z",
+          "Titre": "Better than the competition",
+          "Contenu": "After a bad payment experience, and very bad customer support followup, I migrated my website to WinHost. The process took me less than an hour (For a very complicated application) and I only had one issue which I needed support with. The support was fast and exactly what I needed to solve my issue. WinHost is already leaps and bounds better than my previous web host."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Daniel Johnson",
+          "Nb_Reviews": 1,
+          "Date": "2019-01-08T21:26:13.000Z",
+          "Titre": "First experience using a third party to\u2026",
+          "Contenu": "First experience using a third party to host a simple ASP.NET web application.  I had everything up and running quickly using just their FAQs. No issues.  I'm a programmer, not a networking guy, I was surprised at how simple it was to get everything working.Thanks"
+        },
+        {
+          "Note": 5,
+          "Lieu": "HR",
+          "Pseudo": "Gjuro Kladaric",
+          "Nb_Reviews": 4,
+          "Date": "2020-01-31T22:31:57.000Z",
+          "Titre": "I have held a site on WinHost for 9+ years",
+          "Contenu": "I have held a site on WinHost for years, planing to use it for some of my projects that never reached the finishing line. Therefore I have never seriously used it. But, what for a little I have been using it, everything worked smooth and support was kind and appropriately responsive. Anyhow, if I needed a site in future, I will return to WinHost."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Richard",
+          "Nb_Reviews": 1,
+          "Date": "2018-06-11T11:07:57.000Z",
+          "Titre": "Winhost is an excellent web host",
+          "Contenu": "Winhost is an excellent web hosting service if you are looking for Windows based servers.  Their control panel is easy to use, all the tools you could need.  Their support for legacy systems is impressive, I have used Winhost as a place to migrate several older but still maintained websites.The customer support has always been timely and helpful, their documentation for their systems is robust as well.If I need to spin up a new windows web hosting environment I don't even hesitate, I go straight to Winhost these days."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Edward",
+          "Nb_Reviews": 4,
+          "Date": "2021-04-04T23:04:42.000Z",
+          "Titre": "Winhost provides the best offerings, infrastructure and exceptional support.",
+          "Contenu": "Winhost provides the best Windows offerings and the best service.  They support all versions of classic asp, .net and .net core.  Their web and database servers are top notch and provide excellent performance.  Their control panel is the easiest and fastest I've found across numerous competitive offerings.  Winhost service is exceptional.  They work off of an online ticketing system and responses are quick and most importantly accurate.  I have no hesitation recommending Winhost for all of your Windows hosting needs."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Alexander Davis",
+          "Nb_Reviews": 3,
+          "Date": "2019-11-10T05:34:20.000Z",
+          "Titre": "Excellent! Excellent!",
+          "Contenu": "After a few nightmarish years with WH4L, I switched to WinHost and in about a decade I was with them I've never had an issue other than a single scheduled downtime due to a server upgrade. I used an ASP.NET site and a singe SQL Server instance. The only thing I missed was a web based SQL admin tool (I wish WinHost offered one), but other than that everything was awesome. Price was also right. Thank you WinHost."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Rich",
+          "Nb_Reviews": 1,
+          "Date": "2018-07-22T22:15:17.000Z",
+          "Titre": "What i was looking for and more!",
+          "Contenu": "Wanting to dive into web app development i looked into several companies. Many were lacking in features and some (without mentioning names) were so overly bloated left me screaming in frustration.Then i found Winhost, i got my base app up and running in no time. Without going into boring details there was more than i was looking for in that the app needed more features later on in development, ssl, they got it, dedicated ip, they got it, email service, they got it...Getting the picture it was exactly what i was looking for and more when i was unaware i was going to need these features at some point. I was so relieved to find this site focused on exactly what i want to do and with the extra features they don't nickle and dime you for it either. Nutshell, they got you covered."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Benjamin Miller",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-15T10:13:07.000Z",
+          "Titre": "Highly recommend for shared hosting on Windows",
+          "Contenu": "I have been using this company for more than 5 years as a Windows shared hosting provider. They have been a solid company with reliable and responsive customer support. I had an SSL certificate issue today and contacted them using a form on their support portal expecting to hear back in a day or two with troubleshooting steps before they would address the core issue in my request. Imagine my surprise when I received a reply in less than 10 minutes with a helpful resolution and I had my problem solved in less than 10 minutes after that."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "William",
+          "Nb_Reviews": 3,
+          "Date": "2022-04-24T23:24:44.441Z",
+          "Titre": "Helpful fast response on startup questions",
+          "Contenu": "I choose Winhost for the features I needed, and a reasonably priced plan for the size of site that I was transferring from a prior host.I was pleased with the very knowledgeable support, and rather amazed at how quickly I received responses to my tickets at startup for my account. Winhost set up a second domain pointer forwarded to my base site.  They diagnosed a \"Site under construction\" error and provided clear directions for the fix.  That included Webdeploy publish setting guidance.  And support patiently re-sent a verification email for an SSL cert I was setting up when I didn't have the admin mailbox ready in time.  I felt the startup process went very smoothly for a relatively inexperienced person like me.My only request is for the account user-name, which is a number that I don't remember.  I can't yet find a way to change it to a friendlier name that will stick in my mind."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Daniel Anderson",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-23T22:21:34.000Z",
+          "Titre": "Service is extremely fast and reliable",
+          "Contenu": "Service is extremely fast and reliable, and the control panel makes managing my own sites incredibly easy.  I won't use any other company for hosting my sites other than Winhost."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Isla",
+          "Nb_Reviews": 1,
+          "Date": "2019-09-26T06:11:21.000Z",
+          "Titre": "Amazing support by Moises",
+          "Contenu": "Amazing support! Got back to me right away. I had someone named Moises who actually called me and walked me through everything for 20 minutes. Fixed all my issues and had to deal with me not being so technical. I was expecting someone from Asia/South East to be answering but nope it was an LA rep who understood everything."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ariel Hiterer",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-18T02:36:36.000Z",
+          "Titre": "We had an issue where our domain\u2026was accidentally cancelled and temporarily shut down",
+          "Contenu": "We had an issue where our domain service was unwillingly canceled. The fault was entirely ours but Winhost did a fantastic job in helping us regain access to our domain and set it up so that it was running just as it was before. As someone who knows next to nothing about domain providing services I was able to work with winhost to get my organization's email service back up and running as it was before within 1-2 weeks. We lost access to our username, password, and email to reset it, but Winhost was able to get us properly authenticated through other means and get us access into their portal. Overall they provided effective and timely assistance making the whole process much smoother."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "John Gleeson",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-04T20:14:43.000Z",
+          "Titre": "Ease of setup",
+          "Contenu": "Ease of setup, with virtually instantaneous response to any questions raised. Both the Sales and the Support depts were equally helpful."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "L. Jones",
+          "Nb_Reviews": 1,
+          "Date": "2020-09-02T13:38:10.000Z",
+          "Titre": "I tried a few other hosting services",
+          "Contenu": "I tried a few other hosting services.  Winhost tools were easier for me to use.  Uploading my sites was straight-forward. Their online support knowedge base was easy to use and their instructions work."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jay Meltzer",
+          "Nb_Reviews": 2,
+          "Date": "2019-01-30T20:07:23.000Z",
+          "Titre": "Winhost - Great Hosting Platform, Great Support, Great Prices!",
+          "Contenu": "I utilize Windows web technology to provide websites for my clients. I have used Winhost as my web service provider for a number of years and I am very satisfied with the services that they provide. The websites that I host at Winhost have had very little downtime over the years and the Winhost technical support is very competent. Problems tickets are dealt with very quickly and I definitely recommend Winhost for your hosting needs."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kathy Cuppy, All Phase Group Inc.",
+          "Nb_Reviews": 2,
+          "Date": "2018-12-31T18:47:19.000Z",
+          "Titre": "I am happy with Winhost but I just\u2026",
+          "Contenu": "I am happy with Winhost but I just received a bill from someone called The Domain Hosting Group...they say, \"...now is the time to transfer your web hosting from your current provider to The Domain Hosting Group.  Failure to renew your web hosting by the expiration date may result in website outages and a loss of your online identity.  I think this is a solicitation bill, but I would like to know that I am paid up with Winhost and I would like to know when my renewal/due date is.I would want to know about this company if I were you.Kathy CuppyALL PHASE GROUP INC.C:  317/694-0608"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Michael",
+          "Nb_Reviews": 8,
+          "Date": "2018-12-19T13:00:25.000Z",
+          "Titre": "So far so good",
+          "Contenu": "I've used this company for years on and off.  Years ago, I used to get very irritated with them because they would charge peanuts ever month.  There were a few times I forgot to pay the $5 and they shut down my website which infuriated me.  In fact, the last time they did that, I switched providers.  I recently decided to give them another shot and they've cleaned up their act charging quarterly, this is much better.  So far, no issues with the service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "John R.",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-22T18:17:46.000Z",
+          "Titre": "Superb Reliability and Support",
+          "Contenu": "As a consulting services company, we offer our clients a suite of online assessments and customized reports across a half-dozen web sites. Because our needs exceed the capabilities of off-the-shelf online survey providers, we have our own developers.Web hosting services are critical to our operations and economic livelihood. However, it\u2019s something we do not have the resources to attempt ourselves. Our major criteria are reliability and support. For almost ten years, we have used Winhost to provide comprehensive services, superb reliability, and fast, thorough support whenever it has been needed."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jonathan",
+          "Nb_Reviews": 2,
+          "Date": "2021-08-31T19:02:16.000Z",
+          "Titre": "WinHost The Best Web Host Ever",
+          "Contenu": "As of this writing, we have been using WinHost for nearly two decades.  In that time, I have had not one complaint about their service or reliability.  We had been with GoDaddy and suffered with slow servers and the absolute WORST customer service.  I reached out to WinHost and within hours their team had helped us migrate all our domains, in house sites and clients to their platform.  Since then, in some 20 years, our down time can be measured in minutes, if not seconds.  The reliability has just been phenomenal.  When I have had questions I've been able to reach out to their skilled support team and gotten solid professional answers in less than ten minutes.  I love the open hosting setup they offer where they pretty much allow us to customize our needs exactly as we want.  They are constantly updating to the latest software and hardware to ensure all our sites perform at peak optimization. In short, WinHost does hosting right.  If you need a reliable, economically priced web host that has your back 24/7, then WinHost is where you need to be.  I could not recommend them more."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Robert N",
+          "Nb_Reviews": 1,
+          "Date": "2020-10-03T15:47:48.000Z",
+          "Titre": "Brilliant service",
+          "Contenu": "Having been a customer with Winhost for a few months, I have nonetheless found them consistent in the areas of Service delivery, service Support and timely responses. Keep up the good work team.Rob."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "michael welcome",
+          "Nb_Reviews": 1,
+          "Date": "2020-09-25T13:03:35.000Z",
+          "Titre": "Unexpected Refund",
+          "Contenu": "I had used winhost for a small business that didn't work out.  After receiving several reminders that my service was about to renew and thinking I needed to cancel it soon, I was billed for my next years service.So I cancelled and looked at the terms.  Once billed they do not offer a refund.  Well today I look in my bank account and discovered that they had credited this back to me.  I didn't even ask, and under the terms of the agreement that did not have to do this.Thank you Winhost.If I need hosting services again on the future, I know where to go."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2020-08-09T16:40:05.000Z",
+          "Titre": "The WinHost staff has been great",
+          "Contenu": "The WinHost staff has been great. When I uploaded my site, I made two errors that kept it from running correctly. WinHost support corrected both errors (a subdirectory issue, and a web.config issue), and had the site up. They could have just told me about the errors, which would have been great, and had me fix them, but they went the extra mile. The response time was quick, just a couple of hours.  Also, my site uses SQL Server 2019, which wasn't supported when I contacted WinHost. They told me it would be in a month or two. In a month, they emailed me to let me know it was available."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Troy",
+          "Nb_Reviews": 2,
+          "Date": "2022-10-14T19:02:45.000Z",
+          "Titre": "Quick customer support",
+          "Contenu": "Quick customer support! Needed to drop a directory with tens of thousands of files, FTP was talking too long so I opened a ticket. Wala, folder and contents were wiped in a few minutes."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Richard Rost",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-19T17:45:13.000Z",
+          "Titre": "I absolutely love WinHost",
+          "Contenu": "I absolutely love WinHost. They provide a solid product with excellent customer service and support. I was very unhappy with GoDaddy and decided to switch. WinHost took really good care of me."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Marwan Dajani",
+          "Nb_Reviews": 3,
+          "Date": "2023-07-08T00:16:01.000Z",
+          "Titre": "Excellent",
+          "Contenu": "Very clear upfront explanation of provided services. This in addition tovery reasonable pricing and very agile and responsive customer service. The service itself has been magnificent and without a single glitch."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Alex Aminian",
+          "Nb_Reviews": 2,
+          "Date": "2021-06-28T21:52:43.000Z",
+          "Titre": "WinHost is an excellent hosting site\u2026",
+          "Contenu": "WinHost is an excellent hosting site for .NET-based web applications. Setup is easy, that is, if you are a savvy .NET developer/administrator. The hosting servers are very reliable. Communications and notifications about coming changes are very helpful and sent out well in advance."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GR",
+          "Pseudo": "Mitros",
+          "Nb_Reviews": 2,
+          "Date": "2018-04-23T07:28:58.000Z",
+          "Titre": "Everything works as promised (and better than expected)",
+          "Contenu": "Everything works as promised. Website & database setup went down flawlessly through the Control Panel, plus remote connection through IIS Manager & SQL Server Management Studio offers the ability to tweak everything, almost as if it was a dedicated server accessed through RDP.This was my first shared hosting experience and I was prepared for serious problems but encountered none."
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Dax Pandhi",
+          "Nb_Reviews": 1,
+          "Date": "2019-10-11T23:51:21.000Z",
+          "Titre": "Happy customer for 10 years",
+          "Contenu": "I have been a WinHost customer for 10 years now. I started with a single site but by the end of the first year, I was hosting several sites with them! The value for money is great - something I appreciate very much as a small business owner.No hosting company is perfect, but what matters is how they tackle problems when they come up. I've faced some outages (not uncommon over a course of a decade), DDoS attacks on my sites, and sometimes even my own mistakes which caused problems on the site. Through all of these, WinHost's customer service team always helped me through. I can't recall any support request that took longer than a few hours to resolve.It is also worth noting how quickly they identified a DDoS threat on our site, efficiently shut it down, and then helped us identify where the weakness was. It helped us fix the security gap quickly and get things back online for our customers.Bottom line: in a sea full of hosting companies where it is difficult to know who to trust, I have placed mine in WinHost and I encourage you to give them a try."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "David Schuett",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-07T22:15:37.000Z",
+          "Titre": "Currently I have no problems",
+          "Contenu": "Currently I have no problems.  The system is a little different than what i'm used to, but everything works fine. the only support is by email which is slower than i want, but the last company is was with did't provide any support."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "John Halgren",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-28T01:19:22.000Z",
+          "Titre": "For the money Winhost meets all my\u2026",
+          "Contenu": "For the money Winhost meets all my expectations as a windows based hosting company. Many useful features for a low cost package. Support has always responded to my inquiries within a short time and resolved my questions or issues to my satisfaction."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Antoine Goulet",
+          "Nb_Reviews": 2,
+          "Date": "2021-05-19T17:26:25.000Z",
+          "Titre": "Excellent all around",
+          "Contenu": "Excellent agents that took the time to explain their services and discuss my specific needs. I have been extremely happy with the speed, platform and service for my woocommerce site."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Mike Buzzie",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-03T22:49:02.000Z",
+          "Titre": "I have been with Winhost since  July of\u2026",
+          "Contenu": "I have been with Winhost since  July of  2010.Love them always so helpful and have resolved all my issues in a timely manner.Definingly two thumbs."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Damon Gray",
+          "Nb_Reviews": 1,
+          "Date": "2018-04-15T15:48:49.000Z",
+          "Titre": "Exceedingly Pleased with my Transfer to WinHost",
+          "Contenu": "In striking contrast to the previous two reports, my experience with WinHost has been nothing short of glorious. I had previously been with GoDaddy for about 20 years, and having reached my frustration limit, cautiously began researching other options. Even as a \"pre-customer\" I found the WinHost service response time to be excellent. I have been live with WinHost for about three days now, since completion of the domain transfer. The tools and customer support from WinHost made the transfer a very simple matter, and my setup is rather complex. Since moving to WinHost I have noted three specific areas of dramatic improvement.1. Page Load times have decreased dramatically from about 8-10 seconds to about 1 or 2.2. Email is FAR easier to use - a dramatic improvement.3. WinHost customer support is very quick. Clearly they make this a priority, and I love it. I have found that response time is typically 1 to 2 hours. Beyond the customer support team, there is an excellent online forum with a lot of activity.  I have also found answers to some of my questions there.I have no concerns whatsoever about recommending WinHost as a web hosting platform.Damon J. GrayLynden, WA"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "James",
+          "Nb_Reviews": 2,
+          "Date": "2019-11-22T17:50:45.000Z",
+          "Titre": "Entirely satisfied, would recommend",
+          "Contenu": "We just moved all our client sites to Winhost (from SmarterASP, which had become hopeless) and are entirely satisfied. Some plusses: Winhost was proactive with moving the sites; their tech support was always responsive, helpful, and to the point; their control panel UI is excellent; and their server has been rock-solid, no random failures. We would recommend Winhost to anyone without reservation."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ryan",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-01T20:01:59.000Z",
+          "Titre": "Excellent Customer Support",
+          "Contenu": "I have run into several problems as a new developer, buy every time I'm stuck the support staff at winhost were quick to solve it!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Daniel Collins, Ed.D.",
+          "Nb_Reviews": 4,
+          "Date": "2018-11-02T14:58:34.000Z",
+          "Titre": "Everything works exactly as advertised",
+          "Contenu": "Everything works exactly as advertised. Questions posed to Support are answered promptly and solutions are provided. I moved my domains from another company and created new sites at Winhost because they are professional and technically superior."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Reed C",
+          "Nb_Reviews": 1,
+          "Date": "2020-10-01T17:18:17.000Z",
+          "Titre": "I've tried many other hosting services",
+          "Contenu": "I've tried many other discount hosting services, the tools here are user friendly enough, the sites stay up more often, and the customer service is much better than the other guys."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Hieu Tran",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-14T23:20:05.000Z",
+          "Titre": "Support both MySQL and MS SQL servers",
+          "Contenu": "Support both MySQL and MS SQL servers.  Support both PHP and C# programming; databases and .NET templates are user friendly and easy to install."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Mike C",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-06T02:15:35.000Z",
+          "Titre": "Quick and cost effective",
+          "Contenu": "In an emergency, I needed to be able to port my site to a new server with ease. I received great support and the system worked well. I was back online in a very short period of time. Thanks Winhost!  This was my first migration here and it won't be the last."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Cynthia Belonogoff",
+          "Nb_Reviews": 1,
+          "Date": "2019-07-28T02:55:07.000Z",
+          "Titre": "I've just moved my website to winhost\u2026",
+          "Contenu": "I've just moved my website to winhost and have nothing but praise for the tech staff who were prompt and professional in their help getting the site up and running."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Todd Crisafulli",
+          "Nb_Reviews": 1,
+          "Date": "2021-04-15T00:27:48.000Z",
+          "Titre": "I host several sights at Winhost\u2026",
+          "Contenu": "I host several sights at Winhost for over 10 years and issue are rare.  The instructions are easy to follow and the Site Tools work as expected."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "David Wilding",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-11T20:46:19.000Z",
+          "Titre": "Good Help Is Easy to Find",
+          "Contenu": "Setup documentation was thorough and helpful. Support was helpful in responding to queries to clarify an optimal configuration for us, and even suggested easier alternatives for our situation. Their dashboard and interfaces present options clearly and make all services easy to access. The knowlegebase articles are well-written, easily searchable, and pointedly helpful. When that's not enough, support responds quickly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mark Malo",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-12T02:56:40.000Z",
+          "Titre": "Great Hosting Service",
+          "Contenu": "Fantastic response when needing assistance.  Solid performance and continually kept servers up-to-date.  New features added on a sensible schedule.  Priced very competitively.  Administration tools are easy to use and comprehensive."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Chad Rotella",
+          "Nb_Reviews": 3,
+          "Date": "2020-09-06T23:06:01.000Z",
+          "Titre": "Very good customer service",
+          "Contenu": "Very good customer service, I was having issues uploading my website.  They were able to troubleshoot the issue in a few hours and I was good.  I highly recommend using without."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Dennis A.",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-03T02:43:11.000Z",
+          "Titre": "Sign up is easy",
+          "Contenu": "Sign up is easy. Ease of use as long as you follow the instructions."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Squadra Technologies",
+          "Nb_Reviews": 3,
+          "Date": "2022-11-30T18:54:47.000Z",
+          "Titre": "Winhost is hands down the best tech\u2026",
+          "Contenu": "Winhost is hands down the best tech company I have ever worked with!  They response time to my questions is amazing. I highly recommend Winhost!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Henry Hu",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-12T06:02:34.000Z",
+          "Titre": "Winhost support is great",
+          "Contenu": "Winhost support is great. The team is knowledgeable, professional and prompt, which helped our project significantly, thanks"
+        },
+        {
+          "Note": 5,
+          "Lieu": "RS",
+          "Pseudo": "User",
+          "Nb_Reviews": 1,
+          "Date": "2020-05-04T16:13:52.000Z",
+          "Titre": "Fast, reliable service and support",
+          "Contenu": "Fast, reliable service and support.Can only wish the e-Mail server allowance was larger. 5 GB is not much these days."
+        },
+        {
+          "Note": 5,
+          "Lieu": "UA",
+          "Pseudo": "Iryna Zapatrina",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-13T23:10:49.000Z",
+          "Titre": "Great and very convenuient services."
+        }
+      ]
+    }
+  ]
+}

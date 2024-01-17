@@ -1,0 +1,1188 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "tempest.net",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Ran",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-31T03:56:17.000Z",
+          "Titre": "Tempest killed my server :(",
+          "Contenu": "I put 100% of the blame on Tempest for the downfall of my server. Since the Rust memory leak, I have had virtually zero support from tempest on various issues. The most communication I have received in the last year or so has been \"We're working on it\" and no response afterThe tempest tech support team is utterly useless in troubleshooting Rust issues. During the memory leak they told me countless times that AI was the cause of crashing on my server, even after I had AI completely disabled. You guys cost me my entire player base, which never recovered. Granted we were only about a 40-50 pop at that time, we were just starting to pick up. I had asked time and time again if the amount of memory allocation was the issue and I was given a \"no, it is your AI.\" I all but begged the support team to help me as I was at a loss. Only a month later did they finally admit that more memory on my server was the cause all along. The shoddy support and massive number of reliability issues this year caused my little server to tank, as I told the support a myriad of times, **players do not play on unreliable servers**They do not care unfortunately. Gameserver customers are a dime a dozen. I hope in the future, some helpdesk support guys that are able to actually assist Rust customers in resolving issues."
+        },
+        {
+          "Note": 1,
+          "Lieu": "AR",
+          "Pseudo": "Lucas Crespi",
+          "Nb_Reviews": 2,
+          "Date": "2023-10-20T04:43:20.000Z",
+          "Titre": "I contracted the service and used the\u2026",
+          "Contenu": "I contracted the service and used the filter to avoid DDOS attacks, they could still do DDOS to me and support did not respond to my tickets, after denying me for two days I asked for a refund and they did not want to return the money. I DO NOT RECOMMEND IT."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Yiannis Hadjioannou",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-15T10:59:25.000Z",
+          "Titre": "Worst Company i ever cooperate.",
+          "Contenu": "Worst Company i ever cooperate.They do advertise servers with 10G connection after i purchase server wont reach 160mbit and falling!!!!Something else server is behind firewall. 1st time i saw this"
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Ronin",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-04T22:07:27.000Z",
+          "Titre": "Over a DAY of DOWNTIME",
+          "Contenu": "Downtime of over a DAY on dedicated machines in Dallas when some genius thought it would be a good idea to last minute move racks of servers to a new datacenter without any warning.Whoever made this decision needs to seriously reevaluate their position. Ran by monkeys."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Dillon Skaggs",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-18T22:05:42.000Z",
+          "Titre": "Once great, now horrible",
+          "Contenu": "Tempest used to be one of the best servers for providing DDoS protection for your server, but in recent months their success has gotten to them.Their filters will now mass-timeout a FiveM server, or cause sporadic timeouts for the end users, while seemingly not being hit at all according to their own notifications. When reported to this they constantly tried to blame it on us, after much back and forth we switched to their competitors and do not have the same issue anymore.They charge 2-3x the price of other competitors, who offer the same protection.Their PoPs will have random down times, and they also misrepresent the down time on their own status page."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Boats",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-04T12:36:42.000Z",
+          "Titre": "Tempest Discord",
+          "Contenu": "After sending a message saying Dallas server migration will begin in 1-3 hours then shut down the power to these servers after 15 mins. After initially having an ETA of 12 hours and missing that deadline they refuse to give an updated ETA to people in their discord who just want to know if they should go plan something else for their weekend but nothing as it coming up on 36 hours with still no ETA. When people point out the lack of transparency and just want an ETA they get Banned in the Tempest discord."
+        },
+        {
+          "Note": 1,
+          "Lieu": "BR",
+          "Pseudo": "Douglas",
+          "Nb_Reviews": 2,
+          "Date": "2023-03-30T04:45:49.000Z",
+          "Titre": "Server suspended and files deleted, don't BUY",
+          "Contenu": "Hello,We ordered a server at Tempest for our company's internal use, as the server offered an unlimited 10GBPS port, with a top quality network (until then, knowing that it is from Path, we know it should be good), we opted to buy a small dedicated server.It hasn't even been 7 days since the server was purchased, it was suspended for breaking \"ToS\", the support doesn't mention or explain what our mistake was.We lost all the files that we kept inside the server and they won't return it.Here's a recommendation: Do not buy Tempest services if you expect quality service, good support, you will be disappointed. Furthermore, if the server is suspended, all files will be lost, and they will not be held responsible.Cordially,Douglas G. Vieira - COO | Co-founder at Zero Carbon"
+        },
+        {
+          "Note": 1,
+          "Lieu": "RU",
+          "Pseudo": "Anton Gareev",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-14T17:45:54.000Z",
+          "Titre": "I bought two servers for my game\u2026",
+          "Contenu": "I bought two servers for my game project, but for some time during installation the servers lost ping, the support service helped me solve this issue, but after some time my servers were completely blocked for no reason!"
+        },
+        {
+          "Note": 1,
+          "Lieu": "IN",
+          "Pseudo": "Aneesh Kapoor",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-21T09:00:10.000Z",
+          "Titre": "Read their terms and conditions",
+          "Contenu": "Before ordering anything don't forget to read their terms and conditions they have 10% late fee for even one day late payments one of the worst companies i have had to deal with not at all reseller friendly."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "user",
+          "Nb_Reviews": 3,
+          "Date": "2023-07-04T20:10:01.000Z",
+          "Titre": "Ineligible to buy because of false ban on Discord",
+          "Contenu": "A support member told me I am not eligible to buy a product from Tempest Hosting LLC anymore due to a ban on another chatting platform called Discord. I won't name this support member since I am not here to attack anyone personally. However, I don't think it's fair to be unable to buy a server because of a ban from Tempest Hosting's Discord server.EDIT: Those are false allegations. I did not and will not attack Tempest's network. If you have any questions for me, you can contact me via email.EDIT (June 15, 2023):In addition to what I already stated, I want to CLEARLY state what happened.I joined the Tempest Hosting Discord server when a reseller of Tempest/Path DDoS Protection got suspended (100UP).When I noticed what had happened to the API, I joined the Discord server to try and ask how a company with very advanced DDoS Protection from Layer 3-7 can have 503 HTTP errors on their own official website.After that, I got banned and was called \"a DDoSer\", which is clearly wrong since I was just asking a question."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Brandon Brown",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-08T06:49:31.000Z",
+          "Titre": "couldnt even spin up a debian\u2026",
+          "Contenu": "couldnt even spin up a debian machine...never got to access my box once"
+        },
+        {
+          "Note": 1,
+          "Lieu": "PK",
+          "Pseudo": "Zohair Qureshi",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-27T09:29:01.000Z",
+          "Titre": "Wouldn't Recommend",
+          "Contenu": "They couldn't fix my vps issue, ticket was opened for almost a month and I only got replies and no solutions, Wouldn't recommend as they offered no compensation for this and charged me for the month as well."
+        },
+        {
+          "Note": 1,
+          "Lieu": "BR",
+          "Pseudo": "Jo\u00e3o Vitor",
+          "Nb_Reviews": 3,
+          "Date": "2022-06-18T19:47:48.000Z",
+          "Titre": "They offer a proposal in the email but\u2026",
+          "Contenu": "They offer a proposal in the email but when you request it on their website, they deny it, so I don't recommend it to anyone, company without any commitment! In addition to being arrogant in support."
+        },
+        {
+          "Note": 1,
+          "Lieu": "CN",
+          "Pseudo": "wumingpc",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-24T01:25:14.000Z",
+          "Titre": "They are too lazy",
+          "Contenu": "They are too lazy, everything needs to be done by users themselves, using their products requires skilled technology, otherwise it is difficult to use normally, usually different from other service providers, they are difficult to communicate, insist on their own ideas, do not listen to opinions and suggestions, do not use bitpay to pay them, this is a fraud wallet!"
+        },
+        {
+          "Note": 1,
+          "Lieu": "FR",
+          "Pseudo": "Nywarda",
+          "Nb_Reviews": 2,
+          "Date": "2022-08-16T14:54:47.000Z",
+          "Titre": "Bad networking, support that never answered or fixed problems.",
+          "Contenu": "Hello, i've ordered a server from Tempest since the first day, all my players were having connection issues, like disconnecting, ping that were normal but sometimes ping goes like to 3000 and then goes back to normal but make a freeze.I've made a lot of tickets that were transferred to services that never answered or fixed my problems.With that I asked for a refund they only told me that they can do Account credit refund, which is not possible for me because i want to go out of their services with bad networking and bad network and filter support.In addition of that they told me that i didn't give them that much info about my problems, but I gave them like 3 differents players MTRs with high packet loss in it, i gave them 5 pcap with different configuration that they asked me and still tell me that I haven't give much information...They made me lose a lot of players, and don't want an amicable settlement.EDIT: They also banned me from their discord with no reason or even with no noticeResponse to their message: I've already do all things that you said to me on your tickets, it's clearly an issues on your end I moved to another host and get no problems, on your services even with filters disabled on my servers I was having problems. Now you're deleting all my tickets one by one and not responding, because you know that issue is on your end, and i have all proof that it's on your end.Cordialy,"
+        },
+        {
+          "Note": 1,
+          "Lieu": "CL",
+          "Pseudo": "Miguel Morillo",
+          "Nb_Reviews": 4,
+          "Date": "2022-12-18T02:47:07.000Z",
+          "Titre": "Bad service..",
+          "Contenu": "Bad service... It's not Security, path is false. The team it's no resolved attack DDos. The Security path is false"
+        },
+        {
+          "Note": 1,
+          "Lieu": "TW",
+          "Pseudo": "li liang",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-14T04:25:56.000Z",
+          "Titre": "I canceled a server",
+          "Contenu": "I canceled a server, and my account was banned, and the money for the server was not refunded"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Johnny Vick",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-03T19:01:37.000Z",
+          "Titre": "Terrible experience they require ID\u2026",
+          "Contenu": "Terrible experience they require ID without saying anything before purchase. Been 3 days no response from customer relations about refund."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Jason Allen",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-02T03:25:35.000Z",
+          "Titre": "I got banned for being a \"ddos skid\"\u2026",
+          "Contenu": "I got banned for being a \"ddos skid\" and my crypto was not refunded."
+        },
+        {
+          "Note": 1,
+          "Lieu": "KZ",
+          "Pseudo": "Zhunsan",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-19T18:52:21.000Z",
+          "Titre": "My worst dedicated hosting experience",
+          "Contenu": "I was looking for a provider in the USA with DDOS protection. I saw the offer from this provider, which is also a subsidiary of Path.I needed a custom server in the USA with the installation of my address space (subnets) on an autonomous system from the Tempest provider. In the chat, they offered me a dedicated Chicago server with a Ryzen 9 5950X CPU, and the set-up date was set for April 3rd, 2023. I clearly stated that I will need an announcement for my IPv6 subnets to their AS, as well as a static route from their router to my server. The tech support said that everything will be done as I want, and that I will be able to use my subnets on their AS 36231. I was sent a bill of $599 on March 29th, 2023, which I paid the next day, i.e., March 30th, 2023, using LTC through a BitPay aggregator.I immediately opened a ticket and specified that I needed to set up 4 subnets on their autonomous system, 3 of which I sent them on the 2nd of April (along with LOA) and valid ROA and RPKI entries. I sent the last subnet on April 3rd, with a LOA and valid ROA and RPKI entries as before.That being said, I was assured that there is no fee for this, as well as no limit on the prefixes placed. After providing them with all the information, I waited, and on April 3rd, 2023, I was sent the custom server data, only the subnets were not announced and linked, so I didn\u2019t even try to enter that server.Starting from April 3rd, they started feeding me with \u201cit will be done tomorrow\u201d, the customer support couldn\u2019t provide any deadlines for their work, and the server without subnets is useless. I stated the purpose  beforehand and said that subnets must be installed, as I won\u2019t be able to work otherwise. From the 3rd to the 7th of April, they didn\u2019t actually answer any of my questions, although I was writing them every day. They were constantly going off topic, confusing the terminology, and kept asking me what I need these subnets for, although I had told them before, and they always told me to \u201cwait\u201d or apologized for the delays. I even offered to pay for the setup and escalation of the ticket, but they said that everything is under control, and I just have to wait. Starting on April 7th, I contacted Path, among others, with a complaint against Tempest, as it is their subsidiary. They replied to my ticket the same day and apologized. They also said that the ticket will be given priority for network engineers. Ultimately, nothing happened until April 10th, besides me sending more customer service appeals and receiving meaningless replies from Tempest. In the end, it turned out that they are not able to announce prefixes on their standalone system, i.e., they cannot provide the service they are offering. Moreover, not only did they mislead me and waste 10 days of my time, during which paid subnets were not used, they also decided not to give me a refund. First, they referred to their TOS, which, according to them, prohibits the refunds of crypto payments, but I read them before paying for the server, and there was nothing about that, just as there was nothing after the reply of the support. I saved the page in the web archive and told them that I am being scammed and deceived, as there\u2019s no clause that says that. After that, I said that all the information and details will be made public on review aggregators and web-forums to warn people about working with this \u201cshady\u201d provider. To which they replied that they will consult with the manager and give me an answer. As a result, they gave me a refund on BitPay on April 11th, 2023, which was came to me yesterday (18 of April). As I have already asked BitPay, the problem was on the side of Tempest again, so they solved it for 1 week.I can provide all screenshots of conversations within the chats and tickets, as well as with BitPay customer support.Avoid this hosting, it is a waste of money and time. This is my worst experience in more than a year of working with various hosting providers. During all this time, I spoke with 7 people from customer support, and not one of them solved any of my problems and just talked for nothing."
+        },
+        {
+          "Note": 1,
+          "Lieu": "CA",
+          "Pseudo": "customer",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-02T20:22:25.000Z",
+          "Titre": "Worse service ever."
+        },
+        {
+          "Note": 2,
+          "Lieu": "NL",
+          "Pseudo": "Thei Jaegers",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-17T13:52:16.000Z",
+          "Titre": "i did sent in a ticket and never got a\u2026",
+          "Contenu": "i did sent in a ticket and never got a reply. maybe i did sent that question to the wrong people but then it would be nice to hear i made a mistake.but okay it happened, which made me question the path we went on with the server being the right one."
+        },
+        {
+          "Note": 2,
+          "Lieu": "ES",
+          "Pseudo": "RustSpain",
+          "Nb_Reviews": 2,
+          "Date": "2022-09-17T03:36:06.000Z",
+          "Titre": "Good anti DDoS protection but very bad deployment of new servers and new pops.",
+          "Contenu": "The anti DDoS protection they offer is very good. However, acquiring a machine on request is not recommended at all if you do not want to wait months to receive your new server.We have literally been waiting since February 2022 for the delivery of a new server in the new pop in Madrid. Today, path (tempest's parent company) already offers services with other providers in the same datacenter.However, we are in September, it has been 7 months since we placed the order and we still have to wait another couple of months.If you have an important project and you urgently need a good server, forget about buying one in advance. Better wait for them to release something in stock to get a server that might suit your requirements.Of course, once you have your server you will not have many problems and they usually solve it quickly."
+        },
+        {
+          "Note": 2,
+          "Lieu": "EE",
+          "Pseudo": "Tryhard",
+          "Nb_Reviews": 4,
+          "Date": "2023-09-15T17:35:34.000Z",
+          "Titre": "My negative experience with Tempest.net as a hosting provider.",
+          "Contenu": "I ordered a 12900KS machine and waited over 2 and a half months for it to be delivered. When it finally arrived, there were several issues. First, there was no IPMI access and on top of that they installed the wrong operating system. Then there was also the machine name, which for some reason was called \"VITAL-PENDING-LONDON-1\". These minor issues alone took several days to be resolved. After the operating system issues were fixed, the machine seemed to run smoothly for a while.However, I experienced daily network drops. After 6 weeks of using the server, I woke up to it being offline. So, I contacted support and after a few weird questions from them for example: \u201cIs this very urgent?\u201d, they called up the remote techs and the server was back in an hour or two. Eventually, the server began going offline once or even twice a day. Upon investigation, Tempest discovered that the crashes were caused by faulty power supplies and said they would replace them. However, I never received any information on how long the replacements would take, despite multiple attempts to get an update. I eventually had to move to another provider due to the 12th gen still not being fixed after almost 2 months. In total, I spent 10 weeks waiting for the machine, used it for 6 weeks without issues, and then it was pretty much unusable for 7 weeks, so after that I moved providers. They also turned the CPU speeds from 5.4GHz down to 5.2GHz without telling me anything.I also had a negative experience with a second machine that I ordered from Tempest. On 04/24/2022 I placed an order for a 12900K machine that was supposed to be delivered within the same week. I reached out on the 29th for updates and was told that the team should reach out soon. On the 15th of May, I finally received it, much later than promised but I wasn\u2019t too bothered. When I ran a benchmark on it, the results were identical to a Ryzen 5900x. After talking to SEVERAL staff members, we were finally (after about 4 attempts) able to get a good score on the benchmark.I didn't list all my issues and problems, but these should be the main ones.I have also had some good experiences on lower end machines, I had a 5900X, a 5800X,a micro cloud server and 2 shared servers all of which didn't have issues. Overall, I would not recommend Tempest as a hosting provider due to their long delivery times, various issues with the machines, and poor communication and support."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Alexander Young",
+          "Nb_Reviews": 2,
+          "Date": "2022-09-22T22:52:50.000Z",
+          "Titre": "The service was pretty good, but overpriced",
+          "Contenu": "The service was pretty good. I found it a bit annoying that devices are restricted to a maximum of 20 filters per device. The hardware worked as described and intended. My only real complaint is the pricing of the hardware is overpriced and in the microcloud underpowered for 10 Gigabit networking. Even with the backing of path.net, I don't think this is the best value in terms of the hardware they provide compared to other providers that will provide similar devices with rudimentary protection. That being said I have to compliment their support team. Their support teams and billing teams are very understanding, and they do what they can to solve your problems quickly and seem pretty knowledgeable. I've had worse support experiences with other providers but tempest's support team seemed to be more coordinated and open."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "david stone",
+          "Nb_Reviews": 2,
+          "Date": "2022-08-13T22:38:50.000Z",
+          "Titre": "Prompt response when issues arrise",
+          "Contenu": "UPDATEThe issue of the False ban has been kindly solved by the CEO of path, left a bad taste but overall he was helpful and prompt. network is good overall. i would recommend you consider them, just know of any potential rare side effects"
+        },
+        {
+          "Note": 3,
+          "Lieu": "CA",
+          "Pseudo": "imabee",
+          "Nb_Reviews": 2,
+          "Date": "2022-08-14T17:58:28.000Z",
+          "Titre": "A slow start, but overall a good experience",
+          "Contenu": "Didn\u2019t get server in 24-48 hours as promised via ticket. Has been pending for 53 hours now. Edit: after my second ticket the server was delivered.So far the bandwidth has been good, no ability to remove the firewall entirely from the server, forces everything to go through the filter. Staff have been around in discord and seem friendly enough. Peering to the EU is stellar. Can do about 3gbit on a single thread to NFOrce and 500-750mbit to Hetzner 1g servers. Only provider really with 10gbit unmetered bandwidth at a reasonable price, so bonus points for that. Update: Aug 14, 2022Recently added a second dedi from these guys in their Singapore location. Able to do ~1gbps between US and that location and about 3gbit to hetzner. Automatic deployment failed for a second time using Debian 11 but was fixed after I waited for 3 hours to put in a support ticket. Staff were asked to only get it online and to IPMI and not execute the OS install but still executed the OS install despite the instruction not to do so, costing me another hour of my time while I both waited for the initial install to complete and for the additional install I had to do myself. Still a good network, some rough riding from time to time but that\u2019s fine. I only really use the servers as a CDN that hits aws r53 (which verifies they\u2019re up before pointing traffic to them). Still no ipv6 support on the horizon but it does fine on ipv4 for the most part. Overall experience, 3.5/5. This review will be updated as testing continues."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Edwin",
+          "Nb_Reviews": 2,
+          "Date": "2022-04-26T15:10:09.000Z",
+          "Titre": "Inaccurate Delivery Times, Awful Support, Incompetent System Engineers",
+          "Contenu": "Inaccurate Delivery Times, Awful Support, Incompetent System EngineersThe only reason I give them 2 stars is because of their Path.net DDoS protection. That's the only positive aspect I've experienced from Tempest.Firstly, the support. I waited for a response on my ticket for over 36 days. It was a simple request for a BGP announcement. Tempest has a major lack of competent staff members, which leads to crazy long wait times. I'm not the only customer waiting months for support, I've heard numerous Tempest.net horror stories. I ended up giving up on waiting for my support ticket to be completed and they refunded me, at least it was a simple process to get refunded.Delivery times have been a major issue for Tempest, there is a huge lack of in-stock servers means you can be waiting a few months to year for a custom server order delivery especially in certain locations. Tempest has a major issue with hiring, instead of hiring like an actual company would, they resort to hiring in-experienced systems engineers that lack any formal education on completing day-to-day operations a network or system engineer would usually complete. I believe this to be the reason of these numerous horror stories you'll hear coming from Tempest. Zigi is the only staff member to my knowledge that's able to complete tasks with networking such as BGP, that is laughable for a million dollar company like Path / Tempest.Compared to similar hosting companies that can get this task done in 1 day, Tempest takes 36 times longer.EDIT: Tempest has resolved the problem and announced my IP range and added 3 months of free service to my dedicated servers."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Lee Shay",
+          "Nb_Reviews": 2,
+          "Date": "2023-10-31T18:09:49.000Z",
+          "Titre": "After many years with GMCHosting and\u2026",
+          "Contenu": "After many years with GMCHosting and having my entire community built up over a 10 year period destroyed by a greedy clueless host, I had migrated my community over to Tempest and have not looked back.Connor (or Bushy) has been phenomenal in helping me tackle all issues.At this point in time, their panel designed for automated is still missing some INCREDIBLY basic features that are offered in virtually 99% of competitors, hence the rating being dropped to 4 stars, however, i'm sure this will be addressed soon and I will give these guys a 5 stars."
+        },
+        {
+          "Note": 4,
+          "Lieu": "PH",
+          "Pseudo": "iGuAna",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-01T04:47:50.000Z",
+          "Titre": "Stellar service.",
+          "Contenu": "Ordered a server mid July 2022, deployment was fast. Firewall was a bit confusing at first but after getting it set up works great. Speeds are good and 10Gb unmetered for the price is stellar. Planned to expand and order another server but the website showed it as unavailable. Opened a ticket, support checked and found an available one at the location needed. All in all 1 hour and another server up and running. For now nothing but positive points for Tempest Hosting."
+        },
+        {
+          "Note": 4,
+          "Lieu": "GB",
+          "Pseudo": "Tide Rust",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-22T19:39:47.000Z",
+          "Titre": "Staff team is great",
+          "Contenu": "Staff team is great, Bushhy is very helpful and really represents tempest well, For the most part the network is also great and have never felt a Ddos attack. On the other hand their pricing is in my opinion too high compared to their competition and in recent months there has been a fair bit of inconsistency when it comes to stability. Overall my experience with tempest has been pleasant, They do have issues from time to time but these are corrected accordingly and their staff is always available to sort out any potential problems."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Shake Ot",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-06T02:08:37.000Z",
+          "Titre": "Buying my First vps",
+          "Contenu": "need help on which vps to buy and the goat came and save the day aka GrandDaddysmoke he told me which one to buy and which one be better off buying"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Bigdog",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-06T02:11:30.000Z",
+          "Titre": "Needed help for what vps i should buy\u2026",
+          "Contenu": "Needed help for what vps i should buy and the best support GrandDaddySmoke sat in a call with me for a hour showing what vps to buy and helped me set it up one of if not the best support out there"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kyere Services",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-15T06:17:26.000Z",
+          "Titre": "Excellent service with a seamless\u2026",
+          "Contenu": "Excellent service with a seamless process. I bought my package from Ryan, who was not only outstanding but also very communicative and knowledgeable. Since I'm relatively new to this, he effortlessly guided me through the setup and deployment. I'd happily recommend him to all my colleagues."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Jan Danko BruTalCODE",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-03T00:30:25.000Z",
+          "Titre": "Best hosting what I ever have 10/10",
+          "Contenu": "This is the best hosting what I ever have, the protection of the hosting is best, the hardware is in the best condition with the best power, the support is good, help you when you need.If you are looking for hosting with great protection and great hardware quality and power, this hosting is definitely for you!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Shadowzz",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-01T09:21:25.000Z",
+          "Titre": "10/10",
+          "Contenu": "10/10, Has great support who always are on top of it to help, and the owner of this company himself has me added for any times I come across issues, they really value and show support towards customers. Great hardware, all my servers perform super well due to these machines."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Avery Schepman",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-31T04:48:46.000Z",
+          "Titre": "Great hosting",
+          "Contenu": "Fantastic hosting. Extremely streamlined experience. Purchased through Ryan and he was fantastic and was very engaging and informative. Fairly new with this and he had no problems helping me get everything setup and deployed, easy recommendation to all my associates."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "lencorp",
+          "Nb_Reviews": 2,
+          "Date": "2023-02-03T00:10:01.000Z",
+          "Titre": "Great Experience",
+          "Contenu": "Fast setup times, we have had zero problems with the box which has run perfectly since it was setup. The custom overclocks and cooling works wonders and we see vastly reduced resource load that servers running on the same hardware with other providers. Can't recommend Tempest enough"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "R C",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-17T05:18:58.000Z",
+          "Titre": "Legitimately the best hosting you can\u2026",
+          "Contenu": "Legitimately the best hosting you can get. Their DDoS protection, support and services are absolutely the next level and only help elevate your business to it. Pricing is UNREAL compared to any other hosting companies. We have gone through 4 other hosts and they all had FAR less for way more. We have grown 3x our starting size and have insane room to expand. Thank you Tempest/Path teams!!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Jordan",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-30T02:21:02.000Z",
+          "Titre": "Best hosting service.",
+          "Contenu": "Great hosting. After switching to Tempest, it massively improved the availability, and stability of our machines and was one of the best choices made for my company. If you are looking for reliable hosting, then this is the top of the market go-to solution."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Jordan Boulton",
+          "Nb_Reviews": 4,
+          "Date": "2022-12-26T04:45:10.000Z",
+          "Titre": "2am Christmas Night Support",
+          "Contenu": "2am on Christmas Night (technically Boxing Day Morning), Amsterdam 1.0 goes offline - I'm half asleep, so our bot calls me to notify me of the downtime. Within 60 seconds of asking if anyone was free - we had a Senior Systems Engineer (Peter) on the case fixing the issue. Within 10 minutes, he'd identified the issue, and within 30, it was fixed.Excellent turnaround."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "Jordy Visser",
+          "Nb_Reviews": 3,
+          "Date": "2023-04-12T21:42:06.000Z",
+          "Titre": "Busshy is the best!",
+          "Contenu": "Tempest is the best hosting company. Busshy is so amazing. He always helps me with all my issues. Despite him being just an account manager he is always there for me. Amazing people, Amazing company, super protection.#GoBusshhy"
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "Coen",
+          "Nb_Reviews": 2,
+          "Date": "2021-03-24T19:18:53.000Z",
+          "Titre": "Best hosting company.",
+          "Contenu": "By far the best hosting company i have used. Our population because of their anycast solution has increased by allot on our game servers. The Tempest support team also has very fast response times. Our servers were getting attacked allot by ddos attacks on our old host. Since we moved to Tempest we feel nothing from those attacks anymore cause of their superior ddos protection!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Thomas",
+          "Nb_Reviews": 2,
+          "Date": "2022-09-13T20:47:48.000Z",
+          "Titre": "Slow start but now running on all cylinders",
+          "Contenu": "We have been using Tempest lately for our small server and since we made the switch we have not had any downtime. Our ping times are extraordinary for our players. We have actually seen an explosion in growth since the switch. There was some trouble getting our hands on a server which I am told is improving since the Covid/Crypto shortages. I ended up canceling my other host and don't have any plans to use anyone but Tempest moving forward. I have had servers with OVH, GSK, NFO, etc. So far Tempest's DDoS protection and network far exceed what those other companies currently offer."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "Gauthier",
+          "Nb_Reviews": 5,
+          "Date": "2022-09-14T15:12:24.000Z",
+          "Titre": "The best hosting company we ever had",
+          "Contenu": "My business depends on a good hosting company. The last 3 years we have tried several very good companies available yet Tempest beats them all. Things I noticed since we migrated all our servers to them:- Insane network and IP infrastructure- Very fast support- Best control panels ever- Good communication But, most important of all, I was able to attract more customers since my services are so stable and that is a BIG win for us.Don't think about it, it's a no-brainer. Tempest is the hosting company you need."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Synk",
+          "Nb_Reviews": 3,
+          "Date": "2023-05-04T03:52:01.000Z",
+          "Titre": "Top notch hosting",
+          "Contenu": "I have been using path/tempest services for over a year now and all I can say is that it performs very well. I currently have a 12900ks dedi that has a 5.4ghz all core overclock that I have been using for a number of months now that performs well for game servers.The thing that sets tempest/path apart from other providers is the network really which has a lot of mitigation capacity and is perfect for game servers due to the strict filtering and anycast a2s cache. They are currently the largest provider with this sort of setup. On top of this all tempest servers come with a 10G port for no extra cost.While I do not get blasted by large scale attacks it even is capable of filtering out small attacks without causing lag because it only allows game traffic."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Corpsman",
+          "Nb_Reviews": 3,
+          "Date": "2022-04-25T01:04:10.516Z",
+          "Titre": "Five Stars",
+          "Contenu": "I have been running Rust game servers for several years. I have been with many different hosts. I moved community to Tempest about 4 months ago. Support has been very responsive and helpful. The network is powerful with minimal network issues as seen with many of the other hosts. I am very happy and my players are happy!  Delivery times for custom machines are long, So are everyone elses."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Aaron Russell",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-26T03:45:06.000Z",
+          "Titre": "Great staff and network",
+          "Contenu": "Great staff, support, and service. Tickets are responded quickly to answer any questions almost instantly and any problems get fixed in no time. By far the best host I have used in terms of network and support. They also have a great and active community that I always have a great time talking to.I would recommend Tempest to anyone looking for a hosting provider."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "John Doe",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-03T08:22:29.000Z",
+          "Titre": "I had a really good experience with\u2026",
+          "Contenu": "I had a really good experience with tempest hosting LLC , I recently moved from a old company to a new kinda unsure how this new company would be in the process of this move I needed help with a via rental product that this company has provided me. I wasn\u2019t sure how really move around there firewall. the team just did it for me with no questions asked funny and amazing experience with the staff here at tempest LLC hosting."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Laura Rutter",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-12T16:34:22.000Z",
+          "Titre": "I have been with tempest for nearly a\u2026",
+          "Contenu": "I have been with tempest for nearly a year now and I can truly say I am glad I chose Tempest to host my server. Amazing staff who are always happy to help no matter how small the issue is, fast response & quick fixes & great advice. Thank you again one very happy customer."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rusticated",
+          "Nb_Reviews": 3,
+          "Date": "2020-11-23T18:49:47.000Z",
+          "Titre": "Tempest the far superior hosting",
+          "Contenu": "Tempest has been quite a journey. When I joined they didn't really do anything for rust hosting. We knew the network they had is more then enough to handle rust. They quickly adjusted the network and fixed issues we had to support and handle rust. They built specific filters for rust to quickly manage attacks. We continue to work with them to help improve the experience for all rust servers. I highly suggest them for the optimal ddos protection."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Chance Labif",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-17T18:08:22.000Z",
+          "Titre": "One of the best quick hosting services\u2026",
+          "Contenu": "One of the best quick hosting services I have used.  Server hardware is very good for the price, and setup was very fast upon payment.  Any questions I had through support were replied to on Live Chat by Noah literally within minutes.Connection to host is always extremely fast and reliable.This is definitely a bigger scale provider with their own network, they don\u2019t resell garbage protection like Voxility, Psychz or other services, they have over 4tbps of capacity, the value for the servers given is very good and I have been very happy and I\u2019ll continue to renew every month"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "UnrealSalty",
+          "Nb_Reviews": 6,
+          "Date": "2022-11-17T14:43:15.000Z",
+          "Titre": "Awesome Hosting",
+          "Contenu": "Awesome HostingFirst of all i'd like to say that as a server handler for more than 3.5 years this has to be one of the best host's so far.I've not had a single issue with tempest, the performance is great their service is great i mean there is nothing really much to say.The support team and the developers are just fantastic, their response time is on point aswell as their amazing support.The community is just fantastic. Welcoming and helpful is all i have to say to describe this amazing enviroment.I'd recommend Tempest Hosting to anyone looking to host their own servers."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kara",
+          "Nb_Reviews": 2,
+          "Date": "2022-11-20T00:59:25.000Z",
+          "Titre": "All the staff are friendly and fast\u2026",
+          "Contenu": "All the staff are friendly and fast replying, you dont get a silly answer unlike some other company's the service is great for the price, either hosting or just personal use 10/10 would highly recommend. i would like to personally thank ryan and the rest of path/tempest staff for helping me set things up when i needed."
+        },
+        {
+          "Note": 5,
+          "Lieu": "FI",
+          "Pseudo": "Alex Lol",
+          "Nb_Reviews": 2,
+          "Date": "2021-03-24T15:51:52.000Z",
+          "Titre": "Best dedicated server seller",
+          "Contenu": "We use them for our VPN, fast delivery and 24/7 dedicated support has been assigned to us. We could not get as far as we are without them. All staff have experience in the networking field so any issues we encounter can be fixed within minutes. DDoS protection is as advertised and we have yet to experience downtime with them."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "Kiriel",
+          "Nb_Reviews": 4,
+          "Date": "2023-06-19T18:08:18.000Z",
+          "Titre": "Amazing experience",
+          "Contenu": "Tempest Hosting offers exceptional DDoS protection and unmetered 10Gbit ports, ensuring a great hosting experience. The staff is knowledgeable and helpful, although response times for tickets can vary for tickets for the Path team. However, they always strive to resolve issues effectively. Despite the higher pricing, the stability and reliability make it worth it. With Tempest, I have experienced no lag or attacks on our servers, thanks to their excellent Path protection. Overall, Tempest has provided everything I need, and I plan to continue hosting with them for the long term."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Albert Brayne",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-17T17:36:32.000Z",
+          "Titre": "Tempest knows what they are doing",
+          "Contenu": "My experience with Tempest so far (about 3 months) has been simply amazing.  It beats the previous hosts I\u2019ve used and with great prices too.  10gbps for only $149.99 is extremely good especially with unmetered bandwidth, the performance and quality really shows, you guys are the future, keep it up."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Trevor",
+          "Nb_Reviews": 2,
+          "Date": "2021-03-17T22:58:37.000Z",
+          "Titre": "Superior Hosting & Support!",
+          "Contenu": "Tempest has been one of the most amazing services I have encountered. Their customer service tops any other company I have purchased from - they truly go above and beyond to make sure the customer is happy and satisfied. Their hosting has no downtime - we have had zero issues after 5+ months of use. Fantastic DDoS protection, fast speeds, and superior support."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Scotty (Scotty)",
+          "Nb_Reviews": 7,
+          "Date": "2021-03-17T17:34:32.000Z",
+          "Titre": "Great Experience",
+          "Contenu": "I've had a great experience with this company so far. I've had a dedicated server with them for over a month now and I don't have anything negative to say. Ever since switching to this host to stop (D)DoS attacks we were receiving, our server has not gone down once. The support I've received is great, they almost immediately reply and help out with things that other companies would usually make you do on your own. Like configuring your firewall for you and just helping you out with any questions you have about their services."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Triaxium",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-13T23:49:08.000Z",
+          "Titre": "Exceptional Quality. Outstanding Support.",
+          "Contenu": "Tempest Hosting provides top-of-the-line hardware backed by a state-of-the-art network from Path. I have no doubt that when I place an order with Tempest that I am receiving the best of the best in the industry. Their support team is friendly and quick on their feet to assist their customers."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Mark White",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-05T15:07:23.000Z",
+          "Titre": "Overall Great Experience",
+          "Contenu": "Tempest Hosting has provided an overall great experience with their insane DDoS protection and unmetered ports. The staff are very helpful and know what they are doing though some tickets take a while to get a response it's safe to say your issue will always be resolved. The team are friendly and do their best to help with any issues that arise even if it's the client that has caused the issue. In my personal experience any issues have typically been resolved within 30 minutes of opening a ticket on their website. Though pricing can be steep you get what you pay for. If you're looking to grow something and want it stable, Tempest is the place. Overall while being with Tempest we have not had experienced any lag or attacks on any of our servers. I only notice I have had attacks when I look at my firewall manager as Path protection is by far the best for our game servers. Tempest has provided everything we need and I can see us hosting our infrastructure on them for a long time!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "MT",
+          "Pseudo": "SixMyBad",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-30T12:11:28.000Z",
+          "Titre": "Give it a try, you wont be disapointed!",
+          "Contenu": "Been using Tempest for my game servers. Flawless performance and great support. Highly recommend!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "CJ C",
+          "Nb_Reviews": 2,
+          "Date": "2023-02-11T01:37:26.000Z",
+          "Titre": "3 Months with Tempest",
+          "Contenu": "I have been with Tempest Hosting for 3 months now running a high octane Rust server on their dedicated servers and our experience has been nothing but perfect. We have had ZERO issues so far and I heavily recommend that you choose tempest."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Jack C",
+          "Nb_Reviews": 1,
+          "Date": "2021-11-25T09:51:51.000Z",
+          "Titre": "Good for game and hosting services.",
+          "Contenu": "Tempest is a relatively new company within the hosting space, this however is not a presence that I would describe them by, nor do I feel that they wish to be viewed as such.Tempest leverages their corporate father company Path.net to provide high quality, reliable ddos protection to all of their servers. As someone that has had their head in the space for a few years now, what they offer is the best on the market for live game-service mitigation.The hardware range they offer is significant and up to date, and all servers come with 10G networking and ddos protection as standard which is a really nice touch.Be aware of delays on orders, presumably caused by the global electronics shortage. However they work through this as quick as they can."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Chris W",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-17T17:21:42.000Z",
+          "Titre": "High Quality Servers",
+          "Contenu": "I run a big Rust server in the gaming community and ever since I\u2019ve switched to Tempest, I\u2019ve had no issues with attacks and now over 200+ players connected consistently and all servers comes with 10GBPS port speed which is extremely fast.  The support staff respond very quickly to me and really care about their customers, they also have an advanced firewall that blocks attacks and shows attack history all from their website.  Hands down the best servers on the market, I\u2019m never going back to OVH ever again."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Vucixc",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-17T17:18:11.000Z",
+          "Titre": "Amazing!",
+          "Contenu": "I run a VPN service and I was having troubles with finding a good/reliable hosting provider. I found Tempest and it was the best thing I have experienced, they have a wonderful staff that is always there to help. Their servers are top of the line, plus their DDoS Mitigation. Tempest has been amazing to us, I highly recommend checking them out!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "BG",
+          "Pseudo": "Hammad Ibrahim",
+          "Nb_Reviews": 1,
+          "Date": "2022-03-02T21:42:10.000Z",
+          "Titre": "Beyond Pleased",
+          "Contenu": "I purchased a service from Tempest not too long ago and have been enjoying my time with them. Their support is impeccable and very quick. 9 times out of 10 they are able to help with whatever problems you may have.In addition their server speeds and protection are unmatched. I first purchased a month with them, however after just a week I decided to buy the service for a year!You should not have to look elsewhere whilst you are with path, they are by far the most superior hosting company."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Joe S.",
+          "Nb_Reviews": 2,
+          "Date": "2021-03-24T17:05:34.000Z",
+          "Titre": "Great service and great support!",
+          "Contenu": "Started using Tempest back in November 2020, and have had nothing but excellent service since. We've had a few issues this past week due to some changes we've made, but Tempest's support helped us resolve the issues within minutes and get everything working smoothly again. The DDoS protection is amazing also, individuals have constantly tried causing downtime to my services but the protection Tempest/Path offers have resulted in 0 downtimes for us!Amazing host overall, with amazing support. Would recommend it."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Harry",
+          "Nb_Reviews": 3,
+          "Date": "2022-03-02T21:39:40.000Z",
+          "Titre": "Perfect for high performance networking.",
+          "Contenu": "After using tempest for a while now, the network infrastructure is truly unmatched, they've changed the face of high performance networking and made it affordable and better.I've also gotten support that's extremely fast for a company this size and I cannot complain.Only issue is the occasional downtime, however this is planned and notice is given. It's kind of par for the course when working with networking infrastructure like this."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "magicoserver yt",
+          "Nb_Reviews": 1,
+          "Date": "2021-11-25T09:51:54.000Z",
+          "Titre": "Absolutely stunning overall\u2026+10",
+          "Contenu": "Absolutely stunning overall service/prices with a minimum 10Gb unmetered bandwith on all servers.Got in love with you guys on the first day i've noticed about your company.I recommend to everyone, no exception.Thank you!!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Bruce Kampth",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-17T17:57:23.000Z",
+          "Titre": "I\u2019d been bouncing around server hosts\u2026",
+          "Contenu": "I\u2019d been bouncing around server hosts for a while, and still hadn\u2019t nailed down one I was super happy and satisfied with.  Prices were unreasonably high ($500+), service/user experience wasn\u2019t great in terms of support.  So I was looking for a better provider with more locations since I have many CS:GO servers.I came across reviews for Tempest from friends and their Discord and figured I\u2019d give them a go since the reviews were all pretty positive.Have to say, they exceeded my expectations as a whole.  I definitely think this is the best server host I\u2019ve found so far.  Pricing is great for the specs, speeds and support you get!  All around I\u2019m satisfied and I\u2019m looking forward to getting more servers when they get more instant deployment stock available."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "MrFlaaz",
+          "Nb_Reviews": 1,
+          "Date": "2021-06-28T12:51:28.000Z",
+          "Titre": "It just works!",
+          "Contenu": "It just works. After years of fighting with so-called DDoS protection other providers offered we finally landed with Tempest by referral. Support has always responded quickly and are very effective."
+        },
+        {
+          "Note": 5,
+          "Lieu": "DE",
+          "Pseudo": "Kyuubii",
+          "Nb_Reviews": 2,
+          "Date": "2022-11-09T17:30:29.000Z",
+          "Titre": "Tempest is great!",
+          "Contenu": "Ive got nothing bad to say about Tempest! Especially the customer Service is great that combined with the great uptime (my service has been up for 7 months without ineruption) and the top notch Protection makes me stay with Tempest!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CR",
+          "Pseudo": "Jahsmokah Chronic",
+          "Nb_Reviews": 1,
+          "Date": "2022-02-16T08:26:07.000Z",
+          "Titre": "Most affordable 10Gbe servers",
+          "Contenu": "Most affordable 10Gbe servers, and top tier DDOS / Layer 7 attack protection.   Their technology is bleeding edge, their mitigation system was able to eat over a terabyte DDOS attack against my Rust Server.   Great support and amazing community!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CH",
+          "Pseudo": "KenZo",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-21T09:00:16.000Z",
+          "Titre": "I am very satisfied with Tempest's\u2026",
+          "Contenu": "I am very satisfied with Tempest's support. So far, I have always been able to reach the support in a very short time, no matter what time. Although Tempest is still a young company, everything works very well. I would recommend Tempest to anyone."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "David Zheng",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-14T05:00:53.000Z",
+          "Titre": "I managed to get a $90 New York server\u2026",
+          "Contenu": "I managed to get a $90 New York server before they went out of stock and it\u2019s awesome!!  I waited 2 weeks before reviewing to see how everything has been because when I used OpenVPN on nfo and hetzner I kept getting attacked and my customers would go offline.  Tempest has filtered all the attacks perfectly and none of my customers have reported downtime, they also came out with a WireGuard filter which I will be using soon, no other companies I\u2019ve seen have these filters or price 10/10"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IE",
+          "Pseudo": "Felix Watts",
+          "Nb_Reviews": 3,
+          "Date": "2021-03-20T00:25:10.000Z",
+          "Titre": "One Of The Best Hosting Companies",
+          "Contenu": "One of the best Hosting Companies I have ever come across. I purchased a Dedicated Server and the DDoS protection is out of this world. Customer Support is also amazing. I'm very picky when it comes to choosing a host and Tempest really ticked all the boxes for me. You would be stupid to not give them a try! - Niall"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Sagnik S",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-17T16:54:20.000Z",
+          "Titre": "Great pricing and service overall",
+          "Contenu": "Tempest's pricing for unmetred 10G network is simply unmatched by anyone else. Service has been great so far. The only downside is that they don't seem to have much stock for instant deploys."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Anthony",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-16T08:01:49.000Z",
+          "Titre": "Tempest the best hosting company",
+          "Contenu": "Tempest the best hosting company in the world. when I was with GSK i was dossed for 3 months I went to path and now no issues having the best server experience for my business than ever before would recommend"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CH",
+          "Pseudo": "Roshke",
+          "Nb_Reviews": 4,
+          "Date": "2021-12-08T13:33:11.000Z",
+          "Titre": "Amazing Pricing for 10 Gigabit Servers",
+          "Contenu": "I've been for over 3 Months a customer at Tempest and so far the Pricing for 10 Gigabit DDoS Protected Server (including Gaming Protocols) is amazing.Also customer Support is very friendly and always ready to help.- Roshke"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Montee Carlos",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-31T03:26:27.000Z",
+          "Titre": "Ryan Best Staff On This Site 100/100",
+          "Contenu": "Ryan Best Staff On This Site 100/100 , Fast Setup  & 0 Problems All The Time !  W HOSTING !"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Callum Gibson",
+          "Nb_Reviews": 3,
+          "Date": "2022-05-29T14:46:59.000Z",
+          "Titre": "Top Quality, Dedicated Support, Highly Recommended",
+          "Contenu": "Top of the range, quality services, with fast & dedicated support to ensure you are happy with your service. High up-times & quick resolutions for any issues. With top quality networking & plans of expanding further than they're currently at, a company that's highly reliable & highly recommended to go with."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "GamersVPN",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-02T01:13:19.000Z",
+          "Titre": "Best Provider",
+          "Contenu": "Started doing Minecraft Servers Late 2022 And Found Tempest Hosting Servers are amazing. Fast speeds and amazing ddos protection For Vpns and game servers"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mathew Noah",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-08T05:01:49.000Z",
+          "Titre": "tempest is very good to use as a vpn or\u2026",
+          "Contenu": "tempest is very good to use as a vpn or gaming on they have really fast good servers and support team there very nice and help fully i fully give them a 10/10 of there support and servers they have"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Corndiggitydog",
+          "Nb_Reviews": 2,
+          "Date": "2022-08-11T00:34:08.000Z",
+          "Titre": "Great customer service!",
+          "Contenu": "I was worried about figuring out how to get my Rust server up and running with a server panel that I've never used before, but the staff was awesome and helped me with every question I had!  Definitely recommending Tempest to all my friends."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Apollo Gaming",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-30T04:38:18.000Z",
+          "Titre": "Connor did an amazing job helping be\u2026",
+          "Contenu": "Connor did an amazing job helping be get setup with what I need.  He made a promise and for sure kept with his part of the deal 10/10 would recommend and I will for sure be doing more business with you all."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Taylor",
+          "Nb_Reviews": 2,
+          "Date": "2021-01-17T01:03:58.000Z",
+          "Titre": "Best Server Hosting Provider To Date!",
+          "Contenu": "AMAZING!!! we use this provider as we had problems with 2 others, i can tell you 1 thing, THEY ARE AMAZING! speeds are blazing fast, support is perfect and the protection is on point! will 100% be staying with tempest hosting for a long time."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "RT",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-17T19:05:34.000Z",
+          "Titre": "One happy customer",
+          "Contenu": "I am pleased with the service and support we receive from the guys at Tempest Hosting. The team is very knowledgeable and they have the know-how to troubleshoot and resolve any issues we\u2019ve had. The service and support they offer is unbeatable at this price."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Danika",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-15T07:44:00.000Z",
+          "Titre": "Tempest is professional, helpful and overall a great hosting company.",
+          "Contenu": "I discovered Tempest through a mission on replacing my prior host who wasn't suitable to my needs. Kyan found my plight through a Rust Administration Discord post and private messaged me to get me set up on Tempest ASAP. They were very friendly and the whole process was completely pain free. They set me up with an amazing deal I absolutely could not pass up on. I am a little new to game server hosting and had a few questions that they answered quickly and satisfactorily. There are a few instances after setup where I needed help and they provided. I also received a considerable amount of help and input from Bushhy over Discord which is unmatched customer service compared to my last host. They have been a wonderful resource and a friendly conversationalist so I wanted to give credit where credit is due. I am grateful that Tempest has given me such excellent service and will absolutely recommend them to any friends seeking hosting services.Thank you Tempest!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "RustSpain",
+          "Nb_Reviews": 2,
+          "Date": "2022-01-27T23:00:58.000Z",
+          "Titre": "Good DDoS protection",
+          "Contenu": "Good AntiDDoS protection. They do not provide an api to warn of DDoS, or real information of the attacks received, but that may be irrelevant for some clients. Although with good attention, the response times of technical support have been improving considerably in recent months, managing to resolve incidents more efficiently.The best quality/price provider to host your game servers."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Adrian",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-17T19:01:41.000Z",
+          "Titre": "Proud Tempest Customer",
+          "Contenu": "Tempest has been nothing but absolute wonders. We have been using their services for over 7 months now without even so much as a SINGLE hiccup. Their services are online 24/7, their staff and support team is unlike any I have ever encountered. The setup was very quick and Entity was a massive help in answering questions and even giving us suggestions on how we can better our overall experience for what we use their services for. Normally I am not the type of person to leave reviews on anything, good or bad, but this company has seriously surpassed my expectations and reminded me that truly good customer service goes a long way for a company. 100/10 would recommend this company, and I cannot wait to see them grow their business in the future as well."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Jordan Boulton",
+          "Nb_Reviews": 4,
+          "Date": "2020-11-23T16:06:48.000Z",
+          "Titre": "Amazing Service",
+          "Contenu": "I joined Tempest after coming directly from one of their main competitors, the support and service I've recieved here have been absolutely night and day different from what I've been used to. The hardware is excellent, the support is second to none - Obviously Tempest is far more expensive than what I've previously been used to but you get what you pay for with this company. I am absolutely content and I have already made arrangements to move our EU servers over to Path as well as our US servers."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PT",
+          "Pseudo": "TMafono",
+          "Nb_Reviews": 2,
+          "Date": "2020-11-24T15:47:36.000Z",
+          "Titre": "Outstanding Service",
+          "Contenu": "Tempest has by far exceeded all my expectations, The DDoS mitigation and filtering are amazing, being able to tank over large attacks without any players noticing what's going on is simply the best, it beats any of the competitors on the market, not to mention it also offers more for far less!The team over at Tempest has been great to work with, sorting out any issues or answering any questions within a short period of time.Highly recommended Host!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dustin",
+          "Nb_Reviews": 2,
+          "Date": "2022-06-01T01:58:48.000Z",
+          "Titre": "Best prices and great customer service\u2026",
+          "Contenu": "Best prices and great customer service can message any hours and they reply right back to me servers never crash no lag great all around"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "William Nelson",
+          "Nb_Reviews": 88,
+          "Date": "2022-07-18T23:02:03.000Z",
+          "Titre": "Satisfied with tempest's DDoS\u2026",
+          "Contenu": "Satisfied with tempest's DDoS protection. I like how I can whitelist IPs from the website firewall manager. Good latency and I feel I received a service of good value for my money :)"
+        },
+        {
+          "Note": 5,
+          "Lieu": "DE",
+          "Pseudo": "Mohammed Asamora",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-21T11:08:40.000Z",
+          "Titre": "I am a customer of theirs and have a\u2026",
+          "Contenu": "I am a customer of theirs and have a dedicated server from Amsterdam, I have to honestly say that I was pleasantly surprised at how well the servers and their firewall are set up.For example, you can simply assign a filter and a rate limiter to a specific port or IP address on the firewall and their filters and rate limiters work perfectly without any problems.You don't have to make any additional changes to the firewall from the server, you can make the configurations very easily through the web portal, even someone who is not familiar with it can handle it very well.On the subject of troubleshooting, I can only say that the team solves the problem within a few minutes, I haven't seen a problem stand around for very long in the last few months. If someone in the discord points out something like the packets are being dropped or there is a high ping, the problem will be solved within a few minutes.I've been a customer for 3 months and I'm very satisfied!The tickets are also dealt with within a few minutes, although you have to do your own work from time to time by presenting it to them that there is a problem, but that's how it should work. Working together between customers and employees is important."
+        },
+        {
+          "Note": 5,
+          "Lieu": "DE",
+          "Pseudo": "zuckerst\u00fcbchen",
+          "Nb_Reviews": 3,
+          "Date": "2022-03-02T22:13:43.000Z",
+          "Titre": "Comparable to no other hosting",
+          "Contenu": "i love this hostingthe servers are running 100% without major failuresDDos attacks what is that? =)And support available 24/7 and will help with any problem!10/10 *"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Chad Bennett",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-06T17:30:21.000Z",
+          "Titre": "Tempest the Real OGs",
+          "Contenu": "Great hosting company, they really take care of you and the DDOS protection is superb, would highly recommend. I switched to this company last year and have not looked back."
+        },
+        {
+          "Note": 5,
+          "Lieu": "HN",
+          "Pseudo": "Terry Gough",
+          "Nb_Reviews": 2,
+          "Date": "2023-03-30T07:08:29.000Z",
+          "Titre": "Best Hosting",
+          "Contenu": "Really good protecci\u00f3n against ddos, I\u2019m  really happy with the experience I been having with Tempest because I have everything I need."
+        },
+        {
+          "Note": 5,
+          "Lieu": "KR",
+          "Pseudo": "JINYONG KIM",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-09T13:44:09.000Z",
+          "Titre": "Of course it's the best hosting I've\u2026",
+          "Contenu": "Of course it's the best hosting I've ever used!I am waiting for their Singapore server. Absoultely perfect hosting!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "CZR.gg",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-17T05:01:36.000Z",
+          "Titre": "Fantastic hosting service",
+          "Contenu": "Their hosting services and customer support are excellent! One of the best hosts available. And offered on the unbeatable PATH network."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PL",
+          "Pseudo": "JofLow",
+          "Nb_Reviews": 2,
+          "Date": "2023-08-06T11:18:31.000Z",
+          "Titre": "Nice hosting",
+          "Contenu": "Nice hosting, my server Skydust.online, no ping its good"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "James",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-18T01:19:57.000Z",
+          "Titre": "Good DDoS Protection",
+          "Contenu": "The DDoS protection is awesome, I\u2019ve been using the filter they came out with for Minecraft Java and it works very well and all the staff helped me with my questions for my firewall"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "KyanG7",
+          "Nb_Reviews": 2,
+          "Date": "2022-03-02T23:36:37.000Z",
+          "Titre": "Great for game servers and other applications",
+          "Contenu": "After using Tempest for my hosting company and for my personal rust servers, I've had a great support experience and have been able to expand into many locations that I would other not be able to. Would recommend!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Pat",
+          "Nb_Reviews": 1,
+          "Date": "2021-11-27T22:17:05.000Z",
+          "Titre": "Tempest for Game Hosting!",
+          "Contenu": "Tempest has provided the absolute best stability and performance for the past year. I use tempest primarily for game hosting and I could not suggest a better service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "Connectedly",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-24T16:14:22.000Z",
+          "Titre": "Been with Tempest/Path for a couple of\u2026",
+          "Contenu": "Been with Tempest/Path for a couple of months now and they have given me great support and the servers are great for the cost, if your looking to switch hosts i highly suggest Tempest/Path."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Ev",
+          "Nb_Reviews": 1,
+          "Date": "2022-03-02T21:39:27.000Z",
+          "Titre": "Amazing",
+          "Contenu": "Tempest are pioneers of the industry and I would totally recommend them. Their Discord is awesome and very welcoming and I would certainly recommend stopping by if you have any questions."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "DS VPN",
+          "Nb_Reviews": 2,
+          "Date": "2022-11-19T22:38:06.000Z",
+          "Titre": "Perfect for VPN or Game Hosting. 10/10",
+          "Contenu": "10/10. Nothing can beat a Tempest server with a 10gbit and Path DDoS protection. Ryan helped me with purchase and setup."
+        },
+        {
+          "Note": 5,
+          "Lieu": "DE",
+          "Pseudo": "SK",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-31T20:50:45.000Z",
+          "Titre": "Best Server Host",
+          "Contenu": "Best Server Host. Tested many and now landed here. Top performance. Support also takes care of everything and responds quickly. Who wants to have a server with many players without lags should look here."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Hyperthea",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-03T06:07:16.000Z",
+          "Titre": "Godly speeds",
+          "Contenu": "I got a New York server and it really is 10gbps, I opened a ticket and they helped me fast with a firewall setup for TeamSpeak too"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Shaun Stewart Jr",
+          "Nb_Reviews": 3,
+          "Date": "2021-03-17T16:34:57.000Z",
+          "Titre": "You Should Buy This",
+          "Contenu": "The server is a very fast a reliable for the price and customer support is fast and helps with any issues as fast as possible. Highly recommend."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Fatal RP",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-30T04:40:08.000Z",
+          "Titre": "Great!",
+          "Contenu": "best service, extremely professional people very happy to be working with them as our hosting provider."
+        },
+        {
+          "Note": 5,
+          "Lieu": "HR",
+          "Pseudo": "Monthlies",
+          "Nb_Reviews": 1,
+          "Date": "2021-03-24T16:42:29.000Z",
+          "Titre": "Awesome Hosting",
+          "Contenu": "Awesome Hosting, fast and friendly support and could never ask for a better one from all the ones I've been through."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Simon",
+          "Nb_Reviews": 1,
+          "Date": "2021-06-22T20:42:55.000Z",
+          "Titre": "Outstanding support",
+          "Contenu": "Outstanding support, I opened a live chat asking how to setup the firewall for OpenVPN and was helped immediately, I get low ping and fast speeds too"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Parsa J",
+          "Nb_Reviews": 2,
+          "Date": "2020-12-07T18:53:06.000Z",
+          "Titre": "Unbelievably exceptional.",
+          "Contenu": "Unbelievably exceptional.[I wrote the following review for Path.net which is the parent company of Tempest Hosting, LLC. I am a client on path and tempest and use both their services. They're essentially the same thing.]The service is just wonderful. From the start, the quality has always been top-notch. Their staff team is very helpful, calm, and very quick to respond. It is very unlikely to have any issues where there's a downtime of your service.The reviews don\u2019t justify the reliability, quality, and experience that you get provided. I'm able to confidently host a content delivery network, offering protection to numerous clients without any worry of downtime. They have many, many locations where you'll always have a great connection to a server close by for yourself or your client.Now onto my experience with their protection and network:Very fast, 10gbit fiber ports with unmetered bandwidth.Never had one single downtime due to a ddos attacks. I have been hit with 300gbit/s+ on one server, their mitigation is #1, you won't find better anywhere else literally 10 times better than MT, VOX, OVH, etc...The service has always been reliable and you can't get anything better than with path. Sounds crazy to say but from all the bare metal, cloud hosting, collocated, enterprise game hosting, from literally every single option out there, you cannot find something close to the level of the path.The CEO Marshal has been great and even though he's busy with huge enterprise customers, he still makes time for the little guys :)Not much more to say than if you're not with path, you aren't using the best service out there..."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Royal Family Gaming",
+          "Nb_Reviews": 2,
+          "Date": "2022-08-10T16:51:49.000Z",
+          "Titre": "Tempest Hosting is the best for any\u2026",
+          "Contenu": "Tempest Hosting is the best for any dedicated or game server needs they have the best network and hardware  I have been with a lot of other companys and this one the best with support and everything"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Joey Narth",
+          "Nb_Reviews": 1,
+          "Date": "2021-06-19T02:53:54.000Z",
+          "Titre": "The DDoS protection is amazing",
+          "Contenu": "The DDoS protection is amazing, I switched from OVH and NFO because they couldn\u2019t help me with all the attacks I was getting, I\u2019ve been with Tempest for a couple months now with no issues, I\u2019ll be buying more servers soon!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "mdwilliams",
+          "Nb_Reviews": 2,
+          "Date": "2022-03-03T15:41:50.000Z",
+          "Titre": "A welcome change from \"Big Internet\"",
+          "Contenu": "Like many others, I came across Tempest Hosting when looking for an alternative to OVH. I was tired of receiving poor support and little transparency on issues.I am very happy to report that since migrating to Tempest I have personally benefited from their fantastic support on multiple occasions, and I couldn't be happier with my dedicated server and the overall network performance."
+        },
+        {
+          "Note": 5,
+          "Lieu": "FI",
+          "Pseudo": "Mikko Meskanen",
+          "Nb_Reviews": 2,
+          "Date": "2022-03-02T22:03:31.000Z",
+          "Titre": "Have been using Tempest for about 9\u2026",
+          "Contenu": "We have been using Tempest for about 9 months now.  Support is awesome and they have been able to filter all attacks against us."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Barry",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-26T01:20:46.408Z",
+          "Titre": "Five stars",
+          "Contenu": "My community has been using different services for years to host FiveM & TeamSpeak servers.  We tried manage solutions, dedicated hardware, anything we could get our hands on. Our services were constantly targeted by DDoS attacks and people trying to take our network offline. We were also plagued by false promises by companies who would ignore us after our server was hit offline. Then we found Tempest, ever since switching their specific filters have protected all of our services from large attacks that would usually take down machines on other hosts. What's special about them is the fact that they have specific filters. They filter traffic specifically for the application / game you're running. Which is much more effective than what I've found at other hosts.The average response time for them to respond to a ticket is in most cases under 5 minutes. They are always hiring new staff to make the experience better for their clients. They've perfectly bridged the gap between being a large company and caring about each individual client.One thing that amazes my about this network is the fact that they care about each individual attack. On the rare scenario that an attack leaks traffic, that attack is patched within hours, where as other providers don't do anything about it. We've had hundreds of attacks up to 100Gbps hit our servers and nothing has happened. Their network has seen attacks of up to 1.6Tbps filtered without effect on the client, that's just amazing to me.Personally, I don't think I'll ever go back to another provider. This has been such a great experience for me, the staff care about the network and it's customers. I've only ever had one issue with my machine and it was solved in 10 minutes.For me, I would never use another service again. That's my take!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "AR",
+          "Pseudo": "Mauro Coello",
+          "Nb_Reviews": 5,
+          "Date": "2022-03-02T22:37:32.000Z",
+          "Titre": "Solution to my application.",
+          "Contenu": "I was looking for a good provider, to stabilize my online gaming services, tempest was the best solution and I have not suffered any crashes due to ddos attacks."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Aidan Perry",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-01T14:12:33.000Z",
+          "Titre": ":):):):):)",
+          "Contenu": "One of the reasons Tempest feels like a welcoming environment is their staff's participation within their community of clients. I've been able to learn a great deal about the Information Technology industry by associating with new people.Furthermore I have a game server pushing 200 players on wipe because their services are well within underutilization; If I ever needed to move to a machine for that Rust server to grow further I'm confident it can be a fluid process because every shared service receives a unique IP in order for transitions to be made easily."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "CPT Willard",
+          "Nb_Reviews": 1,
+          "Date": "2020-11-22T23:51:38.000Z",
+          "Titre": "Best price for 10gbe and Path\u2026",
+          "Contenu": "Best price for 10gbe and Path protection and global footprint.  Easy set up and great customer service!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Aven Brown",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-14T08:27:49.000Z",
+          "Titre": "Good support fast and stable speeds.",
+          "Contenu": "Good support fast and stable speeds.Good Protections too from malicious actions"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Edward",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-26T00:34:26.000Z",
+          "Titre": "Reliable and simple",
+          "Contenu": "Fantastic, simple and a reliable service for almost a year now that I\u2019ve been with them and I have the i9 server with 64GB of ram and also they have an unbelievably good value on their cheaper $90 dedis"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Jake",
+          "Nb_Reviews": 1,
+          "Date": "2021-11-25T10:06:33.000Z",
+          "Titre": "Great host",
+          "Contenu": "Been using Tempest for coming up to a year, and its been great, would heavily recommend!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ID",
+          "Pseudo": "Donny Setiawan",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-18T12:40:13.000Z",
+          "Titre": "BEST DEDICATED SERVER AND BEST ADMIN ON TEMPEST FAST REPLY",
+          "Contenu": "Best admin on tempest fast reply and BEST DEDICATED SERVER ."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Kusha",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-11T05:43:38.000Z",
+          "Titre": "Excellent Service",
+          "Contenu": "Ended up getting under Tempest by accident and turned out to be a great experience with customer service, hardware and software. Highly recommend!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IS",
+          "Pseudo": "imcanada",
+          "Nb_Reviews": 2,
+          "Date": "2022-03-02T21:59:51.000Z",
+          "Titre": "DDoS protection is great",
+          "Contenu": "DDoS protection is great. Been using it for a while now, topples even the largest of attacks."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "JustBehalf",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-06T22:45:55.000Z",
+          "Titre": "Why I rate tempest a 5 star",
+          "Contenu": "Customer service definitely a 5 star, will be coming back for more (;"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kover",
+          "Nb_Reviews": 1,
+          "Date": "2021-04-10T22:18:58.000Z",
+          "Titre": "Review by Kover",
+          "Contenu": "I have personally used the servers from tempest and they are nothing short of great, they have good dedicated hardware and a 10Gbit/s dedicated port+ the filtered tempest/path provides so they are great servers and have probably the smallest chance of ever having any downtime due to third party groups trying to Dos/DDos and so on."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1306 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "textline.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Auto Dealer Program",
+          "Nb_Reviews": 3,
+          "Date": "2023-09-03T02:28:40.000Z",
+          "Titre": "TextLine often they experience technical difficulties",
+          "Contenu": "I have been a fan for TextLine for 4 years and is a very important part of my business - unfortunately often they experience technical difficulties that cost me Time Capital that I cannot afford to loose - \"Too Often\""
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Inuvision Inu",
+          "Nb_Reviews": 2,
+          "Date": "2022-09-30T02:10:29.000Z",
+          "Titre": "It can cost you your business",
+          "Contenu": "Super reliable and worst customer service. Past two months I been realizing many messages go through from Twilio but it doesn't get shown on textline!!. zapier integration also did not work for over 10 days. My whole company depends on webhook and zapier. i was not even notified about the system being fualty. Paying over $2k in google ads and realizing for 10 days your new leads are not even getting reached to you."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Healthy Jasmine",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-12T20:39:15.000Z",
+          "Titre": "HORRIBLE COMPANY",
+          "Contenu": "HORRIBLE COMPANY, PART OF A LARGER GROUP WHO TARGET SPECIFIC BUSINESSES AND PURPOSELY COMPLICATE THE REGISTRATION PROCESS, THEY TRY TO HACK COMPUTERS, AND THEY ARE ASSOCIATED WITH CREEPY UK PEOPLE WHO ARE ALL LIARS AND HOLD DIFFERENT BUSINESSES TO DIFFERENT REQUIREMENTS, IM CALLING THEM ALL OUT ON THEIR ACT, IF YOU ARE EXPERIENCING THE SAME TREATMENT PLEASE RESPOND TO THIS REVIEW."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Savanna Smith",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-12T16:27:40.000Z",
+          "Titre": "We haven't had the greatest experience\u2026",
+          "Contenu": "We haven't had the greatest experience with Textline.  Our messages just aren't working and we haven't received any solution"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Joey dupont",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-12T16:24:37.000Z",
+          "Titre": "We literally tried for two weeks to get\u2026We literally tried for two weeks to get someone to call us back and help us make the product work. At the end of the day someone actually told us they won\u2019t eve",
+          "Contenu": "We literally tried for two weeks to get someone to call us back and help us make the product work. At the end of the day someone actually told us they won\u2019t ever call us back"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Chris Chandra",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-12T16:59:40.000Z",
+          "Titre": "Never got a response for the issue I\u2026",
+          "Contenu": "Never got a response for the issue I addressed. I wonder if they even care about customer service."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Duane Dobson",
+          "Nb_Reviews": 2,
+          "Date": "2021-06-07T16:01:08.000Z",
+          "Titre": "55 hours with no service",
+          "Contenu": "55 hours with no service, no response from customer services."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Auto Dealer Program",
+          "Nb_Reviews": 3,
+          "Date": "2021-08-09T21:51:41.000Z",
+          "Titre": "Your system goes down to frequently"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "John begay",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-06T06:34:51.000Z",
+          "Titre": "There are no available phone likes in\u2026",
+          "Contenu": "There are no available phone likes in my area code"
+        },
+        {
+          "Note": 1,
+          "Lieu": "CA",
+          "Pseudo": "Kennard Da Silva",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-05T19:49:35.000Z",
+          "Titre": "The test worked",
+          "Contenu": "The test worked, but no other msgs did after that."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Cesar Felizola",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-05T17:21:56.000Z",
+          "Titre": "Impossible to understand and activate",
+          "Contenu": "No support on how to use it."
+        },
+        {
+          "Note": 1,
+          "Lieu": "CA",
+          "Pseudo": "ca",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-09T14:50:12.000Z",
+          "Titre": "pretty terrible to use"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "No Name",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-09T15:31:53.000Z",
+          "Titre": "Unresponsive to important issues",
+          "Contenu": "Unresponsive to important product and pricing issues"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "KANTI LAL",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-05T16:26:08.000Z",
+          "Titre": "I have not even tried it"
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "MN",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-16T16:01:14.000Z",
+          "Titre": "Clunky and simple, if that's what you're looking for",
+          "Contenu": "Clunky. Everything is manual (uploads, downloads), poor metrics and aggregation. Shortcuts and automation is very basic. Basically go with this is you need something SUPER simple"
+        },
+        {
+          "Note": 2,
+          "Lieu": "AU",
+          "Pseudo": "T-Rex",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-09T21:26:35.000Z",
+          "Titre": "Web version does not sync correctly. Android app is SOOO slow",
+          "Contenu": "Web version does not sync correctly. I have to manually refresh the page about 60% of the time before new messages will come through.Android version takes so god damn long to open up and load its sometimes quicker to pull my laptop out of my bag, open it up, login, open textline, & refresh the page then it is to actually use the app"
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Customer Service",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-16T15:09:35.000Z",
+          "Titre": "Unreliable Search feature",
+          "Contenu": "Keyword and phone number search is unreliable, regardless of formatting. Customer service didn't know how to use it, either, and could only apologize."
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Daniel Toth",
+          "Nb_Reviews": 2,
+          "Date": "2021-08-13T16:34:23.000Z",
+          "Titre": "Not very user friendly but I'm set",
+          "Contenu": "Not very user friendly but I'm set. Thanks!"
+        },
+        {
+          "Note": 3,
+          "Lieu": "GH",
+          "Pseudo": "Fatima Brukum",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-19T21:34:23.000Z",
+          "Titre": "Like it and the company is doing well\u2026",
+          "Contenu": "Like it and the company is doing well because it helps people to know how you guys are doing your job to help people so you guys still keep going"
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Jaime C",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-12T19:23:17.000Z",
+          "Titre": "While we like the Textline a lot",
+          "Contenu": "While we like the Textline a lot.  However, it would be nice to nice to have a delete option because we have sent a few texts in error.  When we have tried to reach out to assistance, there is no number to call just an email and even when we sent an email, no one ever resonded.  Let's see what happens to this review.  It it is actualy reviewed or not."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Kathy B",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-16T15:20:57.000Z",
+          "Titre": "The programming needs a feature that\u2026",
+          "Contenu": "The programming needs a feature that allows users/clients such as ourselves to be able to \"resolve\" a range of texts.  Date range might be the best suggestion."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "David P",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-05T16:31:09.000Z",
+          "Titre": "Customer service is great but certain\u2026",
+          "Contenu": "Customer service is great but certain things need to be fine tuned before it's amazing for us. We are still figuring out notifications, etc."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Beast Coast Nutrition HQ",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-05T16:23:57.000Z",
+          "Titre": "Lots of glitches as a new customer",
+          "Contenu": "Lots of glitches as a new customer, communication on resolving the matter needs to improve.   And the fact that I can't get a credit for poor service is ridiculous"
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Caitlin Hunt",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-12T16:45:59.000Z",
+          "Titre": "I wish I got a notification of text to\u2026",
+          "Contenu": "I wish I got a notification of text to my computer. Doesn't seem useful at this time."
+        },
+        {
+          "Note": 3,
+          "Lieu": "UG",
+          "Pseudo": "Namwebe Caroline",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-07T03:56:01.000Z",
+          "Titre": "User friendly and easy to use"
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Mandy Z",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-12T16:24:13.000Z",
+          "Titre": "I think sometimes it updates very slow",
+          "Contenu": "I think sometimes it updates very slow. I already sent out the message but it does not show. So I sent it again."
+        },
+        {
+          "Note": 3,
+          "Lieu": "CA",
+          "Pseudo": "Total Vision And Hearing",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-07T15:44:28.000Z",
+          "Titre": "Good",
+          "Contenu": "It works good."
+        },
+        {
+          "Note": 4,
+          "Lieu": "JM",
+          "Pseudo": "Amanda Burchell",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-09T14:46:06.000Z",
+          "Titre": "It lags sometimes that is why I di not\u2026",
+          "Contenu": "It lags sometimes that is why I di not give a full star. however, Great app overall"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Nicole",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-17T02:34:50.000Z",
+          "Titre": "Reliable and does its job",
+          "Contenu": "We have been using Textline for over a year now, and it does what we need it to. There are some limitations but they are always open to suggestions and seem to continuously be rolling out improvements and are honest and responsive with what they can do and how they can help."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Sarina",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-14T23:44:31.000Z",
+          "Titre": "Textline is easy to use",
+          "Contenu": "Textline is easy to use. I use it everyday at work and it's great to be able to see all the information my team needs in one place. Occasionally we have issues with sending and receiving texts but in my experience it has never lasted more than a few hours."
+        },
+        {
+          "Note": 4,
+          "Lieu": "PH",
+          "Pseudo": "aezee roma",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-18T03:31:49.000Z",
+          "Titre": "Overall",
+          "Contenu": "Overall, textline is very useful to us. It may have some glitches but it is getting resolve in a timely manner. responses from CSR team is great too."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Tracy",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-24T20:39:37.000Z",
+          "Titre": "Textline has increased our availability\u2026",
+          "Contenu": "Textline has increased our availability to our clients as each team member now has access instead of passing around the work cel.  We have been very happy with the product and it is user friendly!  The customer service we got in setting everything up and switching over our phone number was super helpful!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Afshin Yaghtin",
+          "Nb_Reviews": 4,
+          "Date": "2021-08-09T17:10:50.000Z",
+          "Titre": "I would give it a 5 if you had the\u2026",
+          "Contenu": "I would give it a 5 if you had the option of showing which link or page of our website the person is texting from. This could easily be done via a cookie placed on our pages that you can pass over to us when people text us. It would also be good to have the \"text us\" button show only when we are online and not after hours and give people an option to email us if we're not online."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Nancy Patton",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-11T00:11:48.000Z",
+          "Titre": "Received message",
+          "Contenu": "Received message, responded and resolved.  Initial messenger then  responded with a thank you so now message is active again.  Don't want to reply again how do I resolve message again?"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Daryl S.",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-26T00:35:40.000Z",
+          "Titre": "Interface is fairly intuitive",
+          "Contenu": "Interface is fairly intuitive, but it's missing some basic functions which require an account upgrade. Also, it would be very useful if Contacts could be re-imported with a unique tag without wiping out that Contact's existing tags."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "SPOSC Team",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-27T20:52:29.000Z",
+          "Titre": "Conversation Back-up",
+          "Contenu": "We had asked for a back-up of all our conversations and they were able to provide the files withing 24 hours. Very fast service!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Corinne Scheetz",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-11T15:15:53.000Z",
+          "Titre": "Transfer of textline conversation into\u2026",
+          "Contenu": "Transfer of textline conversation into text for saving onto a customer's folder not successful as of yet.  Script is unreadable in format."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Administrator",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-09T16:27:04.000Z",
+          "Titre": "Textline has truly changed the way we\u2026",
+          "Contenu": "Textline has truly changed the way we connect with our clients.  It has significantly improved our workflow and made it much easier for our clients to communicate with us.  I do appreciate that there have been some recognizable updates to the program since we began using it, but there is still some blatant room for improvement.  There have been a few significant outages since which have caused some serious stress and panic for us and for our clients.  To compound the problem, Textline Support's primary contact method is Textline itself, so when an issue or outage occurs, we can barely report the problem (at least in a timely manner).  The other issue with support is that they only keep standard office hours in the Pacific Time Zone, while the beauty of texting is that it can happen at any time.  Being in the Central Time Zone, sometimes a problem doesn't even start to get addressed until hours after our workday has already begun.  I do really appreciate that it seems as though the developers are working to continuously improve the program and expand its available functions. Having the ability to \"whisper\" or have internal conversations directly on a conversation thread, and having the mobile app are non-negotiables for us.  Although there is room for improvement, we are definitely willing to stick around because we believe the improvements will actually come to fruition at some point."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "R. L. Harvey",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-13T15:59:26.000Z",
+          "Titre": "Who is this?",
+          "Contenu": "A great service except the ID should be a number or name that audience recognize."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "customer",
+          "Nb_Reviews": 5,
+          "Date": "2023-07-07T23:55:31.000Z",
+          "Titre": "Good service",
+          "Contenu": "Good service, rate is a bit higher than I thought."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Omaha Steaks Human Resources",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-10T13:10:58.000Z",
+          "Titre": "A Great Way to Connect",
+          "Contenu": "Textline is a great way to connect with our potential candidates and employees."
+        },
+        {
+          "Note": 4,
+          "Lieu": "AE",
+          "Pseudo": "Gabby",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-17T11:04:51.000Z",
+          "Titre": "Easy to use",
+          "Contenu": "Easy to use. Would be better if we can make auto translation :)"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Home Heating & Cooling",
+          "Nb_Reviews": 3,
+          "Date": "2021-09-12T12:45:18.000Z",
+          "Titre": "Solid",
+          "Contenu": "Solid, but lacking a few features"
+        },
+        {
+          "Note": 4,
+          "Lieu": "ES",
+          "Pseudo": "Am\u00e9lie Houdetlily montes",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-16T14:50:46.000Z",
+          "Titre": "Good",
+          "Contenu": "Good, some things could be better"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Kathie Ballerini",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-12T17:45:52.000Z",
+          "Titre": "Great idea not in my budget"
+        },
+        {
+          "Note": 4,
+          "Lieu": "PH",
+          "Pseudo": "Credentialing Team",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-13T20:06:41.000Z",
+          "Titre": "Helpful and effective for communication."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Damilola Adetunji",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-19T22:44:50.000Z",
+          "Titre": "review",
+          "Contenu": "Mostly functional"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "heather.johnson",
+          "Nb_Reviews": 2,
+          "Date": "2023-11-22T00:23:55.000Z",
+          "Titre": "Great Tech support and platform",
+          "Contenu": "As a newer TextLine customer, we are enjoying the ease and convenience of texting our customers directly from our CRM, Pipedrive. The Tech support has helped us work out some minor issues with our integrations and now we are texting and seeing a great response from it. Works well for our team of 7 sales people and all the conversations are recorded in Pipedrive which we needed. Thanks!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "steven nguyen",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-04T17:19:57.000Z",
+          "Titre": "great products",
+          "Contenu": "great products, very easy to use, very affordable"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Terry Frazier",
+          "Nb_Reviews": 3,
+          "Date": "2023-07-11T23:52:33.000Z",
+          "Titre": "Textline Support: top notch",
+          "Contenu": "Textline Support, when needed (which is rare), is almost immediate to respond--and quick to resolve the issue.  Thus far, this experience has been 5 star for our agency.  Side Note: the application for your phone is quick handy and a must-have as well."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Stacy",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-16T20:29:38.000Z",
+          "Titre": "Fantastic Customer Service!",
+          "Contenu": "not only were my questions answered within minutes, they answered questions i hadn't even asked yet, they anticipated what i needed and jumped on it. I have managed customer service teams for over 20 years so i'm a stickler when it comes to customer servcie and i must say, you provided excellent service! You're doing it right :)"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Terry Frazier",
+          "Nb_Reviews": 3,
+          "Date": "2023-03-28T01:54:53.000Z",
+          "Titre": "Top notch program & customer service--winner.",
+          "Contenu": "This service is top notch in regard to customer service and tools.  Almost an immediate response to text by a qualified TextLine Rep.  Answers and directions were easy to understand, and all questions were completely resolved.  Thus far, all experiences with TextLine have been positive, and we look forward to continuing this service for years to come.  Great work TextLine."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kristen Voss",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-08T20:42:00.000Z",
+          "Titre": "Have had a wonderful experience while using Textline!",
+          "Contenu": "Have had a wonderful experience utilizing Textline in regards to correspondence with drivers and customers on the platform! The ease of receiving messages in real time and instantaneously, makes resolving issues that require a more expedited resolution, a breeze!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Cool Dog Spa",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-26T22:16:49.000Z",
+          "Titre": "Textline great tool to manage my business",
+          "Contenu": "We use textline for our business. It's the way we communicate with all our clients. We absolutely love textline, this service has allow us to grow our business and being able to answer to potential and regular customers in a professional and fast way. Retainig and gaining customers every day.This service is versatile we can use any anywhere & anytime. If any question or issue arises,  they respond to all your questions immediately. We are so glad we discover textline"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Elizabeth",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-17T21:57:18.000Z",
+          "Titre": "Great Resource Tool",
+          "Contenu": "Textline has been a great resource for our company to track communication with our field crew members."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Charles Corlett",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-18T02:02:43.000Z",
+          "Titre": "A great team effort.",
+          "Contenu": "The team at Textline were very efficient at listening to our company's needs and creating a solution for us. The follow up on the action items via email was excellent and I felt that they really wanted to help us out and provided excellent customer service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Bob Carbone",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-19T16:56:57.000Z",
+          "Titre": "Loyal customer",
+          "Contenu": "We have been using Textline for several years and it has changed our world for the better.  The integration tools synch nicely with our CRM and the automation works great. Customer support is fast and helpful."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Samantha Blum",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-30T21:59:38.000Z",
+          "Titre": "Textline has been a great asset to our\u2026",
+          "Contenu": "Textline has been a great asset to our company during the pandemic. We began updating our guests via text and Textline has made that a seamless, easy process. All Textline associates are super easy to work with and are always listening for tips, ideas, and suggestions...and implementing them too! We love Textline!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Teresa Bulcroft",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-24T16:38:52.000Z",
+          "Titre": "Easy to use program and great customer support",
+          "Contenu": "I contacted customer support about an issue with the text number registration banner showing I had not registered the text numbers. They got back to me very quickly to let me know they had received my text and they had a solution the next day. Great customer service and the program is super easy to use."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Michael Kinzer",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-09T18:05:04.000Z",
+          "Titre": "Textline is exactly what I have been\u2026",
+          "Contenu": "Textline is exactly what I have been looking to find for a long time.  Clients and potential clients take a while to respond to both phone calls and emails but I get a much higher response rate with texts without giving them my personal cell phone number.  Plus I can text from my desktop."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rob Plada",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-05T16:24:30.000Z",
+          "Titre": "Textline is a quick and convenient way\u2026",
+          "Contenu": "Textline is a quick and convenient way to make initial contact with my customers and start communications. Being able to add multiple contacts and send out a message that is tailored to each partner we work with is a real time saver for me and makes us stand out as unique in our industry."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Will Lukee",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-20T18:14:16.000Z",
+          "Titre": "Game Changing!",
+          "Contenu": "Textline has been a vital partner of ours during the pandemic.  Their platform has allowed us to stay in contact with tens of thousands of our customers who we otherwise would not have had the capacity to serve.  Frankly, we can't even imagine how the last two years would have went without this valuable resource.Before choosing Textline, we previewed several other companies and we are so glad that they were our final selection.  Their interface is highly intuitive and their responsiveness and support have been world-class."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Carla",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-11T16:20:43.000Z",
+          "Titre": "Great customer service. We were having some issues with our\u2026",
+          "Contenu": "We were having some issues with our computers. In trying to resolve it, we lost our Textline access and history. However, Madison at Textline was able to restore it and get us up and running again pretty quick. She was very helpful. Thank you, Carla H."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Sean",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-16T20:47:50.000Z",
+          "Titre": "Great Zendesk Integration",
+          "Contenu": "We've been using Textline for several years. Textline has a great Zendesk integration that lets us text users from the same screen as their Zendesk ticket. This is extremely useful for our customer service workflow. Their API is also easy to work with and their support team is prompt and helpful."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Holmstock Jeff",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-03T16:28:31.000Z",
+          "Titre": "Immediate Results!",
+          "Contenu": "Quick, easy and effective. Textline is an important aspect of our marketing because it\u2019s effective, responsive and tractable. Anyone still using email marketing\u2026come out of the Stone Age and see results with Textline!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Les B Los Angeles, CA",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-22T14:23:44.000Z",
+          "Titre": "...It works great",
+          "Contenu": "...It works great. Now just let me know how to delete the CONVERSATION CLAIMED alert for every text that comes to my inbox. As I already get the original alert...so now I get double alerts. Otherwise, GREAT $TUFF!!!  Its making the difference in Close Ratios for me.Les BAccount Executive Los Angeles, CA"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Morgan Kelly",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-01T20:23:43.000Z",
+          "Titre": "Reliable and Easy to Use",
+          "Contenu": "We really enjoy using Textline. Our agents find the interface to be incredibly user-friendly and the metrics have never faltered. Errors are minimal and usually resolved within a couple hours. Customer service is quick to respond and always helpful. Only feedback - I do wish the shortcut library would sort alphabetically as opposed to chronologically, though."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "James Thurgood",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-13T16:04:29.000Z",
+          "Titre": "Very organized and easy to use!",
+          "Contenu": "Textline has been very helpful for us and our team! Textline is very organized and easy to use, and the layout is clean and simplified. It is simple to operate with multiple users, and we're able to delegate and resolve conversations with little difficulty. We have also been able to save our growing list of contacts, each with detailed information to help our workflow when communicating with our clients! Textline has been a great addition to our department, and we would recommend it to others."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Vanessa P.",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-06T20:01:04.000Z",
+          "Titre": "Textline HQ are ALWAYS quick to respond\u2026",
+          "Contenu": "Textline HQ are ALWAYS quick to respond whenever I have a question or need help with anything! I am super grateful and love using this platform to send messages for my company!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Greg Feerer",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-09T17:55:53.000Z",
+          "Titre": "I think the service is great and does the task I need.",
+          "Contenu": "I think the service is great and does what I need it to do. I would mention that the UI can use improvement, particularly around:[1] Filtering for convos[2] Data analytics [3] API into close.io crmI am happy to discuss these in further details but I am still very happy with the product and have recommended it to my colleagues."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Nikko Rico",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-09T17:38:57.000Z",
+          "Titre": "Easy to use app",
+          "Contenu": "I haven't used Textline that much since we only have a few teammates who are assigned to use it on a daily basis. However, when I had a chance to use the app, it is fast and easy to use which is so convenient for me."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "John Mulvihill",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-21T12:59:36.000Z",
+          "Titre": "Textline has revolutionized my job",
+          "Contenu": "Textline has revolutionized my job!  I have to reach out to 100+ contacts every day, including weekends. By using Textline, I am able to accomplish this task in 30 minutes, whereas before this would take 2-3 hours. This has made me much more efficient and given me most of my weekend time back. In addition to the Desktop version, I also use the app on my iPhone so being remote or away from my desk is not a problem. I also use the Automation Feature to send replies to customers when I am off duty.Not only is the Textline product terrific, what makes it even better is the great support that comes with it. We have 250-300 different Textline accounts, and problems have been minimal. If there is an issue, we report it to Textline and they respond immediately and take care of it.You can't go wrong using Textline!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Elevations Dance Arts",
+          "Nb_Reviews": 2,
+          "Date": "2021-08-09T15:29:49.000Z",
+          "Titre": "Very much like this product",
+          "Contenu": "Very much like this product.  The convenience of using our business phone # for texting is extremely helpful when contacting our families, especially when something pops up unexpectedly.  A greater response is generated through texting and works hand-in-hand with email."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Yoseline Ortiz",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-07T20:32:15.000Z",
+          "Titre": "easy to use",
+          "Contenu": "easy to use, user friendly, members love being able to communicate via text messaging"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Eric Dodder",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-05T16:52:29.000Z",
+          "Titre": "Instrumental service!",
+          "Contenu": "This aility to write sms from the computer was great from the start. I contacted the movers I wanted to use and discussed things through textline. I have also talked to someone I need serivce from through textline as well. I am enjoying your service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Angela C.",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-12T17:50:21.000Z",
+          "Titre": "Easy to use",
+          "Contenu": "Easy to use. Set up and contact import was seamless! We used just this as a one time service for a particular event. Highly recommend."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Clare Radwick",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-12T16:23:58.000Z",
+          "Titre": "Simple and easy to work with",
+          "Contenu": "Simple and easy to work with, doesn't need much explanation, and a person just learning to use it does not get overwhelmed."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Connie",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-12T18:44:56.000Z",
+          "Titre": "Customer Service",
+          "Contenu": "Excellent customer service! Skyler was able to resolve our issue quickly and efficiently. It's always a pleasure dealing with Skyler. Thank you :)"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Hareendra Alahakoon",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-16T21:58:38.000Z",
+          "Titre": "Great service and awesome customer\u2026",
+          "Contenu": "Great service and awesome customer support. Very reliable. Resonavle text rates. Highly recommend!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jennifer Stewart",
+          "Nb_Reviews": 2,
+          "Date": "2021-08-09T16:55:43.000Z",
+          "Titre": "This app is very helpful",
+          "Contenu": "This app is very helpful. I am unable to use my personal cellphone to text clients and vendor and this offers an helpful alternative."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Vickie Cruse",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-12T16:34:25.000Z",
+          "Titre": "Why did we wait so long",
+          "Contenu": "Why did we wait so long?  We are now reaching clients that would not respond to a telephone call or an email.  Wish that we had started to use this program years ago."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dawn Dawson",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-16T14:53:36.000Z",
+          "Titre": "As a company",
+          "Contenu": "As a company, I love using Textline! We are in the moving business and texting customers is the more efficient form of communication especially when confirming their upcoming move dates. Thanks!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Terri Ellison",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-05T16:38:57.000Z",
+          "Titre": "we have just started with the Textline\u2026",
+          "Contenu": "we have just started with the Textline product but the support was wonderful as we were deciding which direction we wanted to go."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ray Cline",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-24T16:44:57.000Z",
+          "Titre": "I am often surprised at how easy and\u2026",
+          "Contenu": "I am often surprised at how easy and fast it is to send a text to hundreds of my Reps!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "shana.oram",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-05T16:26:03.000Z",
+          "Titre": "Textline has saved our world",
+          "Contenu": "Textline has saved our world. I love using this app with Two Men and a Truck customers! Highly Recommended :-)"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "AskCares INC",
+          "Nb_Reviews": 2,
+          "Date": "2021-08-10T02:58:06.000Z",
+          "Titre": "The most convenient thing about\u2026",
+          "Contenu": "The most convenient thing about Textline is that I can use my existing business phone number to text my clients through the application."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Alex",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-12T16:40:44.000Z",
+          "Titre": "Enjoyed the Textline platform\u2026",
+          "Contenu": "Enjoyed the Textline platform immensely. It has met our needs and the continuous feature releases and improvements have helped to increase our functionality and efficiency."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Gavin Cregan",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-12T02:05:44.000Z",
+          "Titre": "Very quick to respond to my questions\u2026",
+          "Contenu": "Very quick to respond to my questions and help me use some of the great features. Was able to walk me through everything and answered all my questions"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Joan Waldron",
+          "Nb_Reviews": 2,
+          "Date": "2021-08-16T15:07:12.000Z",
+          "Titre": "I really like Textline",
+          "Contenu": "I really like Textline.  This is how we communicate with clients now, and they really seem to like it.  Only downside is that you cannot do group texts."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "John Nichols",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-16T23:23:48.000Z",
+          "Titre": "Great product and support team",
+          "Contenu": "The app, service and tech support team are great!!!  We love using Textline for our business!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jorge Calderon",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-06T20:45:59.000Z",
+          "Titre": "Good customer service",
+          "Contenu": "Skyler helped me figure out some issues I was having with textline."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Allie",
+          "Nb_Reviews": 3,
+          "Date": "2021-08-05T16:24:40.000Z",
+          "Titre": "Love Textline",
+          "Contenu": "Love Textline - we use it for Customer Support and it's a fabulous, very easy and intuitive platform and an amazing and highly responsive way to stay connected with our users."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "LaTamera Carpenter",
+          "Nb_Reviews": 2,
+          "Date": "2021-08-16T15:48:41.000Z",
+          "Titre": "Textline was very instrumental in\u2026",
+          "Contenu": "Textline was very instrumental in allowing me to keep my employees engaged during their time off work. Although they have since returned from the COVID lay-off's, I'm still using textline to get out important information and continuing to communicate with them.Excellent way to communicate information to all employees at once to ensure everyone gets the same information."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Louis Johnson",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-21T18:09:04.000Z",
+          "Titre": "I have really enjoyed using Textline",
+          "Contenu": "I have really enjoyed using Textline, we actually use it a bit differently than other folks, and their team have been incredibly helpful helping us maximize the tool for our business!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "John Graham",
+          "Nb_Reviews": 2,
+          "Date": "2021-08-05T22:19:51.000Z",
+          "Titre": "The message interface is very intuitive\u2026",
+          "Contenu": "The message interface is very intuitive and the staff member who contacted me was very knowledgeable and helpful. This is a great service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Maita Cerney",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-23T23:42:20.000Z",
+          "Titre": "Was able to answer my questions"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Poppin Popcorn / Chad Kaminski",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-28T23:14:01.000Z",
+          "Titre": "Great customer service and a great\u2026",
+          "Contenu": "Great customer service and a great platform for small to large businesses."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "James",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-06T23:20:35.000Z",
+          "Titre": "Informative Associate",
+          "Contenu": "My associate was well informed and helpful with my issue."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Stefan",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-13T21:10:50.000Z",
+          "Titre": "Customer service is always very prompt\u2026",
+          "Contenu": "Customer service is always very prompt and helpful, thank you!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Thomas",
+          "Nb_Reviews": 4,
+          "Date": "2021-08-05T23:45:47.000Z",
+          "Titre": "We love textline!",
+          "Contenu": "We love textline. This has been a game changer for my company. Most people prefer texting over calls so it\u2019s been very lucrative."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Rick Aprile",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-12T16:54:30.000Z",
+          "Titre": "It's responsive & works wells",
+          "Contenu": "It's responsive & works wells.  Doesn't glitch too much."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Chrisoula Fragakis",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-16T14:54:58.000Z",
+          "Titre": "Great!",
+          "Contenu": "Wonderful tool for communication with our clients - not everyone has access to a laptop or computer and our customers love having the ability to check status and ask quick questions."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Brandon Dennis",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-14T05:45:21.000Z",
+          "Titre": "Makes it very easy to text from your laptop",
+          "Contenu": "Textline has been great. Super efficient way to send texts from a laptop"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Main Line",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-25T16:36:41.000Z",
+          "Titre": "This has streamlined all of our\u2026",
+          "Contenu": "This has streamlined all of our communications with our customers, they are happier and more informed and we have saved man-hours increasing our bottom line."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Ramin",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-09T16:25:43.000Z",
+          "Titre": "Always get back to us very quickly and\u2026",
+          "Contenu": "Always get back to us very quickly and provide a professional and acceptable support"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Pam Simpson",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-19T14:38:57.000Z",
+          "Titre": "Textline has been great for my\u2026",
+          "Contenu": "Textline has been great for my business. It is easy to use and easy for clients to receive messages."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Luis A Perez",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-12T18:45:28.000Z",
+          "Titre": "Prompt response and great service!",
+          "Contenu": "I was called on time and the sales person was very knowledgable and answered all my questions! Great service!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Customer",
+          "Nb_Reviews": 2,
+          "Date": "2021-08-09T15:13:13.000Z",
+          "Titre": "Affordable way to keep in touch with\u2026",
+          "Contenu": "Affordable way to keep in touch with customers on the go"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Jennette Ruelo",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-21T02:03:54.000Z",
+          "Titre": "Jenifer is amazing",
+          "Contenu": "Jenifer is amazing! quickly fixed my issue"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ezekiel Messenger",
+          "Nb_Reviews": 3,
+          "Date": "2021-08-12T17:05:22.000Z",
+          "Titre": "Brilliant REST API",
+          "Contenu": "Outstanding service.  The REST API is brilliantly simple."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Great system!",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-13T15:46:23.000Z",
+          "Titre": "This is a great source of communication\u2026",
+          "Contenu": "This is a great source of communication for members and providers."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "David Ingram",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-25T18:25:24.000Z",
+          "Titre": "Great SMS Service",
+          "Contenu": "We've been using Textline for a year and it has been awesome."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Grace Edwards",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-17T08:17:10.000Z",
+          "Titre": "Super easy and efficient",
+          "Contenu": "Super easy and efficient to use"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Janice Heid",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-09T23:41:13.000Z",
+          "Titre": "Love being able to text from my\u2026",
+          "Contenu": "Love being able to text from my landline phone.  It is very helpful."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Eric Tan",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-14T12:18:40.000Z",
+          "Titre": "Delivers messages fast and easy to use."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Nichelle Turner",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-08T16:30:51.000Z",
+          "Titre": "I enjoyed the great information that I\u2026",
+          "Contenu": "I enjoyed the great information that I received today"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Angela Thomas",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-09T15:05:32.000Z",
+          "Titre": "I love Textline!",
+          "Contenu": "I love Textline!They save so much time, everything is so easy and quick. I would totally recommend it!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Tyler Warrior",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-12T16:25:23.000Z",
+          "Titre": "Thoroughly enjoy the efficiency of this\u2026",
+          "Contenu": "Thoroughly enjoy the efficiency of this app."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kim Cole",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-09T15:48:03.000Z",
+          "Titre": "Like it",
+          "Contenu": "Like it, but I wish there was a delete button"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "H David Kavrell",
+          "Nb_Reviews": 2,
+          "Date": "2021-08-09T15:33:53.000Z",
+          "Titre": "Great way to reach your customer base"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Derick Olson",
+          "Nb_Reviews": 1,
+          "Date": "2021-10-04T18:21:08.000Z",
+          "Titre": "Everything worked as advertised."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jaime-Jin Lewis",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-23T14:51:56.000Z",
+          "Titre": "Great business SMS tool and wonderful\u2026",
+          "Contenu": "Great business SMS tool and wonderful customer service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kristi Acu\u00f1a",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-16T15:12:25.000Z",
+          "Titre": "Great platform for businesses!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Cynthia Cain",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-12T16:36:54.000Z",
+          "Titre": "Best tool ever HUGE timesaver",
+          "Contenu": "Best tool ever for reaching out to many people at once.  HUGE time saver"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Christopher Hill",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-05T16:20:12.000Z",
+          "Titre": "Easy to use and our customers love it."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Corey Hyatt",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-05T16:55:57.000Z",
+          "Titre": "Very easy to use and navigate."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PH",
+          "Pseudo": "Nate Nuguid",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-26T00:15:42.000Z",
+          "Titre": "quick and fast support"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "nick",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-09T16:15:03.000Z",
+          "Titre": "Works great for our company thank you\u2026",
+          "Contenu": "Works great for our company thank you so much."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "LaMont Enyard",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-05T23:30:45.000Z",
+          "Titre": "We have been with them for 5 months",
+          "Contenu": "We have been with them for 5 months,  and we love them"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Claude Payne",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-16T15:03:21.000Z",
+          "Titre": "It has worked well for our office."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "David Smith",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-05T17:23:28.000Z",
+          "Titre": "Picture Pawn LLC"
+        },
+        {
+          "Note": 5,
+          "Lieu": "MA",
+          "Pseudo": "Simo S",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-09T16:16:22.000Z",
+          "Titre": "How much does",
+          "Contenu": "I\u2019m mony and you have"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Square One Credit Management",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-16T15:04:25.000Z",
+          "Titre": "Perfect addition to our Client Advisors\u2026",
+          "Contenu": "Perfect addition to our Client Advisors platform"
+        },
+        {
+          "Note": 5,
+          "Lieu": "NG",
+          "Pseudo": "Ajayi Basit",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-15T23:14:57.000Z",
+          "Titre": "You are the best"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Joe Germanotta",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-05T16:35:22.000Z",
+          "Titre": "Great Customer Service Respone time"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Mark Jones",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-16T14:59:14.000Z",
+          "Titre": "Wonderful program",
+          "Contenu": "Great program. Easy to use"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jose Romero",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-08T18:14:46.000Z",
+          "Titre": "Fast responding service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Misti Milburn",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-10T18:05:13.000Z",
+          "Titre": "Great experience - No issues"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jerrad Schmittle",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-18T03:41:07.000Z",
+          "Titre": "Very responsive and professional."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Geraldino Magno",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-11T16:10:12.000Z",
+          "Titre": "It's easier communication."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Elements",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-14T02:14:39.000Z",
+          "Titre": "Efficient!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Segelman shaw Roofing",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-16T17:21:15.000Z",
+          "Titre": "Textline",
+          "Contenu": "All good like it"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Karen DeGrasse",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-13T15:07:56.000Z",
+          "Titre": "Does the job well"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Brittney Hall",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-13T17:21:49.000Z",
+          "Titre": "Fast and easy"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Charles Covey",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-16T14:53:09.000Z",
+          "Titre": "Textline is great."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kevin Mills",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-09T15:03:48.000Z",
+          "Titre": "Awesome service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Andrea Campbell",
+          "Nb_Reviews": 1,
+          "Date": "2021-08-09T15:24:44.000Z",
+          "Titre": "Amazing",
+          "Contenu": "Amazing, 100% recemented!!"
+        }
+      ]
+    }
+  ]
+}
