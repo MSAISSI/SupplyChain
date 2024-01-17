@@ -1,0 +1,36 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "celulibre.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "CO",
+          "Pseudo": "Arturo Camelo Virviescas",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-28T14:54:27.000Z",
+          "Titre": "A purchase of several pieces of\u2026",
+          "Contenu": "A purchase of several pieces of equipment was made and they sent others, they had to be bought elsewhere, when requesting the refund of the money they say that in 3 days and I have been waiting for more than 2 months for the refund of what was paid.Se realizo una  compra  de varios equipos y enviaron otros, hubo que comprarlos en otro sitio, al momento de solicitar la devoluci\u00f3n del dinero dicen que  en 3 d\u00edas y llevo mas de 2 meses esperando el reintegro de lo pagado."
+        },
+        {
+          "Note": 3,
+          "Lieu": "CO",
+          "Pseudo": "Robert de Jong",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-27T03:45:34.000Z",
+          "Titre": "I ordered a black phone and received a\u2026",
+          "Contenu": "I ordered a black phone and received a green one."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CO",
+          "Pseudo": "Alvaro Perez",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-29T19:55:18.000Z",
+          "Titre": "Good times to delivery"
+        }
+      ]
+    }
+  ]
+}

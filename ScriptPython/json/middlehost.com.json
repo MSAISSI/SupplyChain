@@ -1,0 +1,858 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "middlehost.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "wslade",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-24T15:27:50.000Z",
+          "Titre": "I had an FTP problem",
+          "Contenu": "I had an FTP problem. Support just kept repeating what shouldn't be happening but didn't offer any helpful suggestions about how to correct it.I moved to another host and FTP works fine there using the same client app."
+        },
+        {
+          "Note": 1,
+          "Lieu": "JP",
+          "Pseudo": "Umair Amin",
+          "Nb_Reviews": 1,
+          "Date": "2023-11-02T12:03:06.000Z",
+          "Titre": "replied once",
+          "Contenu": "replied once, with an commen answer, which helped me with nothing, i connected the vpn and the cpanel opend, but the wordpress still not opening"
+        },
+        {
+          "Note": 1,
+          "Lieu": "PK",
+          "Pseudo": "Nicaas Postgraduate College",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-03T21:43:01.000Z",
+          "Titre": "I have request about a month ago for\u2026",
+          "Contenu": "I have request about a month ago for the hosting cancellation from the panel and also verified through email. And when i open the dashboard it does show the message of cancellation request. I want to cancel the hosting please do it asap and do a refund please"
+        },
+        {
+          "Note": 1,
+          "Lieu": "PK",
+          "Pseudo": "Mureed Hussain",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-31T21:41:47.000Z",
+          "Titre": "Pity bad experience"
+        },
+        {
+          "Note": 4,
+          "Lieu": "PK",
+          "Pseudo": "Zahoor Anwer",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-29T05:57:31.000Z",
+          "Titre": "So far my experience with middlehost is\u2026",
+          "Contenu": "So far my experience with middlehost is good..easy to setup and no error..."
+        },
+        {
+          "Note": 4,
+          "Lieu": "GH",
+          "Pseudo": "George Agyakwa",
+          "Nb_Reviews": 1,
+          "Date": "2022-02-01T00:52:28.000Z",
+          "Titre": "East hosting",
+          "Contenu": "The hosting service provided was very simple to follow.Look to further the relationship."
+        },
+        {
+          "Note": 4,
+          "Lieu": "PK",
+          "Pseudo": "Zee Shan",
+          "Nb_Reviews": 1,
+          "Date": "2021-09-09T14:25:25.000Z",
+          "Titre": "This is great hosting ever I used up\u2026",
+          "Contenu": "This is great hosting ever I used up time is okay response everything \ud83d\udc93"
+        },
+        {
+          "Note": 4,
+          "Lieu": "PK",
+          "Pseudo": "Mahran khalid",
+          "Nb_Reviews": 2,
+          "Date": "2021-09-16T12:00:54.000Z",
+          "Titre": "Best",
+          "Contenu": "Good results"
+        },
+        {
+          "Note": 4,
+          "Lieu": "PK",
+          "Pseudo": "Muhammad Ali Khan",
+          "Nb_Reviews": 1,
+          "Date": "2022-01-29T16:14:22.000Z",
+          "Titre": "Great experience"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Shahid Sattar Rana",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-12T04:09:20.000Z",
+          "Titre": "Their customer service is also\u2026",
+          "Contenu": "Their customer service is also excellent. I have always been able to get help quickly and easily when I have needed it. They are always friendly and helpful and they go out of their way to solve my problems."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Yousaf Raza",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-03T16:28:41.000Z",
+          "Titre": "Middlehost is a great hosting and its\u2026",
+          "Contenu": "Middlehost is a great hosting and its support is good at resolving user's issues."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "VP",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-14T04:26:33.000Z",
+          "Titre": "I will recommend the hosting service to all",
+          "Contenu": "I have been with them for like a year. The hosting service itself is decent. But more importantly the provider, as it stands, has demonstrated some good business practices. Technical support is great and timely. Wasif from technical support is a great guy, helping and understanding of any occasional issue that may arise. Thanks"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Zubair Amin - CEO, Ideafist",
+          "Nb_Reviews": 6,
+          "Date": "2023-07-27T00:14:30.000Z",
+          "Titre": "Middlehost is by far the best when it\u2026",
+          "Contenu": "Middlehost is by far the best when it comes to offering support to their customers. If things get tricky, then you\u2019ll get help fast. Fast website hosting, great support and their packages are perfect for hosting WordPress sites."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "KAMRAN A. KHAN",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-03T21:14:30.000Z",
+          "Titre": "Good choice and high recommended",
+          "Contenu": "I just started using it, seems a good choice. Support is awesome and very responsive. Price is competitive as compared to others. Recommended for others especially the new with small business and limited budget."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Shah Rukh",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-06T16:33:44.000Z",
+          "Titre": "middlehost.com is best in town",
+          "Contenu": "I am using middlehost.com previously exsit with some other name since 2009 and I found this service very good and constant, the support team is very awesome and active,I always recommend this service to everyone who want to have a best hosting"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "aleaxa",
+          "Nb_Reviews": 2,
+          "Date": "2021-12-03T17:12:21.000Z",
+          "Titre": "Publisher",
+          "Contenu": "I started with them recently,Middlehost is very good company best quality for share hosting.. their server is perform very well and the up time is very high.. did not experience high load or even the company complains about that.. especially I am running a sound-base website which needs lot of traffics."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Abdul Samad Klasan",
+          "Nb_Reviews": 3,
+          "Date": "2022-04-13T18:20:11.000Z",
+          "Titre": "Best and Reliable, Ultra Fast Speed",
+          "Contenu": "Best and ReliableI have been using middlehost since 2020 and still their happy customer, I am having near about 200 realtime users on a marlin plan and my site is online and the uptime is guaranteed. No downtime, my site is online 24/7/365. The servers are ultra fast."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Aamir Zamir",
+          "Nb_Reviews": 1,
+          "Date": "2021-10-14T14:45:50.000Z",
+          "Titre": "After getting exhausted from different\u2026",
+          "Contenu": "After getting exhausted from different hosting providers, I finally found one that has an awesome speed and out of the world type of customer caring. I wish I could rate even higher than 5 stars. Everything about Middle host is just great."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Angie D Entertainment",
+          "Nb_Reviews": 1,
+          "Date": "2022-06-27T15:26:10.000Z",
+          "Titre": "Switch from GoDaddy",
+          "Contenu": "Really enjoyed the fast customer service, easy set up and large array of web hosting and support options. They made the switch from GoDaddy easy, secure and uninterrupted process. Glad I switched!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Ujala",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-16T17:14:46.000Z",
+          "Titre": "Hosting Review",
+          "Contenu": "In my perspective, Middlehost, Inc.  is a best hosting solution for your WordPress project. For every query, I got a fast response from the support ! I highly recommend their hosting platform!  Thank you!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Muhammad Waqar Ul Hassan Khan",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-13T12:55:26.000Z",
+          "Titre": "I was using an other hosting platform\u2026",
+          "Contenu": "I was using an other hosting platform for a year, but facing malicious attacks every week, buy switching to middle host two weeks ago. All my issues regarding security and safety like malware or malicious activities has been solved."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Mati Rehman",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-25T00:50:50.000Z",
+          "Titre": "middlehost is a great hosting solution\u2026",
+          "Contenu": "middlehost is a great hosting solution for all your WordPress projects - both new and established ones. The service they provide is stable, secure and super fast thanks to the special 24/7 support."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "OKOT BOSCO",
+          "Nb_Reviews": 2,
+          "Date": "2022-01-28T18:34:41.000Z",
+          "Titre": "Your hosting plan was excellent and I\u2026",
+          "Contenu": "Your hosting plan was excellent and I would love to do more business with guys,you deserve the five stars.... being my first Domain hosting,I truly trust u with another plan when needs arise\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d\ud83e\udd1d"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Taimoor",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-27T21:02:15.000Z",
+          "Titre": "One of the best hosting company",
+          "Contenu": "One of the best hosting company. I am using it for almost 2 years and never faced any issues. Great uptime and superb support. I Love Middlehost!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Murtasim Zia",
+          "Nb_Reviews": 1,
+          "Date": "2021-12-05T18:18:36.000Z",
+          "Titre": "They\u2019ve got some serious hosting game",
+          "Contenu": "They\u2019ve got some serious hosting game! Trust me these guys are the best hosting company in market! I bought one hosting plan from them and bought another right after! And they have an amazing support!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Farhan",
+          "Nb_Reviews": 2,
+          "Date": "2023-11-02T08:31:26.000Z",
+          "Titre": "Best hosting service I ever used in\u2026",
+          "Contenu": "Best hosting service I ever used in reasonable price"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Adeel Sami",
+          "Nb_Reviews": 1,
+          "Date": "2022-01-25T08:26:02.000Z",
+          "Titre": "Exceptional service",
+          "Contenu": "Exceptional service! Faster turn-around time! Easy to reach! What more can we expect from a web hosting company?Truly outstanding in all ways I have tested it!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Imran Yousaf",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-23T14:03:03.000Z",
+          "Titre": "It is a very good experience going\u2026",
+          "Contenu": "It is a very good experience going on..... I am so happy to be a part of Middlehost's family... Highly recommended."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Owais",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-04T00:42:27.000Z",
+          "Titre": "Always a great experience and prompt\u2026",
+          "Contenu": "Always a great experience and prompt support, Thank you so very much. Recommend 100%"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IE",
+          "Pseudo": "Alves Valdelin De sousa",
+          "Nb_Reviews": 1,
+          "Date": "2021-09-17T10:11:36.000Z",
+          "Titre": "best hosting services",
+          "Contenu": "hello, I stumbled upon  Middlehost.com ... by chance, no regrets, impeccable service, best support, response times in seconds."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Aatif A.",
+          "Nb_Reviews": 3,
+          "Date": "2022-07-15T05:38:43.000Z",
+          "Titre": "Reliable web-hosting provider with 100% uptime",
+          "Contenu": "Reliable web-hosting and domain name services provider in the globe. Never feels that my websites are offline or down. 100% uptime so far.Recommended."
+        },
+        {
+          "Note": 5,
+          "Lieu": "RO",
+          "Pseudo": "narcisa andronic",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-10T10:06:55.000Z",
+          "Titre": "I am satisfied with the Middle Host\u2026",
+          "Contenu": "I am satisfied with the Middle Host services so far. Everything we discussed came true. They responded very promptly to every request.Thank you"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Waqas Qureshi",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-14T13:34:05.000Z",
+          "Titre": "I found best and blazing speed hosting\u2026",
+          "Contenu": "I found best and blazing speed hosting for my websites. Price is also very economical and top level support team. Keep it up!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Kamran Qadir",
+          "Nb_Reviews": 1,
+          "Date": "2023-07-04T19:07:06.000Z",
+          "Titre": "Exceptional Service, Great Support",
+          "Contenu": "I have found Middlehost hosting service as 24/7 availibilty and zero down time. The customer support is exceptional and I would recommend Middlehost over other hosting service providers."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Ali Ahmad",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-11T18:33:47.000Z",
+          "Titre": "I found middlehost very fast reliable\u2026",
+          "Contenu": "I found middlehost very fast reliable and efficient. The support of middle host is very good and humble."
+        },
+        {
+          "Note": 5,
+          "Lieu": "KE",
+          "Pseudo": "Grace",
+          "Nb_Reviews": 1,
+          "Date": "2022-02-16T12:35:52.000Z",
+          "Titre": "Your service are excellent and very\u2026",
+          "Contenu": "Your service are excellent and very straight forward, i had no hitches in hosting my website. Thanks you"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "USAMA AHMAD",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-17T09:34:52.000Z",
+          "Titre": "Amazing \ud83c\udf89\ud83c\udf89\ud83c\udf89",
+          "Contenu": "I bought my first domain and hosting from middle host and I am just loving it their services."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Din Muhammad",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-13T10:54:35.000Z",
+          "Titre": "Great experience indeed to opt for\u2026",
+          "Contenu": "Great experience indeed to opt for middle host for easy access to the web world.Thanks"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Ujala",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-14T20:05:03.000Z",
+          "Titre": "Fast response for any query",
+          "Contenu": "Fast response for any query. Very satisfied! Highly recommended this webhosting! Thank you"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Muhammad Osman",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-31T15:56:11.000Z",
+          "Titre": "24/7 quick support. Response time is in seconds.",
+          "Contenu": "I am happy with the middle host so far because of24/7 quick support. Response time is in seconds.Wasif can help you fix any issue you are facing."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Muhammad Abid",
+          "Nb_Reviews": 1,
+          "Date": "2022-01-14T10:59:05.000Z",
+          "Titre": "Superfast hosting for affiliates sites",
+          "Contenu": "I pick middlehost 3 months ago, I'm fully happy with professional services"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Blogging Heats",
+          "Nb_Reviews": 1,
+          "Date": "2022-05-11T15:22:59.000Z",
+          "Titre": "Working with these guys since 2009",
+          "Contenu": "Working with these guys since 2009. Great support 100% uptime Guaranteed."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "shoaib siddique",
+          "Nb_Reviews": 1,
+          "Date": "2021-09-16T18:21:40.000Z",
+          "Titre": "Thanks for you support and help in\u2026",
+          "Contenu": "Thanks for you support and help in fixing issue. It's really fast hosting"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Abdul Waheed",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-24T22:42:27.000Z",
+          "Titre": "One of the best hosting i have ever\u2026",
+          "Contenu": "One of the best hosting i have ever used. Their customer support is too good"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "david t",
+          "Nb_Reviews": 5,
+          "Date": "2021-12-24T13:51:33.000Z",
+          "Titre": "great prices,great resource\u2026",
+          "Contenu": "great prices,great resource allocation,fast servers,this is a great webhost all-around!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Khan",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-31T17:47:41.000Z",
+          "Titre": "Top-Notch Web Hosting",
+          "Contenu": "Exceptional web hosting service with lightning-fast speeds and top-notch customer support"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Zeeshan Ali",
+          "Nb_Reviews": 1,
+          "Date": "2021-09-17T21:04:07.000Z",
+          "Titre": "Best Hosting I have found for my\u2026",
+          "Contenu": "Best Hosting I have found for my Affiliate and Adsense Site."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Tauseef Maher",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-22T13:09:29.000Z",
+          "Titre": "Wonderful support and after services as\u2026",
+          "Contenu": "Wonderful support and after services as well."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Ali Khan",
+          "Nb_Reviews": 1,
+          "Date": "2022-06-06T11:23:25.000Z",
+          "Titre": "The world's best web hosting",
+          "Contenu": "The world's best web hosting, fast, secure and reliable."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Reptileh",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-16T14:45:45.000Z",
+          "Titre": "Truly a great hosting ever",
+          "Contenu": "Truly a great hosting ever! Thankyou Middlehost."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Ejaz Mahmood",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-07T08:59:45.000Z",
+          "Titre": "my 1st experience with Middle host and\u2026",
+          "Contenu": "my 1st experience with Middle host and awesome ecperience Thanks!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "david t",
+          "Nb_Reviews": 5,
+          "Date": "2021-12-31T07:51:14.000Z",
+          "Titre": "great web host great price,great\u2026",
+          "Contenu": "great web host great price,great customer support,recommend them."
+        },
+        {
+          "Note": 5,
+          "Lieu": "TR",
+          "Pseudo": "Muhammad Sami",
+          "Nb_Reviews": 2,
+          "Date": "2023-09-23T09:18:56.000Z",
+          "Titre": "Best web hosting service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Umer Arif",
+          "Nb_Reviews": 4,
+          "Date": "2022-12-02T12:30:56.000Z",
+          "Titre": "Best Hosting Ever",
+          "Contenu": "One of the best hosting services I have used, with the best support. Keep it up"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Khurram Faheem",
+          "Nb_Reviews": 1,
+          "Date": "2022-01-22T20:55:57.000Z",
+          "Titre": "Perfect Hosting Company",
+          "Contenu": "Middlehost one of the best hosting company...."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "ZeHabesha TV",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-28T21:28:13.000Z",
+          "Titre": "Thank you Wasif from Middle Host",
+          "Contenu": "Thank you Wasif from Middle Host, you are real support, i admire you"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Najaf Ali Soho",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-17T15:39:10.000Z",
+          "Titre": "Best Hosting and Best Customer service",
+          "Contenu": "Best Hosting and Best Customer service. Thanks middlehost\u2764"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Abuzar Abbas",
+          "Nb_Reviews": 2,
+          "Date": "2021-11-05T10:25:01.000Z",
+          "Titre": "Great",
+          "Contenu": "They offer cheap but premium services"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Usman Danish",
+          "Nb_Reviews": 1,
+          "Date": "2022-08-15T08:30:46.000Z",
+          "Titre": "Support is very efficient and quick."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Muhammad Farooq",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-14T17:22:43.000Z",
+          "Titre": "Prompt support and help with patience\u2026",
+          "Contenu": "Prompt support and help with patience was a great for me.Thanks"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "iTechism",
+          "Nb_Reviews": 2,
+          "Date": "2023-12-01T07:19:55.000Z",
+          "Titre": "10/10",
+          "Contenu": "Great Experience!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Muhammad Ahsan Taqveem",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-12T00:45:31.000Z",
+          "Titre": "Amazing customer support",
+          "Contenu": "Amazing customer support Easy to use"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "sami ullah",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-06T06:26:36.000Z",
+          "Titre": "Best ever services always"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Muhammad Maqsood",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-15T03:31:00.000Z",
+          "Titre": "Great Middlehost",
+          "Contenu": "I really highly appreciate to the Middlehost Management"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Hamid Javed",
+          "Nb_Reviews": 3,
+          "Date": "2022-01-20T12:37:17.000Z",
+          "Titre": "Very good service.",
+          "Contenu": "Service is good enough. Enjoyed alot"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Zubair Amin - CEO, Ideafist",
+          "Nb_Reviews": 6,
+          "Date": "2021-11-12T10:43:46.000Z",
+          "Titre": "Great experience with Middle Host."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "shahzaib khan",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-10T11:36:28.000Z",
+          "Titre": "Awesome speed and support."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "sidra cheema",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-24T21:18:08.000Z",
+          "Titre": "Really good experience with middlehost\u2026",
+          "Contenu": "Really good experience with middlehost . very responsive and coperative"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Sohail Asghar",
+          "Nb_Reviews": 3,
+          "Date": "2021-10-28T14:34:47.000Z",
+          "Titre": "Quick & Easy",
+          "Contenu": "Quick & Easy, High Performance and Highly Recommended."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Hanan Anwar",
+          "Nb_Reviews": 1,
+          "Date": "2021-09-09T16:54:25.000Z",
+          "Titre": "Thanks for your services.",
+          "Contenu": "I am happy with the services of the middle host so far."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Atta ullah",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-23T22:25:09.000Z",
+          "Titre": "Best",
+          "Contenu": "I really like it, and will prefer also to others"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Nauman Ali",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-20T11:37:32.000Z",
+          "Titre": "Great Service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Muhammad Ilyas",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-12T05:50:36.000Z",
+          "Titre": "Good hosting"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Owais Khan",
+          "Nb_Reviews": 1,
+          "Date": "2022-06-18T14:51:34.000Z",
+          "Titre": "Always a great experience and quick\u2026",
+          "Contenu": "Always a great experience and quick response"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Jamal Ahmed",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-03T07:55:56.000Z",
+          "Titre": "Great service!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Nabeel Wakeel",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-05T11:45:37.000Z",
+          "Titre": "GREAT SERVICE"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "charles baxter",
+          "Nb_Reviews": 1,
+          "Date": "2022-10-17T11:25:42.000Z",
+          "Titre": "Great service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "UG",
+          "Pseudo": "Amani Kaneza Salaam",
+          "Nb_Reviews": 1,
+          "Date": "2022-02-14T06:48:54.000Z",
+          "Titre": "Great services!!!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Jan Muhammad",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-07T17:52:52.000Z",
+          "Titre": "awesome and best help and suport team."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Faizan Akhter",
+          "Nb_Reviews": 1,
+          "Date": "2022-02-07T05:08:03.000Z",
+          "Titre": "Nice Hosting"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Muhammad Sameer",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-29T09:09:17.000Z",
+          "Titre": "very nice hosting",
+          "Contenu": "very nice hosting. thanks"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Zohaib Akhtar",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-01T15:28:56.000Z",
+          "Titre": "Best server I have got"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Anees Akram",
+          "Nb_Reviews": 1,
+          "Date": "2021-10-28T15:04:40.000Z",
+          "Titre": "Thank You!",
+          "Contenu": "Thank You! so much for your support!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Preston Shah",
+          "Nb_Reviews": 2,
+          "Date": "2021-12-21T04:35:09.000Z",
+          "Titre": "Awesome experience till now with\u2026",
+          "Contenu": "Awesome experience till now with Middlehost."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Muhammad Azam",
+          "Nb_Reviews": 1,
+          "Date": "2022-06-30T16:43:12.000Z",
+          "Titre": "Excellent with good support"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Rashid Ali",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-27T16:41:40.000Z",
+          "Titre": "Excellent experience",
+          "Contenu": "Alhamdulillah excellent experience with middle host hosting provider."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Shayan Ali",
+          "Nb_Reviews": 1,
+          "Date": "2022-01-07T02:34:26.000Z",
+          "Titre": "Your middle host is really nice."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Light of Universe",
+          "Nb_Reviews": 1,
+          "Date": "2023-06-08T09:47:28.000Z",
+          "Titre": "Service response is superfast!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "A.B",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-12T12:45:26.000Z",
+          "Titre": "Good service",
+          "Contenu": "Good service. Excellent customer support"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Muhammad Kaleem Aslam",
+          "Nb_Reviews": 1,
+          "Date": "2021-09-09T13:09:28.000Z",
+          "Titre": "Excellent services and I'm satisfied."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Abdul Rehman",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-10T06:10:11.000Z",
+          "Titre": "Best one",
+          "Contenu": "Amazing experienceHighly recommend"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Muhammad Yasir Arafat",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-31T04:20:24.000Z",
+          "Titre": "Customer support is excellent."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Muhammad Abrar",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-14T12:36:28.000Z",
+          "Titre": "Perfect services"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Adnan Jamil",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-29T10:27:44.000Z",
+          "Titre": "Highly Recommended Hosting!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "ABDUL GHANI",
+          "Nb_Reviews": 1,
+          "Date": "2022-07-24T18:56:01.000Z",
+          "Titre": "recomemded."
+        },
+        {
+          "Note": 5,
+          "Lieu": "PK",
+          "Pseudo": "Nouman Hafeez",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-18T16:07:28.000Z",
+          "Titre": "Good",
+          "Contenu": "Good  experience"
+        },
+        {
+          "Note": 5,
+          "Lieu": "UG",
+          "Pseudo": "Ateker Emmanuel",
+          "Nb_Reviews": 2,
+          "Date": "2022-02-05T17:06:16.000Z",
+          "Titre": "EXCELLENT SERVICE"
+        }
+      ]
+    }
+  ]
+}

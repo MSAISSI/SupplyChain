@@ -1,0 +1,892 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "mightynetworks.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Melissa",
+          "Nb_Reviews": 14,
+          "Date": "2023-10-19T08:46:18.000Z",
+          "Titre": "Unfortunate Limitations",
+          "Contenu": "I am disappointed with the limitations of Mighty Networks. 1. Firstly, they do not have an optimised high converting checkout process. If someone were to click to join my membership, they are taken through a process of creating an account with Mighty Networks first, taking the customer through many steps before they even pay. What they should be doing to increase conversions, is have the customer go straight to checkout, make the payment and then get redirected to create their account. I had quite a few customers who started the process and didnt finish, and therefore didnt join the membership. Very disappointed they dont even think about this, and so my conclusion was i would have to use my own checkout and use zapier to link the members and therefore have to manage everything manually, which there is a great limitation and not worth the monthly amount they charge.2. Their setup with Stripe is an accounting nightmare. When a new member subscription is created through Mighty Network, they setup the payments in Stripe, but what they fail to do is actually transmit the Product Name/Product Description to Stripe, so when it comes to me doing my accounts, i cannot easily distinguish or find in Stripe which of my transactions are coming from membership payments. It has created an accounting nightmare for me, where im in the process of trying to setup even more complex zaps so i can have these transactions recorded properly for my accounting. Such a simple requirement that Mighty Networks cannot even fulfill.3. Mighty Networks are a membership community. So what is common when it comes to memberships? CANCELLATIONS. However Mighty Networks have not even setup a proper Cancellation or Retention process. When my members cancel, i dont even know WHY. They do not even get the opportunity to write their reason for cancellation. They just cancel and thats it, thats the end of the road. How can this feature not be included? Im running my membership platform blind if i dont know why people are cancelling. Im thinking these people seriously lack common sense. For this reason i dont think the monthly cost of Mighty Networks is worth it, because at this rate i have to setup everything manually outside of Mighty Networks, from an optimised well converting checkout, to having a properly described transactions in stripe and to setting up my own cancellation process. NOT GOOD."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Lily Bloom",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-03T05:45:42.000Z",
+          "Titre": "Mighty Networks has the WORST SUPPORT",
+          "Contenu": "Mighty Networks has the WORST SUPPORT. They don't care about locking me out from my own group because of their AI deciding I sent to many repetitious private messages when I was individually welcoming new members."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Katie Danger",
+          "Nb_Reviews": 8,
+          "Date": "2023-08-31T16:51:36.000Z",
+          "Titre": "Spam emails and they never stop",
+          "Contenu": "I keep getting their emails. I have unsubscribed, I have messaged them and they continue to tell me \"I can assure you, you are not on our email list\".THEN WHY DO I KEEP GETTING YOUR EMAILS?This business is pure spam, and I would NEVER get involved with them. Stay far, far away!"
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Carol Charat",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-13T23:27:48.000Z",
+          "Titre": "0 Stars",
+          "Contenu": "I'd give it 0 stars if I could.  It was not user-friendly.  It was very difficult to find information in this platform.  I had joined an equestrian coaching club.  It was great with the original platform, but then the coach moved us to MN.  I was very frustrated with trying to use this platform, hardly any clear categories for anything, difficult to find where to post, etc.  (Even this review won't let me put in the actual dates I was trying to MN)."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Soma Miller",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-30T02:17:43.000Z",
+          "Titre": "Lost hours of content overnight",
+          "Contenu": "I built my mighty network in 2020. Since they updated the whole system the features built into my network changed globally causing the whole environment to be hard to search for things. I then tried upgrading from community to business plan and didn't like it. When I switched back it made all the content I created during the trial in accessible. I'm finding a new community platform ASAP. This is a terrible and scammy business practice and not taking concerns of their customer in to consideration."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Gaynor whitehouse",
+          "Nb_Reviews": 1,
+          "Date": "2022-02-19T07:13:23.000Z",
+          "Titre": "Dreadful experience",
+          "Contenu": "Dreadful experience. Unable to leave no stars? Wanted a 14 day free trial period with happy horse, but you HAVE to give bank details. Said I wasn't happy and said  I didn't want free trust after all. They instructed to go to 'profile' but I there is not one. Cannot get anywhere with 'help' line, just continual 'ready made answers"
+        },
+        {
+          "Note": 1,
+          "Lieu": "CA",
+          "Pseudo": "El G",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-13T01:42:48.000Z",
+          "Titre": "Operates in poor faith",
+          "Contenu": "I had subscribed and paid to a premium service 1 year ago. I never ended up using my netwrok at all as I found the system clunky and hard to set up. I recently downgraded my account so that I wouldn't be charged a new annual fee (almost $1200 CAD). Unfortunately, I missed the renewal date and was charged again.I contacted them to ask for a refund as I did not intend to use the service nor had I used the service all the previous year. Cx reply was simply that they wouldn't offer a refund.Instead of offering an alternative or somewhat of a reasonable customer facing solution, they just flatly refused. I feel this is operating in bad faith and with priority over retaining fees from members who they know will not use their services."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Dave",
+          "Nb_Reviews": 15,
+          "Date": "2021-11-06T14:49:28.000Z",
+          "Titre": "I wouldn't recommend",
+          "Contenu": "Tried to sign up but they wouldn't let me register with my paid for email service despite emailing their support team over a week and their CEO didn't even have the courtesy to reply to my direct email. Based on the experience I've had with them they offer zero support and are poor are getting back to you when you need help. If this is how they treat potential customers then I dread to think how they treat existing paying customers."
+        },
+        {
+          "Note": 1,
+          "Lieu": "CA",
+          "Pseudo": "customer",
+          "Nb_Reviews": 2,
+          "Date": "2022-12-10T07:16:04.000Z",
+          "Titre": "I had an account with them since February 19, 2020",
+          "Contenu": "I had an account with Mighty Networks since February 2020 and put up their constant tinkering with the platform\u2019s structure, the font, the layout until on December 8, 2022 when then switched the platform to \u2018Spaces\u2019.  75% of my content is now lost.  That is the last straw for me.  Their move to Spaces has cost me over $10,000 of time as it accounts for many hours of work and effort.  The new changes are entirely useless.  The remaining content is disorganized and the images that we paid staff to add to the content have been removed in the transition.  I will definitely be cancelling my account.   Save your money and do not invest your time setting up a Mighty Network because they will pull it apart, delete your content, burn all the money you invested in setting up the community. I would like to give 0 star."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Petr",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-16T20:29:48.000Z",
+          "Titre": "The fees are really high",
+          "Contenu": "The fees are really high. I paid for the professional service and they didn't credit me back any of the costs that they took during a regular plan I had with them -- and would not. Bad business in my view. No public chat on mobile, can't view images on mobile either. They need to reach out to the pro business people better and ask what they can do to help. I get nothing but spam emails from the CEO everyday."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "Anna",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-22T07:32:11.000Z",
+          "Titre": "Avoid MN at all costs.",
+          "Contenu": "I've been on MN since 2020 and almost 3 years of hard work later, I've grown a community, against the odds. That's the good news. MN can do horrible business with me and get away with it because I can't afford to leave. The help search is worthless, trying to get an answer from a human is hard to find, then there is a long wait, then they are no help. The new format is a disaster. My members are frustrated and unhappy, I can't help them. My site looks like trash, while MN gloats about being global. I think they have no idea what community means. Don't do business with them, they will make you look like a fool to your members. The canned fake sympathy is ridiculous. If I could give negative stars I would."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "Louise Gough",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-22T08:00:17.000Z",
+          "Titre": "I\u2019m seriously at my wits end with\u2026",
+          "Contenu": "I\u2019m seriously at my wits end with mighty networks now\u2026 We have 660 paid members at our peak and I believe the reason for our decline is how unreliable to app is.Firstly, The app is really NOT user friendly, It\u2019s really difficult to navigate and when you\u2019re Brand new to something, Most people lose interest really quickly. Members can\u2019t see new posts and videos unless they filter the results, Getting that message to everyone is absolutely impossible when mighty networks don\u2019t even send the correct notifications when they\u2019re turned on.  They have huge updates all the time which mess with the layout of your network, Twice in a year I\u2019ve had to completely redesign my whole layout to accommodate their new changes, Losing hundreds of videos in the process. I pay for the top subscription with mighty networks so explain to me why, When I upload a new video it\u2019s only giving me the option to upload a 25mb video, Even on the strongest fastest wifi.I\u2019m sick to death of this now, It feels like it\u2019s every other day im on the live chat (because you can\u2019t call them) trying to sort another issue out, I t\u2019s cost me a ridiculous amount of money and members are leaving due to not getting on with the bloody stupid layout."
+        },
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "JOHN BOYLE",
+          "Nb_Reviews": 7,
+          "Date": "2022-12-02T02:41:39.000Z",
+          "Titre": "They will not unsubscribe me",
+          "Contenu": "They will not unsubscribe me. Multiple emails asking to unsubscribe which they agree but then keep sending me emails. Set my profile to \"Off\" and they still send emails. This is a tactic from the 90's."
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Carlos Baker",
+          "Nb_Reviews": 2,
+          "Date": "2023-12-21T00:16:57.000Z",
+          "Titre": "horrible support",
+          "Contenu": "for the second time, I created an account the platform was very confusing and I was trying to get support and waited and waited and no one ever helped so I closed my account 2 months later I decided to give it a try again and the same thing is confusing and can't find any support so it is not for me am sure there are other companies out there that will have what I need"
+        },
+        {
+          "Note": 2,
+          "Lieu": "GB",
+          "Pseudo": "Tom Hashemi",
+          "Nb_Reviews": 8,
+          "Date": "2023-12-04T10:53:12.000Z",
+          "Titre": "Bad set up - they'll waste your time every month",
+          "Contenu": "We use Mighty Networks for our training platform. I've left a review previously about the challenges we've had. Here's a new thing to add to it:Every month, as the billing contact (but not the person on my team who manages the Craft) I get an email saying they've charged us. But they don't send me the invoice.I've asked them repeatedly to send us the invoice instead of just notifying us that we've been charged. They refuse. Instead they ask me to login to their platform, click on five or six things to get to the invoice to download it.The path to the invoice is so confusing that I never remember it from month to month, so waste a whole bunch of time all the time on just one invoice.No other supplier does this. But Mighty Networks... everything is possible. Last time I gave them feedback they said they saw it as a learning opportunity, and that they wanted to improve their service. I'm afraid to say I think that is marketing rubbish for people reading these reviews.Don't buy their replies to the negative feedback on here - it's all empty rhetoric. They either don't care about feedback, or their software team is so dysfunctional that they can't implement it despite the pleas of their customer service team."
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Carlos Baker",
+          "Nb_Reviews": 2,
+          "Date": "2023-11-03T20:52:35.000Z",
+          "Titre": "the support is extremely poor no way am\u2026",
+          "Contenu": "the support is extremely poor no way am using their service if an emergency11 comes up your screw"
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "David Nour",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-09T22:17:50.000Z",
+          "Titre": "Compelling Platform, Mediocre Host Experience at best!",
+          "Contenu": "Compelling Platform, mediocre experience! This is my 3rd attempt at building an online, private/niche/micro-community. I've found that the big social networks have become polarized, political, and promotional - big reasons most professionals are disengaging. I saw a promo video for MN and it seems intuitive enough that I signed up. Got immersed in it over the holidays and we're now up to 2,500 members, 20+ groups, and have just launched a series of courses. The platform is compelling (for the most part). The host experience leaves a lot to be desired. They push a lot out, yet seldom actually listen to their biggest advocates/power users. Have never heard from the CEO directly and the real-time support is useless. Also, few community managers are trained in MN, so if you're looking to outsource your community management, good luck! They're ramping up the user base to sell it to a bigger player like Salesforce, MSFT, or LinkedIn. Which leaves early adopters out in the dust."
+        },
+        {
+          "Note": 2,
+          "Lieu": "GB",
+          "Pseudo": "HarpyG",
+          "Nb_Reviews": 36,
+          "Date": "2020-09-30T21:15:16.000Z",
+          "Titre": "Not the Facebook alternative it claims to be",
+          "Contenu": "Putting itself forward as a corporate alternative to Facebook, Mighty Networks falls well short of its claimed assertion. It has a slick-looking interface but is weak on functionality and user comprehension, the layout though pretty is not easy to navigate. The jargonese used in its own descriptions of itself is the kind of stuff that was once kicked around boardrooms during the yuppy years and is embarrassingly cringeworthy.It's a nice idea and I wish them well but in its present form it is a weak attempt to break into an already flooded market."
+        },
+        {
+          "Note": 2,
+          "Lieu": "AU",
+          "Pseudo": "Emily",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-09T21:40:43.000Z",
+          "Titre": "The response time is disappointing",
+          "Contenu": "The response time is disappointing. I'm still waiting to hear back and it's been more than two business days. When I do get help it's great, but it's only over email, no web chat or call back support or anything, and the email responses can be a little slower than ideal."
+        },
+        {
+          "Note": 2,
+          "Lieu": "GB",
+          "Pseudo": "ainemona",
+          "Nb_Reviews": 1,
+          "Date": "2023-01-12T20:27:45.000Z",
+          "Titre": "Can we have our old Mighty Network back?",
+          "Contenu": "The old MN's platform was fantastic for our communities needs, but since the new \"update\", our entire community functionaility is gone overnight, our structure deleted without consultation, approval or transition, and our end-user experience ruined. We are extremely disappointed, because we loved our Topics forum, and Group networks, and how our old community looked and felt, and now its gone. Yes, we were advised an \"update\" would happen but were advised it would be option, which you could choose for improved funcationaility, but instead the new update is a complete network overhaul which was forced upon us, and MN is now an entirely new piece of software which doesn't suit our communities needs anywhere near as well as it once did"
+        },
+        {
+          "Note": 2,
+          "Lieu": "US",
+          "Pseudo": "Jane",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-22T16:13:55.000Z",
+          "Titre": "It'great for those who are savvy in setting up online programs.",
+          "Contenu": "I love the look and the abilities; but I have had trouble maximizing what it can do.  I wish there was a spot to hire someone to set it up."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Anna Blake",
+          "Nb_Reviews": 2,
+          "Date": "2023-12-20T22:17:10.000Z",
+          "Titre": "I have invested years, but can't recommend it.",
+          "Contenu": "I have invested years into my site here, and it works ok for my business. I'm in too far to quit, but MN has never had good customer service, and the changes they call improvements are silly and ineffective. The graphic design is dull and decades old, recently my use of color for different courses was stripped. Now it all looks alike. It's getting less user-friendly. I had to turn off emails from them because the nagging was insulting. Maybe two stars would be more true."
+        },
+        {
+          "Note": 3,
+          "Lieu": "GB",
+          "Pseudo": "Sean Kivi",
+          "Nb_Reviews": 18,
+          "Date": "2023-09-21T14:35:56.000Z",
+          "Titre": "Not for me",
+          "Contenu": "I used Mighty Networks for a few months for my Spanish lessons but found its platform complex and hard to navigate, especially concerning billing and content planning. Although the company promptly refunded an accidental charge, I was often confused by its system of \"spaces\" for selling courses. Unlike Kajabi, where users can easily access purchased courses, Mighty Networks requires creating separate spaces for each course, complicating access for clients. While it might suit some, it wasn't a fit for my business needs."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Stephen G. Barr",
+          "Nb_Reviews": 14,
+          "Date": "2023-03-26T13:57:20.000Z",
+          "Titre": "I've been building and administering\u2026",
+          "Contenu": "I've been building and administering niche market social networks for over 20 years and I don't get the buzz about Mighty Networks at all. I tried Mighty Bell back in the day and was unimpressed as I am now with the current Mighty Networks product. The UX is horrible and akin to driving a semi with no power steering or brakes. Very difficult to navigate and with the community I currently belong to it's a huge dud as far as user engagement and I believe that stems from the clunky software."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "Wellrebel",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-20T10:33:57.000Z",
+          "Titre": "Easier for those starting from scratch",
+          "Contenu": "Previously I posted two stars because it was hard for me to find the help I needed. I finally dug through the Mighty Community to find the answer I was looking for. (Not just my Topics disappeared, but my ability to create articles and to brand my topics with images) It's still a decent platform but a lot of extra work and stress has been created for hosts during this transition and I think they are discovering the unique ways that hosts use this platform only now. If you are just entering now, it may be easier to start from scratch, but for some \"legacy\" users it has been a bit of a nightmare, for others more so than myself. The transition certainly wasn't seamless."
+        },
+        {
+          "Note": 3,
+          "Lieu": "ES",
+          "Pseudo": "Pere Rosales",
+          "Nb_Reviews": 4,
+          "Date": "2021-07-17T06:34:13.000Z",
+          "Titre": "I love the platform but not 100%",
+          "Contenu": "I love the platform and Gina\u2019s (CEO) vision. Having said that, I would love it much more if I had a reasonable price for a true white-label option (to full hide MightyNetworks brand presence). On the other hand, some people of the support team are not responsive enough. I have been struggling with some issues and they are just reactive asking questions in a ping-pong dynamic with a total lack of proactivity."
+        },
+        {
+          "Note": 3,
+          "Lieu": "US",
+          "Pseudo": "David",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-29T17:28:46.000Z",
+          "Titre": "Your customer service has been very\u2026",
+          "Contenu": "Your customer service has been very challenging to work with. Not enough flexibility with designing.  To limited when in comes to groups and courses. My members also find it difficult to navigate. Thank you"
+        },
+        {
+          "Note": 3,
+          "Lieu": "GB",
+          "Pseudo": "Tom Hashemi",
+          "Nb_Reviews": 8,
+          "Date": "2023-06-13T09:46:39.000Z",
+          "Titre": "Performs the core functions, but would avoid if starting again (probably)",
+          "Contenu": "Mighty Networks performs the core functions, but the administrative set up is lacking and some basic things don't exist. For example, as a UK business we need to charge sales tax for UK customers (but this tax doesn't apply to anyone outside the UK). There is no way to do this on Mighty Networks - their geolocation function doesn't work properly. We had huge problems assigning a custom domain to our Mighty Networks set up - it took months and hundreds of emails, with MN always pointing the finger somewhere else when it was because they have set things up strangely that the problem arose. Towards the end of the ordeal they told us that this problem had previously occurred with other customers, despite telling us for weeks that it was a problem specific to us.On the positive side of things, the user experience from a user point of view (not an admin) is good. Respondents enjoy using it and the course set up works well. If we were to start from scratch, while it wouldn't be a definite \"no\" to using MN, we'd strongly explore other options first as the challenges we've had have been incredibly frustrating."
+        },
+        {
+          "Note": 3,
+          "Lieu": "TH",
+          "Pseudo": "Francie La Flow",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-16T22:52:39.000Z",
+          "Titre": "The response time was very slow",
+          "Contenu": "The response time was very slow. Explanation of the fees was much clearer tha it was originally positioned in the website\u2019s pricing structure. However, The lack of payment options and the heavy fees associated with stripe, mighty networks and conversions, combined, is deterring."
+        },
+        {
+          "Note": 3,
+          "Lieu": "ES",
+          "Pseudo": "Aleksandra",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-12T12:16:56.000Z",
+          "Titre": "Good Platform But Could Improve Its Support For The Users",
+          "Contenu": "In general, it is a good platform with a lot of potential to turn into an incredible space for online communities. I know you are developing the features and make use of the platform becoming easier for people outside the USA. I would like to see an improvement in customer service. Waiting 3 weeks for a response is not good. Also, your team is often not much of a help, when sending us to your videos or articles about the functionality. Sometimes these are not enough and we need someone to work with us on solving an issue.I also dislike how the platform does not give the host access to the members' email addresses. We use Mighty Network as a community platform. We bring people who sign up as members and when we want to have their email address, we have to pay MN the highest subscription available. We already pay to use MN and this should be enough to get contact details of our own contacts. I don't mean a fancy spreadsheet you offer (all nice but not a deal-breaker), just make the email addresses visible in the list of members. You block the access and I think this is not acceptable. Besides, I am pretty sure this also breaches the EU laws which you should respect since you operate in the EU too. Overall a good platform and I have trust in the team behind and your willingness to become better and friendlier for your users."
+        },
+        {
+          "Note": 4,
+          "Lieu": "SE",
+          "Pseudo": "Joachim",
+          "Nb_Reviews": 4,
+          "Date": "2023-12-21T16:24:14.000Z",
+          "Titre": "A truly great community-building tool, for some",
+          "Contenu": "A truly great community-building platform if its rather focused range of functionality fits your needs. Are you looking for a - feminine and cosy- non-competitive framework where you - easily integrate to Stripe (only, not Paypal) for paid options- you don't need to know any tech- having the best (most useful, most active, most staff-supported) community administrator community I have ever seenThen this might be perfect for you. If you are looking for something where - you may want to energise members by using gamification (like e.g. in \"engage and get credibility\")- rankings (of the most valuable posting members, most active members, etc.)- best answer functionality and anonymous posting optionsThen this is not for you. These things do not exist and are not in the (excellent) Might Network public roadmap.Best of luck!Best,Joachim."
+        },
+        {
+          "Note": 4,
+          "Lieu": "AU",
+          "Pseudo": "J P",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-21T06:47:29.000Z",
+          "Titre": "Friendly and Responsive",
+          "Contenu": "Have been hosting a global community on MN for four years now; the platform is well-integrated now, and the Mighty Team is friendly, respectful, on the ball, and quick to respond. That 5th star would totally be there if a) the interface was less dazzling (simpler for newbies to navigate, in particular) and b) we hosts could be given a better sense of where several key features we've requested are on the development priority list. Some of them have taken years to implement, and some we're still waiting on. This is understandable, of course, given how many people they're looking after.) All that said, MN is far and away the best-of-breed from this long-time host's perspective!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "GB",
+          "Pseudo": "Gill",
+          "Nb_Reviews": 2,
+          "Date": "2023-12-21T12:54:43.000Z",
+          "Titre": "The Platform Pretty Much Does It All",
+          "Contenu": "The platform pretty much does everything I need and when I can't see how to get something done the team are so helpful in getting me there. For me it is the supportive team, even though different time zones, whenever I have needed them (which isn't often) they get back in a few hours and I feel looked after and feel they get my stress and smooth it out. Every single one - I couldn't do this with out you."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Gail Nott",
+          "Nb_Reviews": 2,
+          "Date": "2023-12-22T02:18:43.000Z",
+          "Titre": "Great choice if you want one platform\u2026",
+          "Contenu": "Great choice if you want one platform for community and courses. It's constantly being updated and improved. It's easy to use, especially if your members have memberships with other Mighty Networks."
+        },
+        {
+          "Note": 4,
+          "Lieu": "AU",
+          "Pseudo": "Jan Hutnan",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-19T08:36:38.000Z",
+          "Titre": "MN is simply exceptional.",
+          "Contenu": "MN is a product like none on the market. The team provides an exceptional customer service, fixes bugs fast, have great listening skills and always, and always, improving. I could not give 5* because there is always a room for improvement:)."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Cheryl O Art",
+          "Nb_Reviews": 2,
+          "Date": "2023-12-21T16:54:10.000Z",
+          "Titre": "I love all the options in Mighty\u2026",
+          "Contenu": "I love all the options in Mighty Networks for how you set up courses or memberships. As well, their tech help is fast (usually same day) and efficient."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Jude K",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-20T00:19:36.000Z",
+          "Titre": "I appreciate the interactive format of the platform!",
+          "Contenu": "I appreciate the interactive format of the platform, though I wish it were easier to view two lessons simultaneously - both as a participant and as an editor of a course."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Jessica",
+          "Nb_Reviews": 1,
+          "Date": "2023-10-13T23:45:25.000Z",
+          "Titre": "Such a refreshing change!",
+          "Contenu": "I was looking for a new place to host my community that was off of FB for many reasons so I was thrilled to come across Mighty Networks.  It is a bit of a learning curve but once you get used to it, it's so worth it.  I can host all my events, challenges, programs and so much more right in the platform. My clients are happy for the change  and the ease of the app and and I feel better knowing that I have much more control over my content."
+        },
+        {
+          "Note": 4,
+          "Lieu": "NO",
+          "Pseudo": "Nader",
+          "Nb_Reviews": 3,
+          "Date": "2023-07-11T22:38:56.000Z",
+          "Titre": "Well build communations platform.",
+          "Contenu": "We are a professional community where members can seek advice from others, or share experiences and documents. 200 members. Until 2023 we used Yammer, but when the basic version was announced terminated, we had to find a new platform.  We tried several alternatives before we decided.   The platform was intuitive and easy to set up. Stable and neglible downtime. We got a very good tool for a cheap yearly price. Easy to register new members and easy to post. There are a  couple minor moderator functions I wish to be improved. This is the reason for the one missing star."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Jamie",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-22T16:25:50.000Z",
+          "Titre": "Mighty Network is good in a lot of\u2026",
+          "Contenu": "Mighty Network is good in a lot of ways; group hosting, paid groups and courses, etc. Although there are many ways that things are much more difficult to share here than would be ideal. Example; you can't go live inside the groups OR post a plain video. The video must first be uploaded elsewhere (like youtube or vimeo) before it can be shared here. That creates extra steps for my team and has really prevented any of my clients (group members) from being able to share in the ways they want to. The inability to customize the dollar amount you want to charge for a plan is also frustrating as well as the big delay on receiving expense reports timely. Over all, it's a good platform, just missing some key parts to make it great in my opinion"
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Cheryl O Art",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-12T00:38:25.000Z",
+          "Titre": "Mighty Networks for Memberships",
+          "Contenu": "Mighty Networks has lots of options to make it a great membership platform. I have also found the support staff fast (with 24 hours usually) to answer questions or help if something isn't working."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Cassy",
+          "Nb_Reviews": 2,
+          "Date": "2021-07-09T21:51:44.000Z",
+          "Titre": "It\u2019s really incredible but still needs\u2026",
+          "Contenu": "It\u2019s really incredible but still needs a few improvements. They just added tribe chats to the app (yay!) but group chats aren\u2019t possible yet. There should be a network instructor tier so that course instructors can make events and not just everyone or hosts only. Otherwise I do love it and I can\u2019t wait to see what updates happen in the future!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Alicia",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-09T21:16:56.000Z",
+          "Titre": "I like a lot about TMN especially stuff\u2026",
+          "Contenu": "I like a lot about TMN especially stuff no one else offers- not allowing students to message one another but does allow messages from hosts.  What I don\u2019t? The inability to move students while in a trial or if the plan included the community page so we have lost students (and money.)  Not an issue if you up sell or sell your membership but for an all in one type program it\u2019s been challenging.Support is nice, but TMN is limited in flexibility although it is also means it\u2019s a bit plug and go.  It\u2019s been a year and I\u2019ll be sticking with it! It offers some items others don\u2019t and much easier to use than other options.  I\u2019ve tried 12 other options so this has been the best one so far."
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Joan",
+          "Nb_Reviews": 3,
+          "Date": "2021-07-09T20:22:21.000Z",
+          "Titre": "Pretty straightforward to setup though\u2026",
+          "Contenu": "Pretty straightforward to setup though it does take planning, and time and you'll want to keep some internal documentation of what's been setup.A few elements where kind of confusing (internal and external plans and understanding the difference).  I did join the MN private community which helped as the add on training that was offered at the time of purchase.One thing that is not good is the variety of image sizes that are required for different elements (group, posts, landing pages, etc). The MN documentation seems outdated and size recommendations didn't always work on the mobile app so MN does need to make that part more streamlined and consistent.We came up with our own sizes for images because the ones provided did not work with parts of the images getting cut off ?? So that was frustrating.But the joy of being away from Facebook and our old FB group has been wonderful."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Steven",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-22T16:23:28.000Z",
+          "Titre": "Excellent Tool for Membership",
+          "Contenu": "I am sort of torn between 4 stars and 5 stars. Overall this had been a great tool for the migration of our membership site away from Peepso and BuddyPress, so very happy with this so far.I would like to see a number of features developed or enhanced, so hopefully, they may happen down the road. The paid community rate has worked fine, would love to go to a business plan but the jump is still a bit steep for us at this stage.Things that I would like to see ...1. A simple way for our members to upgrade their membership plan without first having to leave their current plan and then rejoin. Way too much risk in losing someone.2. A way to customize the invite tool across all of our members for consistant wording and branding.3. On the App - a way to know who is online - there porbably is but it is not easily visible.4. Some better moderation features or a period to moderate new users before they can post unmoderated."
+        },
+        {
+          "Note": 4,
+          "Lieu": "GB",
+          "Pseudo": "MA",
+          "Nb_Reviews": 4,
+          "Date": "2021-09-09T12:29:55.000Z",
+          "Titre": "Great platform - improving customer service!",
+          "Contenu": "It's a great platform for someone who doesnt have the tech background - they are really trying hard to make sure they provide support - which is difficult for so many time zones. Keep going! Well done!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "CA",
+          "Pseudo": "Carol",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-29T18:40:00.000Z",
+          "Titre": "I really am enjoying working with\u2026",
+          "Contenu": "I really am enjoying working with Mighty Networks. I would like to be able to charge in Canadian dollars vs US since I am in Canada and so are all my members."
+        },
+        {
+          "Note": 4,
+          "Lieu": "NG",
+          "Pseudo": "Chinonyerem Anumba",
+          "Nb_Reviews": 3,
+          "Date": "2023-10-02T16:06:28.000Z",
+          "Titre": "This app is reliable I injoy doing\u2026",
+          "Contenu": "This app is reliable I injoy doing tasks with it and earning money with it"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Joan Kloth-Zanard",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-11T15:54:11.000Z",
+          "Titre": "Mostly good but some bells and whistles\u2026",
+          "Contenu": "Mostly good but some bells and whistles are harder to find or accomplish"
+        },
+        {
+          "Note": 4,
+          "Lieu": "PT",
+          "Pseudo": "Annie Finch",
+          "Nb_Reviews": 2,
+          "Date": "2021-07-18T00:47:23.000Z",
+          "Titre": "a very special platform!",
+          "Contenu": "women-owned and designed, beautiful interface and accessible friendly support.  A great and very special platform!"
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Eric",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-29T15:48:01.000Z",
+          "Titre": "More flexibility with topics and\u2026",
+          "Contenu": "More flexibility with topics and categories would be nice."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Elizabeth Humphries",
+          "Nb_Reviews": 2,
+          "Date": "2023-12-20T22:38:58.000Z",
+          "Titre": "A+ Mighty Networks Help Support",
+          "Contenu": "I appreciate being able to get support quickly when I need help with my community space. I love the regularly scheduled live sessions and the opportunity to ask questions. Mighty Networks is robust and also complex so being able to find help when I need it has been huge."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rick Stambaugh",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-21T17:33:10.000Z",
+          "Titre": "We are loving Mighty Networks.",
+          "Contenu": "We joined Mighty Networks a few months ago and find their platform to be great for our community.  Their employees and support staff are very friendly and knowledgeable. Features are easy to use and they are always adding new functionality."
+        },
+        {
+          "Note": 5,
+          "Lieu": "SE",
+          "Pseudo": "lovisa hagdahl",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-21T10:15:34.000Z",
+          "Titre": "The team at Mighty is fantastic",
+          "Contenu": "The team at Mighty is fantastic, always ready to help you out with great advice on how to grow your community. Even though we are on different sides of the world, and everything is online, they really know how to connect."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "DrRoss Wirth",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-19T01:49:12.000Z",
+          "Titre": "Mighty Networks provides a superior platform",
+          "Contenu": "Mighty Networks provides a superior platform for hosting discussions, online courses, and working groups.  It also allowed us to better manage an email list in one place.  However, the best part of working with MN is their responsiveness to people like me who are hosting groups on their platform.  They listen - they really do - you what is working well and where host have some difficulties.  They are very open with the development plan and involve users every step along the way.  MN also has a great resource to help everyone be successful along the way."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dr. Amanda Barrientez",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-19T02:09:26.000Z",
+          "Titre": "So easy to use for me and my clients!",
+          "Contenu": "Mighty Networks is the host for two programs I offer: 1) Law of Attraction for Entrepreneurs, and 2) Inner Power Entrepreneur Group Coaching. My membership and group clients clients enjoy the app being separate from social media so they don't go down the wormhole when they plug into my content. Most importantly, the ease of the system makes my daily lesson uploads take only a few minutes, which makes me love using it. It's the perfect platform for me to scale to 7-figures with my offerings. THANKS MIGHTY NETWORKS!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Nyree Cab\u00e9an",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-22T00:57:33.000Z",
+          "Titre": "Awesome option for my Business",
+          "Contenu": "I love how creative I can be with my community, and the platform support is amazing. They are always helping us find more ways to make our experience for our members an amazing one."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Rick Webster",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-21T00:08:20.000Z",
+          "Titre": "Customer for 3+ years ...",
+          "Contenu": "MightyNetworks has been a cost effective and reliable platform to host our community. Their customer service is responsive and the MN platform is simple for our new members to quickly onboard themselves. We look forward to a continued relationship."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "papaya",
+          "Nb_Reviews": 2,
+          "Date": "2023-12-19T03:48:34.000Z",
+          "Titre": "I love how it doesn't have ads",
+          "Contenu": "I love how it doesn't have ads, keeps the community focused and engaged, and is very much a real community, not just a bulletin board. I've met some of my closest friends and collaborators through my Mighty Networks community"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Debra Maldonado",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-18T23:54:02.000Z",
+          "Titre": "Great platform for our programs",
+          "Contenu": "After years of searching for a platform to host our immersive training programs that is interactive and easy to implement, MightyNetworks has been a great service. Many of our graduates use it for their own coaching business because it is so user-friendly."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ryan Bush",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-18T21:58:09.000Z",
+          "Titre": "Fantastic platform to host on",
+          "Contenu": "Fantastic platform to host on - truly better than anything I could have hoped for. My members love the platform, and it enables me to host courses, communities, and events, with quite a bit of design flexibility."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Hallam Carter",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-19T03:04:26.000Z",
+          "Titre": "Mighty Networks was Instrumental in Upleveling Our Game!",
+          "Contenu": "Mighty Networks was instrumental in upleveling our game! We established our community, offered courses, and have an active community of practice all within our network."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Elizabeth Cronin",
+          "Nb_Reviews": 6,
+          "Date": "2023-12-18T22:54:54.000Z",
+          "Titre": "The company is well organized and\u2026",
+          "Contenu": "The company is well organized and provides lots of support to those that use their platform."
+        },
+        {
+          "Note": 5,
+          "Lieu": "SE",
+          "Pseudo": "Theo",
+          "Nb_Reviews": 3,
+          "Date": "2023-12-20T22:09:19.000Z",
+          "Titre": "I have followed Mighty Networks since 2019",
+          "Contenu": "I have followed Mighty Networks since 2019 - the possibilities are limited only by your imagination. The flexibilities of this community/course platform are endless."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "John Lawyer",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-21T00:11:48.000Z",
+          "Titre": "Best community platform out there",
+          "Contenu": "Best community platform out there. Great!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "kim taylor",
+          "Nb_Reviews": 15,
+          "Date": "2023-12-21T12:16:49.000Z",
+          "Titre": "easy to use",
+          "Contenu": "easy to use, navigate."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jason Young",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-18T22:23:40.000Z",
+          "Titre": "As a course creator it is the best I\u2026",
+          "Contenu": "As a course creator it is the best I have used."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Manami Masters",
+          "Nb_Reviews": 3,
+          "Date": "2023-03-08T20:25:11.000Z",
+          "Titre": "Mighty Pro is the way to go!",
+          "Contenu": "Mighty Networks was instrumental in taking our business to the next level. With the team's assistance, we successfully transitioned our community of 7K members off of Facebook, and because of all of Mighty's available features (like Spaces & Courses), we were able to deliver our 10-month wellness program exclusively through their platform. As a Pro Host, we've always felt supported and heard. Our questions and concerns were dealt with in a timely matter. Even our ideas were documented and sometimes rolled out in new updates! They also have a wealth of knowledge that they generously share. Highly recommend."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Laura Day",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-06T21:47:01.000Z",
+          "Titre": "Loving the updates on Mighty",
+          "Contenu": "Loving the new spaces update on Mighty. It really opens up the possibilities to serve your community in different ways. What I really love about mighty is how the team constantly ships out updates and listens to their hosts for suggestions. I feel that it's one of the fastest improving platforms I've ever used and it will continue to get better and better."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Lenzy",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-08T16:38:26.000Z",
+          "Titre": "Makes it easy to run my WFH business",
+          "Contenu": "I've been using Mighty Networks for years and find it to be an even better product after the Spaces update. It's just a lot easier to customize my community to work well for me and my community members.And they have the most comprehensive training program to help you be successful with the product that I've ever experienced, along with a very active online support community. They really do want to help you build a profitable business.Anyone looking to build a paid online community should definitely take a look at Mighty Networks."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kristin",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-30T17:25:07.000Z",
+          "Titre": "The education platform I've been waiting for.",
+          "Contenu": "I've been wanting to start an educational platform almost 15 years now, but I hesitated because the technology wasn't where I wanted it to be. Now, I'm all in on Mighty Networks. Members come for the content and stay for the community.The platform lets you lead workshops on the fly, curate resource libraries, and even host small conferences. Your members connect throughout it all so it gives more meaning to what they are learning. I also love that MN is continuously evolving and member focused. Great support and service."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Amy Johnson",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-07T03:40:47.000Z",
+          "Titre": "Great Community Experience",
+          "Contenu": "I've been a host on Mighty Networks since 2021, and I've experienced it to be one of the best community platforms out there. Their latest update with Spaces and multiple people Live Streaming has really added to the experience of my community members. And they keep the updates coming! One of my favorite things about Mighty is how helpful and accessible the MN Team is. They answer questions, offer workshopping sessions, and are committed to supporting hosts (and members) to have a great experience. They are also transparent about how they do their pricing and build out their offers. It's so refreshing to be a part of a platform that does it differently."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Knitting Goss",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-04T19:52:30.000Z",
+          "Titre": "Spaces is Intuitive, the Knitters are loving it",
+          "Contenu": "My community of gen z knitters finds their new update to spaces super intuitive and easy to navigate.  I did not need to even communicate much about the transition to spaces because of the great UX. And when I do have a question the host help button is easy for me to find.  I wish it were easier to have the app be more white label and I need to work on my own upselling strategy, but thats my only complaint.  Otherwise, love it!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jeff Bajorek",
+          "Nb_Reviews": 2,
+          "Date": "2023-01-26T19:05:15.000Z",
+          "Titre": "This is a premium service offering",
+          "Contenu": "I've been on the platform since late 2019. As my business has continued to evolve, I noticed that Mighty has become the backbone of it. The functionality of the platform, as well as it being a mobile-first design, gives me a ton of flexibility to serve my clients in the way they best need to access me.As I look at the roadmap for the future, they're clearly focusing on the right things and even giving me a look around the corner at where I will need to shift my attention.I highly recommend this platform, the people behind it, and the resources they provide their users."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Chris",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-04T02:28:12.000Z",
+          "Titre": "3 Years And Counting!",
+          "Contenu": "I've been using Mighty Networks for 3 years now and have loved the journey. The ability to customize my community for my particular needs makes this such a great tool to have.  It's just a lot easier to customize my community to work well for me and my community members.I love the ability to not only build out my community but to add course content in the same place. This keeps my members from having to have multiple platforms to work with.Anyone looking to build a paid online community. I highly recommend Mighty Networks."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Courtney Horvath",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-08T21:58:00.000Z",
+          "Titre": "Total white-glove experience.",
+          "Contenu": "Mighty Pro delivers a top quality custom branded app and the software is intuitive and so easy to use. But the real value for our team was in the partnership and support that comes with Mighty Pro. The team of strategists and Mighty Pro community were paramount to the success of our brand and our members. Total white-glove experience."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Kassandra",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-12T15:23:55.000Z",
+          "Titre": "Game changer technology",
+          "Contenu": "Game changer technology! By far the easiest to use, cleanest design and it's actually fun to work on. All the other platforms I tried challenged my patience and sanity, often. Mighty Network is a breath of fresh air and they are always expanding into the next best version of themselves...for US. Highly recommend."
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Deanna",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-10T00:12:03.000Z",
+          "Titre": "Open, transparent and Integral \u2764\ufe0f",
+          "Contenu": "The people who run and develop Mighty Networks are accessible - this is important. There is open communication, transparency and integrity. Mighty Networks listen to their community and that is why it works. It\u2019s like we are on an adventure together. Of course, people need to be paid and profits need to be achieved - but as this happens, members reap the benefits. Which is vastly different from the current state of play for the big social media platforms. Mighty Networks is actively building skills and opportunity for people to create online communities that are safe, healthy, creative, educational and expansive. It\u2019s the way of the future and it\u2019s exciting to be part of the Mighty Networks dream \u2764\ufe0f"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Alison",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-09T21:03:22.000Z",
+          "Titre": "Pleasantly Surprised to Find the Perfect Social Platform for My Pet's Apothecary",
+          "Contenu": "It's been just a little over a year since I was directed to Mighty Networks as a possible platform for my business needs & while it has taken some time to get my community to where I want it to be I couldn't imagine building what I've been able to do anywhere else. The freedom to set up the page in the format that best works with what we are teaching is worth the yearly fee for the Community Plan. Plus the fact that MN is constantly introducing new features has made this the permanent home for the My Pet's Apothecary Teaching Site."
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "Jane Strauss",
+          "Nb_Reviews": 1,
+          "Date": "2022-12-22T15:36:40.000Z",
+          "Titre": "Love this update!",
+          "Contenu": "They just overhauled their user experience and while it was a big change I have to say my members are loving the new navigation. I was super nervous but was able to spend time in their customer community leading up to the switch so had a lot of support from them in navigating it. I like the ability to have my courses and my community in one place and I can link out to my website easily."
+        },
+        {
+          "Note": 5,
+          "Lieu": "NL",
+          "Pseudo": "Saskia",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-13T09:45:20.000Z",
+          "Titre": "Mighty Networks has transformed the way\u2026",
+          "Contenu": "Mighty Networks has transformed the way I do business. From a yarnshop in the city to a desk at home offering community and services to needle crafters that want a better world, it provides the tools I need to spread my message in more ways than I thought was possible."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Michael A",
+          "Nb_Reviews": 3,
+          "Date": "2023-03-08T12:10:17.000Z",
+          "Titre": "The new Mighty Networks design (Spaces)\u2026",
+          "Contenu": "The new Mighty Networks design (Spaces) is truly excellent. It gives me so many options for how I structure sub communities around courses. which are my focus right now. Gone are the complaints of \"oh it's so confusing\" - I'm very happy to have moved over from Circle."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Coach Maddox",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-11T18:02:37.000Z",
+          "Titre": "Mighty Networks came through in the end",
+          "Contenu": "I was not sure if they were going to work with me, concerning my issue. But, with some negotiation, they took great care of me! We were able to work out what I needed. Their decision to do that makes it easier for me to be a continuing loyal customer."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Shawna Pelton | QuantumSHIFT.u",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-29T15:55:39.000Z",
+          "Titre": "What's not to love about the Mighty\u2026",
+          "Contenu": "What's not to love about the Mighty Network! I can build and engage my community away from the drama of traditional social media sites and appreciate the support I receive as a customer. The master class I took at the beginning of building my own QuantumSHIFT commUNITY was a game changer!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jake Miller",
+          "Nb_Reviews": 3,
+          "Date": "2023-03-13T21:27:32.000Z",
+          "Titre": "MN will come through for you. Note below:",
+          "Contenu": "My time over the last few months with Mighty Networks has taught me a lot. Building a community and developing your own design can be tricky, but if you are patient you can learn so much and have something to be proud of. Their team and customer support will help you when you need it. It's great to get involved with their team and network with questions. They have done it already and have the scoop on how to be successful. Fadi was really helpful getting me through some of the start up phases. It's nice to feel like a part of a growing team."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Baily Hancock",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-08T21:09:12.000Z",
+          "Titre": "Twice over happy Host",
+          "Contenu": "I've created two communities on Mighty Networks and the set up and moderation process couldn't be easier. However, anytime I came across a technical issue, the Mighty Networks customer support team was super helpful and fast in getting me the answers I needed. I did a ton of research on other platforms, and Mighty was far and away the best option (and continues to be.)"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "The Firelight Group",
+          "Nb_Reviews": 2,
+          "Date": "2021-07-16T20:35:09.000Z",
+          "Titre": "Excellent, but missing a few things",
+          "Contenu": "Mighty Networks has really helped us grow our community. We were able to leverage the platform to create amazing engagement and outreach, deliver events, and host our growing webinar series. There are a few things that I would love to see as the platform expands.1. Virtual Event Platform: While there is an event feature, it is extremely basic. Essentially, you post a Zoom link, banner, and RSVP button. But we really need more in Events to support multi-day event that have concurrent sessions. Right now, there is no way to add a complex event schedule without adding about 80 individual events, which doesn't make sense. Currently, we've cobbled the Course feature as an Event Schedule for the entire 5 day event. I would rather not use another virtual event platforms in tangent with Mighty Networks.2. More Course Functions: While it is great that we can offer courses, the Course feature does not compare to your standard LMS. It would be great if there were options to integrate a LMS into Mighty Networks.3. Better Data Analytics: The platform needs more efficient and streamlined analytics on users."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Shay",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-08T20:42:50.000Z",
+          "Titre": "Trusted community platform partner!",
+          "Contenu": "I have been hosting an online community with Mighty Networks since 2017, and continue to be delighted with their approach to updating and evolving the platform and member experience. We have grown together, and the Mighty Networks team and product have been responsive and supportive all along the way. As the business and community has grown and shifted through the years, so has the platform - and with the latest updates rolled out at the end of 2022, I  see that the possibilities are endless for serving our members in new ways."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Karryn",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-22T20:02:33.000Z",
+          "Titre": "I'm a Mighty Networks early adopter who\u2026",
+          "Contenu": "I'm a Mighty Networks early adopter who turned \"lifer\". This was (FINALLY) the perfect platform to provide my community a place--away from the distractions and problematic biz model of FB--where they can connect authentically, and spend lots of time knowing they always leave enriched. Now I have my paid courses and groups in my MN, too, so the whole ecosystem really adds value for my clients. What has moved me from early adopter to lifer are these factors: 1. New evolutions of MN keep making the platform more awesome for my clients and for me 2. The Mighty Hosts network covers all one needs to learn and grow a network--whether you are a beginner or been around a long time like me. 3. The customer service: responses to my request for \"host help\" are fast, efficient, and thoughtful. I'm not some user hunting forever for info in some cloud of other users (I HATE that!), I get real support from MN experts.  When this platform is the right fit for my clients to build their communities/courses/etc, I readily recommend it to them, too!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Sarah",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-12T07:58:35.000Z",
+          "Titre": "Excellent community platform",
+          "Contenu": "I use this platform to host replay videos for my memberships, have conversations and schedule posts. It\u2019s been great and the help team is excellent!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Bob Wern",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-11T14:31:11.000Z",
+          "Titre": "Engaging and well laid out platform...",
+          "Contenu": "Engaging and well laid out platform...  Helps my followers find what they want quickly and easily..."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Matt F.",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-11T00:56:59.000Z",
+          "Titre": "The ease and flow of how easy it is to\u2026",
+          "Contenu": "The ease and flow of how easy it is to use the platform is top notch. The training videos are spot on and the community as a whole seems really cool and organic."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Niki",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-18T14:35:30.000Z",
+          "Titre": "A great way to build a community!",
+          "Contenu": "Mighty Networks is helping me build a community! We can stay connected no matter what state we live in. It\u2019s been a blessing!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "Blue Es",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-11T08:18:33.000Z",
+          "Titre": "The support is great",
+          "Contenu": "The platform is quite versatile and the support provided by MN team is awesome."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Matteo",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-30T08:59:50.000Z",
+          "Titre": "Deciding for MightyNetworks",
+          "Contenu": "The decision to use MightyNetworks as the technology to support our community was based on our hope to be able to focus on our members and their needs and not on the design, development, and administration of a technology platform.  MightyNetworks delivers in every way possible to include outstanding guidance as to how to create a community-focused organization, regular improvements based on a deep understanding of how to align technology with community needs, excellent support, and an absolute cost value compared to the cost of custom development.  We trust MightyNetworks and are pleased to be part of their community."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "George",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-29T16:26:54.000Z",
+          "Titre": "Love the platform",
+          "Contenu": "Love the platform, easy to use and intuitive!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Dr Margaret",
+          "Nb_Reviews": 3,
+          "Date": "2021-07-30T15:06:14.000Z",
+          "Titre": "Highly recommended fo running online\u2026",
+          "Contenu": "Highly recommended fo running online courses, teaching and learning!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Tracy MPWR",
+          "Nb_Reviews": 1,
+          "Date": "2021-07-22T15:55:13.000Z",
+          "Titre": "Mighty Network Customer Service ...",
+          "Contenu": ".....IS ALWAYS 5***** ! Cant fault it :0)"
+        }
+      ]
+    }
+  ]
+}

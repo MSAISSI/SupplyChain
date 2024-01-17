@@ -1,0 +1,393 @@
+{
+  "Cat\u00e9gorie": "electronics_technology",
+  "Entreprise": [
+    {
+      "Entreprise": "billigerhost.com",
+      "Review": [
+        {
+          "Note": 1,
+          "Lieu": "US",
+          "Pseudo": "John",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-29T21:33:57.000Z",
+          "Titre": "Horrible hosting. Do not use.",
+          "Contenu": "The service overall was mediocre, a joke. I know I will get a response with excuses and what not but ignore it, everything I say here is the utmost truth about this hosting service. In my case I had the web-hosting plan and I had to spend HOURS working on my website just to get it up and running. Their instructions on adding domains was not clear at all and I had to ask their support for the DNS settings. When the site was up and running, it was VERY VERY slow. Loading the page would take ages even when you had previously loaded into it. At some point my website just crashed and when I went to their support I was blamed for my code. My website used HTML, CSS, JS, and NodeJS. I consulted with multiple NodeJS developers and they all said the exact same thing. \"You aren't doing anything wrong, the hosting is bad.\"  I would attempt to fix the issue but the NodeJS part of their panel would just not work no matter what and they would tell me to restart my NodeJS stuff and I literally couldn't as it said my website wasn't there and wouldn't load. They \"fixed\" the issue for maybe around 10 minutes and all the sites crashed again.They don't even own the servers, they are buying some servers that they resell and called the business' BilligerHost. From what it looked like, it's a bunch of teenagers trying to make a quick buck off this hosting company. Anytime I would have an issue they would have to as their hosting provider because they were pretty much always dumbfounded. Sometimes I would just get a straight \"no clue.\" Also, I was randomly messaged by one of their Support Managers on their Discord server. They kept insisting I got this AI Support for $15 USD a month. I made it very clear I didn't want to buy it multiple times and the Support Manager kept going on and on trying to persuade me to buy it. I was on the brink of blocking them.Sometimes I would try to log onto the dashboard or their website and it would straight up have crashed. I would contact their support and I got \"sorry!! our website crashed!!!!\" In the online File Manager for my site sometimes thing would just not work. Files wouldn't move, couldn't download files from it and it would lag the hole page in an attempt to do so, and a ton of errors.As someone who has used a lot of hosting providers, there is better hosting options out there for your website, game servers, etc. They may be cheap, but you get what you pay for. A slow website/game server in the end. This is just mediocre cashgrab."
+        },
+        {
+          "Note": 1,
+          "Lieu": "GB",
+          "Pseudo": "brad",
+          "Nb_Reviews": 2,
+          "Date": "2022-03-10T15:45:17.000Z",
+          "Titre": "Did not receive PAID product",
+          "Contenu": "I purchased a VPS 3 weeks ago now. I am still waiting for a working product to be delivered to me. Reviewing the legal documents there are spelling mistakes and empty spaces where registered company details should be. E.g. company number. Don't waste your time and money with this group."
+        },
+        {
+          "Note": 1,
+          "Lieu": "SA",
+          "Pseudo": "Mansour AL Ghamdi",
+          "Nb_Reviews": 2,
+          "Date": "2023-03-23T07:55:47.000Z",
+          "Titre": "Because they do not provide the\u2026",
+          "Contenu": "Because they do not provide the services shown on the home page, and after compensating me, the same problem still exists, so I left it and I do not want to use it"
+        },
+        {
+          "Note": 4,
+          "Lieu": "SG",
+          "Pseudo": "Cayden",
+          "Nb_Reviews": 1,
+          "Date": "2023-12-04T17:14:14.000Z",
+          "Titre": "Support was great",
+          "Contenu": "Support was great. Severs ran relatively well. Slight lag in South East Asia region."
+        },
+        {
+          "Note": 4,
+          "Lieu": "US",
+          "Pseudo": "Keith Alberry",
+          "Nb_Reviews": 1,
+          "Date": "2022-04-14T00:44:41.000Z",
+          "Titre": "If you need a cheap server Billigerhost\u2026",
+          "Contenu": "If you need a cheap server Billigerhost has you covered.  They provided me with a remote desktop as well as a main server for 3 months.  I received everything I was promised.  I had to release back to his pool only because I was not able to drum up enough USA location business :("
+        },
+        {
+          "Note": 4,
+          "Lieu": "NL",
+          "Pseudo": "Smoker Green",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-10T13:56:44.000Z",
+          "Titre": "I don't have any problems with it\u2026",
+          "Contenu": "I don't have any problems with it servers work great, i organize events on the servers with no problems ( except the problems i make haha) and if there is something you can just dm them and the fix it"
+        },
+        {
+          "Note": 4,
+          "Lieu": "NG",
+          "Pseudo": "Real Kubbi",
+          "Nb_Reviews": 2,
+          "Date": "2023-05-08T06:09:00.000Z",
+          "Titre": "Nice services"
+        },
+        {
+          "Note": 4,
+          "Lieu": "AT",
+          "Pseudo": "mango rango banango",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-12T14:54:03.000Z",
+          "Titre": "Billiger Host",
+          "Contenu": "Kind suport and fast service"
+        },
+        {
+          "Note": 4,
+          "Lieu": "SA",
+          "Pseudo": "Tlexr",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-10T19:23:42.000Z",
+          "Titre": "Low price and high quality"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Brad Shenberger",
+          "Nb_Reviews": 3,
+          "Date": "2023-12-05T22:41:28.000Z",
+          "Titre": "Great Service and Customer Support",
+          "Contenu": "The setup process was very smooth and the end product is reliable and much more cost effective than other hosting companies out there. Any questions I had were answered promptly and I feel very confident that I will continue to get fast support for anything I need."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Justin",
+          "Nb_Reviews": 2,
+          "Date": "2023-11-08T21:20:42.000Z",
+          "Titre": "Excellent!",
+          "Contenu": "I've got to say, having had services from these guys for quite a while now, customer service has been nothing but exceptional. They have always provided assistance and swiftly resolved any issues I have had!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Jmichaels",
+          "Nb_Reviews": 3,
+          "Date": "2022-12-29T05:44:09.000Z",
+          "Titre": "5/5 Service!",
+          "Contenu": "Have had a Minecraft server with them for over a year now and never once had ANY issues. The uptime is nearly 100%, little-to-no downtime, fast, and most importantly affordable options. Not to mention, their (almost around them clock) support team is nothing short of amazing. They are quick to respond and quick to solve issues at hand. If you\u2019re looking for a server to rent be it Minecraft, Ark, Valhalla, Rust, Discord bots etc, something cheap, fast, reliable, BilligerHosting is for you."
+        },
+        {
+          "Note": 5,
+          "Lieu": "SK",
+          "Pseudo": "Tobo",
+          "Nb_Reviews": 2,
+          "Date": "2022-10-02T00:42:45.000Z",
+          "Titre": "Billigerhost: Definitely worth it.",
+          "Contenu": "Billigerhost:Cons: 1. Maybe some problems while receiving verification email or vps details email, happened to only few people.\u013e. Slight configuration issues while changing hostname on ubuntu 20.04.Pros:1. Fast CPU. (4 Cores; 3.8GHz for cheapest plan)2. Network Speed. Download/Upload Speed: 110MB~/s.3. Working web VNC.4. Nice control panel.5. SSD have good speed. (150MB/s while copying file on machine so around 300MB/s Write and Read.)6. Nice project owner.7. Free trial.8. Ports are opened, no need to mess with firewall.Overall: The cons aren't that bad so definitely worth the money."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Eben",
+          "Nb_Reviews": 5,
+          "Date": "2022-11-12T15:50:47.000Z",
+          "Titre": "Superb hosting!",
+          "Contenu": "Superb hosting!I have never had any issues using Billigerhost! I have tried out many hosting websites before but by far Billigerhost has the best supportive staff and their servers are perfect for what I use them for!I have now been using these guys for 2 years, never had a single issue with them!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "TukanDev",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-25T15:04:46.000Z",
+          "Titre": "I can say with confidence that\u2026",
+          "Contenu": "I can say with confidence that BilligerHost's services are reliable, fast, and good, I Got a USA location server to test it out and I can say I was amazed at the quality, servers are fast even if you are from another side of the world, haha. The staff is friendly and quick to respond and open to hearing you about your needs and proposals for your needs.11/10 would recommend."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Milk",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-13T03:03:41.000Z",
+          "Titre": "VPS Review",
+          "Contenu": "Using for a VPS. The host is affordable, and the performance is amazing. They helped me a lot, and I look forward to continuing to work with them. Will update this review if anything changes, but so far, so good. Support is great and went as far as setting up the server for me as I was having an issue."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Atlas",
+          "Nb_Reviews": 1,
+          "Date": "2022-11-23T23:29:11.000Z",
+          "Titre": "Amazing Hosting!",
+          "Contenu": "Amazing Hosting! I Have a 2GB Server Atm And I've Got a 1:1000 scale of earth map and Dynmap with over 40 plugins and it still performs really well until i upgrade, The Staff Are Also Very Helpful!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ty Wilson",
+          "Nb_Reviews": 4,
+          "Date": "2023-09-20T03:09:00.000Z",
+          "Titre": "Great customer service",
+          "Contenu": "Great customer service, better hosting. Pleasure to work with. They ironed out hiccups nicely."
+        },
+        {
+          "Note": 5,
+          "Lieu": "MY",
+          "Pseudo": "LeftCross",
+          "Nb_Reviews": 2,
+          "Date": "2023-04-10T07:57:42.000Z",
+          "Titre": "Good customer service",
+          "Contenu": "The customer service is really good. I had an issue with bungeecord connectivity, and they tried their best to get the issue solved. In my opinion, their fast support is top tier."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ty Wilson",
+          "Nb_Reviews": 4,
+          "Date": "2022-12-29T05:25:16.000Z",
+          "Titre": "Great service!",
+          "Contenu": "A little bit of hiccups, but the customer service was some of the best I've ever seen. Immediately switched all my services to this. Thank you BilligerHost!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "AU",
+          "Pseudo": "Nate",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-27T15:25:02.000Z",
+          "Titre": "The VPS is really fast",
+          "Contenu": "The VPS is really fast. During my trial I enjoyed blazing fast network speeds and great performance from the CPU. 100% would recommend."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Moss",
+          "Nb_Reviews": 1,
+          "Date": "2021-12-29T06:02:49.000Z",
+          "Titre": "It\u2019s a very small business but...",
+          "Contenu": "It\u2019s a very small business but all the owners are extremely nice and will help you out for anything. Extremely cheap prices highly recommend"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Aest Does",
+          "Nb_Reviews": 1,
+          "Date": "2023-05-14T17:43:31.000Z",
+          "Titre": "They provide AMAZING customer service",
+          "Contenu": "They provide AMAZING customer service. They provided me with lots of templates and help to start my own website! Much love <3 - Aest"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Sampreeth Hegde",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-08T15:12:30.000Z",
+          "Titre": "Perfect host! 5-stars",
+          "Contenu": "Perfect host! Great support and immediate action taken.. The staff are great and very friendly in helping me out"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "BlakeTM",
+          "Nb_Reviews": 3,
+          "Date": "2023-03-10T04:49:56.000Z",
+          "Titre": "Awesome company",
+          "Contenu": "Awesome company, cheap premium VPSs, kind support and quick! Nice theming of all the panels"
+        },
+        {
+          "Note": 5,
+          "Lieu": "PL",
+          "Pseudo": "Jester Dumper",
+          "Nb_Reviews": 3,
+          "Date": "2023-04-17T17:41:33.000Z",
+          "Titre": "My experience with Billigerhost is\u2026",
+          "Contenu": "My experience with Billigerhost is great.Their customer support is pretty fast. Just add more europe locations."
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Crimson Rose Studios",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-16T17:39:19.000Z",
+          "Titre": "Great For Beginners",
+          "Contenu": "Easy to use and navigate, could yse a few extra features, but overall is amazing"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "Isaac",
+          "Nb_Reviews": 1,
+          "Date": "2023-03-13T16:57:22.000Z",
+          "Titre": "great hosting",
+          "Contenu": "great hosting, reliable, cheap, and very helpful and quick to support. 10/10 would recommend :D"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IT",
+          "Pseudo": "Testolinobot Updates",
+          "Nb_Reviews": 4,
+          "Date": "2022-12-29T05:25:26.000Z",
+          "Titre": "Really helpful and fast support",
+          "Contenu": "Really helpful and fast support. Good webhost panel. Got an overall good experience"
+        },
+        {
+          "Note": 5,
+          "Lieu": "IN",
+          "Pseudo": "Luffy Mous",
+          "Nb_Reviews": 1,
+          "Date": "2022-09-26T13:06:59.000Z",
+          "Titre": "Legitmate!",
+          "Contenu": "Great! Vps are super fast. Didnt expected it to be that fast!really love it and best part is that the network speed is 1gbps"
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "andrewb",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-07T23:04:11.000Z",
+          "Titre": "Amazing host for the price",
+          "Contenu": "I was sceptical at first because of the insanely cheap prices but I have purchased a total of 3 servers now and even the slightest of issues get dealt with straight away i even dmed the ceo himself to ask him if it was possible to do something and he did it straight away hats of to him for making time for customers unlike some over hosts out there"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Dhanmondi",
+          "Nb_Reviews": 2,
+          "Date": "2022-01-22T14:25:46.000Z",
+          "Titre": "Nice and affordable hosting",
+          "Contenu": "Nice and affordable hosting, no issues till now thanks team"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Conner Adams",
+          "Nb_Reviews": 4,
+          "Date": "2022-12-03T00:27:42.000Z",
+          "Titre": "100% coming back",
+          "Contenu": "Fast network, enterprise CPUs, DDR4. This host is a dream come true!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Benjamin Parizo",
+          "Nb_Reviews": 1,
+          "Date": "2023-08-02T21:07:17.000Z",
+          "Titre": "Amazing support",
+          "Contenu": "Amazing support with very nice and friendly staff"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "patches",
+          "Nb_Reviews": 2,
+          "Date": "2023-01-02T22:03:52.000Z",
+          "Titre": "Works great and has good technical\u2026",
+          "Contenu": "Works great and has good technical support."
+        },
+        {
+          "Note": 5,
+          "Lieu": "GB",
+          "Pseudo": "obliviator",
+          "Nb_Reviews": 4,
+          "Date": "2022-12-30T18:41:34.000Z",
+          "Titre": "Purchased a terraria server",
+          "Contenu": "Purchased a terraria server. Very flexible with upgrading/downgrading very nice support team."
+        },
+        {
+          "Note": 5,
+          "Lieu": "SI",
+          "Pseudo": "Stwix",
+          "Nb_Reviews": 2,
+          "Date": "2023-07-04T11:35:12.000Z",
+          "Titre": "10/10",
+          "Contenu": "10/10-Support-Good and Fast vps, game etc. Servers.,..."
+        },
+        {
+          "Note": 5,
+          "Lieu": "KR",
+          "Pseudo": "peng uin X",
+          "Nb_Reviews": 1,
+          "Date": "2023-09-14T02:02:29.000Z",
+          "Titre": "Good service"
+        },
+        {
+          "Note": 5,
+          "Lieu": "ID",
+          "Pseudo": "Patrick Technology",
+          "Nb_Reviews": 6,
+          "Date": "2022-02-25T00:51:52.000Z",
+          "Titre": "Pretty nice!",
+          "Contenu": "Pretty nice!Their rdp are cheap and cust service are top"
+        },
+        {
+          "Note": 5,
+          "Lieu": "CA",
+          "Pseudo": "zynis",
+          "Nb_Reviews": 2,
+          "Date": "2023-01-27T06:33:39.000Z",
+          "Titre": "its a great hosting service (:",
+          "Contenu": "its a good hosting site for the price and the"
+        },
+        {
+          "Note": 5,
+          "Lieu": "US",
+          "Pseudo": "Ur mom",
+          "Nb_Reviews": 1,
+          "Date": "2023-04-11T00:27:59.000Z",
+          "Titre": "SO GOOD and the owner is a FOIN man."
+        },
+        {
+          "Note": 5,
+          "Lieu": "ES",
+          "Pseudo": "Mxn",
+          "Nb_Reviews": 1,
+          "Date": "2022-02-25T18:50:04.000Z",
+          "Titre": "Fast And Good support",
+          "Contenu": "It was fast, simple and with good support!"
+        },
+        {
+          "Note": 5,
+          "Lieu": "SE",
+          "Pseudo": "amongis",
+          "Nb_Reviews": 1,
+          "Date": "2023-02-06T22:08:37.000Z",
+          "Titre": "amongus",
+          "Contenu": "realy epik adn col lol"
+        }
+      ]
+    }
+  ]
+}
